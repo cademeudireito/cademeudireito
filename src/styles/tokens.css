@@ -1,0 +1,36 @@
+:root {
+  --color-bg: #f8f7f2;
+  --color-surface: #ffffff;
+  --color-text: #243747;
+  --color-muted: #566876;
+  --color-primary: #187c72;
+  --color-primary-dark: #11635a;
+  --color-primary-soft: #e4f2ed;
+  --color-accent-warm: #f4c66a;
+  --color-accent-coral: #e88c72;
+  --color-accent-blue: #eaf0f5;
+  --color-border: #dfe3e1;
+  --color-focus: #1b4fd1;
+  --color-warning-bg: #fff6e0;
+  --color-warning-border: #e6b84d;
+
+  --font-sans: "Nunito Sans", "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", Roboto, Arial, Helvetica, sans-serif;
+
+  --fs-body: 1.0625rem;
+  --fs-small: 0.9375rem;
+  --fs-hero: clamp(2.125rem, 5vw, 3.125rem);
+  --fs-h1: clamp(2rem, 4vw, 2.5rem);
+  --fs-h2: clamp(1.5rem, 3vw, 1.75rem);
+  --fs-card: 1.1875rem;
+
+  --radius-card: 16px;
+  --radius-btn: 12px;
+  --radius-hero: 22px;
+  --shadow-soft: 0 1px 2px rgba(36, 55, 71, 0.06);
+  --shadow-hover: 0 6px 18px rgba(36, 55, 71, 0.1);
+
+  --container: 1160px;
+  --reading: 760px;
+  --gutter: 20px;
+  --space-section: clamp(40px, 6vw, 72px);
+}

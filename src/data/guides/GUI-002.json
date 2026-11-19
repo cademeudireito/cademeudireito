@@ -1,0 +1,79 @@
+{
+  "id": "GUI-002",
+  "slug": "produto-com-defeito",
+  "title": "Meu produto apresentou defeito",
+  "description": "Responda algumas perguntas para entender por onde começar quando um produto tem defeito.",
+  "status": "draft",
+  "startQuestion": "q1",
+  "questions": {
+    "q1": { "id": "q1", "text": "O defeito pode colocar sua segurança em risco?", "helpText": "Por exemplo: superaquecimento, faíscas, cheiro de queimado ou peças soltas.",
+      "options": [
+        { "label": "Sim, pode ser perigoso", "next": "r_seguranca" },
+        { "label": "Não", "next": "q2" },
+        { "label": "Não sei", "next": "r_seguranca" }
+      ] },
+    "q2": { "id": "q2", "text": "O problema é com um produto ou com um serviço?",
+      "options": [
+        { "label": "Um produto", "next": "q3" },
+        { "label": "Um serviço", "next": "r_servico" }
+      ] },
+    "q3": { "id": "q3", "text": "O produto costuma durar bastante?", "helpText": "Exemplos de duráveis: celular, geladeira, móveis. Não duráveis: alimentos, cosméticos, produtos de limpeza.",
+      "options": [
+        { "label": "Sim, é durável", "next": "q4d" },
+        { "label": "Não, é consumido com o uso", "next": "q4n" },
+        { "label": "Não sei", "next": "q4d" }
+      ] },
+    "q4d": { "id": "q4d", "text": "Você já avisou o fornecedor sobre o defeito?",
+      "options": [
+        { "label": "Sim, e tenho protocolo", "next": "r_dur_com" },
+        { "label": "Ainda não", "next": "r_dur_sem" }
+      ] },
+    "q4n": { "id": "q4n", "text": "Você já avisou o fornecedor sobre o defeito?",
+      "options": [
+        { "label": "Sim, e tenho protocolo", "next": "r_nd_com" },
+        { "label": "Ainda não", "next": "r_nd_sem" }
+      ] }
+  },
+  "results": {
+    "r_seguranca": { "id": "r_seguranca", "title": "Pare de usar e procure o canal competente",
+      "indicates": "Suas respostas indicam que pode haver risco. Antes de qualquer discussão sobre direitos, a prioridade é a sua segurança.",
+      "rule": "O Código de Defesa do Consumidor trata de produtos que oferecem risco. Os detalhes precisam ser conferidos.",
+      "steps": ["Interrompa o uso do produto.", "Registre o problema com fotos ou vídeos.", "Comunique o fornecedor e procure o canal competente indicado no conteúdo."],
+      "documents": ["Nota fiscal", "Fotos e vídeos", "Protocolos"],
+      "articleId": "CON-002", "relatedArticleIds": ["CON-012"],
+      "caution": "Em caso de emergência, procure atendimento imediato." },
+    "r_servico": { "id": "r_servico", "title": "Problema em serviço: veja como reclamar",
+      "indicates": "Suas respostas indicam que o caso envolve serviço. As regras podem ser parecidas, mas há detalhes próprios.",
+      "rule": "O Código de Defesa do Consumidor também trata de vícios de serviço. Confira os artigos indicados.",
+      "steps": ["Descreva o problema por escrito.", "Peça a solução desejada à empresa.", "Guarde protocolo e comprovantes."],
+      "documents": ["Contrato ou orçamento", "Comprovante de pagamento", "Protocolos e fotos"],
+      "articleId": "CON-012", "relatedArticleIds": ["CON-002"] },
+    "r_dur_com": { "id": "r_dur_com", "title": "Produto durável, fornecedor já avisado",
+      "indicates": "Suas respostas indicam que pode valer a pena verificar as regras de vício de produto durável e acompanhar a resposta da empresa.",
+      "rule": "Prazos e alternativas dependem do tipo de defeito e de quando foi percebido. Confira no conteúdo indicado.",
+      "steps": ["Anote o protocolo e as datas.", "Acompanhe a resposta da empresa.", "Se necessário, registre reclamação em canal oficial."],
+      "documents": ["Nota fiscal", "Protocolo", "Fotos do defeito"],
+      "articleId": "CON-002", "relatedArticleIds": ["CON-004", "CON-012"] },
+    "r_dur_sem": { "id": "r_dur_sem", "title": "Produto durável: comunique o defeito",
+      "indicates": "Suas respostas indicam que o próximo passo geral pode ser registrar o defeito e comunicar o fornecedor por escrito.",
+      "rule": "As alternativas e os prazos dependem de detalhes a conferir, como o momento em que o defeito foi percebido.",
+      "steps": ["Registre o defeito com fotos ou vídeo.", "Comunique o fornecedor por escrito.", "Guarde nota e termo de garantia."],
+      "documents": ["Nota fiscal", "Termo de garantia", "Fotos"],
+      "articleId": "CON-002", "relatedArticleIds": ["CON-004", "CON-012"] },
+    "r_nd_com": { "id": "r_nd_com", "title": "Produto não durável, fornecedor já avisado",
+      "indicates": "Suas respostas indicam que pode valer a pena verificar as regras para produtos não duráveis e acompanhar a resposta.",
+      "rule": "As regras de prazo e alternativas variam conforme o tipo de produto. Confira no conteúdo.",
+      "steps": ["Guarde a embalagem e o lote, se possível.", "Acompanhe a resposta pelo protocolo.", "Se necessário, registre reclamação em canal oficial."],
+      "documents": ["Comprovante de compra", "Embalagem e lote", "Protocolo"],
+      "articleId": "CON-002", "relatedArticleIds": ["CON-012"] },
+    "r_nd_sem": { "id": "r_nd_sem", "title": "Produto não durável: registre e comunique",
+      "indicates": "Suas respostas indicam que o próximo passo geral pode ser registrar o problema e comunicar o fornecedor.",
+      "rule": "Prazos e alternativas dependem de detalhes que precisam ser conferidos.",
+      "steps": ["Fotografe o produto, a embalagem e o lote.", "Comunique o fornecedor por escrito.", "Guarde comprovante de compra."],
+      "documents": ["Comprovante de compra", "Embalagem e lote", "Fotos"],
+      "articleId": "CON-002", "relatedArticleIds": ["CON-012"] }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review"
+}
