@@ -1,0 +1,90 @@
+{
+  "id": "DIG-002",
+  "slug": "conta-invadida",
+  "title": "Minha conta foi invadida",
+  "category": "direitos-digitais",
+  "summary": "Primeiros passos gerais quando uma conta online é acessada por outra pessoa.",
+  "keywords": [
+    "conta invadida",
+    "hacker",
+    "senha",
+    "perfil clonado",
+    "acesso indevido"
+  ],
+  "synonyms": [
+    "roubaram minha conta",
+    "conta hackeada",
+    "WhatsApp clonado",
+    "perfil invadido"
+  ],
+  "quickAnswer": "Use os canais de recuperação da plataforma e proteja suas outras contas. Dependendo do caso, também podem ser relevantes o Marco Civil, a LGPD e a legislação penal. Não é possível prometer recuperação da conta.",
+  "sections": {
+    "explanation": "Quanto antes você agir, melhor. Registre evidências antes de qualquer mudança.",
+    "whenApplies": [
+      "Você perdeu o acesso a uma conta ou notou atividade que não fez."
+    ],
+    "exceptions": [
+      "Cada plataforma tem regras próprias de recuperação.",
+      "Se houver indício de crime, pode ser indicado registrar ocorrência."
+    ],
+    "steps": [
+      "Tente recuperar a conta pelos canais oficiais da plataforma.",
+      "Troque senhas de outras contas e ative verificação em duas etapas.",
+      "Guarde prints e avise contatos sobre possível golpe."
+    ],
+    "documentsToKeep": [
+      "Prints de telas, mensagens e e-mails",
+      "Comprovantes de pagamentos e transferências",
+      "Endereços de sites, perfis ou contas envolvidos (links)",
+      "Protocolos das plataformas e instituições"
+    ],
+    "ifDenied": [
+      "Para questões de proteção de dados, verifique os canais da ANPD (confira o canal atual).",
+      "Em caso de indício de crime, verifique como registrar ocorrência na polícia do seu estado.",
+      "Se houver prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 12.965/2014 — Marco Civil da Internet",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 13.709/2018 — Lei Geral de Proteção de Dados (LGPD)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir quando houver indício de crime"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "DIG-003",
+    "DIG-001"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

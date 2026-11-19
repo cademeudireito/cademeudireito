@@ -1,0 +1,89 @@
+{
+  "id": "TRA-001",
+  "slug": "salario-atrasado",
+  "title": "Meu salário está atrasado",
+  "category": "trabalho",
+  "summary": "Entenda o básico sobre atraso de salário e o que reunir antes de buscar ajuda.",
+  "keywords": [
+    "salário atrasado",
+    "pagamento",
+    "atraso",
+    "empregador"
+  ],
+  "synonyms": [
+    "não recebi salário",
+    "patrão não paga",
+    "salário não caiu"
+  ],
+  "quickAnswer": "A Constituição e a CLT tratam do pagamento de salário, e o que cabe fazer depende do seu tipo de vínculo, das datas e de normas coletivas. Reúna comprovantes e procure os canais oficiais; não é possível prometer resultado.",
+  "sections": {
+    "explanation": "Para entender o atraso, é importante saber a data combinada de pagamento, o tipo de contrato e se há norma coletiva da categoria. A regra geral precisa ser conferida na lei vigente.",
+    "whenApplies": [
+      "Você trabalha com vínculo de emprego e o salário não foi pago na data devida."
+    ],
+    "exceptions": [
+      "Não presuma que toda prestação de serviço é emprego com carteira assinada; isso depende dos fatos.",
+      "Regras podem variar para domésticos, temporários, aprendizes, servidores e autônomos."
+    ],
+    "steps": [
+      "Confira o contrato e as datas de pagamento.",
+      "Reúna contracheques, extratos e mensagens sobre o atraso.",
+      "Procure o sindicato ou os canais oficiais para orientação."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa",
+      "Convenção ou acordo coletivo da categoria, se conhecer"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "regras de pagamento — a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Instrumentos coletivos (acordo/convenção) da categoria — conferir o seu",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "TRA-004",
+    "TRA-005"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

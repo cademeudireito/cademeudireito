@@ -1,0 +1,77 @@
+{
+  "id": "MOR-002",
+  "slug": "reparos-no-imovel-alugado",
+  "title": "Quem deve pagar um reparo no imóvel alugado?",
+  "category": "moradia",
+  "summary": "Como pensar sobre responsabilidade por reparos entre locador e locatário.",
+  "keywords": [
+    "reparo",
+    "conserto",
+    "manutenção",
+    "locador",
+    "locatário"
+  ],
+  "synonyms": [
+    "vazamento",
+    "infiltração",
+    "quem paga conserto",
+    "imóvel alugado com defeito"
+  ],
+  "quickAnswer": "A lei de locação e o contrato dividem responsabilidades entre locador e locatário. Quem arca com o reparo depende da natureza do problema e do que foi combinado.",
+  "sections": {
+    "explanation": "Fotos, laudos e a vistoria de entrada ajudam a demonstrar a situação do imóvel.",
+    "whenApplies": [
+      "O imóvel alugado precisa de conserto e há dúvida sobre quem paga."
+    ],
+    "exceptions": [
+      "Cláusulas do contrato e a causa do problema são decisivas."
+    ],
+    "steps": [
+      "Compare o estado atual com a vistoria de entrada.",
+      "Comunique o proprietário ou a imobiliária por escrito, com fotos.",
+      "Peça orçamento antes de gastar e guarde comprovantes."
+    ],
+    "documentsToKeep": [
+      "Contrato de locação e aditivos",
+      "Comprovantes de pagamento de aluguel e encargos",
+      "Vistoria de entrada, fotos e orçamentos",
+      "Notificações, mensagens e e-mails trocados"
+    ],
+    "ifDenied": [
+      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
+      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir deveres de locador e locatário"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 10.406/2002 — Código Civil",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "MOR-001",
+    "MOR-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

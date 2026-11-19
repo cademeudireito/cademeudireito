@@ -1,0 +1,27 @@
+{
+  "slug": "fontes-e-metodologia",
+  "title": "Como usamos as leis: fontes e metodologia",
+  "description": "Como os assuntos são escolhidos, como as normas são conferidas e como o conteúdo é revisado.",
+  "intro": "Cada conteúdo do site deve poder ser conferido. Esta página explica como pretendemos fazer isso.",
+  "blocks": [
+    { "type": "h2", "text": "Como escolhemos os assuntos" },
+    { "type": "p", "text": "Priorizamos situações frequentes na vida cotidiana, com impacto prático relevante, com fonte oficial localizável e que possam ser explicadas sem analisar documentos pessoais. Existir uma lei com nome parecido não basta para um tema entrar no site." },
+    { "type": "h2", "text": "Como conferimos as normas" },
+    { "type": "ul", "items": [
+      "Identificamos a norma e o dispositivo (artigo, parágrafo, inciso) a que o texto se refere.",
+      "Abrimos a fonte oficial primária: Planalto, Diário Oficial, Câmara, Senado, órgãos reguladores ou tribunais.",
+      "Conferimos alterações, revogações, regulamentação e vigência na data da revisão.",
+      "Verificamos se a regra é federal, estadual, distrital ou municipal.",
+      "Só depois de uma validação humana documentada o conteúdo passa a ser público."
+    ] },
+    { "type": "h2", "text": "Acervos auxiliares" },
+    { "type": "p", "text": "Podemos usar acervos de pesquisa, como repositórios de legislação em Markdown, apenas para localizar normas. Esses acervos podem conter conversões automáticas e erros de reconhecimento de texto, e não substituem a publicação oficial. Nada é publicado a partir deles sem conferência na fonte oficial." },
+    { "type": "h2", "text": "Situação editorial" },
+    { "type": "p", "text": "Todo conteúdo tem uma data de última revisão e uma situação (por exemplo, publicado ou desatualizado). Conteúdos ainda não validados não aparecem na versão pública do site." },
+    { "type": "h2", "text": "Atualização e correções" },
+    { "type": "p", "text": "A revisão é feita por pessoas, de forma periódica e quando uma mudança normativa é conhecida. Não há monitoramento automático de mudanças na lei." },
+    { "type": "p", "text": "Um canal para relatar erros será divulgado aqui quando existir um endereço de contato real e uma política de tratamento de dados correspondente." },
+    { "type": "h2", "text": "Prazos" },
+    { "type": "p", "text": "Só apresentamos um prazo quando conseguimos indicar a norma, o evento que inicia a contagem e as exceções relevantes. Na dúvida, não mostramos o número." }
+  ]
+}

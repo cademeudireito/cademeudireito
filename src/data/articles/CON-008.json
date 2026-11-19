@@ -1,0 +1,80 @@
+{
+  "id": "CON-008",
+  "slug": "cancelar-servico-ou-assinatura",
+  "title": "Quero cancelar um serviço ou assinatura",
+  "category": "consumidor",
+  "summary": "Como pedir o cancelamento e o que verificar em contratos, assinaturas e serviços regulados.",
+  "keywords": [
+    "cancelar",
+    "assinatura",
+    "cancelamento",
+    "contrato",
+    "multa"
+  ],
+  "synonyms": [
+    "cancelar plano",
+    "cancelar internet",
+    "cancelar academia",
+    "fidelidade"
+  ],
+  "quickAnswer": "Cancelamentos dependem do contrato, do tipo de serviço e, em alguns setores, de normas específicas (telecomunicações, bancos, saúde etc.). Peça o cancelamento por escrito, anote o protocolo e verifique cláusulas como fidelidade e multa.",
+  "sections": {
+    "explanation": "Mesmo quando você quer sair, é importante entender o que o contrato prevê. Algumas cláusulas podem ser questionadas, e alguns setores têm regras próprias.",
+    "whenApplies": [
+      "Você contratou serviço contínuo ou assinatura e quer encerrar.",
+      "A empresa dificulta o cancelamento ou cobra após o pedido."
+    ],
+    "exceptions": [
+      "Setores regulados podem ter regras próprias, a conferir.",
+      "Cláusulas de fidelidade e multas precisam ser lidas no contrato."
+    ],
+    "steps": [
+      "Releia o contrato e anote prazos e condições de cancelamento.",
+      "Peça o cancelamento por canal que gere protocolo.",
+      "Acompanhe se as cobranças cessam e guarde os comprovantes."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Identificar cláusulas abusivas e informação adequada."
+    },
+    {
+      "name": "Norma do regulador do setor (telecom, banco, saúde etc.) — conferir o aplicável",
+      "sphere": "federal",
+      "provisions": [
+        "a identificar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Depende do setor do serviço."
+    }
+  ],
+  "relatedArticles": [
+    "CON-005",
+    "CON-012"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

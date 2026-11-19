@@ -1,0 +1,82 @@
+{
+  "id": "CON-001",
+  "slug": "desistir-compra-internet",
+  "title": "Comprei pela internet e quero desistir da compra",
+  "category": "consumidor",
+  "summary": "Entenda quando pode existir direito de arrependimento em compras feitas fora da loja e como comunicar a decisão.",
+  "keywords": [
+    "compra online",
+    "cancelar compra",
+    "arrependimento",
+    "devolução",
+    "desistir"
+  ],
+  "synonyms": [
+    "devolver compra",
+    "quero meu dinheiro de volta",
+    "compra pelo celular",
+    "compra por telefone"
+  ],
+  "quickAnswer": "Em certas contratações feitas fora do estabelecimento comercial (como internet ou telefone), o Código de Defesa do Consumidor prevê direito de arrependimento. Se ele se aplica ao seu caso depende do enquadramento e das circunstâncias, e o prazo e a forma de contagem precisam ser conferidos na fonte oficial.",
+  "sections": {
+    "explanation": "O direito de arrependimento permite desistir de certas compras feitas à distância. Não é uma regra para toda e qualquer compra: é preciso verificar o tipo de contratação, quando ela aconteceu e as exceções previstas.",
+    "whenApplies": [
+      "A compra ou a contratação foi feita fora da loja (internet, telefone, catálogo, em casa).",
+      "Você ainda não sabe com certeza a data da contratação e do recebimento, e precisa conferi-las."
+    ],
+    "exceptions": [
+      "Compra feita presencialmente em loja não segue automaticamente a mesma regra (veja “A loja não quer trocar o produto”).",
+      "Existem hipóteses e exceções que precisam ser conferidas na lei e na regulamentação.",
+      "O início da contagem do prazo depende da situação; não presuma o número de dias."
+    ],
+    "steps": [
+      "Localize o pedido e confira as datas da contratação e do recebimento.",
+      "Comunique a desistência à empresa por um canal que permita guardar comprovante.",
+      "Guarde o protocolo e peça por escrito as instruções de devolução."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 49"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir redação vigente, hipótese de incidência, marco de contagem e exceções."
+    },
+    {
+      "name": "Decreto nº 7.962/2013 (comércio eletrônico)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 5º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente e aplicação ao caso."
+    }
+  ],
+  "relatedArticles": [
+    "CON-003",
+    "CON-006",
+    "CON-012"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

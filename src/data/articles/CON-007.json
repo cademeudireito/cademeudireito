@@ -1,0 +1,70 @@
+{
+  "id": "CON-007",
+  "slug": "empresa-nao-cumpriu-oferta",
+  "title": "A empresa não cumpriu a oferta",
+  "category": "consumidor",
+  "summary": "O que pode acontecer quando o preço, a condição ou a promessa anunciados não são respeitados.",
+  "keywords": [
+    "oferta",
+    "propaganda",
+    "publicidade",
+    "preço anunciado",
+    "promoção"
+  ],
+  "synonyms": [
+    "promoção não valeu",
+    "anúncio enganoso",
+    "preço diferente do anunciado"
+  ],
+  "quickAnswer": "O Código de Defesa do Consumidor trata da oferta e da publicidade. Em geral, o que foi anunciado de forma suficientemente precisa pode vincular o fornecedor, mas isso depende do caso, da precisão do anúncio e de eventuais exceções.",
+  "sections": {
+    "explanation": "Guardar o anúncio é essencial. Prints, folhetos e mensagens ajudam a mostrar o que foi prometido.",
+    "whenApplies": [
+      "A empresa anunciou um preço, brinde ou condição e depois não honrou.",
+      "A propaganda diz uma coisa e o contrato outra."
+    ],
+    "exceptions": [
+      "Erros evidentes ou anúncios genéricos podem exigir análise específica.",
+      "Se houver dúvida sobre o enquadramento, procure orientação individual."
+    ],
+    "steps": [
+      "Salve prints ou fotos do anúncio, com data.",
+      "Peça à empresa, por escrito, o cumprimento do que foi anunciado.",
+      "Guarde protocolos e respostas."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 30",
+        "art. 35"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir redação vigente e opções do consumidor."
+    }
+  ],
+  "relatedArticles": [
+    "CON-003",
+    "CON-006",
+    "CON-012"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

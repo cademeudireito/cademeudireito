@@ -1,0 +1,76 @@
+{
+  "id": "TRA-006",
+  "slug": "decimo-terceiro-nao-recebi",
+  "title": "Não recebi meu 13º salário",
+  "category": "trabalho",
+  "summary": "O básico sobre 13º salário e o que conferir quando ele não foi pago.",
+  "keywords": [
+    "13º salário",
+    "décimo terceiro",
+    "gratificação natalina"
+  ],
+  "synonyms": [
+    "13 salário",
+    "décimo terceiro atrasado",
+    "não pagaram o 13"
+  ],
+  "quickAnswer": "O 13º salário é previsto em lei específica e em sua regulamentação. Regras de cálculo e de pagamento precisam ser conferidas na norma vigente; o seu caso pode depender do tempo de serviço e do tipo de contrato.",
+  "sections": {
+    "explanation": "Conferir seus contracheques do ano ajuda a ver o que foi pago e quando.",
+    "whenApplies": [
+      "Você tem contrato de trabalho e o 13º não foi pago ou foi pago de forma incompleta."
+    ],
+    "exceptions": [
+      "Regras de proporcionalidade e categorias específicas precisam de conferência."
+    ],
+    "steps": [
+      "Reúna contracheques do ano.",
+      "Anote datas de admissão e eventuais afastamentos.",
+      "Procure o sindicato ou canais oficiais para orientação."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa",
+      "Convenção ou acordo coletivo da categoria, se conhecer"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 4.090/1962 (13º salário)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 4.749/1965 (13º salário — pagamento)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "TRA-001",
+    "TRA-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

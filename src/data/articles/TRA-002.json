@@ -1,0 +1,78 @@
+{
+  "id": "TRA-002",
+  "slug": "ferias-e-adicional",
+  "title": "Não recebi minhas férias ou o adicional correspondente",
+  "category": "trabalho",
+  "summary": "O que verificar sobre férias e o adicional previsto na Constituição e na CLT.",
+  "keywords": [
+    "férias",
+    "adicional de férias",
+    "um terço",
+    "descanso"
+  ],
+  "synonyms": [
+    "férias não pagas",
+    "férias vencidas",
+    "não tirei férias"
+  ],
+  "quickAnswer": "A Constituição prevê férias com um adicional, e a CLT detalha regras (período, concessão, pagamento). Os detalhes — como prazos, fracionamento e exceções — precisam ser conferidos na norma vigente e no seu caso.",
+  "sections": {
+    "explanation": "Para entender se algo está errado, anote o início do contrato, os períodos já tirados e o que foi pago a cada férias.",
+    "whenApplies": [
+      "Você trabalha com carteira assinada e tem dúvidas sobre férias não concedidas ou pagas."
+    ],
+    "exceptions": [
+      "Regras podem variar por tipo de contrato e categoria.",
+      "Não use prazos de memória: confira a regra vigente."
+    ],
+    "steps": [
+      "Liste períodos de trabalho e férias já gozadas.",
+      "Guarde recibos de férias e contracheques.",
+      "Procure orientação do sindicato ou dos canais oficiais."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa",
+      "Convenção ou acordo coletivo da categoria, se conhecer"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XVII"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "capítulo de férias — a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "TRA-001",
+    "TRA-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

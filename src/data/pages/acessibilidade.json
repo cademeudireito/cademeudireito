@@ -1,0 +1,23 @@
+{
+  "slug": "acessibilidade",
+  "title": "Acessibilidade",
+  "description": "Compromisso e recursos de acessibilidade do Cadê Meu Direito?",
+  "intro": "Queremos que o site seja fácil de usar por qualquer pessoa, em qualquer dispositivo.",
+  "blocks": [
+    { "type": "h2", "text": "Nosso compromisso" },
+    { "type": "p", "text": "Usamos as Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2, nível AA, como referência de projeto. Isso é uma meta de trabalho: ainda não houve auditoria formal e não declaramos conformidade completa." },
+    { "type": "h2", "text": "Recursos previstos no site" },
+    { "type": "ul", "items": [
+      "Estrutura em HTML semântico e títulos em ordem lógica.",
+      "Navegação completa pelo teclado, com foco visível e link para pular ao conteúdo principal.",
+      "Botões e áreas de toque grandes.",
+      "Texto com bom contraste e tamanho confortável; o layout se adapta ao zoom e a telas estreitas.",
+      "Animações discretas, desativadas quando o sistema pede redução de movimento.",
+      "Informações nunca transmitidas apenas por cor."
+    ] },
+    { "type": "h2", "text": "Limitações conhecidas" },
+    { "type": "p", "text": "A fonte usada é a padrão do seu dispositivo. Testes com leitores de tela e com pessoas reais ainda precisam ser feitos e registrados." },
+    { "type": "h2", "text": "Contato" },
+    { "type": "p", "text": "Um canal de contato para relatar barreiras de acessibilidade será informado aqui quando houver um endereço real configurado." }
+  ]
+}

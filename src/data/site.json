@@ -1,0 +1,19 @@
+{
+  "name": "Cadê Meu Direito?",
+  "slogan": "Seus direitos, sem juridiquês.",
+  "promise": "Você tem direitos. A gente te ajuda a entender.",
+  "siteUrl": null,
+  "githubUrl": null,
+  "contactEmail": null,
+  "defaultNotice": "Este conteúdo tem finalidade educativa e apresenta informações gerais. A aplicação das regras pode depender dos detalhes do caso, do contrato e da legislação vigente. O material não substitui orientação jurídica individual. Se houver risco de perda de prazo, prejuízo relevante ou necessidade de medida urgente, procure a Defensoria Pública, um advogado ou o órgão competente.",
+  "footerNotice": "Conteúdo informativo. Não substitui orientação jurídica individual.",
+  "officialChannels": [
+    { "name": "Consumidor.gov.br", "url": "https://www.consumidor.gov.br/", "about": "Plataforma pública para conversar com empresas participantes. Não é tribunal e não garante acordo." },
+    { "name": "Defensoria Pública da União", "url": "https://www.dpu.def.br/", "about": "Verifique a competência e os critérios de atendimento; em muitos casos, a Defensoria do seu estado é a indicada." },
+    { "name": "Agência Nacional de Saúde Suplementar (ANS)", "url": "https://www.gov.br/ans/", "about": "Órgão regulador dos planos de saúde." },
+    { "name": "Autoridade Nacional de Proteção de Dados (ANPD)", "url": "https://www.gov.br/anpd/", "about": "Órgão responsável pela proteção de dados pessoais." },
+    { "name": "Banco Central do Brasil", "url": "https://www.bcb.gov.br/", "about": "Regulador de instituições financeiras e pagamentos." },
+    { "name": "Portal da Legislação (Planalto)", "url": "https://www.planalto.gov.br/", "about": "Texto oficial de leis e decretos federais." }
+  ],
+  "fallbackLegalUrl": "https://www.planalto.gov.br/"
+}

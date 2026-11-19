@@ -1,0 +1,80 @@
+{
+  "id": "CON-010",
+  "slug": "contestar-cobranca-indevida",
+  "title": "Como contestar uma cobrança indevida",
+  "category": "consumidor",
+  "summary": "Passo a passo geral para contestar uma cobrança e entender a devolução de valores pagos.",
+  "keywords": [
+    "cobrança indevida",
+    "contestar cobrança",
+    "devolução em dobro",
+    "repetição do indébito",
+    "estorno"
+  ],
+  "synonyms": [
+    "pagamento indevido",
+    "cobrança duplicada",
+    "estorno de cobrança"
+  ],
+  "quickAnswer": "É possível contestar cobranças que você considera indevidas, guardando provas e protocolos. A devolução de valores pagos (inclusive a chamada “devolução em dobro”) tem requisitos e interpretação jurídica própria; não é automática.",
+  "sections": {
+    "explanation": "Contestar por escrito ajuda a registrar o caso. Se você já pagou o que considera indevido, a possibilidade de recuperar o valor depende de requisitos legais e do entendimento dos tribunais.",
+    "whenApplies": [
+      "Você foi cobrado duas vezes ou por valor diferente do combinado.",
+      "Você pagou algo que considera indevido."
+    ],
+    "exceptions": [
+      "A devolução em dobro depende de requisitos legais e da jurisprudência, a conferir.",
+      "Cada caso pode exigir análise individual."
+    ],
+    "steps": [
+      "Separe a fatura ou o comprovante e marque o que considera indevido.",
+      "Envie a contestação por escrito e guarde o protocolo.",
+      "Acompanhe a resposta e registre prazos informados."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 42, parágrafo único"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir requisitos da repetição do indébito."
+    },
+    {
+      "name": "Jurisprudência relevante (STJ/tribunais) — a pesquisar",
+      "sphere": "federal",
+      "provisions": [
+        "a pesquisar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "STJ — interpretação aplicável."
+    }
+  ],
+  "relatedArticles": [
+    "CON-005",
+    "CON-009",
+    "CON-012"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

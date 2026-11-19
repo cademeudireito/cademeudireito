@@ -1,0 +1,78 @@
+{
+  "id": "DIG-001",
+  "slug": "dados-pessoais-sem-autorizacao",
+  "title": "Usaram meus dados pessoais sem autorização",
+  "category": "direitos-digitais",
+  "summary": "O que a LGPD diz de forma geral e por que nem todo uso sem consentimento é ilegal.",
+  "keywords": [
+    "LGPD",
+    "dados pessoais",
+    "privacidade",
+    "vazamento",
+    "consentimento"
+  ],
+  "synonyms": [
+    "usaram meu CPF",
+    "compartilharam meus dados",
+    "proteção de dados",
+    "minhas informações"
+  ],
+  "quickAnswer": "A LGPD prevê direitos do titular dos dados e várias bases legais para o tratamento. Por isso, nem todo uso sem consentimento é necessariamente ilegal. Você pode pedir informações ao responsável pelos dados e, se for o caso, buscar a ANPD.",
+  "sections": {
+    "explanation": "Comece identificando quem usou os dados e para quê. Você pode solicitar informações pelo canal de privacidade da empresa.",
+    "whenApplies": [
+      "Você recebeu contatos inesperados ou descobriu uso dos seus dados que não esperava."
+    ],
+    "exceptions": [
+      "O tratamento pode ter outras bases legais além do consentimento."
+    ],
+    "steps": [
+      "Guarde provas do uso (mensagens, e-mails, prints).",
+      "Peça informações ao responsável pelo canal de privacidade.",
+      "Se não houver solução, verifique os canais da ANPD."
+    ],
+    "documentsToKeep": [
+      "Prints de telas, mensagens e e-mails",
+      "Comprovantes de pagamentos e transferências",
+      "Endereços de sites, perfis ou contas envolvidos (links)",
+      "Protocolos das plataformas e instituições"
+    ],
+    "ifDenied": [
+      "Para questões de proteção de dados, verifique os canais da ANPD (confira o canal atual).",
+      "Em caso de indício de crime, verifique como registrar ocorrência na polícia do seu estado.",
+      "Se houver prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 13.709/2018 — Lei Geral de Proteção de Dados (LGPD)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 12.965/2014 — Marco Civil da Internet",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir conforme o caso"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "DIG-002",
+    "SAU-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

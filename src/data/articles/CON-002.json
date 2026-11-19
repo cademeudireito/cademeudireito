@@ -1,0 +1,71 @@
+{
+  "id": "CON-002",
+  "slug": "produto-com-defeito",
+  "title": "Recebi um produto com defeito",
+  "category": "consumidor",
+  "summary": "O que considerar quando um produto apresenta defeito: tipo de defeito, tempo, comunicação à empresa e provas.",
+  "keywords": [
+    "defeito",
+    "produto estragou",
+    "vício do produto",
+    "assistência técnica",
+    "conserto"
+  ],
+  "synonyms": [
+    "produto quebrou",
+    "veio com problema",
+    "não funciona",
+    "estragou"
+  ],
+  "quickAnswer": "O Código de Defesa do Consumidor trata dos vícios (defeitos) de produtos em artigos específicos. A solução possível e os prazos variam conforme o tipo de produto (durável ou não), se o defeito era aparente ou oculto e as circunstâncias. Não é correto afirmar que todo defeito dá direito imediato a dinheiro de volta.",
+  "sections": {
+    "explanation": "A lei prevê responsabilidade do fornecedor por defeitos que tornam o produto impróprio ao uso ou diminuem seu valor. As alternativas e os prazos dependem de detalhes que precisam ser conferidos nos artigos citados.",
+    "whenApplies": [
+      "O produto não funciona como deveria ou veio diferente do anunciado.",
+      "Você quer entender o que pedir à empresa e o que guardar como prova."
+    ],
+    "exceptions": [
+      "Prazos e alternativas dependem de o produto ser durável ou não, e de o defeito ser aparente ou oculto.",
+      "Mau uso pode afastar a responsabilidade do fornecedor.",
+      "Se o defeito colocar sua segurança em risco, pare de usar o produto e procure o canal competente."
+    ],
+    "steps": [
+      "Anote quando percebeu o defeito e registre com fotos ou vídeos.",
+      "Comunique o fornecedor por escrito, descrevendo o defeito e o que você pede.",
+      "Guarde nota fiscal, protocolo e todas as respostas recebidas."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 18 a 26"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir vício do produto, prazos e distinção entre durável/não durável e aparente/oculto."
+    }
+  ],
+  "relatedArticles": [
+    "CON-003",
+    "CON-004",
+    "CON-012"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

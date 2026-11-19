@@ -1,0 +1,20 @@
+{
+  "slug": "aviso-educativo",
+  "title": "Aviso educativo",
+  "description": "O conteúdo do site é informativo e não substitui orientação jurídica individual.",
+  "intro": "O que você encontra aqui é informação geral, escrita para ajudar a entender. Não é aconselhamento jurídico.",
+  "blocks": [
+    { "type": "notice", "key": "defaultNotice" },
+    { "type": "h2", "text": "Por que o resultado pode ser diferente no seu caso" },
+    { "type": "ul", "items": [
+      "A regra pode depender do contrato, das datas e dos fatos concretos.",
+      "Pode haver regras diferentes por estado ou município.",
+      "Categorias profissionais e setores regulados podem ter normas próprias.",
+      "A lei pode mudar depois da data da última revisão do conteúdo."
+    ] },
+    { "type": "h2", "text": "Onde buscar ajuda individual" },
+    { "type": "p", "text": "A Defensoria Pública, um advogado de sua confiança, o Procon da sua localidade e as ouvidorias e órgãos reguladores podem analisar o seu caso. Confira sempre o canal oficial e atual antes de entrar em contato." },
+    { "type": "h2", "text": "Orientador e respostas automáticas" },
+    { "type": "p", "text": "Os guias interativos seguem regras fixas escritas pela equipe. Eles não usam inteligência artificial, não analisam documentos e não concluem se você tem ou não direito: apontam conteúdos e caminhos gerais para você verificar." }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "EDU-001",
+  "slug": "taxa-escolar-ou-faculdade-indevida",
+  "title": "A escola ou faculdade está cobrando uma taxa que considero indevida",
+  "category": "educacao",
+  "summary": "Como analisar cobranças de escolas e faculdades: contrato, rede pública ou privada e normas aplicáveis.",
+  "keywords": [
+    "mensalidade",
+    "taxa escolar",
+    "matrícula",
+    "cobrança escola",
+    "faculdade"
+  ],
+  "synonyms": [
+    "taxa da escola",
+    "cobrança da faculdade",
+    "material escolar"
+  ],
+  "quickAnswer": "Se a instituição é privada, o contrato e normas como o Código de Defesa do Consumidor e a lei de mensalidades escolares podem ser relevantes. Na rede pública, a análise é diferente. Confira o contrato e peça explicações por escrito.",
+  "sections": {
+    "explanation": "Identifique a natureza da taxa, o que o contrato diz e o que foi informado antes da matrícula.",
+    "whenApplies": [
+      "Você foi cobrado por taxa ou valor que não entende ou que considera indevido."
+    ],
+    "exceptions": [
+      "Rede pública e privada têm regras diferentes.",
+      "Normas locais podem ser relevantes."
+    ],
+    "steps": [
+      "Peça por escrito a explicação e a base da cobrança.",
+      "Compare com o contrato e o regulamento.",
+      "Guarde boletos e comunicados."
+    ],
+    "documentsToKeep": [
+      "Contrato de prestação de serviços educacionais",
+      "Boletos e comprovantes de pagamento",
+      "Comunicados e regulamento da instituição"
+    ],
+    "ifDenied": [
+      "Verifique o Procon da sua localidade, se for instituição privada.",
+      "Para rede pública, procure a secretaria de educação ou a ouvidoria competente.",
+      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 9.870/1999 (mensalidades escolares)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 9.394/1996 — Lei de Diretrizes e Bases da Educação (LDB)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "CON-005",
+    "CON-012"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

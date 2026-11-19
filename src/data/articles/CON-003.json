@@ -1,0 +1,71 @@
+{
+  "id": "CON-003",
+  "slug": "loja-nao-quer-trocar",
+  "title": "A loja não quer trocar o produto",
+  "category": "consumidor",
+  "summary": "Quando a troca é obrigatória e quando depende de política da loja: defeito, oferta e tipo de compra.",
+  "keywords": [
+    "troca",
+    "trocar produto",
+    "devolução",
+    "política de troca",
+    "loja física"
+  ],
+  "synonyms": [
+    "loja não troca",
+    "não aceitam troca",
+    "tamanho errado",
+    "mudei de ideia"
+  ],
+  "quickAnswer": "Se a loja é obrigada a trocar depende do motivo: defeito, oferta anunciada, política divulgada pela própria loja ou compra feita fora do estabelecimento. A simples troca por gosto em loja física, em geral, depende da política do fornecedor — mas é preciso conferir o caso.",
+  "sections": {
+    "explanation": "Em compras presenciais, a troca sem defeito costuma depender do que a loja anunciou ou combinou. Se há defeito, valem as regras de vício do produto. Em compras fora da loja, pode existir direito de arrependimento.",
+    "whenApplies": [
+      "Você quer trocar um produto sem defeito comprado em loja física.",
+      "A loja prometeu troca (cartaz, nota, propaganda) e não cumpre."
+    ],
+    "exceptions": [
+      "Havendo defeito, o caminho é outro (veja “Recebi um produto com defeito”).",
+      "Compra online ou por telefone pode seguir outra regra (veja “Comprei pela internet e quero desistir”).",
+      "O contrato e a oferta da loja precisam ser conferidos."
+    ],
+    "steps": [
+      "Verifique se a nota, o cartaz ou o anúncio informa a política de troca.",
+      "Peça a troca por escrito e anote o motivo informado pela loja.",
+      "Guarde o produto na embalagem e a nota fiscal."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Identificar dispositivos aplicáveis a oferta, informação e vício."
+    }
+  ],
+  "relatedArticles": [
+    "CON-001",
+    "CON-002",
+    "CON-007"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

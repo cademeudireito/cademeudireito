@@ -1,0 +1,9 @@
+[
+  { "id": "consumidor", "slug": "consumidor", "title": "Consumidor", "description": "Compras, cancelamentos, defeitos, cobranças e golpes ao comprar produtos e contratar serviços.", "icon": "shopping-bag", "order": 1 },
+  { "id": "trabalho", "slug": "trabalho", "title": "Trabalho", "description": "Salário, férias, 13º, jornada, demissão e registro: o básico para quem trabalha.", "icon": "briefcase", "order": 2 },
+  { "id": "saude", "slug": "saude", "title": "Saúde e paciente", "description": "Planos de saúde, SUS, prontuário e informação antes de procedimentos.", "icon": "heart-pulse", "order": 3 },
+  { "id": "moradia", "slug": "moradia", "title": "Moradia e aluguel", "description": "Aluguel, reajuste, reparos no imóvel e o que entender sobre notificação de despejo.", "icon": "home", "order": 4 },
+  { "id": "direitos-digitais", "slug": "direitos-digitais", "title": "Direitos digitais", "description": "Dados pessoais, contas invadidas e golpes na internet.", "icon": "shield-phone", "order": 5 },
+  { "id": "educacao", "slug": "educacao", "title": "Educação", "description": "Mensalidades, taxas e cobranças em escolas e faculdades.", "icon": "book-open", "order": 6 },
+  { "id": "servicos-publicos", "slug": "servicos-publicos", "title": "Serviços públicos e cidadania", "description": "Atendimento, protocolos e reclamações com órgãos públicos.", "icon": "landmark", "order": 7 }
+]

@@ -1,0 +1,90 @@
+{
+  "id": "SAU-001",
+  "slug": "plano-de-saude-negou-procedimento",
+  "title": "Meu plano de saúde negou um procedimento",
+  "category": "saude",
+  "summary": "Como pensar sobre negativa de cobertura: contrato, tipo de plano, regulação vigente e urgência.",
+  "keywords": [
+    "plano de saúde",
+    "negativa de cobertura",
+    "ANS",
+    "procedimento negado",
+    "cirurgia"
+  ],
+  "synonyms": [
+    "plano negou exame",
+    "plano não cobre",
+    "negativa do convênio",
+    "rol da ANS"
+  ],
+  "quickAnswer": "A cobertura depende do tipo de contrato, da segmentação, da data, do procedimento e das normas vigentes da ANS e da lei. Peça a negativa por escrito e procure os canais da ANS. Se houver urgência, procure atendimento de saúde.",
+  "sections": {
+    "explanation": "Plano privado e SUS têm regras diferentes. Para o plano, o ponto de partida é o contrato e a regulação vigente.",
+    "whenApplies": [
+      "Um plano de saúde privado recusou exame, tratamento ou cirurgia."
+    ],
+    "exceptions": [
+      "Cada contrato e procedimento precisa ser analisado.",
+      "A regulação pode ter mudado; confirme a norma vigente."
+    ],
+    "steps": [
+      "Peça a negativa por escrito, com o motivo.",
+      "Reúna pedido médico, laudos e protocolos.",
+      "Registre reclamação nos canais da operadora e da ANS."
+    ],
+    "documentsToKeep": [
+      "Documento do plano ou cartão do SUS",
+      "Pedido médico, laudos e receitas",
+      "Protocolos e comunicados do plano ou da unidade de saúde",
+      "Datas e nomes de quem atendeu"
+    ],
+    "ifDenied": [
+      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
+      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
+      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 9.656/1998 (planos privados de assistência à saúde)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 14.454/2022",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Normas vigentes da ANS (a identificar)",
+      "sphere": "federal",
+      "provisions": [
+        "a identificar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "SAU-002",
+    "SAU-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

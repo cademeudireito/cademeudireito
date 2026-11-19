@@ -1,0 +1,88 @@
+{
+  "id": "PUB-001",
+  "slug": "sem-resposta-de-orgao-publico",
+  "title": "Não consigo atendimento ou resposta de um órgão público",
+  "category": "servicos-publicos",
+  "summary": "Como registrar solicitações e cobrar resposta de órgãos públicos de forma organizada.",
+  "keywords": [
+    "órgão público",
+    "ouvidoria",
+    "protocolo",
+    "Fala.BR",
+    "atendimento"
+  ],
+  "synonyms": [
+    "prefeitura não responde",
+    "serviço público demorado",
+    "pedido sem resposta"
+  ],
+  "quickAnswer": "Existem normas sobre os direitos de usuários de serviços públicos e sobre acesso à informação. Comece protocolando o pedido e guardando o número; se não houver resposta, procure a ouvidoria competente. Os canais variam por órgão.",
+  "sections": {
+    "explanation": "Identifique qual órgão é responsável (federal, estadual ou municipal) e use o canal oficial desse órgão.",
+    "whenApplies": [
+      "Você fez um pedido ou reclamação e não obteve resposta."
+    ],
+    "exceptions": [
+      "Competência e canais variam por esfera de governo.",
+      "Pedidos de acesso à informação seguem regras próprias."
+    ],
+    "steps": [
+      "Registre o pedido e anote o protocolo.",
+      "Acompanhe o andamento pelo canal oficial.",
+      "Se não houver resposta, procure a ouvidoria do órgão."
+    ],
+    "documentsToKeep": [
+      "Número de protocolo do pedido",
+      "Cópia de requerimentos e documentos enviados",
+      "Datas, nomes e setores consultados"
+    ],
+    "ifDenied": [
+      "Procure a ouvidoria do órgão responsável.",
+      "Se for pedido de acesso à informação, verifique o canal indicado para recurso.",
+      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 37"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 13.460/2017 (defesa dos usuários de serviços públicos)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 12.527/2011 (Lei de Acesso à Informação)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir quando acesso à informação"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "SAU-002",
+    "EDU-001"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

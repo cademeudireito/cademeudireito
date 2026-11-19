@@ -1,0 +1,89 @@
+{
+  "id": "TRA-003",
+  "slug": "horas-extras-direitos",
+  "title": "Estou fazendo horas extras: como entender meus direitos?",
+  "category": "trabalho",
+  "summary": "Como pensar sobre jornada e horas extras, e por que a resposta depende de vários fatores.",
+  "keywords": [
+    "horas extras",
+    "jornada de trabalho",
+    "banco de horas",
+    "adicional"
+  ],
+  "synonyms": [
+    "hora extra",
+    "trabalhei além do horário",
+    "passo do horário"
+  ],
+  "quickAnswer": "Jornada e horas extras dependem da jornada contratada, do regime, da categoria, de acordos ou convenções e de exceções. A Constituição e a CLT são pontos de partida; o seu caso pode exigir análise individual.",
+  "sections": {
+    "explanation": "Registre seus horários reais, o que está no contrato e como a empresa controla a jornada.",
+    "whenApplies": [
+      "Você trabalha com frequência além da jornada combinada."
+    ],
+    "exceptions": [
+      "Algumas funções e regimes têm regras específicas.",
+      "Acordo ou convenção coletiva pode alterar detalhes."
+    ],
+    "steps": [
+      "Anote horários de entrada e saída.",
+      "Guarde controle de ponto e mensagens sobre horários.",
+      "Confira a convenção ou o acordo coletivo da categoria."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa",
+      "Convenção ou acordo coletivo da categoria, se conhecer"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XIII e XVI"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 58, 59 e correlatos"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Instrumentos coletivos (acordo/convenção) da categoria — conferir o seu",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "TRA-001",
+    "TRA-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

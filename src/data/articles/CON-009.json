@@ -1,0 +1,91 @@
+{
+  "id": "CON-009",
+  "slug": "nome-negativado-divida-nao-reconheco",
+  "title": "Meu nome foi negativado por dívida que não reconheço",
+  "category": "consumidor",
+  "summary": "O que entender e o que fazer quando seu nome aparece em cadastro de inadimplentes por uma dívida desconhecida.",
+  "keywords": [
+    "negativação",
+    "nome sujo",
+    "SPC",
+    "Serasa",
+    "cadastro de inadimplentes"
+  ],
+  "synonyms": [
+    "nome negativado",
+    "inclusão indevida",
+    "dívida que não é minha"
+  ],
+  "quickAnswer": "A inclusão do nome em cadastro de inadimplentes pode ser questionada quando a dívida é desconhecida. O caminho costuma envolver contestar com o credor, guardar protocolos e, dependendo do caso, buscar os órgãos de defesa do consumidor ou orientação jurídica. Não há garantia de resultado.",
+  "sections": {
+    "explanation": "Antes de qualquer providência, vale identificar quem negativou, qual a origem da dívida e se houve comunicação prévia. As regras de cadastro de crédito e a jurisprudência precisam ser conferidas.",
+    "whenApplies": [
+      "Você descobriu uma restrição em seu nome e não reconhece a dívida.",
+      "Você acredita que já pagou ou que houve fraude."
+    ],
+    "exceptions": [
+      "Se houve fraude de identidade, pode haver outros passos, inclusive registro de ocorrência.",
+      "Os efeitos e eventuais indenizações dependem do caso concreto."
+    ],
+    "steps": [
+      "Descubra quem negativou, o valor e a origem informada.",
+      "Conteste formalmente com o credor e peça a retirada, guardando o protocolo.",
+      "Reúna comprovantes de pagamento ou provas de que não contratou."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Identificar dispositivos sobre cadastros e cobrança."
+    },
+    {
+      "name": "Lei nº 10.406/2002 — Código Civil",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Jurisprudência relevante (STJ/tribunais) — a pesquisar",
+      "sphere": "federal",
+      "provisions": [
+        "a pesquisar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Verificar entendimentos relevantes."
+    }
+  ],
+  "relatedArticles": [
+    "CON-005",
+    "CON-010",
+    "CON-012"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

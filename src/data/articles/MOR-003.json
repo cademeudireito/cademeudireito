@@ -1,0 +1,75 @@
+{
+  "id": "MOR-003",
+  "slug": "notificacao-de-despejo",
+  "title": "Recebi uma notificação de despejo: o que devo entender?",
+  "category": "moradia",
+  "summary": "Despejo não é expulsão imediata: entenda de forma geral que há requisitos e procedimento.",
+  "keywords": [
+    "despejo",
+    "notificação",
+    "ação de despejo",
+    "desocupação"
+  ],
+  "synonyms": [
+    "fui notificado",
+    "vão me tirar do imóvel",
+    "prazo para sair"
+  ],
+  "quickAnswer": "Despejo não é expulsão imediata. A lei de locação e o Código de Processo Civil preveem requisitos e procedimento. A situação depende dos fatos, do contrato e da modalidade. Se houver prazo correndo, procure rapidamente a Defensoria Pública ou um advogado.",
+  "sections": {
+    "explanation": "Uma notificação extrajudicial não é o mesmo que uma decisão ou citação judicial. Diferenciar isso é essencial e pode exigir ajuda profissional.",
+    "whenApplies": [
+      "Você recebeu comunicação de que o proprietário quer retomar o imóvel ou cobra aluguéis atrasados."
+    ],
+    "exceptions": [
+      "Prazos e consequências dependem do tipo de ação e do que está escrito no documento."
+    ],
+    "steps": [
+      "Leia todo o documento e anote datas.",
+      "Guarde comprovantes de pagamento e o contrato.",
+      "Procure a Defensoria Pública ou um advogado sem demora."
+    ],
+    "documentsToKeep": [
+      "Contrato de locação e aditivos",
+      "Comprovantes de pagamento de aluguel e encargos",
+      "Vistoria de entrada, fotos e orçamentos",
+      "Notificações, mensagens e e-mails trocados"
+    ],
+    "ifDenied": [
+      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
+      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 13.105/2015 — Código de Processo Civil",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "MOR-001",
+    "MOR-002"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

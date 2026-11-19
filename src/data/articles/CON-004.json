@@ -1,0 +1,69 @@
+{
+  "id": "CON-004",
+  "slug": "garantia-acabou-posso-reclamar",
+  "title": "A garantia acabou: ainda posso reclamar?",
+  "category": "consumidor",
+  "summary": "Diferença entre garantia legal e garantia contratual e o que pode ser possível mesmo depois do prazo da garantia do fabricante.",
+  "keywords": [
+    "garantia",
+    "garantia legal",
+    "garantia contratual",
+    "garantia estendida",
+    "prazo"
+  ],
+  "synonyms": [
+    "garantia vencida",
+    "fim da garantia",
+    "garantia do fabricante"
+  ],
+  "quickAnswer": "Existem a garantia legal (prevista em lei) e a garantia contratual (oferecida pela empresa). O fim da garantia do fabricante não significa necessariamente que não há mais nada a reclamar, mas isso depende do tipo de produto, do defeito e de quando ele foi percebido.",
+  "sections": {
+    "explanation": "A garantia legal e a garantia contratual são coisas diferentes e podem ser somadas. Prazos para reclamar dependem do tipo de produto ou serviço e do tipo de defeito, e precisam ser conferidos nos artigos indicados.",
+    "whenApplies": [
+      "O produto estragou depois do prazo de garantia informado pelo fabricante.",
+      "Você não sabe se a garantia que recebeu é legal ou contratual."
+    ],
+    "exceptions": [
+      "O prazo e o início da contagem dependem do tipo de defeito e do produto.",
+      "Termos da garantia contratual precisam ser lidos no documento fornecido."
+    ],
+    "steps": [
+      "Leia o termo de garantia e anote datas de compra, recebimento e do problema.",
+      "Registre o defeito com fotos e comunique a empresa por escrito.",
+      "Guarde nota fiscal, termo de garantia e protocolos."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 24 a 26",
+        "art. 50"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir prazos e início de contagem."
+    }
+  ],
+  "relatedArticles": [
+    "CON-002",
+    "CON-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

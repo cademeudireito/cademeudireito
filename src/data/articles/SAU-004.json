@@ -1,0 +1,87 @@
+{
+  "id": "SAU-004",
+  "slug": "informacao-antes-de-procedimento",
+  "title": "Quais informações devo receber antes de um procedimento?",
+  "category": "saude",
+  "summary": "Informação e consentimento antes de procedimentos de saúde: o que a pessoa pode perguntar e registrar.",
+  "keywords": [
+    "consentimento",
+    "informação ao paciente",
+    "termo de consentimento",
+    "riscos"
+  ],
+  "synonyms": [
+    "preciso assinar termo",
+    "explicação do médico",
+    "riscos do procedimento"
+  ],
+  "quickAnswer": "A Constituição, normas profissionais e, em alguns casos, o Código de Defesa do Consumidor tratam de informação e consentimento. O alcance depende da situação; peça explicações claras e guarde o que for entregue.",
+  "sections": {
+    "explanation": "Você pode perguntar sobre finalidade, riscos, alternativas e custos. Em situações de urgência, as condições podem ser diferentes.",
+    "whenApplies": [
+      "Um procedimento foi indicado e você quer entender o que deve ser informado antes."
+    ],
+    "exceptions": [
+      "Em emergências, regras e prazos de informação podem ser diferentes."
+    ],
+    "steps": [
+      "Faça perguntas e anote as respostas.",
+      "Leia o termo antes de assinar e peça cópia.",
+      "Em dúvida, peça segunda opinião."
+    ],
+    "documentsToKeep": [
+      "Documento do plano ou cartão do SUS",
+      "Pedido médico, laudos e receitas",
+      "Protocolos e comunicados do plano ou da unidade de saúde",
+      "Datas e nomes de quem atendeu"
+    ],
+    "ifDenied": [
+      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
+      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
+      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Normas do Conselho Federal de Medicina e Código de Ética Médica (a identificar)",
+      "sphere": "federal",
+      "provisions": [
+        "a identificar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir quando houver relação de consumo"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "SAU-001",
+    "SAU-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

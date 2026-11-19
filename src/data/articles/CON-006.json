@@ -1,0 +1,71 @@
+{
+  "id": "CON-006",
+  "slug": "paguei-e-nao-recebi",
+  "title": "Paguei e não recebi o produto ou serviço",
+  "category": "consumidor",
+  "summary": "Como agir quando o pagamento foi feito e o produto ou o serviço não chegou.",
+  "keywords": [
+    "não recebi",
+    "produto não entregue",
+    "atraso na entrega",
+    "serviço não prestado",
+    "entrega"
+  ],
+  "synonyms": [
+    "comprei e não chegou",
+    "pedido não entregue",
+    "pagamento sem entrega"
+  ],
+  "quickAnswer": "Se você pagou e não recebeu, a oferta, o prazo de entrega informado e o contrato são pontos centrais. As possibilidades variam (cumprimento, devolução ou outra solução) e dependem das circunstâncias e do que foi anunciado.",
+  "sections": {
+    "explanation": "A empresa deve cumprir o que ofereceu e informou. Cabe conferir o prazo prometido, o canal de compra e as provas do pagamento.",
+    "whenApplies": [
+      "O prazo de entrega informado passou e o produto não chegou.",
+      "O serviço pago não foi realizado."
+    ],
+    "exceptions": [
+      "Se tiver sido um golpe (site falso, vendedor que sumiu), veja o assunto sobre golpes.",
+      "O que você pode exigir depende da oferta e do contrato."
+    ],
+    "steps": [
+      "Confira o prazo prometido e o rastreamento do pedido.",
+      "Cobre a empresa por escrito indicando o que você quer (entrega ou devolução).",
+      "Guarde comprovante de pagamento, anúncio e protocolos."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 30",
+        "art. 35",
+        "arts. 14 e 20 conforme o caso"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir dispositivos aplicáveis."
+    }
+  ],
+  "relatedArticles": [
+    "CON-007",
+    "CON-011",
+    "CON-012"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

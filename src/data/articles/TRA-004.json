@@ -1,0 +1,81 @@
+{
+  "id": "TRA-004",
+  "slug": "demitido-quais-verbas",
+  "title": "Fui demitido: quais verbas podem ser devidas?",
+  "category": "trabalho",
+  "summary": "Visão geral de verbas que podem ser discutidas na saída do emprego e por que dependem do tipo de rescisão.",
+  "keywords": [
+    "demissão",
+    "rescisão",
+    "verbas rescisórias",
+    "FGTS",
+    "aviso prévio"
+  ],
+  "synonyms": [
+    "fui mandado embora",
+    "acerto",
+    "demissão sem justa causa",
+    "multa do FGTS"
+  ],
+  "quickAnswer": "Quais verbas podem ser devidas depende da modalidade de rescisão, do contrato e do tempo de serviço. A CLT e a legislação do FGTS são ponto de partida; confira os requisitos e peça orientação para o seu caso.",
+  "sections": {
+    "explanation": "Entenda como foi a saída (pedido de demissão, dispensa com ou sem justa causa, acordo, término de contrato). Cada situação tem consequências diferentes.",
+    "whenApplies": [
+      "Seu contrato de trabalho foi encerrado e você quer entender o que pode ser devido."
+    ],
+    "exceptions": [
+      "Modalidade da rescisão e tipo de contrato mudam o resultado.",
+      "Não presuma que todas as verbas valem para todos os casos."
+    ],
+    "steps": [
+      "Guarde o termo de rescisão e comprovantes de pagamento.",
+      "Confira extrato do FGTS pelos canais oficiais.",
+      "Procure orientação antes de assinar documentos que não compreenda."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa",
+      "Convenção ou acordo coletivo da categoria, se conhecer"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 8.036/1990 (FGTS)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "TRA-001",
+    "TRA-002",
+    "TRA-006"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

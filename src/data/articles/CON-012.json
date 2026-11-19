@@ -1,0 +1,80 @@
+{
+  "id": "CON-012",
+  "slug": "como-registrar-reclamacao-de-consumo",
+  "title": "Como registrar uma reclamação de consumo",
+  "category": "consumidor",
+  "summary": "Quais canais existem para reclamar de uma empresa e como organizar as informações.",
+  "keywords": [
+    "reclamar",
+    "reclamação",
+    "Procon",
+    "Consumidor.gov.br",
+    "SAC"
+  ],
+  "synonyms": [
+    "onde reclamar",
+    "como reclamar de empresa",
+    "órgão de defesa do consumidor"
+  ],
+  "quickAnswer": "Você pode começar pelo atendimento da própria empresa, usando canal que gere protocolo, e depois buscar canais como Consumidor.gov.br (se a empresa participar) e o Procon da sua localidade. Esses canais não garantem resultado.",
+  "sections": {
+    "explanation": "Reclamar com informações organizadas aumenta as chances de entendimento. Anote datas, protocolos e o que você pediu.",
+    "whenApplies": [
+      "Você tentou resolver com a empresa e não teve sucesso.",
+      "Você quer saber onde reclamar oficialmente."
+    ],
+    "exceptions": [
+      "O Procon competente depende da sua localidade.",
+      "Nem toda empresa participa do Consumidor.gov.br."
+    ],
+    "steps": [
+      "Faça um resumo curto: o que aconteceu, quando e o que você pede.",
+      "Abra a reclamação em canal que gere protocolo.",
+      "Se não resolver, registre em um canal oficial de defesa do consumidor."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Decreto nº 2.181/1997 (Sistema Nacional de Defesa do Consumidor)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir canais administrativos vigentes."
+    }
+  ],
+  "relatedArticles": [
+    "CON-005",
+    "CON-006",
+    "CON-010"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

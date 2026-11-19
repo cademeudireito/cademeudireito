@@ -1,0 +1,90 @@
+{
+  "id": "SAU-002",
+  "slug": "demora-ou-negativa-no-sus",
+  "title": "Como reclamar de demora ou negativa no SUS",
+  "category": "saude",
+  "summary": "Canais gerais para reclamar de demora, falta de atendimento ou negativa no SUS.",
+  "keywords": [
+    "SUS",
+    "demora no atendimento",
+    "fila",
+    "ouvidoria da saúde",
+    "UPA"
+  ],
+  "synonyms": [
+    "demora no posto de saúde",
+    "não consigo consulta",
+    "fila de exames",
+    "negaram remédio"
+  ],
+  "quickAnswer": "A Constituição e a legislação do SUS tratam da saúde como direito, mas os canais e as regras locais variam. Procure a ouvidoria da unidade e da secretaria de saúde da sua localidade. Em urgência, busque atendimento imediato.",
+  "sections": {
+    "explanation": "O SUS tem gestão federal, estadual e municipal. Muitas vezes o caminho começa na ouvidoria da própria unidade ou da secretaria de saúde.",
+    "whenApplies": [
+      "Você teve demora ou negativa de atendimento, exame ou medicamento no sistema público."
+    ],
+    "exceptions": [
+      "Regras e canais variam por localidade; confirme os canais oficiais da sua cidade ou estado.",
+      "Em urgência, não espere resposta de reclamação."
+    ],
+    "steps": [
+      "Anote datas, locais e nomes de quem atendeu.",
+      "Registre reclamação na ouvidoria da unidade ou secretaria.",
+      "Guarde protocolo e documentos médicos."
+    ],
+    "documentsToKeep": [
+      "Documento do plano ou cartão do SUS",
+      "Pedido médico, laudos e receitas",
+      "Protocolos e comunicados do plano ou da unidade de saúde",
+      "Datas e nomes de quem atendeu"
+    ],
+    "ifDenied": [
+      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
+      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
+      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 6º e 196 a 200"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 8.080/1990 (SUS)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 8.142/1990 (participação social no SUS)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "SAU-001",
+    "SAU-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "TRA-005",
+  "slug": "empregador-nao-registrou-contrato",
+  "title": "Meu empregador não registrou meu contrato",
+  "category": "trabalho",
+  "summary": "O que entender sobre falta de registro na carteira e por que o vínculo depende dos fatos.",
+  "keywords": [
+    "carteira assinada",
+    "registro",
+    "sem carteira",
+    "vínculo de emprego"
+  ],
+  "synonyms": [
+    "trabalho sem registro",
+    "informal",
+    "sem contrato"
+  ],
+  "quickAnswer": "A CLT trata do registro do empregado, mas a existência de vínculo de emprego depende dos fatos e dos requisitos legais. Não é possível afirmar automaticamente que há vínculo; reúna provas da relação e busque orientação.",
+  "sections": {
+    "explanation": "Documentos, mensagens, horários e pagamentos ajudam a mostrar como o trabalho era realizado.",
+    "whenApplies": [
+      "Você trabalha para alguém sem registro formal e quer entender seus direitos."
+    ],
+    "exceptions": [
+      "Prestação de serviço autônomo não é necessariamente emprego.",
+      "A caracterização depende de requisitos legais e das circunstâncias."
+    ],
+    "steps": [
+      "Guarde prova de pagamentos e mensagens de trabalho.",
+      "Anote dias, horários e tarefas.",
+      "Procure orientação do sindicato, da Defensoria ou de advogado."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa",
+      "Convenção ou acordo coletivo da categoria, se conhecer"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 2º, 3º, 9º, 29 e correlatos"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "TRA-001",
+    "TRA-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

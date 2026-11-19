@@ -1,0 +1,82 @@
+{
+  "id": "CON-005",
+  "slug": "cobranca-que-nao-contratei",
+  "title": "Estão cobrando algo que não contratei",
+  "category": "consumidor",
+  "summary": "O que fazer ao receber cobrança de serviço ou produto que você não reconhece.",
+  "keywords": [
+    "cobrança indevida",
+    "não contratei",
+    "cobrança não reconhecida",
+    "cobrança no cartão",
+    "serviço não contratado"
+  ],
+  "synonyms": [
+    "cobrança estranha",
+    "cobraram sem eu pedir",
+    "débito que não conheço"
+  ],
+  "quickAnswer": "Em relações de consumo, cobranças sem contratação regular podem ser contestadas. O caminho prático costuma ser pedir esclarecimento ao fornecedor, guardar o protocolo e, se necessário, recorrer ao canal competente. A devolução de valores tem requisitos próprios.",
+  "sections": {
+    "explanation": "Quando você não reconhece uma cobrança, é importante primeiro identificar quem cobra, o que está sendo cobrado e se houve contratação. Contestar por escrito ajuda a documentar o caso.",
+    "whenApplies": [
+      "Apareceu uma cobrança de serviço, assinatura ou produto que você não contratou.",
+      "A cobrança é de valor ou condição diferente do combinado."
+    ],
+    "exceptions": [
+      "Se a cobrança vier de banco ou instituição financeira, podem existir canais regulatórios específicos.",
+      "Se houver indício de fraude, veja também o assunto sobre golpes."
+    ],
+    "steps": [
+      "Identifique o nome de quem cobra, a data e o valor.",
+      "Peça esclarecimento e a origem da contratação por um canal que gere protocolo.",
+      "Conteste formalmente a cobrança e guarde as respostas."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º",
+        "art. 39",
+        "art. 42"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir dispositivos aplicáveis e redação vigente."
+    },
+    {
+      "name": "Normas do Banco Central sobre pagamentos e instituições financeiras (a identificar)",
+      "sphere": "federal",
+      "provisions": [
+        "a identificar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Aplicável quando envolver instituição financeira."
+    }
+  ],
+  "relatedArticles": [
+    "CON-009",
+    "CON-010",
+    "CON-011"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "privacidade",
+  "title": "Privacidade",
+  "description": "Como o site trata (e evita tratar) dados pessoais.",
+  "intro": "O site foi pensado para funcionar sem cadastro e sem pedir dados pessoais.",
+  "blocks": [
+    { "type": "h2", "text": "O que o site pede de você" },
+    { "type": "p", "text": "Nada. Não há conta, login, formulário de envio, comentários nem upload de documentos. A busca e o orientador funcionam no seu próprio navegador, com conteúdo que já está no site. Não peça nem digite CPF, endereço, dados bancários ou documentos nos campos do site." },
+    { "type": "h2", "text": "O que o site não usa" },
+    { "type": "ul", "items": [
+      "Ferramentas de análise de audiência (analytics), pixels de rastreamento ou publicidade.",
+      "Cookies não essenciais. O próprio site não grava cookies.",
+      "Serviços externos de busca, fontes ou scripts para funcionar."
+    ] },
+    { "type": "h2", "text": "Hospedagem e registros técnicos" },
+    { "type": "p", "text": "Como em qualquer site, o serviço de hospedagem pode registrar dados técnicos de acesso (por exemplo, endereço IP, data e hora, página solicitada) por motivos de segurança e funcionamento. A política desse provedor será descrita aqui quando a hospedagem definitiva for escolhida e conferida." },
+    { "type": "h2", "text": "Links externos" },
+    { "type": "p", "text": "Os links para órgãos oficiais levam a sites de terceiros, que têm suas próprias regras de privacidade. O site indica quando um link abre outra página." }
+  ]
+}

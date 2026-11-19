@@ -1,0 +1,76 @@
+{
+  "id": "MOR-001",
+  "slug": "aumento-do-aluguel",
+  "title": "O proprietário quer aumentar meu aluguel",
+  "category": "moradia",
+  "summary": "Como entender reajuste de aluguel: contrato, índice, periodicidade e limites.",
+  "keywords": [
+    "aluguel",
+    "reajuste",
+    "aumento do aluguel",
+    "índice",
+    "locação"
+  ],
+  "synonyms": [
+    "aluguel vai subir",
+    "IGP-M",
+    "renovação de contrato"
+  ],
+  "quickAnswer": "O reajuste do aluguel depende do contrato e da legislação de locação. Confira a cláusula de reajuste e a periodicidade e peça a memória de cálculo por escrito antes de concordar.",
+  "sections": {
+    "explanation": "Contratos costumam trazer índice e data de reajuste. Alterações fora do previsto precisam de acordo.",
+    "whenApplies": [
+      "Você é locatário e recebeu aviso de aumento."
+    ],
+    "exceptions": [
+      "Regras específicas podem depender do contrato e de normas aplicáveis."
+    ],
+    "steps": [
+      "Releia a cláusula de reajuste.",
+      "Peça a memória de cálculo por escrito.",
+      "Registre a resposta e as datas."
+    ],
+    "documentsToKeep": [
+      "Contrato de locação e aditivos",
+      "Comprovantes de pagamento de aluguel e encargos",
+      "Vistoria de entrada, fotos e orçamentos",
+      "Notificações, mensagens e e-mails trocados"
+    ],
+    "ifDenied": [
+      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
+      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 10.192/2001",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir quando pertinente"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "MOR-002",
+    "MOR-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "SAU-003",
+  "slug": "acesso-ao-prontuario",
+  "title": "Tenho direito de acessar meu prontuário?",
+  "category": "saude",
+  "summary": "O que saber sobre acesso às informações do seu prontuário em serviços de saúde.",
+  "keywords": [
+    "prontuário",
+    "histórico médico",
+    "cópia de exames",
+    "dados de saúde"
+  ],
+  "synonyms": [
+    "pedir meu prontuário",
+    "cópia do prontuário",
+    "acesso a laudos"
+  ],
+  "quickAnswer": "Existem normas sobre prontuário do paciente e proteção de dados. Como pedir, em que prazo e com quais limites precisa ser conferido nas normas profissionais e na legislação aplicável. Peça por escrito à unidade de saúde.",
+  "sections": {
+    "explanation": "Pedidos devem ser feitos ao serviço que guarda o prontuário. Normas profissionais e a LGPD podem ser relevantes.",
+    "whenApplies": [
+      "Você quer cópia de prontuário ou resultados de exames feitos em um serviço."
+    ],
+    "exceptions": [
+      "Regras sobre quem pode pedir e como variam; verifique."
+    ],
+    "steps": [
+      "Peça por escrito, informando seus dados e o período desejado.",
+      "Guarde protocolo do pedido.",
+      "Se houver recusa, peça justificativa por escrito."
+    ],
+    "documentsToKeep": [
+      "Documento do plano ou cartão do SUS",
+      "Pedido médico, laudos e receitas",
+      "Protocolos e comunicados do plano ou da unidade de saúde",
+      "Datas e nomes de quem atendeu"
+    ],
+    "ifDenied": [
+      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
+      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
+      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 13.787/2018 (prontuário do paciente)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Normas do Conselho Federal de Medicina e Código de Ética Médica (a identificar)",
+      "sphere": "federal",
+      "provisions": [
+        "a identificar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Lei nº 13.709/2018 — Lei Geral de Proteção de Dados (LGPD)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "SAU-004",
+    "DIG-001"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

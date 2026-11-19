@@ -1,0 +1,29 @@
+{
+  "slug": "sobre",
+  "title": "Sobre o projeto",
+  "description": "Propósito, gratuidade, independência e limites do Cadê Meu Direito?",
+  "intro": "O Cadê Meu Direito? é uma plataforma brasileira gratuita de educação em direitos. A ideia é traduzir regras e procedimentos para a linguagem do dia a dia.",
+  "blocks": [
+    { "type": "h2", "text": "O que fazemos" },
+    { "type": "p", "text": "Explicamos, em linguagem simples, situações comuns da vida cotidiana: uma compra que deu errado, um salário atrasado, um plano de saúde que negou atendimento, um aluguel que vai aumentar. Para cada situação, mostramos o que a regra geral costuma dizer, o que você pode fazer e onde conferir a norma oficial." },
+    { "type": "h2", "text": "O que não somos" },
+    { "type": "ul", "items": [
+      "Não somos escritório de advocacia nem serviço de consulta jurídica.",
+      "Não somos canal de denúncia nem órgão público.",
+      "Não analisamos casos individuais nem decidimos quem tem ou não direito a algo.",
+      "Não prometemos resultado de nenhum tipo."
+    ] },
+    { "type": "h2", "text": "Princípios" },
+    { "type": "ul", "items": [
+      "Linguagem simples, respeitosa e sem juridiquês desnecessário.",
+      "Referências rastreáveis a fontes oficiais.",
+      "Transparência sobre exceções, incertezas e limites.",
+      "Gratuidade e nenhum cadastro obrigatório.",
+      "Independência editorial e neutralidade.",
+      "Data de revisão e situação editorial em cada conteúdo."
+    ] },
+    { "type": "h2", "text": "Para quem é" },
+    { "type": "p", "text": "Para qualquer pessoa no Brasil, de qualquer idade, escolaridade ou região, inclusive quem acessa pelo celular e não conhece termos jurídicos." },
+    { "type": "notice", "text": "Se você tem um prazo correndo ou um problema urgente, não espere: procure a Defensoria Pública, um advogado ou o órgão competente." }
+  ]
+}

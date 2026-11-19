@@ -1,0 +1,89 @@
+{
+  "id": "DIG-003",
+  "slug": "golpe-pela-internet",
+  "title": "Sofri um golpe pela internet: quais providências considerar?",
+  "category": "direitos-digitais",
+  "summary": "Providências gerais após golpe online, sem culpar a vítima e sem prometer reembolso.",
+  "keywords": [
+    "golpe online",
+    "fraude digital",
+    "phishing",
+    "pix",
+    "estelionato"
+  ],
+  "synonyms": [
+    "caí num golpe",
+    "link falso",
+    "perfil falso",
+    "golpe no WhatsApp"
+  ],
+  "quickAnswer": "Quem sofre golpe não tem culpa. Reúna provas, avise sua instituição financeira, verifique como registrar ocorrência e proteja suas contas. A responsabilidade de terceiros e a recuperação de valores dependem dos fatos e não podem ser prometidas.",
+  "sections": {
+    "explanation": "Há golpes de vários tipos. Se ocorreu em compra ou pagamento, veja também o assunto de consumo.",
+    "whenApplies": [
+      "Você foi enganado por link, perfil, mensagem ou site falso."
+    ],
+    "exceptions": [
+      "Responsabilidade de empresas ou bancos depende do caso."
+    ],
+    "steps": [
+      "Guarde provas e dados de quem recebeu o dinheiro.",
+      "Avise banco ou instituição de pagamento pelos canais oficiais.",
+      "Verifique como registrar ocorrência no seu estado."
+    ],
+    "documentsToKeep": [
+      "Prints de telas, mensagens e e-mails",
+      "Comprovantes de pagamentos e transferências",
+      "Endereços de sites, perfis ou contas envolvidos (links)",
+      "Protocolos das plataformas e instituições"
+    ],
+    "ifDenied": [
+      "Para questões de proteção de dados, verifique os canais da ANPD (confira o canal atual).",
+      "Em caso de indício de crime, verifique como registrar ocorrência na polícia do seu estado.",
+      "Se houver prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir quando relação de consumo"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Normas do Banco Central sobre pagamentos e instituições financeiras (a identificar)",
+      "sphere": "federal",
+      "provisions": [
+        "a identificar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "CON-011",
+    "DIG-002"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}

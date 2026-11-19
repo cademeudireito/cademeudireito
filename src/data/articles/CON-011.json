@@ -1,0 +1,91 @@
+{
+  "id": "CON-011",
+  "slug": "golpe-em-compra-ou-pagamento",
+  "title": "Sofri um golpe em uma compra ou pagamento",
+  "category": "consumidor",
+  "summary": "Primeiros cuidados e caminhos gerais quando uma compra ou um pagamento foi fruto de golpe.",
+  "keywords": [
+    "golpe",
+    "fraude",
+    "pix",
+    "boleto falso",
+    "site falso"
+  ],
+  "synonyms": [
+    "fui enganado",
+    "caí em golpe",
+    "transferi para golpista"
+  ],
+  "quickAnswer": "Quem sofre golpe não tem culpa. Aja rápido: reúna provas, avise a instituição de pagamento e verifique como registrar ocorrência. Se algum fornecedor ou instituição terá responsabilidade, e se haverá ressarcimento, depende dos fatos e não pode ser prometido.",
+  "sections": {
+    "explanation": "Cada golpe tem características diferentes. Se houve relação de consumo, o Código de Defesa do Consumidor pode ser relevante; regras bancárias e de pagamento também podem ser. Registrar tudo logo ajuda.",
+    "whenApplies": [
+      "Você pagou por produto ou serviço inexistente ou fraudulento.",
+      "Você transferiu valores a alguém que se passou por outra pessoa ou empresa."
+    ],
+    "exceptions": [
+      "Responsabilidade de empresas e bancos depende do caso concreto.",
+      "Não há garantia de recuperação de valores."
+    ],
+    "steps": [
+      "Guarde prints, comprovantes, links e dados da conta que recebeu o valor.",
+      "Avise rapidamente seu banco ou a instituição de pagamento pelos canais oficiais.",
+      "Verifique como registrar ocorrência no seu estado."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Normas do Banco Central sobre pagamentos e instituições financeiras (a identificar)",
+      "sphere": "federal",
+      "provisions": [
+        "a identificar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    },
+    {
+      "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "DIG-003",
+    "CON-006",
+    "CON-012"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
+  "status": "draft"
+}
