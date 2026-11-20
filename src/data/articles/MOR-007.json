@@ -1,0 +1,76 @@
+{
+  "id": "MOR-007",
+  "slug": "locador-vai-vender-imovel-alugado",
+  "title": "O dono vai vender o imóvel onde moro de aluguel",
+  "category": "moradia",
+  "summary": "O direito de preferência do locatário na venda do imóvel alugado, segundo a lei de locação.",
+  "keywords": [
+    "direito de preferência",
+    "venda do imóvel",
+    "locatário",
+    "aluguel",
+    "comprar o imóvel"
+  ],
+  "synonyms": [
+    "proprietário vendeu",
+    "preferência na compra"
+  ],
+  "quickAnswer": "A lei de locação dá ao locatário preferência para adquirir o imóvel locado, em igualdade de condições com terceiros, e exige que o locador lhe dê conhecimento do negócio. Detalhes de forma, prazo e exceções precisam ser conferidos.",
+  "sections": {
+    "explanation": "A comunicação deve trazer as condições da venda. A situação do contrato (vigência e registro) pode influenciar.",
+    "whenApplies": [
+      "O locador anunciou ou comunicou a venda do imóvel que você aluga."
+    ],
+    "exceptions": [
+      "Há exceções previstas em lei."
+    ],
+    "steps": [
+      "Peça a comunicação por escrito com as condições da venda.",
+      "Guarde seu contrato e comprovantes de pagamento.",
+      "Procure orientação antes que o prazo para responder termine."
+    ],
+    "documentsToKeep": [
+      "Contrato de locação e aditivos",
+      "Comprovantes de pagamento de aluguel e encargos",
+      "Vistoria de entrada, fotos e orçamentos",
+      "Notificações, mensagens e e-mails trocados"
+    ],
+    "ifDenied": [
+      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
+      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 27"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "27"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "MOR-003",
+    "MOR-005"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

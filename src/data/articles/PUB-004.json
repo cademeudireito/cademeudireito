@@ -1,0 +1,85 @@
+{
+  "id": "PUB-004",
+  "slug": "processo-administrativo-demorado",
+  "title": "Meu processo no órgão público está demorando muito",
+  "category": "servicos-publicos",
+  "summary": "Noções sobre prazos e dever de decidir no processo administrativo federal.",
+  "keywords": [
+    "processo administrativo",
+    "demora",
+    "prazo",
+    "órgão público",
+    "requerimento"
+  ],
+  "synonyms": [
+    "processo parado",
+    "sem resposta do órgão"
+  ],
+  "quickAnswer": "A Lei 9.784/1999 regula o processo administrativo na administração pública federal, e leis estaduais e municipais podem ter regras próprias. Prazos e consequências variam por órgão e por tipo de pedido; peça informações e registre reclamação.",
+  "sections": {
+    "explanation": "Guarde o número do processo e as datas de movimentação. Procure a ouvidoria do órgão.",
+    "whenApplies": [
+      "Você aguarda decisão de um órgão público há muito tempo."
+    ],
+    "exceptions": [
+      "Regras de órgãos estaduais e municipais podem diferir."
+    ],
+    "steps": [
+      "Consulte o andamento pelo canal oficial.",
+      "Peça uma resposta por escrito sobre o prazo.",
+      "Registre reclamação na ouvidoria e procure a Defensoria Pública, se necessário."
+    ],
+    "documentsToKeep": [
+      "Número de protocolo do pedido",
+      "Cópia de requerimentos e documentos enviados",
+      "Datas, nomes e setores consultados"
+    ],
+    "ifDenied": [
+      "Procure a ouvidoria do órgão responsável.",
+      "Se for pedido de acesso à informação, verifique o canal indicado para recurso.",
+      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 9.784/1999 (processo administrativo federal)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-01-29;9784",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1999/lei-9784-1999-01-29.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-01-29;9784",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Normas estaduais ou municipais aplicáveis à sua localidade (a identificar)",
+      "sphere": "municipal",
+      "provisions": [
+        "a identificar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
+    }
+  ],
+  "relatedArticles": [
+    "PUB-001",
+    "PUB-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

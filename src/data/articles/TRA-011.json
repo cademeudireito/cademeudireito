@@ -1,0 +1,102 @@
+{
+  "id": "TRA-011",
+  "slug": "assedio-moral-no-trabalho",
+  "title": "Sofro humilhações no trabalho: é assédio moral?",
+  "category": "trabalho",
+  "summary": "Panorama sobre assédio moral no trabalho e como registrar, sem classificar o seu caso.",
+  "keywords": [
+    "assédio moral",
+    "humilhação",
+    "abuso do chefe",
+    "ambiente de trabalho",
+    "dignidade"
+  ],
+  "synonyms": [
+    "chefe me humilha",
+    "perseguição no trabalho",
+    "rescisão indireta"
+  ],
+  "quickAnswer": "A dignidade da pessoa humana é fundamento da Constituição, e a CLT prevê hipóteses em que o empregado pode considerar rescindido o contrato por falta grave do empregador. Se o seu caso é assédio moral depende de fatos, repetição e provas.",
+  "sections": {
+    "explanation": "Registrar datas, falas e testemunhas é essencial. O caminho pode envolver canais internos, sindicato e Justiça do Trabalho.",
+    "whenApplies": [
+      "Você sofre humilhações, cobranças abusivas ou isolamento repetidos no trabalho."
+    ],
+    "exceptions": [
+      "Cobrança profissional comum não é, por si só, assédio.",
+      "A análise é individual."
+    ],
+    "steps": [
+      "Anote datas, locais e o que foi dito, e guarde mensagens.",
+      "Verifique se há canal interno de denúncia.",
+      "Procure o sindicato, a Defensoria Pública ou advogado."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º, III"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "1"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 483"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "483"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "MUL-003",
+    "TRA-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

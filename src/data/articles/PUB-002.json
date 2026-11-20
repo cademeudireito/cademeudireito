@@ -1,0 +1,78 @@
+{
+  "id": "PUB-002",
+  "slug": "pedido-de-acesso-a-informacao",
+  "title": "Como pedir uma informação pública?",
+  "category": "servicos-publicos",
+  "summary": "Como fazer um pedido de acesso à informação com base na Lei de Acesso à Informação.",
+  "keywords": [
+    "acesso à informação",
+    "LAI",
+    "pedido de informação",
+    "transparência",
+    "Fala.BR"
+  ],
+  "synonyms": [
+    "pedir documentos públicos",
+    "transparência pública"
+  ],
+  "quickAnswer": "Qualquer interessado pode apresentar pedido de acesso a informações aos órgãos e entidades públicos, por qualquer meio legítimo, com identificação do requerente e especificação da informação solicitada. O órgão deve conceder o acesso imediato ao que estiver disponível.",
+  "sections": {
+    "explanation": "Não é preciso explicar o motivo do pedido. Informações sigilosas têm regras próprias.",
+    "whenApplies": [
+      "Você quer obter informação de um órgão público."
+    ],
+    "exceptions": [
+      "Informações classificadas ou pessoais têm restrições legais."
+    ],
+    "steps": [
+      "Procure o canal oficial do órgão para pedidos de informação.",
+      "Descreva com clareza o que precisa.",
+      "Guarde o número do protocolo e acompanhe o prazo informado."
+    ],
+    "documentsToKeep": [
+      "Número de protocolo do pedido",
+      "Cópia de requerimentos e documentos enviados",
+      "Datas, nomes e setores consultados"
+    ],
+    "ifDenied": [
+      "Procure a ouvidoria do órgão responsável.",
+      "Se for pedido de acesso à informação, verifique o canal indicado para recurso.",
+      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 12.527/2011 (Lei de Acesso à Informação)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 10",
+        "art. 11"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2011-11-18;12527",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2011/lei-12527-2011-11-18.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2011-11-18;12527",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "10",
+          "11"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PUB-001",
+    "PUB-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

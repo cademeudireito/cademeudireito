@@ -1,0 +1,95 @@
+{
+  "id": "SAU-006",
+  "slug": "acompanhante-no-parto-e-internacao",
+  "title": "Posso ter acompanhante no parto ou na internação?",
+  "category": "saude",
+  "summary": "Noções sobre o direito a acompanhante em situações de saúde previstas em lei.",
+  "keywords": [
+    "acompanhante",
+    "parto",
+    "internação",
+    "maternidade",
+    "hospital"
+  ],
+  "synonyms": [
+    "acompanhante na maternidade",
+    "acompanhante de idoso"
+  ],
+  "quickAnswer": "Há leis que asseguram acompanhante à parturiente no SUS e a acompanhante de pessoas idosas e de crianças em internação. As regras exatas variam por situação e precisam ser conferidas.",
+  "sections": {
+    "explanation": "Peça com antecedência e registre a resposta. A recusa pode ser contestada.",
+    "whenApplies": [
+      "Você precisa de acompanhante no parto ou em internação."
+    ],
+    "exceptions": [
+      "Condições do serviço e situações clínicas podem alterar a análise."
+    ],
+    "steps": [
+      "Informe a unidade com antecedência.",
+      "Peça justificativa por escrito se houver recusa.",
+      "Registre reclamação na ouvidoria."
+    ],
+    "documentsToKeep": [
+      "Documento do plano ou cartão do SUS",
+      "Pedido médico, laudos e receitas",
+      "Protocolos e comunicados do plano ou da unidade de saúde"
+    ],
+    "ifDenied": [
+      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
+      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
+      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 11.108/2005 (acompanhante no parto)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-04-07;11108",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2005/lei-11108-2005-04-07.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2005-04-07;11108",
+        "versaoTexto": "original",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 8.069/1990 — Estatuto da Criança e do Adolescente (ECA)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-07-13;8069",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1990/lei-8069-1990-07-13.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-07-13;8069",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "SAU-002",
+    "PRE-005"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

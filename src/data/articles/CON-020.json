@@ -1,0 +1,77 @@
+{
+  "id": "CON-020",
+  "slug": "cobranca-vexatoria-constrangedora",
+  "title": "Fui cobrado de forma constrangedora",
+  "category": "consumidor",
+  "summary": "Limites da cobrança de dívidas segundo o Código de Defesa do Consumidor.",
+  "keywords": [
+    "cobrança vexatória",
+    "constrangimento",
+    "dívida",
+    "cobrança abusiva",
+    "exposição"
+  ],
+  "synonyms": [
+    "cobraram na frente de todos",
+    "ameaça de cobrança"
+  ],
+  "quickAnswer": "Na cobrança de débitos, o consumidor inadimplente não deve ser exposto a ridículo nem submetido a constrangimento ou ameaça. A análise de cada caso depende dos fatos e das provas.",
+  "sections": {
+    "explanation": "Registre o que aconteceu: quem, quando, onde e como. Se houver testemunhas, anote os nomes.",
+    "whenApplies": [
+      "A cobrança foi feita por meios que o expuseram ou ameaçaram."
+    ],
+    "exceptions": [
+      "Não há valor ou consequência garantidos; depende do caso."
+    ],
+    "steps": [
+      "Anote e guarde provas (mensagens, áudios, testemunhas).",
+      "Registre reclamação na empresa e em canal oficial.",
+      "Se houver dano relevante, procure a Defensoria Pública ou advogado."
+    ],
+    "documentsToKeep": [
+      "Comprovante de compra ou contrato",
+      "Número do pedido e dados da empresa",
+      "Protocolos, e-mails e prints de conversas",
+      "Fotos ou vídeos, quando houver defeito ou divergência"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
+      "Verifique no Procon do seu estado ou município as formas de atendimento.",
+      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 42"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-11;8078",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "42"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "CON-019",
+    "CON-009"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

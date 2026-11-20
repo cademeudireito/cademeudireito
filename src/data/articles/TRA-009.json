@@ -1,0 +1,98 @@
+{
+  "id": "TRA-009",
+  "slug": "afastamento-por-doenca-ou-acidente-de-trabalho",
+  "title": "Me afastei por doença ou acidente: o que acontece com meu emprego?",
+  "category": "trabalho",
+  "summary": "Panorama sobre afastamento por doença ou acidente, a relação com o INSS e o que guardar.",
+  "keywords": [
+    "afastamento",
+    "acidente de trabalho",
+    "atestado",
+    "INSS",
+    "CAT"
+  ],
+  "synonyms": [
+    "me machuquei no trabalho",
+    "doença do trabalho"
+  ],
+  "quickAnswer": "O afastamento por doença ou acidente pode envolver o empregador e o INSS. Os efeitos no contrato, na estabilidade e no benefício dependem do tempo de afastamento e da natureza do caso. Guarde atestados e peça orientação.",
+  "sections": {
+    "explanation": "Acidente de trabalho tem tratamento específico na lei previdenciária. A empresa pode ter obrigação de comunicar o acidente.",
+    "whenApplies": [
+      "Você precisou se afastar do trabalho por motivo de saúde."
+    ],
+    "exceptions": [
+      "Os direitos variam conforme a causa e o tempo de afastamento."
+    ],
+    "steps": [
+      "Guarde atestados, laudos e exames com datas.",
+      "Peça à empresa orientação por escrito sobre o afastamento.",
+      "Confira a possibilidade de benefício junto ao INSS."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 59"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "59"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PRE-001",
+    "TRA-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

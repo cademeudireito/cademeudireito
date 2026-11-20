@@ -1,0 +1,101 @@
+{
+  "id": "TRA-008",
+  "slug": "licenca-maternidade-estabilidade",
+  "title": "Estou grávida: quais direitos tenho no trabalho?",
+  "category": "trabalho",
+  "summary": "Licença-maternidade e proteção da gestante no emprego, em linhas gerais.",
+  "keywords": [
+    "licença-maternidade",
+    "gestante",
+    "estabilidade",
+    "gravidez",
+    "empregada"
+  ],
+  "synonyms": [
+    "fui demitida grávida",
+    "afastamento por parto"
+  ],
+  "quickAnswer": "A CLT prevê que a empregada gestante tem direito à licença-maternidade de 120 dias, sem prejuízo do emprego e do salário, e leis mais recentes podem ter alterado detalhes. A Constituição também protege contra dispensa arbitrária ou sem justa causa. Confira o texto vigente.",
+  "sections": {
+    "explanation": "A proteção começa com a confirmação da gravidez e tem regras sobre estabilidade. Informe o empregador por escrito.",
+    "whenApplies": [
+      "Você está grávida, adotou ou teve filho recentemente e trabalha com vínculo de emprego."
+    ],
+    "exceptions": [
+      "Tipos de contrato e exceções podem alterar a estabilidade.",
+      "Normas recentes podem ter mudado o período; confira."
+    ],
+    "steps": [
+      "Informe a empresa por escrito e entregue o atestado.",
+      "Guarde cópia de tudo o que entregou.",
+      "Se houver dispensa ou pressão, procure o sindicato, a Defensoria Pública ou advogado."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XVIII"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "7"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 392"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "392"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PRE-005",
+    "TRA-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

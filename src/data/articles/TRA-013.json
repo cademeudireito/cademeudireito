@@ -1,0 +1,79 @@
+{
+  "id": "TRA-013",
+  "slug": "intervalo-e-descanso-entre-jornadas",
+  "title": "Tenho direito a intervalo e descanso entre as jornadas?",
+  "category": "trabalho",
+  "summary": "Noções sobre intervalo para refeição e descanso entre jornadas previstos na CLT.",
+  "keywords": [
+    "intervalo",
+    "descanso",
+    "jornada",
+    "hora de almoço",
+    "interjornada"
+  ],
+  "synonyms": [
+    "uma hora de almoço",
+    "descanso de 11 horas"
+  ],
+  "quickAnswer": "A CLT prevê, em trabalho contínuo de mais de 6 horas, intervalo para repouso ou alimentação de no mínimo 1 hora (com exceções por acordo ou contrato coletivo) e um período mínimo de 11 horas de descanso entre duas jornadas. Confira as exceções vigentes.",
+  "sections": {
+    "explanation": "Se o intervalo não é concedido, pode haver consequências. Convenções coletivas podem ajustar detalhes dentro dos limites da lei.",
+    "whenApplies": [
+      "Você trabalha jornadas longas e quer conferir seu descanso."
+    ],
+    "exceptions": [
+      "Exceções, acordos e categorias específicas alteram o resultado."
+    ],
+    "steps": [
+      "Anote seus horários de entrada, saída e intervalo.",
+      "Guarde espelhos de ponto.",
+      "Procure o sindicato para conferir a convenção da categoria."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 66",
+        "art. 71"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "66",
+          "71"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "TRA-003",
+    "TRA-007"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

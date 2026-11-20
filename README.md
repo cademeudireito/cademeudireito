@@ -6,8 +6,8 @@ Site estático e gratuito que explica direitos brasileiros do dia a dia em lingu
 
 ## Estado atual
 
-- 7 categorias, **30 assuntos em rascunho** e **3 guias em rascunho**.
-- **Nenhum conteúdo jurídico foi validado.** Por regra do projeto, só `status: "published"` entra no site público, então o build público sai sem assuntos até a validação humana. Veja [`docs/CHANGELOG-DECISOES.md`](docs/CHANGELOG-DECISOES.md).
+- 13 categorias, **93 assuntos em rascunho** e **3 guias em rascunho**.
+- **Nenhum conteúdo jurídico foi validado.** Por decisão do responsável, o site exibe os rascunhos com faixa e etiqueta de "em revisão" e `noindex`. Para exibir só o que for validado, use `draftVisibility: "hide"` em `src/data/site.json` ou `npm run build:strict`. Veja [`docs/CHANGELOG-DECISOES.md`](docs/CHANGELOG-DECISOES.md).
 
 ## Requisitos
 
@@ -17,12 +17,13 @@ Node.js 20+ (sem dependências npm).
 
 | Comando | O que faz |
 |---|---|
-| `npm run dev` | Servidor local em `localhost:5173` **com rascunhos** (prévia interna). `-- --public` simula o público. |
+| `npm run dev` | Servidor local em `localhost:5173`, conforme `draftVisibility`. `-- --strict` mostra só validados. |
 | `npm run validate` | Valida JSON, IDs, slugs, categorias, referências e guias. |
 | `npm test` | Testes do motor de guias, busca e regras de publicação. |
-| `npm run build` | Build **público** em `dist/` (só `published`). |
-| `npm run build:preview` | Build interno em `dist-preview/` (inclui rascunhos, `noindex`). **Não publicar.** |
-| `npm run preview` | Serve `dist/` em `localhost:4173` (`-- --preview` para a prévia). |
+| `npm run build` | Build em `dist/` conforme `draftVisibility`. |
+| `npm run build:strict` | Build em `dist-strict/` somente com conteúdo `published`. |
+| `npm run preview` | Serve `dist/` em `localhost:4173` (`-- --strict` para o estrito). |
+| `LEIS_DIR=... node scripts/pesquisa-leis.mjs` | Confere artigos citados no acervo [ctresb/leis](https://github.com/ctresb/leis) e gera `research/dossie/`. `--check` só confere. |
 | `npm run report` | Gera relatórios em `docs/relatorios/`. |
 
 ## Estrutura
@@ -35,14 +36,15 @@ src/
   services/                    content.js (regras e validação), search.js, guideEngine.js, router.js, contentLoader.js
   data/                        categories.json, site.json, articles/, guides/, pages/
   styles/                      tokens, global, layout, components, responsive
-scripts/                       build, dev, validate, report
+scripts/                       build, dev, validate, report, pesquisa-leis
+research/                      normas.json (registro) e dossie/ (artigos citados, extraídos do acervo)
 tests/                         node:test
 public/                        favicon, robots, _headers
 ```
 
 ## Como publicar um conteúdo
 
-1. Pesquise e confira a norma em fonte oficial (docs/04).
+1. Pesquise e confira a norma em fonte oficial (docs/04); o dossiê em `research/dossie/` ajuda, mas não valida.
 2. Preencha as referências: `officialUrl`, `status: "verified"`, `checkedAt`.
 3. Registre `lastReviewed`, `reviewStatus: "approved"` e mude `status` para `published`.
 4. `npm run validate` precisa passar; guias só podem ser publicados depois dos artigos que referenciam.

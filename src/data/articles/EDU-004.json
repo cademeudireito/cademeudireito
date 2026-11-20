@@ -1,0 +1,76 @@
+{
+  "id": "EDU-004",
+  "slug": "escola-retem-documentos-por-inadimplencia",
+  "title": "A escola está retendo documentos ou provas por atraso de mensalidade",
+  "category": "educacao",
+  "summary": "O que a lei diz sobre penalidades pedagógicas em caso de inadimplência.",
+  "keywords": [
+    "retenção de documentos",
+    "inadimplência",
+    "escola",
+    "provas",
+    "histórico escolar"
+  ],
+  "synonyms": [
+    "escola não entrega histórico",
+    "suspensão de provas por atraso"
+  ],
+  "quickAnswer": "A Lei 9.870/1999 proíbe a suspensão de provas escolares, a retenção de documentos escolares ou a aplicação de quaisquer outras penalidades pedagógicas por motivo de inadimplemento, sujeitando o contratante, no que couber, às sanções legais e administrativas.",
+  "sections": {
+    "explanation": "A dívida pode continuar sendo cobrada pelos meios legais, mas sem as penalidades pedagógicas. Confira a redação vigente.",
+    "whenApplies": [
+      "A instituição de ensino impediu provas ou reteve documentos por atraso no pagamento."
+    ],
+    "exceptions": [
+      "Cada caso deve ser analisado; a lei tem requisitos próprios."
+    ],
+    "steps": [
+      "Peça por escrito a entrega do documento e guarde o protocolo.",
+      "Anote a data e o nome de quem negou.",
+      "Procure o Procon ou o órgão de educação competente."
+    ],
+    "documentsToKeep": [
+      "Contrato de prestação de serviços educacionais",
+      "Boletos e comprovantes de pagamento",
+      "Comunicados e regulamento da instituição"
+    ],
+    "ifDenied": [
+      "Verifique o Procon da sua localidade, se for instituição privada.",
+      "Para rede pública, procure a secretaria de educação ou a ouvidoria competente.",
+      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 9.870/1999 (mensalidades escolares)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-11-23;9870",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1999/lei-9870-1999-11-23.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-11-23;9870",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "6"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "EDU-003",
+    "EDU-001"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "PUB-003",
+  "slug": "reclamar-na-ouvidoria",
+  "title": "Como registrar reclamação ou sugestão na ouvidoria",
+  "category": "servicos-publicos",
+  "summary": "O papel da ouvidoria na defesa dos usuários de serviços públicos.",
+  "keywords": [
+    "ouvidoria",
+    "reclamação",
+    "serviço público",
+    "manifestação",
+    "usuário"
+  ],
+  "synonyms": [
+    "reclamar de atendimento público",
+    "sugestão a órgão público"
+  ],
+  "quickAnswer": "A lei de defesa dos usuários de serviços públicos prevê a manifestação dirigida à ouvidoria do órgão ou entidade responsável, com identificação do requerente. A ouvidoria deve encaminhar e responder conforme a lei e as normas do órgão.",
+  "sections": {
+    "explanation": "Descreva o fato, a data, o local e o servidor ou setor, e guarde o protocolo.",
+    "whenApplies": [
+      "Você teve mau atendimento ou falha em serviço público."
+    ],
+    "exceptions": [
+      "Os canais e prazos variam por órgão e esfera de governo."
+    ],
+    "steps": [
+      "Identifique o órgão responsável.",
+      "Registre a manifestação no canal oficial.",
+      "Guarde o protocolo e acompanhe o andamento."
+    ],
+    "documentsToKeep": [
+      "Número de protocolo do pedido",
+      "Cópia de requerimentos e documentos enviados",
+      "Datas, nomes e setores consultados"
+    ],
+    "ifDenied": [
+      "Procure a ouvidoria do órgão responsável.",
+      "Se for pedido de acesso à informação, verifique o canal indicado para recurso.",
+      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 13.460/2017 (defesa dos usuários de serviços públicos)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 5º",
+        "art. 10"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-06-26;13460",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2017/lei-13460-2017-06-26.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-06-26;13460",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "5",
+          "10"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PUB-001",
+    "PUB-002"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

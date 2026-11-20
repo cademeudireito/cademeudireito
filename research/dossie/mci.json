@@ -12,5 +12,7 @@
   "urn": "urn:lex:br:federal:lei:2014-04-23;12965",
   "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2014-04-23;12965",
   "baixado_em": "2026-10-13",
-  "artigosCitados": {}
+  "artigosCitados": {
+    "21": "**Art. 21.** O provedor de aplicações de internet que disponibilize conteúdo gerado por terceiros será responsabilizado subsidiariamente pela violação da intimidade decorrente da divulgação, sem autorização de seus participantes, de imagens, de vídeos ou de outros materiais contendo cenas de nudez ou de atos sexuais de caráter privado quando, após o recebimento de notificação pelo participante ou seu representante legal, deixar de promover, de forma diligente, no âmbito e nos limites técnicos do seu serviço, a indisponibilização desse conteúdo.\n\n**Parágrafo único.** A notificação prevista no *caput* deverá conter, sob pena de nulidade, elementos que permitam a identificação específica do material apontado como violador da intimidade do participante e a verificação da legitimidade para apresentação do pedido.\n\n##### Seção IV — Da Requisição Judicial de Registros"
+  }
 }

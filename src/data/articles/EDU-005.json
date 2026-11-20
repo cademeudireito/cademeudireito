@@ -1,0 +1,78 @@
+{
+  "id": "EDU-005",
+  "slug": "inclusao-de-aluno-com-deficiencia",
+  "title": "A escola recusou ou dificultou a matrícula de aluno com deficiência",
+  "category": "educacao",
+  "summary": "O direito à educação inclusiva previsto na Lei Brasileira de Inclusão.",
+  "keywords": [
+    "educação inclusiva",
+    "matrícula",
+    "deficiência",
+    "adaptação",
+    "escola"
+  ],
+  "synonyms": [
+    "escola não aceita aluno com deficiência",
+    "cobrança por acompanhante"
+  ],
+  "quickAnswer": "A Lei Brasileira de Inclusão afirma que a educação é direito da pessoa com deficiência, assegurado sistema educacional inclusivo em todos os níveis e aprendizado ao longo da vida. A lei lista também o que incumbe ao poder público assegurar.",
+  "sections": {
+    "explanation": "Recusa de matrícula por causa da deficiência merece atenção e pode ter consequências legais. Peça a recusa por escrito.",
+    "whenApplies": [
+      "A escola recusou, dificultou ou cobrou valor extra pela condição do aluno."
+    ],
+    "exceptions": [
+      "O enquadramento e as medidas dependem do caso."
+    ],
+    "steps": [
+      "Registre o pedido de matrícula e a resposta por escrito.",
+      "Reúna laudos e documentos do aluno.",
+      "Procure a secretaria de educação, o Ministério Público ou a Defensoria Pública."
+    ],
+    "documentsToKeep": [
+      "Contrato de prestação de serviços educacionais",
+      "Boletos e comprovantes de pagamento",
+      "Comunicados e regulamento da instituição"
+    ],
+    "ifDenied": [
+      "Verifique o Procon da sua localidade, se for instituição privada.",
+      "Para rede pública, procure a secretaria de educação ou a ouvidoria competente.",
+      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 13.146/2015 — Lei Brasileira de Inclusão da Pessoa com Deficiência",
+      "sphere": "federal",
+      "provisions": [
+        "art. 27",
+        "art. 28"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-07-06;13146",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2015/lei-13146-2015-07-06.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-07-06;13146",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "27",
+          "28"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PCD-001",
+    "EDU-002"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

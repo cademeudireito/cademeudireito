@@ -1,0 +1,77 @@
+{
+  "id": "TRA-007",
+  "slug": "vale-transporte-direito",
+  "title": "O que é vale-transporte e quem tem direito?",
+  "category": "trabalho",
+  "summary": "Noções sobre o vale-transporte, instituído por lei, para deslocamento casa-trabalho.",
+  "keywords": [
+    "vale-transporte",
+    "transporte",
+    "desconto no salário",
+    "deslocamento",
+    "empregador"
+  ],
+  "synonyms": [
+    "VT",
+    "passagem do trabalho"
+  ],
+  "quickAnswer": "A Lei 7.418/1985 instituiu o vale-transporte, que o empregador antecipa ao empregado para despesas de deslocamento residência-trabalho e vice-versa, no transporte coletivo público. Detalhes de desconto e de solicitação precisam ser conferidos.",
+  "sections": {
+    "explanation": "O empregado costuma precisar informar por escrito o endereço e os meios de transporte que usa. Há regra sobre a participação do empregado no custo.",
+    "whenApplies": [
+      "Você usa transporte coletivo para ir e voltar do trabalho."
+    ],
+    "exceptions": [
+      "Cada categoria pode ter acordos próprios, a conferir."
+    ],
+    "steps": [
+      "Informe ao empregador o endereço e o meio de transporte, por escrito.",
+      "Guarde recibos e a cópia da comunicação.",
+      "Confira se há desconto no contracheque."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques e comprovantes de pagamento",
+      "Controle de jornada, quando houver",
+      "Mensagens, e-mails e documentos da empresa"
+    ],
+    "ifDenied": [
+      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
+      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
+      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 7.418/1985 (vale-transporte)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-16;7418",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1985/lei-7418-1985-12-16.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-16;7418",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "1"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "TRA-001",
+    "TRA-013"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "EDU-003",
+  "slug": "reajuste-da-mensalidade-escolar",
+  "title": "A escola aumentou a mensalidade: o que conferir?",
+  "category": "educacao",
+  "summary": "Regras gerais sobre o valor das anuidades e das semestralidades escolares.",
+  "keywords": [
+    "mensalidade escolar",
+    "reajuste",
+    "anuidade",
+    "escola particular",
+    "contrato"
+  ],
+  "synonyms": [
+    "aumento da mensalidade",
+    "planilha de custos"
+  ],
+  "quickAnswer": "A Lei 9.870/1999 prevê que o valor das anuidades ou das semestralidades escolares seja contratado no ato da matrícula ou da sua renovação, entre o estabelecimento e o aluno ou responsável, nos termos da lei. Confira o contrato e peça a justificativa dos valores.",
+  "sections": {
+    "explanation": "A lei também trata da divulgação prévia de informações sobre os valores. Há mais detalhes a conferir.",
+    "whenApplies": [
+      "A escola ou faculdade reajustou ou cobrou valor que você não esperava."
+    ],
+    "exceptions": [
+      "Regras para ensino superior e outras modalidades podem ter diferenças."
+    ],
+    "steps": [
+      "Leia o contrato e o comunicado de reajuste.",
+      "Peça a justificativa por escrito.",
+      "Procure o Procon se não houver esclarecimento."
+    ],
+    "documentsToKeep": [
+      "Contrato de prestação de serviços educacionais",
+      "Boletos e comprovantes de pagamento",
+      "Comunicados e regulamento da instituição"
+    ],
+    "ifDenied": [
+      "Verifique o Procon da sua localidade, se for instituição privada.",
+      "Para rede pública, procure a secretaria de educação ou a ouvidoria competente.",
+      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 9.870/1999 (mensalidades escolares)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-11-23;9870",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1999/lei-9870-1999-11-23.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-11-23;9870",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "1"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "EDU-001",
+    "EDU-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "MOR-004",
+  "slug": "caucao-fiador-garantia-do-aluguel",
+  "title": "O que posso ser obrigado a oferecer como garantia no aluguel?",
+  "category": "moradia",
+  "summary": "Modalidades de garantia previstas na lei de locação e cuidados ao oferecê-las.",
+  "keywords": [
+    "fiador",
+    "caução",
+    "seguro-fiança",
+    "garantia de aluguel",
+    "locação"
+  ],
+  "synonyms": [
+    "preciso de fiador",
+    "depósito caução"
+  ],
+  "quickAnswer": "A lei de locação permite que o locador exija modalidades de garantia, como caução, fiança, seguro de fiança locatícia ou cessão fiduciária de quotas de fundo de investimento. A lei também limita a exigência de mais de uma modalidade ao mesmo tempo.",
+  "sections": {
+    "explanation": "Antes de assinar, leia as obrigações de quem dá a garantia, especialmente do fiador.",
+    "whenApplies": [
+      "Você vai alugar um imóvel e foi pedida uma garantia."
+    ],
+    "exceptions": [
+      "Detalhes e limites precisam ser conferidos na lei vigente e no contrato."
+    ],
+    "steps": [
+      "Compare as opções de garantia.",
+      "Leia as cláusulas sobre responsabilidade do fiador.",
+      "Guarde cópia do contrato e dos recibos."
+    ],
+    "documentsToKeep": [
+      "Contrato de locação e aditivos",
+      "Comprovantes de pagamento de aluguel e encargos",
+      "Vistoria de entrada, fotos e orçamentos",
+      "Notificações, mensagens e e-mails trocados"
+    ],
+    "ifDenied": [
+      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
+      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 37"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "37"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "MOR-001",
+    "MOR-005"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

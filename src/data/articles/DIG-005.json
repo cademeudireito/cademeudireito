@@ -1,0 +1,77 @@
+{
+  "id": "DIG-005",
+  "slug": "direitos-do-titular-de-dados-lgpd",
+  "title": "Que direitos tenho sobre meus dados pessoais?",
+  "category": "direitos-digitais",
+  "summary": "Direitos do titular previstos na LGPD e como pedir informações a quem trata seus dados.",
+  "keywords": [
+    "LGPD",
+    "direitos do titular",
+    "acesso a dados",
+    "correção",
+    "exclusão"
+  ],
+  "synonyms": [
+    "ver meus dados",
+    "apagar meus dados"
+  ],
+  "quickAnswer": "A LGPD assegura ao titular o direito de obter do controlador, a qualquer momento e mediante requisição, informações e providências sobre os seus dados, como confirmação de tratamento e acesso. O alcance de cada direito depende do caso e das bases legais.",
+  "sections": {
+    "explanation": "Faça o pedido pelo canal de privacidade da empresa e guarde o protocolo.",
+    "whenApplies": [
+      "Você quer saber o que uma empresa faz com seus dados."
+    ],
+    "exceptions": [
+      "Nem todo direito é absoluto; há situações de guarda obrigatória."
+    ],
+    "steps": [
+      "Procure o canal de privacidade da empresa.",
+      "Faça o pedido por escrito.",
+      "Se não houver resposta, verifique os canais da ANPD."
+    ],
+    "documentsToKeep": [
+      "Prints de telas, mensagens e e-mails",
+      "Comprovantes de pagamentos e transferências",
+      "Endereços de sites, perfis ou contas envolvidos (links)",
+      "Protocolos das plataformas e instituições"
+    ],
+    "ifDenied": [
+      "Para questões de proteção de dados, verifique os canais da ANPD (confira o canal atual).",
+      "Em caso de indício de crime, verifique como registrar ocorrência na polícia do seu estado.",
+      "Se houver prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 13.709/2018 — Lei Geral de Proteção de Dados (LGPD)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 18"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2018/lei-13709-2018-08-14.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "18"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "DIG-001",
+    "SAU-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

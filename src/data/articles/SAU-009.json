@@ -1,0 +1,87 @@
+{
+  "id": "SAU-009",
+  "slug": "urgencia-e-emergencia-no-plano",
+  "title": "O plano negou atendimento de urgência ou emergência",
+  "category": "saude",
+  "summary": "A cobertura obrigatória para casos de urgência e emergência segundo a lei dos planos de saúde.",
+  "keywords": [
+    "urgência",
+    "emergência",
+    "plano de saúde",
+    "carência",
+    "pronto-socorro"
+  ],
+  "synonyms": [
+    "carência em urgência",
+    "plano não cobre pronto-socorro"
+  ],
+  "quickAnswer": "A Lei 9.656/1998 torna obrigatória a cobertura do atendimento nos casos que ela lista, como emergência e urgência, nos termos da lei. As condições, como carência e limites, precisam ser conferidas na redação vigente e na norma da ANS.",
+  "sections": {
+    "explanation": "Em risco à vida, o atendimento deve ser buscado imediatamente. Depois, peça por escrito a negativa e registre reclamação.",
+    "whenApplies": [
+      "O plano recusou ou limitou o atendimento em urgência ou emergência."
+    ],
+    "exceptions": [
+      "Condições do contrato e da norma da ANS influenciam a cobertura."
+    ],
+    "steps": [
+      "Busque atendimento imediato se houver risco.",
+      "Guarde laudos, receitas e comprovantes de despesas.",
+      "Peça a negativa por escrito e registre reclamação na ANS."
+    ],
+    "documentsToKeep": [
+      "Documento do plano ou cartão do SUS",
+      "Pedido médico, laudos e receitas",
+      "Protocolos e comunicados do plano ou da unidade de saúde"
+    ],
+    "ifDenied": [
+      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
+      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
+      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 9.656/1998 (planos privados de assistência à saúde)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 35-C"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1998/lei-9656-1998-06-03.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "35-C"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Normas vigentes da ANS (a identificar)",
+      "sphere": "federal",
+      "provisions": [
+        "a identificar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
+    }
+  ],
+  "relatedArticles": [
+    "SAU-001",
+    "SAU-007"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

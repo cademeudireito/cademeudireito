@@ -1,0 +1,87 @@
+{
+  "id": "SAU-007",
+  "slug": "reajuste-anual-do-plano-de-saude",
+  "title": "O plano de saúde reajustou a mensalidade: é permitido?",
+  "category": "saude",
+  "summary": "Como conferir reajuste de plano de saúde e a diferença entre reajuste anual e por faixa etária.",
+  "keywords": [
+    "reajuste do plano",
+    "mensalidade do plano",
+    "ANS",
+    "aumento",
+    "plano coletivo"
+  ],
+  "synonyms": [
+    "plano de saúde aumentou",
+    "aumento abusivo"
+  ],
+  "quickAnswer": "Os contratos de plano de saúde têm regras de reajuste, que dependem do tipo de plano (individual ou coletivo) e das normas da ANS. Peça à operadora o demonstrativo do cálculo e confira o seu contrato.",
+  "sections": {
+    "explanation": "Reajuste anual e reajuste por faixa etária são coisas diferentes. Planos coletivos podem ter regras distintas.",
+    "whenApplies": [
+      "A mensalidade do plano subiu e você quer entender o motivo."
+    ],
+    "exceptions": [
+      "Regras da ANS mudam; confira os índices e as normas vigentes."
+    ],
+    "steps": [
+      "Guarde o comunicado de reajuste e o contrato.",
+      "Peça o demonstrativo por escrito.",
+      "Reclame na operadora e, se não resolver, na ANS."
+    ],
+    "documentsToKeep": [
+      "Documento do plano ou cartão do SUS",
+      "Pedido médico, laudos e receitas",
+      "Protocolos e comunicados do plano ou da unidade de saúde"
+    ],
+    "ifDenied": [
+      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
+      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
+      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 9.656/1998 (planos privados de assistência à saúde)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 15"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1998/lei-9656-1998-06-03.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "15"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Normas vigentes da ANS (a identificar)",
+      "sphere": "federal",
+      "provisions": [
+        "a identificar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
+    }
+  ],
+  "relatedArticles": [
+    "IDO-003",
+    "SAU-008"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}
