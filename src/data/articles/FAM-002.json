@@ -1,0 +1,100 @@
+{
+  "id": "FAM-002",
+  "slug": "guarda-dos-filhos",
+  "title": "Como funciona a guarda dos filhos após a separação?",
+  "category": "familia",
+  "summary": "Diferença geral entre guarda unilateral e compartilhada e o que não muda com a separação.",
+  "keywords": [
+    "guarda",
+    "guarda compartilhada",
+    "visitas",
+    "filhos",
+    "separação"
+  ],
+  "synonyms": [
+    "guarda unilateral",
+    "convivência com filhos"
+  ],
+  "quickAnswer": "O Código Civil prevê guarda unilateral ou compartilhada. A separação, o divórcio ou o fim da união estável não alteram as relações entre pais e filhos, apenas o direito de terem os filhos em sua companhia. O interesse da criança é o ponto central.",
+  "sections": {
+    "explanation": "Detalhes de convivência, residência e responsabilidades são definidos por acordo ou decisão judicial, considerando o caso.",
+    "whenApplies": [
+      "Os pais estão separados ou vão se separar e precisam organizar a convivência com os filhos."
+    ],
+    "exceptions": [
+      "Situações de risco para a criança têm tratamento próprio.",
+      "Acordos podem ser homologados na Justiça, com ajuda da Defensoria ou de advogado."
+    ],
+    "steps": [
+      "Converse e, se possível, registre um acordo por escrito.",
+      "Reúna documentos dos filhos e comprovantes de convivência.",
+      "Procure a Defensoria Pública ou advogado para formalizar."
+    ],
+    "documentsToKeep": [
+      "Certidões de nascimento, casamento ou outras do caso",
+      "Documentos de identificação das partes",
+      "Comprovantes de renda e despesas, quando houver pedido de valores",
+      "Mensagens e provas relacionadas"
+    ],
+    "ifDenied": [
+      "Procure a Defensoria Pública do seu estado ou um advogado: questões de família costumam exigir orientação individual.",
+      "Verifique no tribunal ou cartório da sua cidade os procedimentos e documentos exigidos."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 10.406/2002 — Código Civil",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1.583",
+        "art. 1.632"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2002/lei-10406-2002-01-10.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "1583",
+          "1632"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 8.069/1990 — Estatuto da Criança e do Adolescente (ECA)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-07-13;8069",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1990/lei-8069-1990-07-13.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-07-13;8069",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "FAM-001",
+    "FAM-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "MUL-003",
+  "slug": "importunacao-e-assedio-sexual",
+  "title": "Sofri importunação ou assédio sexual: quais são meus direitos?",
+  "category": "mulheres",
+  "summary": "Panorama geral de como a lei trata a importunação sexual e o assédio sexual, sem substituir orientação individual.",
+  "keywords": [
+    "assédio sexual",
+    "importunação sexual",
+    "Código Penal",
+    "denúncia",
+    "trabalho"
+  ],
+  "synonyms": [
+    "passaram a mão em mim",
+    "chefe me assedia",
+    "cantada insistente"
+  ],
+  "quickAnswer": "O Código Penal trata da importunação sexual e do assédio sexual como condutas distintas, com requisitos próprios. Se você sofreu isso, o ocorrido merece ser levado a sério, e há canais para registrar. O enquadramento de cada caso precisa de análise individual.",
+  "sections": {
+    "explanation": "A importunação sexual ocorre sem violência, em geral em locais públicos. O assédio sexual, na lei, envolve constrangimento com prevalimento de posição de superioridade, como em relações de trabalho.",
+    "whenApplies": [
+      "Alguém praticou ato de natureza sexual sem seu consentimento ou a constrangeu para obter favor sexual."
+    ],
+    "exceptions": [
+      "O enquadramento exato depende dos fatos; esta página não classifica o seu caso."
+    ],
+    "steps": [
+      "Se estiver em perigo, procure um lugar seguro e o serviço de emergência.",
+      "Anote data, local, o que aconteceu e testemunhas, e guarde provas.",
+      "Procure a delegacia, a Defensoria Pública ou a rede de atendimento à mulher."
+    ],
+    "documentsToKeep": [
+      "Registros de mensagens, ligações e áudios",
+      "Fotos de lesões ou danos, laudos e atendimentos",
+      "Nomes de testemunhas e datas dos fatos",
+      "Número do registro de ocorrência, se houver"
+    ],
+    "ifDenied": [
+      "Se houver risco imediato, procure a polícia ou o serviço de emergência pelo canal oficial.",
+      "Procure a rede oficial de atendimento à mulher da sua cidade ou estado (confira os canais atuais), a Defensoria Pública ou o Ministério Público.",
+      "Você não precisa enfrentar isso sozinha: peça ajuda a alguém de confiança."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
+      "sphere": "federal",
+      "provisions": [
+        "art. 215-A",
+        "art. 216-A"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/decretos-lei/1940/del-2848-1940-12-07.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "215-A",
+          "216-A"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "MUL-001",
+    "TRA-011"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

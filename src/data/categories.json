@@ -1,9 +1,106 @@
 [
-  { "id": "consumidor", "slug": "consumidor", "title": "Consumidor", "description": "Compras, cancelamentos, defeitos, cobranças e golpes ao comprar produtos e contratar serviços.", "icon": "shopping-bag", "order": 1 },
-  { "id": "trabalho", "slug": "trabalho", "title": "Trabalho", "description": "Salário, férias, 13º, jornada, demissão e registro: o básico para quem trabalha.", "icon": "briefcase", "order": 2 },
-  { "id": "saude", "slug": "saude", "title": "Saúde e paciente", "description": "Planos de saúde, SUS, prontuário e informação antes de procedimentos.", "icon": "heart-pulse", "order": 3 },
-  { "id": "moradia", "slug": "moradia", "title": "Moradia e aluguel", "description": "Aluguel, reajuste, reparos no imóvel e o que entender sobre notificação de despejo.", "icon": "home", "order": 4 },
-  { "id": "direitos-digitais", "slug": "direitos-digitais", "title": "Direitos digitais", "description": "Dados pessoais, contas invadidas e golpes na internet.", "icon": "shield-phone", "order": 5 },
-  { "id": "educacao", "slug": "educacao", "title": "Educação", "description": "Mensalidades, taxas e cobranças em escolas e faculdades.", "icon": "book-open", "order": 6 },
-  { "id": "servicos-publicos", "slug": "servicos-publicos", "title": "Serviços públicos e cidadania", "description": "Atendimento, protocolos e reclamações com órgãos públicos.", "icon": "landmark", "order": 7 }
+  {
+    "id": "consumidor",
+    "slug": "consumidor",
+    "title": "Consumidor",
+    "description": "Compras, cancelamentos, defeitos, cobranças e golpes ao comprar produtos e contratar serviços.",
+    "icon": "shopping-bag",
+    "order": 1
+  },
+  {
+    "id": "trabalho",
+    "slug": "trabalho",
+    "title": "Trabalho",
+    "description": "Salário, férias, 13º, jornada, demissão e registro: o básico para quem trabalha.",
+    "icon": "briefcase",
+    "order": 2
+  },
+  {
+    "id": "saude",
+    "slug": "saude",
+    "title": "Saúde e paciente",
+    "description": "Planos de saúde, SUS, prontuário e informação antes de procedimentos.",
+    "icon": "heart-pulse",
+    "order": 3
+  },
+  {
+    "id": "moradia",
+    "slug": "moradia",
+    "title": "Moradia e aluguel",
+    "description": "Aluguel, reajuste, reparos no imóvel e o que entender sobre notificação de despejo.",
+    "icon": "home",
+    "order": 4
+  },
+  {
+    "id": "direitos-digitais",
+    "slug": "direitos-digitais",
+    "title": "Direitos digitais",
+    "description": "Dados pessoais, contas invadidas e golpes na internet.",
+    "icon": "shield-phone",
+    "order": 5
+  },
+  {
+    "id": "educacao",
+    "slug": "educacao",
+    "title": "Educação",
+    "description": "Mensalidades, taxas e cobranças em escolas e faculdades.",
+    "icon": "book-open",
+    "order": 6
+  },
+  {
+    "id": "servicos-publicos",
+    "slug": "servicos-publicos",
+    "title": "Serviços públicos e cidadania",
+    "description": "Atendimento, protocolos e reclamações com órgãos públicos.",
+    "icon": "landmark",
+    "order": 7
+  },
+  {
+    "id": "previdencia",
+    "slug": "previdencia",
+    "title": "Previdência e benefícios",
+    "description": "Aposentadoria, auxílio por doença, pensão por morte, salário-maternidade e benefício assistencial (BPC).",
+    "icon": "wallet",
+    "order": 8
+  },
+  {
+    "id": "familia",
+    "slug": "familia",
+    "title": "Família",
+    "description": "Pensão alimentícia, guarda dos filhos, união estável, divórcio e registro de nascimento.",
+    "icon": "users",
+    "order": 9
+  },
+  {
+    "id": "transito",
+    "slug": "transito",
+    "title": "Trânsito",
+    "description": "Multas, pontos na carteira, acidentes e transferência de veículo.",
+    "icon": "car",
+    "order": 10
+  },
+  {
+    "id": "mulheres",
+    "slug": "mulheres",
+    "title": "Mulheres e proteção contra violência",
+    "description": "Violência doméstica, medidas protetivas, assédio e onde buscar ajuda.",
+    "icon": "shield-heart",
+    "order": 11
+  },
+  {
+    "id": "idosos",
+    "slug": "idosos",
+    "title": "Pessoa idosa",
+    "description": "Prioridade, transporte, plano de saúde e proteção contra maus-tratos e discriminação.",
+    "icon": "hourglass",
+    "order": 12
+  },
+  {
+    "id": "pessoa-com-deficiencia",
+    "slug": "pessoa-com-deficiencia",
+    "title": "Pessoa com deficiência",
+    "description": "Acessibilidade, vagas de emprego, transporte, educação inclusiva e benefícios.",
+    "icon": "accessibility",
+    "order": 13
+  }
 ]

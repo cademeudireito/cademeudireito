@@ -49,10 +49,20 @@
       "provisions": [
         "a conferir deveres de locador e locatário"
       ],
-      "officialUrl": null,
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
     },
     {
       "name": "Lei nº 10.406/2002 — Código Civil",
@@ -60,10 +70,20 @@
       "provisions": [
         "a conferir"
       ],
-      "officialUrl": null,
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2002/lei-10406-2002-01-10.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
     }
   ],
   "relatedArticles": [

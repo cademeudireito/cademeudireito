@@ -1,0 +1,101 @@
+{
+  "id": "PRE-005",
+  "slug": "salario-maternidade",
+  "title": "Como funciona o salário-maternidade?",
+  "category": "previdencia",
+  "summary": "Quem pode receber salário-maternidade e como ele se relaciona com a licença-maternidade.",
+  "keywords": [
+    "salário-maternidade",
+    "licença-maternidade",
+    "gestante",
+    "parto",
+    "adoção"
+  ],
+  "synonyms": [
+    "benefício da gestante",
+    "afastamento por gravidez"
+  ],
+  "quickAnswer": "O salário-maternidade é devido à segurada da Previdência Social, em regra por 120 dias, com início no período entre 28 dias antes do parto e a data dele. Há situações e condições específicas, e normas mais recentes podem alterar detalhes: confira a regra vigente.",
+  "sections": {
+    "explanation": "Para empregadas, o pagamento costuma ser feito pelo empregador, que depois compensa com a Previdência. Para outras categorias de seguradas, o pedido é feito ao INSS.",
+    "whenApplies": [
+      "Você está grávida, teve filho há pouco tempo ou adotou e quer entender o benefício."
+    ],
+    "exceptions": [
+      "O tipo de vínculo (empregada, contribuinte individual, desempregada) muda a forma de pedido.",
+      "Leis recentes podem ter alterado o prazo da licença; confirme."
+    ],
+    "steps": [
+      "Informe a empresa sobre a gestação e o afastamento, por escrito.",
+      "Reúna atestado médico e, depois, a certidão de nascimento.",
+      "Se não for empregada, confira como pedir ao INSS."
+    ],
+    "documentsToKeep": [
+      "Documentos pessoais e número do benefício ou protocolo",
+      "Carteira de trabalho e comprovantes de contribuição",
+      "Laudos, atestados e exames, quando houver incapacidade",
+      "Comunicados e decisões do INSS"
+    ],
+    "ifDenied": [
+      "Confira o motivo da decisão por escrito e os canais oficiais de recurso do INSS (confira o canal atual).",
+      "Sindicatos, Defensoria Pública e advogados podem orientar sobre o seu caso.",
+      "Atenção a prazos de recurso informados na própria decisão."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 71"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "71"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 392"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "392"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "TRA-008",
+    "PRE-002"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

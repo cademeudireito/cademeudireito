@@ -47,10 +47,20 @@
       "provisions": [
         "a conferir"
       ],
-      "officialUrl": null,
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
     },
     {
       "name": "Lei nº 13.105/2015 — Código de Processo Civil",
@@ -58,10 +68,20 @@
       "provisions": [
         "a conferir"
       ],
-      "officialUrl": null,
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-03-16;13105",
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2015/lei-13105-2015-03-16.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-03-16;13105",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
     }
   ],
   "relatedArticles": [

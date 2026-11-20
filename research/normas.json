@@ -1,0 +1,279 @@
+{
+  "_comentario": "Registro das normas federais usadas nos conteúdos e onde achá-las no acervo ctresb/leis (pasta federal/<tipo>/<ano>/). O acervo é auxiliar: nada aqui valida vigência.",
+  "normas": {
+    "cf": {
+      "name": "Constituição Federal de 1988",
+      "arquivo": "constituicao.md"
+    },
+    "cdc": {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "tipo": "leis-ordinarias",
+      "numero": 8078,
+      "ano": 1990
+    },
+    "d7962": {
+      "name": "Decreto nº 7.962/2013 (comércio eletrônico)",
+      "tipo": "decretos",
+      "numero": 7962,
+      "ano": 2013
+    },
+    "d2181": {
+      "name": "Decreto nº 2.181/1997 (Sistema Nacional de Defesa do Consumidor)",
+      "tipo": "decretos",
+      "numero": 2181,
+      "ano": 1997
+    },
+    "clt": {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "tipo": "decretos-lei",
+      "numero": 5452,
+      "ano": 1943
+    },
+    "fgts": {
+      "name": "Lei nº 8.036/1990 (FGTS)",
+      "tipo": "leis-ordinarias",
+      "numero": 8036,
+      "ano": 1990
+    },
+    "l4090": {
+      "name": "Lei nº 4.090/1962 (13º salário)",
+      "tipo": "leis-ordinarias",
+      "numero": 4090,
+      "ano": 1962
+    },
+    "l4749": {
+      "name": "Lei nº 4.749/1965 (13º salário — pagamento)",
+      "tipo": "leis-ordinarias",
+      "numero": 4749,
+      "ano": 1965
+    },
+    "l9656": {
+      "name": "Lei nº 9.656/1998 (planos privados de assistência à saúde)",
+      "tipo": "leis-ordinarias",
+      "numero": 9656,
+      "ano": 1998
+    },
+    "l14454": {
+      "name": "Lei nº 14.454/2022",
+      "tipo": "leis-ordinarias",
+      "numero": 14454,
+      "ano": 2022
+    },
+    "l8080": {
+      "name": "Lei nº 8.080/1990 (SUS)",
+      "tipo": "leis-ordinarias",
+      "numero": 8080,
+      "ano": 1990
+    },
+    "l8142": {
+      "name": "Lei nº 8.142/1990 (participação social no SUS)",
+      "tipo": "leis-ordinarias",
+      "numero": 8142,
+      "ano": 1990
+    },
+    "l13787": {
+      "name": "Lei nº 13.787/2018 (prontuário do paciente)",
+      "tipo": "leis-ordinarias",
+      "numero": 13787,
+      "ano": 2018
+    },
+    "lgpd": {
+      "name": "Lei nº 13.709/2018 — Lei Geral de Proteção de Dados (LGPD)",
+      "tipo": "leis-ordinarias",
+      "numero": 13709,
+      "ano": 2018
+    },
+    "mci": {
+      "name": "Lei nº 12.965/2014 — Marco Civil da Internet",
+      "tipo": "leis-ordinarias",
+      "numero": 12965,
+      "ano": 2014
+    },
+    "l8245": {
+      "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
+      "tipo": "leis-ordinarias",
+      "numero": 8245,
+      "ano": 1991
+    },
+    "l10192": {
+      "name": "Lei nº 10.192/2001",
+      "tipo": "leis-ordinarias",
+      "numero": 10192,
+      "ano": 2001
+    },
+    "cc": {
+      "name": "Lei nº 10.406/2002 — Código Civil",
+      "tipo": "leis-ordinarias",
+      "numero": 10406,
+      "ano": 2002
+    },
+    "cpc": {
+      "name": "Lei nº 13.105/2015 — Código de Processo Civil",
+      "tipo": "leis-ordinarias",
+      "numero": 13105,
+      "ano": 2015
+    },
+    "cp": {
+      "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
+      "tipo": "decretos-lei",
+      "numero": 2848,
+      "ano": 1940
+    },
+    "l9870": {
+      "name": "Lei nº 9.870/1999 (mensalidades escolares)",
+      "tipo": "leis-ordinarias",
+      "numero": 9870,
+      "ano": 1999
+    },
+    "ldb": {
+      "name": "Lei nº 9.394/1996 — Lei de Diretrizes e Bases da Educação (LDB)",
+      "tipo": "leis-ordinarias",
+      "numero": 9394,
+      "ano": 1996
+    },
+    "l13460": {
+      "name": "Lei nº 13.460/2017 (defesa dos usuários de serviços públicos)",
+      "tipo": "leis-ordinarias",
+      "numero": 13460,
+      "ano": 2017
+    },
+    "l12527": {
+      "name": "Lei nº 12.527/2011 (Lei de Acesso à Informação)",
+      "tipo": "leis-ordinarias",
+      "numero": 12527,
+      "ano": 2011
+    },
+    "l8213": {
+      "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
+      "tipo": "leis-ordinarias",
+      "numero": 8213,
+      "ano": 1991
+    },
+    "l8212": {
+      "name": "Lei nº 8.212/1991 (custeio da Seguridade Social)",
+      "tipo": "leis-ordinarias",
+      "numero": 8212,
+      "ano": 1991
+    },
+    "loas": {
+      "name": "Lei nº 8.742/1993 (Lei Orgânica da Assistência Social — LOAS)",
+      "tipo": "leis-ordinarias",
+      "numero": 8742,
+      "ano": 1993
+    },
+    "idoso": {
+      "name": "Lei nº 10.741/2003 — Estatuto da Pessoa Idosa",
+      "tipo": "leis-ordinarias",
+      "numero": 10741,
+      "ano": 2003
+    },
+    "lbi": {
+      "name": "Lei nº 13.146/2015 — Lei Brasileira de Inclusão da Pessoa com Deficiência",
+      "tipo": "leis-ordinarias",
+      "numero": 13146,
+      "ano": 2015
+    },
+    "mdp": {
+      "name": "Lei nº 11.340/2006 — Lei Maria da Penha",
+      "tipo": "leis-ordinarias",
+      "numero": 11340,
+      "ano": 2006
+    },
+    "ctb": {
+      "name": "Lei nº 9.503/1997 — Código de Trânsito Brasileiro (CTB)",
+      "tipo": "leis-ordinarias",
+      "numero": 9503,
+      "ano": 1997
+    },
+    "eca": {
+      "name": "Lei nº 8.069/1990 — Estatuto da Criança e do Adolescente (ECA)",
+      "tipo": "leis-ordinarias",
+      "numero": 8069,
+      "ano": 1990
+    },
+    "l5478": {
+      "name": "Lei nº 5.478/1968 (ação de alimentos)",
+      "tipo": "leis-ordinarias",
+      "numero": 5478,
+      "ano": 1968
+    },
+    "l10048": {
+      "name": "Lei nº 10.048/2000 (prioridade de atendimento)",
+      "tipo": "leis-ordinarias",
+      "numero": 10048,
+      "ano": 2000
+    },
+    "l10098": {
+      "name": "Lei nº 10.098/2000 (acessibilidade)",
+      "tipo": "leis-ordinarias",
+      "numero": 10098,
+      "ano": 2000
+    },
+    "l7418": {
+      "name": "Lei nº 7.418/1985 (vale-transporte)",
+      "tipo": "leis-ordinarias",
+      "numero": 7418,
+      "ano": 1985
+    },
+    "l7998": {
+      "name": "Lei nº 7.998/1990 (seguro-desemprego)",
+      "tipo": "leis-ordinarias",
+      "numero": 7998,
+      "ano": 1990
+    },
+    "l14181": {
+      "name": "Lei nº 14.181/2021 (superendividamento)",
+      "tipo": "leis-ordinarias",
+      "numero": 14181,
+      "ano": 2021
+    },
+    "l13786": {
+      "name": "Lei nº 13.786/2018 (distrato de imóvel na planta)",
+      "tipo": "leis-ordinarias",
+      "numero": 13786,
+      "ano": 2018
+    },
+    "l6015": {
+      "name": "Lei nº 6.015/1973 (registros públicos)",
+      "tipo": "leis-ordinarias",
+      "numero": 6015,
+      "ano": 1973
+    },
+    "l9784": {
+      "name": "Lei nº 9.784/1999 (processo administrativo federal)",
+      "tipo": "leis-ordinarias",
+      "numero": 9784,
+      "ano": 1999
+    },
+    "l8899": {
+      "name": "Lei nº 8.899/1994 (passe livre da pessoa com deficiência)",
+      "tipo": "leis-ordinarias",
+      "numero": 8899,
+      "ano": 1994
+    },
+    "l7853": {
+      "name": "Lei nº 7.853/1989 (apoio às pessoas com deficiência)",
+      "tipo": "leis-ordinarias",
+      "numero": 7853,
+      "ano": 1989
+    },
+    "l11108": {
+      "name": "Lei nº 11.108/2005 (acompanhante no parto)",
+      "tipo": "leis-ordinarias",
+      "numero": 11108,
+      "ano": 2005
+    },
+    "lc150": {
+      "name": "Lei Complementar nº 150/2015 (trabalho doméstico)",
+      "tipo": "leis-complementares",
+      "numero": 150,
+      "ano": 2015
+    },
+    "ec103": {
+      "name": "Emenda Constitucional nº 103/2019 (Reforma da Previdência)",
+      "tipo": "emendas-constitucionais",
+      "numero": 103,
+      "ano": 2019
+    }
+  }
+}

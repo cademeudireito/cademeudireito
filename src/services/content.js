@@ -8,6 +8,7 @@ export const REF_STATUSES = ['pending_verification', 'verified', 'changed', 'rev
 export const SPHERES = ['federal', 'estadual', 'distrital', 'municipal'];
 export const ICON_NAMES = [
   'shopping-bag', 'briefcase', 'heart-pulse', 'home', 'shield-phone', 'book-open', 'landmark',
+  'wallet', 'users', 'car', 'shield-heart', 'hourglass', 'accessibility',
 ];
 
 export const STATUS_LABELS = {

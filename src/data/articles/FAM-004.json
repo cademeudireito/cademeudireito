@@ -1,0 +1,119 @@
+{
+  "id": "FAM-004",
+  "slug": "divorcio-como-funciona",
+  "title": "Como funciona o divórcio?",
+  "category": "familia",
+  "summary": "Visão geral das vias para o divórcio e por que filhos, bens e pensão podem exigir orientação.",
+  "keywords": [
+    "divórcio",
+    "separação",
+    "partilha de bens",
+    "cartório",
+    "consensual"
+  ],
+  "synonyms": [
+    "me divorciar",
+    "fim do casamento"
+  ],
+  "quickAnswer": "A Constituição trata da dissolução do casamento pelo divórcio, e a lei processual e civil define os procedimentos. Se há acordo e não há situações que exijam a Justiça, pode haver caminhos mais simples; com filhos menores ou conflito, a análise costuma ser mais detalhada.",
+  "sections": {
+    "explanation": "Bens, guarda, pensão e nome são temas que podem ser tratados juntos. As exigências variam por estado e por situação.",
+    "whenApplies": [
+      "Você está pensando em se divorciar ou quer entender as etapas."
+    ],
+    "exceptions": [
+      "A via em cartório depende de requisitos legais e das normas locais.",
+      "Conflitos exigem decisão judicial."
+    ],
+    "steps": [
+      "Liste bens, dívidas e dados dos filhos.",
+      "Veja se há acordo sobre guarda, pensão e partilha.",
+      "Procure a Defensoria Pública ou advogado para indicar a via adequada."
+    ],
+    "documentsToKeep": [
+      "Certidões de nascimento, casamento ou outras do caso",
+      "Documentos de identificação das partes",
+      "Comprovantes de renda e despesas, quando houver pedido de valores",
+      "Mensagens e provas relacionadas"
+    ],
+    "ifDenied": [
+      "Procure a Defensoria Pública do seu estado ou um advogado: questões de família costumam exigir orientação individual.",
+      "Verifique no tribunal ou cartório da sua cidade os procedimentos e documentos exigidos."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 226"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "226"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 10.406/2002 — Código Civil",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2002/lei-10406-2002-01-10.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 13.105/2015 — Código de Processo Civil",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-03-16;13105",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2015/lei-13105-2015-03-16.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-03-16;13105",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "FAM-001",
+    "FAM-002"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

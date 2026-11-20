@@ -54,7 +54,24 @@
       "officialUrl": null,
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "196",
+          "197",
+          "198",
+          "199",
+          "200",
+          "6"
+        ],
+        "provisionsMissing": []
+      }
     },
     {
       "name": "Lei nº 8.080/1990 (SUS)",
@@ -62,10 +79,20 @@
       "provisions": [
         "a conferir"
       ],
-      "officialUrl": null,
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-19;8080",
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1990/lei-8080-1990-09-19.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-19;8080",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
     },
     {
       "name": "Lei nº 8.142/1990 (participação social no SUS)",
@@ -73,10 +100,20 @@
       "provisions": [
         "a conferir"
       ],
-      "officialUrl": null,
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-28;8142",
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1990/lei-8142-1990-12-28.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-28;8142",
+        "versaoTexto": "original",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
     }
   ],
   "relatedArticles": [

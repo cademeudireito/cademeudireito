@@ -48,10 +48,20 @@
       "provisions": [
         "a conferir"
       ],
-      "officialUrl": null,
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-12-27;13787",
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2018/lei-13787-2018-12-27.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-12-27;13787",
+        "versaoTexto": "original",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
     },
     {
       "name": "Normas do Conselho Federal de Medicina e Código de Ética Médica (a identificar)",
@@ -70,10 +80,20 @@
       "provisions": [
         "a conferir"
       ],
-      "officialUrl": null,
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2018/lei-13709-2018-08-14.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
     }
   ],
   "relatedArticles": [

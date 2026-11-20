@@ -1,0 +1,98 @@
+{
+  "id": "FAM-005",
+  "slug": "registro-de-nascimento",
+  "title": "Como fazer o registro de nascimento?",
+  "category": "familia",
+  "summary": "O que saber sobre registro de nascimento e a primeira certidão: onde fazer e o que levar.",
+  "keywords": [
+    "registro de nascimento",
+    "certidão de nascimento",
+    "cartório",
+    "gratuidade",
+    "registro civil"
+  ],
+  "synonyms": [
+    "registrar filho",
+    "primeira certidão"
+  ],
+  "quickAnswer": "O registro de nascimento é feito no cartório de registro civil, conforme a Lei de Registros Públicos. A Constituição garante a gratuidade do registro civil de nascimento aos reconhecidamente pobres, e a primeira certidão tem regras próprias de gratuidade. Confira os documentos exigidos no cartório da sua cidade.",
+  "sections": {
+    "explanation": "Os documentos exigidos variam conforme o caso, como pais casados ou não e nascimento em hospital ou em casa.",
+    "whenApplies": [
+      "Nasceu uma criança, ou alguém nunca foi registrado."
+    ],
+    "exceptions": [
+      "Os prazos e as regras variam conforme o caso e a localidade.",
+      "Casos de reconhecimento de paternidade têm procedimentos específicos."
+    ],
+    "steps": [
+      "Reúna a declaração de nascido vivo e os documentos dos pais.",
+      "Procure o cartório de registro civil mais próximo.",
+      "Guarde a primeira certidão com cuidado."
+    ],
+    "documentsToKeep": [
+      "Certidões de nascimento, casamento ou outras do caso",
+      "Documentos de identificação das partes",
+      "Comprovantes de renda e despesas, quando houver pedido de valores",
+      "Mensagens e provas relacionadas"
+    ],
+    "ifDenied": [
+      "Procure a Defensoria Pública do seu estado ou um advogado: questões de família costumam exigir orientação individual.",
+      "Verifique no tribunal ou cartório da sua cidade os procedimentos e documentos exigidos."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 6.015/1973 (registros públicos)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1973-12-31;6015",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1973/lei-6015-1973-12-31.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1973-12-31;6015",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 5º, LXXVI"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "5"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "FAM-002",
+    "FAM-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

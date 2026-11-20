@@ -1,0 +1,87 @@
+{
+  "id": "TRN-001",
+  "slug": "multa-de-transito-como-recorrer",
+  "title": "Recebi uma multa de trânsito: posso recorrer?",
+  "category": "transito",
+  "summary": "Como a multa é aplicada e por que a notificação traz os prazos e canais de defesa.",
+  "keywords": [
+    "multa",
+    "recurso de multa",
+    "defesa prévia",
+    "auto de infração",
+    "DETRAN"
+  ],
+  "synonyms": [
+    "multa injusta",
+    "contestar multa",
+    "notificação de penalidade"
+  ],
+  "quickAnswer": "O Código de Trânsito Brasileiro prevê auto de infração, defesa prévia e, depois, notificação da penalidade e recursos. Os prazos e os canais constam na própria notificação, e perder o prazo pode prejudicar a defesa.",
+  "sections": {
+    "explanation": "O auto de infração deve conter dados mínimos. Erros nele podem ser alegados na defesa, mas isso depende do caso.",
+    "whenApplies": [
+      "Você recebeu auto de infração ou notificação de penalidade."
+    ],
+    "exceptions": [
+      "Os procedimentos variam conforme o órgão autuador (estadual, municipal ou federal).",
+      "Nem toda multa tem fundamento para cancelamento."
+    ],
+    "steps": [
+      "Leia a notificação e anote os prazos.",
+      "Reúna documento do veículo, CNH e provas (fotos, vídeos).",
+      "Apresente a defesa pelo canal oficial do órgão autuador."
+    ],
+    "documentsToKeep": [
+      "Notificação, auto de infração ou boletim de ocorrência",
+      "Documento do veículo e CNH",
+      "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+    ],
+    "ifDenied": [
+      "Siga as instruções e os prazos da própria notificação e do órgão de trânsito competente.",
+      "Para dúvidas sobre o caso, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 9.503/1997 — Código de Trânsito Brasileiro (CTB)",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 280 a 290"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1997/lei-9503-1997-09-23.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "280",
+          "281",
+          "282",
+          "283",
+          "284",
+          "285",
+          "286",
+          "287",
+          "288",
+          "289",
+          "290"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "TRN-003",
+    "TRN-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

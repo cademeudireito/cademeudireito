@@ -6,8 +6,8 @@ import { validateContent, buildPublicContent, filterPublic } from '../src/servic
 const data = load();
 
 test('conteúdo atual é válido', () => assert.deepEqual(validateContent(data).errors, []));
-test('30 assuntos cadastrados, todos rascunho', () => {
-  assert.equal(data.articles.length, 30);
+test('assuntos cadastrados estão todos em rascunho', () => {
+  assert.ok(data.articles.length >= 30);
   assert.ok(data.articles.every((a) => a.status === 'draft' && a.reviewStatus === 'pending_review' && a.lastReviewed === null));
 });
 test('modo estrito não contém rascunhos', () => {

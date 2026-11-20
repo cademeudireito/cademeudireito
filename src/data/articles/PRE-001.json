@@ -1,0 +1,79 @@
+{
+  "id": "PRE-001",
+  "slug": "auxilio-por-doenca-incapacidade",
+  "title": "Fiquei doente e não consigo trabalhar: existe auxílio?",
+  "category": "previdencia",
+  "summary": "Como funciona, em linhas gerais, o benefício por incapacidade temporária para quem contribui à Previdência.",
+  "keywords": [
+    "auxílio-doença",
+    "incapacidade",
+    "INSS",
+    "afastamento",
+    "perícia"
+  ],
+  "synonyms": [
+    "benefício por doença",
+    "atestado médico longo",
+    "encostar no INSS"
+  ],
+  "quickAnswer": "A lei prevê benefício para o segurado da Previdência que fica incapacitado para o trabalho por mais de 15 dias consecutivos, observada a carência quando exigida. Se você tem direito depende da sua condição de segurado, do tempo de contribuição e de avaliação do INSS.",
+  "sections": {
+    "explanation": "O benefício exige, em geral, qualidade de segurado, carência (quando for o caso) e comprovação da incapacidade, normalmente por perícia. Os nomes e as regras mudaram ao longo do tempo, então confira a redação vigente.",
+    "whenApplies": [
+      "Você contribui ou contribuiu ao INSS e está impossibilitado de trabalhar por doença ou acidente."
+    ],
+    "exceptions": [
+      "Carência, qualidade de segurado e tipo de vínculo mudam o resultado.",
+      "Nos primeiros dias de afastamento, quem paga pode ser o empregador; confira a regra vigente."
+    ],
+    "steps": [
+      "Guarde atestados, laudos e exames com datas.",
+      "Confira sua situação de contribuição pelos canais oficiais do INSS.",
+      "Siga as instruções para pedido e perícia informadas pelo canal oficial."
+    ],
+    "documentsToKeep": [
+      "Documentos pessoais e número do benefício ou protocolo",
+      "Carteira de trabalho e comprovantes de contribuição",
+      "Laudos, atestados e exames, quando houver incapacidade",
+      "Comunicados e decisões do INSS"
+    ],
+    "ifDenied": [
+      "Confira o motivo da decisão por escrito e os canais oficiais de recurso do INSS (confira o canal atual).",
+      "Sindicatos, Defensoria Pública e advogados podem orientar sobre o seu caso.",
+      "Atenção a prazos de recurso informados na própria decisão."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 59"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "59"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PRE-006",
+    "TRA-009"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

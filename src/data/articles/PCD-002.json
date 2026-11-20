@@ -1,0 +1,76 @@
+{
+  "id": "PCD-002",
+  "slug": "cotas-de-emprego-pessoa-com-deficiencia",
+  "title": "Empresas precisam contratar pessoas com deficiência?",
+  "category": "pessoa-com-deficiencia",
+  "summary": "A regra de reserva de vagas em empresas com 100 ou mais empregados, segundo a lei previdenciária.",
+  "keywords": [
+    "cota de deficiência",
+    "vagas para PcD",
+    "emprego",
+    "reabilitados",
+    "empresa"
+  ],
+  "synonyms": [
+    "lei de cotas",
+    "contratação de pessoa com deficiência"
+  ],
+  "quickAnswer": "A Lei 8.213/1991 obriga a empresa com 100 ou mais empregados a preencher de 2% a 5% dos cargos com beneficiários reabilitados ou pessoas com deficiência habilitadas, na proporção que a lei define. As condições e a fiscalização devem ser conferidas.",
+  "sections": {
+    "explanation": "A proporção depende do número total de empregados. A empresa pode ser fiscalizada pelos órgãos do trabalho.",
+    "whenApplies": [
+      "Você procura emprego e quer saber como a lei trata a reserva de vagas."
+    ],
+    "exceptions": [
+      "Empresas com menos de 100 empregados não estão nessa regra.",
+      "Conferir como a deficiência deve ser comprovada."
+    ],
+    "steps": [
+      "Reúna laudos e documentos de comprovação.",
+      "Procure vagas indicadas como afirmativas ou serviços de apoio ao emprego da sua cidade.",
+      "Em caso de discriminação, registre a situação e procure órgãos de proteção."
+    ],
+    "documentsToKeep": [
+      "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
+      "Protocolos, comunicados e respostas recebidas",
+      "Fotos ou registros da barreira ou da recusa"
+    ],
+    "ifDenied": [
+      "Procure a ouvidoria do órgão ou empresa responsável.",
+      "Verifique os canais oficiais de defesa da pessoa com deficiência na sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 93"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "93"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PCD-001",
+    "PCD-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

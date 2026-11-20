@@ -50,10 +50,25 @@
       "provisions": [
         "arts. 2º, 3º, 9º, 29 e correlatos"
       ],
-      "officialUrl": null,
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "2",
+          "3",
+          "9",
+          "29"
+        ],
+        "provisionsMissing": []
+      }
     }
   ],
   "relatedArticles": [

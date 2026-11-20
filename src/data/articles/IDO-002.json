@@ -1,0 +1,75 @@
+{
+  "id": "IDO-002",
+  "slug": "gratuidade-transporte-coletivo-idosos",
+  "title": "Tenho direito a transporte coletivo gratuito?",
+  "category": "idosos",
+  "summary": "O que o Estatuto da Pessoa Idosa diz sobre a gratuidade nos transportes coletivos públicos.",
+  "keywords": [
+    "transporte gratuito",
+    "ônibus",
+    "65 anos",
+    "passe livre",
+    "gratuidade"
+  ],
+  "synonyms": [
+    "idoso ônibus de graça",
+    "carteira do idoso"
+  ],
+  "quickAnswer": "O Estatuto assegura aos maiores de 65 anos a gratuidade dos transportes coletivos públicos urbanos e semi-urbanos, exceto nos serviços seletivos e especiais prestados paralelamente aos regulares. Regras locais sobre cadastro e documento podem variar.",
+  "sections": {
+    "explanation": "A gratuidade é prevista na lei federal, mas a forma de comprovar a idade e de obter cartão ou identificação é definida em cada localidade.",
+    "whenApplies": [
+      "Você tem mais de 65 anos e usa transporte coletivo urbano ou semi-urbano."
+    ],
+    "exceptions": [
+      "Serviços seletivos e especiais ficam fora da regra geral.",
+      "Transporte interestadual tem regras próprias; confira."
+    ],
+    "steps": [
+      "Verifique no órgão de transporte da sua cidade como obter o cartão ou o registro.",
+      "Leve documento oficial com foto.",
+      "Em caso de recusa, registre reclamação na ouvidoria da empresa ou do órgão."
+    ],
+    "documentsToKeep": [
+      "Documento de identificação e comprovante de idade",
+      "Contratos, boletos e comunicados relacionados",
+      "Protocolos e registros de atendimento"
+    ],
+    "ifDenied": [
+      "Procure a ouvidoria da empresa ou do órgão responsável.",
+      "Verifique os canais oficiais de proteção à pessoa idosa da sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 10.741/2003 — Estatuto da Pessoa Idosa",
+      "sphere": "federal",
+      "provisions": [
+        "art. 39"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2003/lei-10741-2003-10-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "39"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "IDO-001"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

@@ -54,7 +54,19 @@
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
       "status": "pending_verification",
       "checkedAt": null,
-      "notes": "Conferir requisitos da repetição do indébito."
+      "notes": "Conferir requisitos da repetição do indébito.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-11;8078",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "42"
+        ],
+        "provisionsMissing": []
+      }
     },
     {
       "name": "Jurisprudência relevante (STJ/tribunais) — a pesquisar",

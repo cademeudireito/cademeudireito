@@ -1,0 +1,78 @@
+{
+  "id": "PRE-003",
+  "slug": "bpc-beneficio-assistencial",
+  "title": "O que é o BPC (benefício assistencial)?",
+  "category": "previdencia",
+  "summary": "Benefício de um salário-mínimo para pessoa idosa ou com deficiência em situação de baixa renda: noções gerais.",
+  "keywords": [
+    "BPC",
+    "LOAS",
+    "benefício assistencial",
+    "baixa renda",
+    "CadÚnico"
+  ],
+  "synonyms": [
+    "benefício de prestação continuada",
+    "amparo assistencial"
+  ],
+  "quickAnswer": "O BPC é a garantia de um salário-mínimo mensal à pessoa com deficiência e ao idoso com 65 anos ou mais que comprovem não ter meios de se manter nem de ser mantidos pela família. Não exige contribuição ao INSS, mas há critérios de renda e avaliação que precisam ser conferidos.",
+  "sections": {
+    "explanation": "É um benefício de assistência social, não uma aposentadoria. A lei define quem é a família considerada e a forma de avaliar a renda e a deficiência.",
+    "whenApplies": [
+      "Você, ou alguém da sua família, é idoso (65 anos ou mais) ou tem deficiência e tem baixa renda."
+    ],
+    "exceptions": [
+      "Critérios de renda e composição familiar mudam com alterações legais; confira a regra vigente.",
+      "O benefício não gera 13º nem pensão, entre outras diferenças."
+    ],
+    "steps": [
+      "Verifique se a família está inscrita no Cadastro Único e se os dados estão atualizados.",
+      "Reúna documentos pessoais, comprovantes de renda e, se for o caso, laudos.",
+      "Peça o benefício pelos canais oficiais do INSS."
+    ],
+    "documentsToKeep": [
+      "Documentos pessoais e número do benefício ou protocolo",
+      "Carteira de trabalho e comprovantes de contribuição",
+      "Laudos, atestados e exames, quando houver incapacidade",
+      "Comunicados e decisões do INSS"
+    ],
+    "ifDenied": [
+      "Confira o motivo da decisão por escrito e os canais oficiais de recurso do INSS (confira o canal atual).",
+      "Sindicatos, Defensoria Pública e advogados podem orientar sobre o seu caso.",
+      "Atenção a prazos de recurso informados na própria decisão."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.742/1993 (Lei Orgânica da Assistência Social — LOAS)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 20"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-12-07;8742",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1993/lei-8742-1993-12-07.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-12-07;8742",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "20"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PCD-004",
+    "IDO-001"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

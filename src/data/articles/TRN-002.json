@@ -1,0 +1,77 @@
+{
+  "id": "TRN-002",
+  "slug": "acidente-de-transito-o-que-fazer",
+  "title": "Me envolvi em um acidente de trânsito: o que fazer?",
+  "category": "transito",
+  "summary": "Cuidados gerais após um acidente: socorro, registro e provas. Responsabilidade depende do caso.",
+  "keywords": [
+    "acidente de trânsito",
+    "colisão",
+    "boletim de ocorrência",
+    "socorro",
+    "seguro"
+  ],
+  "synonyms": [
+    "bati o carro",
+    "fui atingido",
+    "acidente com vítima"
+  ],
+  "quickAnswer": "Se houver vítima, o socorro é prioridade, e a lei trata como infração deixar de prestar socorro quando possível fazê-lo. Depois, registre o acidente e guarde provas. Quem responde pelos danos depende de análise do caso.",
+  "sections": {
+    "explanation": "Fotos, dados dos envolvidos e testemunhas ajudam a esclarecer o ocorrido. O registro de ocorrência segue as regras locais.",
+    "whenApplies": [
+      "Você participou de um acidente com danos ou vítimas."
+    ],
+    "exceptions": [
+      "Acidentes com vítimas têm consequências específicas.",
+      "O seguro do veículo e outros seguros têm regras próprias."
+    ],
+    "steps": [
+      "Se houver feridos, chame socorro pelos canais de emergência.",
+      "Fotografe a cena, os veículos e anote dados das pessoas e testemunhas.",
+      "Registre a ocorrência e avise a seguradora, se houver."
+    ],
+    "documentsToKeep": [
+      "Notificação, auto de infração ou boletim de ocorrência",
+      "Documento do veículo e CNH",
+      "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+    ],
+    "ifDenied": [
+      "Siga as instruções e os prazos da própria notificação e do órgão de trânsito competente.",
+      "Para dúvidas sobre o caso, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 9.503/1997 — Código de Trânsito Brasileiro (CTB)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 176"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1997/lei-9503-1997-09-23.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "176"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "TRN-001",
+    "TRN-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "IDO-004",
+  "slug": "maus-tratos-e-abandono-de-idosos",
+  "title": "Uma pessoa idosa está sendo maltratada ou abandonada",
+  "category": "idosos",
+  "summary": "Como a lei trata abandono e maus-tratos contra pessoas idosas e onde levar a situação.",
+  "keywords": [
+    "maus-tratos",
+    "abandono de idoso",
+    "violência contra idoso",
+    "denúncia",
+    "Estatuto"
+  ],
+  "synonyms": [
+    "idoso abandonado",
+    "violência com idoso",
+    "abuso financeiro"
+  ],
+  "quickAnswer": "O Estatuto da Pessoa Idosa prevê crimes como o abandono em hospitais ou instituições e a falta de provisão das necessidades básicas quando há obrigação. Se há risco, procure a polícia ou o serviço de emergência. Para denunciar e buscar proteção, use os canais oficiais atuais.",
+  "sections": {
+    "explanation": "A proteção alcança maus-tratos físicos e psicológicos, negligência e abuso financeiro. A denúncia pode ser feita por qualquer pessoa.",
+    "whenApplies": [
+      "Você conhece uma pessoa idosa em situação de abandono, violência ou exploração."
+    ],
+    "exceptions": [
+      "O enquadramento depende dos fatos e é feito pelas autoridades."
+    ],
+    "steps": [
+      "Se houver risco imediato, acione a polícia ou a emergência.",
+      "Anote datas, locais e fatos e guarde provas.",
+      "Procure o Ministério Público, a Defensoria Pública ou os canais oficiais de proteção à pessoa idosa."
+    ],
+    "documentsToKeep": [
+      "Documento de identificação e comprovante de idade",
+      "Contratos, boletos e comunicados relacionados",
+      "Protocolos e registros de atendimento"
+    ],
+    "ifDenied": [
+      "Procure a ouvidoria da empresa ou do órgão responsável.",
+      "Verifique os canais oficiais de proteção à pessoa idosa da sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 10.741/2003 — Estatuto da Pessoa Idosa",
+      "sphere": "federal",
+      "provisions": [
+        "art. 98"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2003/lei-10741-2003-10-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "98"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "IDO-001",
+    "IDO-005"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

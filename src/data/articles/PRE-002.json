@@ -1,0 +1,122 @@
+{
+  "id": "PRE-002",
+  "slug": "aposentadoria-regras-gerais",
+  "title": "Quero entender como funciona a aposentadoria",
+  "category": "previdencia",
+  "summary": "Visão geral de por que as regras de aposentadoria variam e por onde começar a conferir as suas.",
+  "keywords": [
+    "aposentadoria",
+    "tempo de contribuição",
+    "idade mínima",
+    "reforma da previdência",
+    "regras de transição"
+  ],
+  "synonyms": [
+    "quando posso me aposentar",
+    "aposentar por idade",
+    "INSS aposentadoria"
+  ],
+  "quickAnswer": "As regras de aposentadoria dependem de idade, tempo de contribuição, data de filiação e de regras de transição criadas pela Emenda Constitucional 103/2019. Não dá para responder com um número único: é preciso conferir o seu histórico no canal oficial do INSS.",
+  "sections": {
+    "explanation": "A Constituição e a legislação previdenciária definem as modalidades. Quem já contribuía antes da reforma pode ter regras de transição; quem entrou depois segue as regras permanentes.",
+    "whenApplies": [
+      "Você quer saber como se aposentar ou se falta muito para isso."
+    ],
+    "exceptions": [
+      "Servidores públicos podem ter regime próprio.",
+      "Atividades especiais e outras situações têm regras específicas."
+    ],
+    "steps": [
+      "Reúna carteira de trabalho e comprovantes de contribuição.",
+      "Consulte seu extrato de contribuições pelos canais oficiais.",
+      "Peça simulação ou orientação ao INSS ou a um profissional de confiança."
+    ],
+    "documentsToKeep": [
+      "Documentos pessoais e número do benefício ou protocolo",
+      "Carteira de trabalho e comprovantes de contribuição",
+      "Laudos, atestados e exames, quando houver incapacidade",
+      "Comunicados e decisões do INSS"
+    ],
+    "ifDenied": [
+      "Confira o motivo da decisão por escrito e os canais oficiais de recurso do INSS (confira o canal atual).",
+      "Sindicatos, Defensoria Pública e advogados podem orientar sobre o seu caso.",
+      "Atenção a prazos de recurso informados na própria decisão."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 201"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "201"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Emenda Constitucional nº 103/2019 (Reforma da Previdência)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/emendas-constitucionais/2019/emc-103-2019-11-12.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103",
+        "versaoTexto": "original",
+        "revogada": false,
+        "baixadoEm": "2026-10-15",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PRE-001",
+    "PRE-004",
+    "IDO-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

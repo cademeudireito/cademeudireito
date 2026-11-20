@@ -1,0 +1,95 @@
+{
+  "id": "PCD-001",
+  "slug": "acessibilidade-direitos-basicos",
+  "title": "O que a lei diz sobre acessibilidade?",
+  "category": "pessoa-com-deficiencia",
+  "summary": "Panorama sobre acessibilidade em espaços, transportes e serviços e onde reclamar de barreiras.",
+  "keywords": [
+    "acessibilidade",
+    "barreiras",
+    "rampa",
+    "inclusão",
+    "Lei Brasileira de Inclusão"
+  ],
+  "synonyms": [
+    "prédio sem rampa",
+    "barreira de acesso",
+    "sem acessibilidade"
+  ],
+  "quickAnswer": "A legislação brasileira estabelece normas gerais e critérios para a promoção da acessibilidade e a Lei Brasileira de Inclusão assegura direitos à pessoa com deficiência. As obrigações variam conforme o tipo de espaço, serviço e a data de construção ou reforma.",
+  "sections": {
+    "explanation": "Barreiras podem ser arquitetônicas, de comunicação, de transporte ou de atitude. Há normas técnicas que detalham as medidas.",
+    "whenApplies": [
+      "Você enfrentou uma barreira em local público, serviço ou transporte."
+    ],
+    "exceptions": [
+      "Prazos de adaptação e exceções dependem do tipo de edificação e da norma aplicável."
+    ],
+    "steps": [
+      "Registre a barreira com fotos e descreva o problema.",
+      "Comunique o responsável pelo local ou serviço por escrito.",
+      "Se não resolver, procure a ouvidoria, o Ministério Público ou a Defensoria Pública."
+    ],
+    "documentsToKeep": [
+      "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
+      "Protocolos, comunicados e respostas recebidas",
+      "Fotos ou registros da barreira ou da recusa"
+    ],
+    "ifDenied": [
+      "Procure a ouvidoria do órgão ou empresa responsável.",
+      "Verifique os canais oficiais de defesa da pessoa com deficiência na sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 10.098/2000 (acessibilidade)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2000-12-19;10098",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2000/lei-10098-2000-12-19.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2000-12-19;10098",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 13.146/2015 — Lei Brasileira de Inclusão da Pessoa com Deficiência",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-07-06;13146",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2015/lei-13146-2015-07-06.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-07-06;13146",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PCD-002",
+    "PCD-003"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

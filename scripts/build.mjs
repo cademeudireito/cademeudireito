@@ -28,7 +28,7 @@ await cp(path.join(ROOT, 'public'), OUT, { recursive: true });
 const includeDrafts = !strict && site0.draftVisibility === 'show';
 const pub = buildPublicContent(data, { includeDrafts });
 // Notas internas de revisão nunca vão ao site.
-pub.articles = pub.articles.map(({ reviewNotes, ...rest }) => rest);
+pub.articles = pub.articles.map(({ reviewNotes, ...rest }) => ({ ...rest, legalReferences: rest.legalReferences.map(({ research, ...r }) => r) }));
 pub.guides = pub.guides.map(({ reviewNotes, ...rest }) => rest);
 const content = { includeDrafts, site: data.site, ...pub };
 await mkdir(path.join(OUT, 'data'), { recursive: true });

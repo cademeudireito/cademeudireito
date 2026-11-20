@@ -1,0 +1,89 @@
+{
+  "id": "FAM-003",
+  "slug": "uniao-estavel",
+  "title": "O que é união estável e quais efeitos ela tem?",
+  "category": "familia",
+  "summary": "Noções sobre como a lei reconhece a união estável e por que vale formalizar e conferir efeitos.",
+  "keywords": [
+    "união estável",
+    "convivência",
+    "contrato de convivência",
+    "partilha",
+    "companheiro"
+  ],
+  "synonyms": [
+    "moramos juntos",
+    "companheira",
+    "casamento ou união estável"
+  ],
+  "quickAnswer": "O Código Civil reconhece como entidade familiar a união estável, configurada na convivência pública, contínua e duradoura, com o objetivo de constituir família. Os efeitos (patrimônio, herança, pensão) dependem do caso e de eventual contrato.",
+  "sections": {
+    "explanation": "Não há exigência de tempo mínimo na lei, mas é preciso demonstrar os requisitos. Formalizar por escrito ajuda a evitar dúvidas.",
+    "whenApplies": [
+      "Você vive com uma pessoa em convivência de família e quer entender direitos e formalização."
+    ],
+    "exceptions": [
+      "Efeitos patrimoniais e sucessórios têm detalhes a conferir.",
+      "Os tribunais interpretam o conceito de forma ampla; confirme o entendimento atual."
+    ],
+    "steps": [
+      "Reúna provas da convivência (documentos, contas, fotos).",
+      "Converse sobre formalização em cartório ou com advogado.",
+      "Guarde cópias de qualquer contrato assinado."
+    ],
+    "documentsToKeep": [
+      "Certidões de nascimento, casamento ou outras do caso",
+      "Documentos de identificação das partes",
+      "Comprovantes de renda e despesas, quando houver pedido de valores",
+      "Mensagens e provas relacionadas"
+    ],
+    "ifDenied": [
+      "Procure a Defensoria Pública do seu estado ou um advogado: questões de família costumam exigir orientação individual.",
+      "Verifique no tribunal ou cartório da sua cidade os procedimentos e documentos exigidos."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 10.406/2002 — Código Civil",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1.723"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2002/lei-10406-2002-01-10.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "1723"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Jurisprudência relevante (STJ/tribunais) — a pesquisar",
+      "sphere": "federal",
+      "provisions": [
+        "a pesquisar"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
+    }
+  ],
+  "relatedArticles": [
+    "FAM-004",
+    "PRE-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

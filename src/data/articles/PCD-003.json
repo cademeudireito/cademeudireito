@@ -1,0 +1,72 @@
+{
+  "id": "PCD-003",
+  "slug": "passe-livre-transporte-interestadual",
+  "title": "Tenho direito a passe livre em viagens interestaduais?",
+  "category": "pessoa-com-deficiencia",
+  "summary": "Noções sobre a Lei 8.899/1994, que cria o passe livre no transporte coletivo interestadual.",
+  "keywords": [
+    "passe livre",
+    "transporte interestadual",
+    "deficiência",
+    "ônibus",
+    "gratuidade"
+  ],
+  "synonyms": [
+    "viagem gratuita pessoa com deficiência"
+  ],
+  "quickAnswer": "A Lei 8.899/1994 concede passe livre às pessoas portadoras de deficiência, comprovadamente carentes, no sistema de transporte coletivo interestadual. Os requisitos e o procedimento de cadastro estão em regulamento e precisam ser conferidos.",
+  "sections": {
+    "explanation": "O direito depende de comprovação de deficiência e de condição de carência, e há procedimento de solicitação do documento.",
+    "whenApplies": [
+      "Você precisa viajar entre estados e quer saber se tem direito à gratuidade."
+    ],
+    "exceptions": [
+      "Regras de regulamentação e de cadastro mudam; confira o procedimento atual."
+    ],
+    "steps": [
+      "Reúna documento de identidade e laudos exigidos.",
+      "Confira o procedimento oficial de solicitação do documento.",
+      "Guarde o protocolo do pedido."
+    ],
+    "documentsToKeep": [
+      "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
+      "Protocolos, comunicados e respostas recebidas",
+      "Fotos ou registros da barreira ou da recusa"
+    ],
+    "ifDenied": [
+      "Procure a ouvidoria do órgão ou empresa responsável.",
+      "Verifique os canais oficiais de defesa da pessoa com deficiência na sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.899/1994 (passe livre da pessoa com deficiência)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1994-06-29;8899",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1994/lei-8899-1994-06-29.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1994-06-29;8899",
+        "versaoTexto": "original",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PCD-001",
+    "PCD-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

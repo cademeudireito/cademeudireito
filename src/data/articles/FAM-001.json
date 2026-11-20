@@ -1,0 +1,99 @@
+{
+  "id": "FAM-001",
+  "slug": "pensao-alimenticia",
+  "title": "Preciso pedir ou revisar pensão alimentícia",
+  "category": "familia",
+  "summary": "Noções gerais sobre pensão alimentícia: quem pode pedir, como é definida e onde buscar ajuda.",
+  "keywords": [
+    "pensão alimentícia",
+    "alimentos",
+    "filhos",
+    "revisão de pensão",
+    "Defensoria"
+  ],
+  "synonyms": [
+    "pensão dos filhos",
+    "pensão atrasada",
+    "pagar pensão"
+  ],
+  "quickAnswer": "O Código Civil prevê que parentes, cônjuges ou companheiros podem pedir alimentos para viver de modo compatível com sua condição social, inclusive educação. O valor considera a necessidade de quem recebe e a possibilidade de quem paga, e muda conforme o caso.",
+  "sections": {
+    "explanation": "Há uma lei específica sobre a ação de alimentos. O valor pode ser revisto se a situação mudar. Em geral, é indicado buscar a Defensoria Pública ou advogado.",
+    "whenApplies": [
+      "Você precisa pedir pensão, revisar o valor ou tem dúvida sobre atraso no pagamento."
+    ],
+    "exceptions": [
+      "Cada caso depende da necessidade e da possibilidade das partes.",
+      "Não há um percentual único válido para todos os casos."
+    ],
+    "steps": [
+      "Reúna certidão de nascimento e comprovantes de despesas.",
+      "Reúna o que souber sobre a renda de quem deve pagar.",
+      "Procure a Defensoria Pública ou um advogado para o pedido."
+    ],
+    "documentsToKeep": [
+      "Certidões de nascimento, casamento ou outras do caso",
+      "Documentos de identificação das partes",
+      "Comprovantes de renda e despesas, quando houver pedido de valores",
+      "Mensagens e provas relacionadas"
+    ],
+    "ifDenied": [
+      "Procure a Defensoria Pública do seu estado ou um advogado: questões de família costumam exigir orientação individual.",
+      "Verifique no tribunal ou cartório da sua cidade os procedimentos e documentos exigidos."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 10.406/2002 — Código Civil",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1.694"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2002/lei-10406-2002-01-10.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "1694"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 5.478/1968 (ação de alimentos)",
+      "sphere": "federal",
+      "provisions": [
+        "a conferir"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1968-07-25;5478",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1968/lei-5478-1968-07-25.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1968-07-25;5478",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "FAM-002",
+    "FAM-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

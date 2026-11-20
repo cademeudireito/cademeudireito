@@ -1,0 +1,80 @@
+{
+  "id": "MUL-001",
+  "slug": "violencia-domestica-o-que-e",
+  "title": "O que a lei considera violência doméstica contra a mulher?",
+  "category": "mulheres",
+  "summary": "As formas de violência doméstica e familiar previstas na Lei Maria da Penha, em linguagem simples.",
+  "keywords": [
+    "violência doméstica",
+    "Lei Maria da Penha",
+    "violência psicológica",
+    "violência patrimonial",
+    "agressão"
+  ],
+  "synonyms": [
+    "meu marido me agride",
+    "ameaça em casa",
+    "controle e humilhação"
+  ],
+  "quickAnswer": "A Lei Maria da Penha considera violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial. Violência não é só física: pode ser psicológica, sexual, patrimonial e moral.",
+  "sections": {
+    "explanation": "A lei lista, entre outras, as formas de violência (art. 7º). A proteção vale em âmbito doméstico, familiar ou em relação íntima de afeto.",
+    "whenApplies": [
+      "Você sofre ou conhece alguém que sofre ofensas, ameaças, controle, agressões ou limitações ao uso do seu dinheiro e bens."
+    ],
+    "exceptions": [
+      "Se houver risco imediato, a prioridade é a segurança: procure a polícia ou o serviço de emergência."
+    ],
+    "steps": [
+      "Se estiver em perigo, procure um lugar seguro e acione a polícia ou o serviço de emergência.",
+      "Guarde registros (mensagens, fotos, laudos) em local seguro.",
+      "Procure a rede oficial de atendimento à mulher para orientação."
+    ],
+    "documentsToKeep": [
+      "Registros de mensagens, ligações e áudios",
+      "Fotos de lesões ou danos, laudos e atendimentos",
+      "Nomes de testemunhas e datas dos fatos",
+      "Número do registro de ocorrência, se houver"
+    ],
+    "ifDenied": [
+      "Se houver risco imediato, procure a polícia ou o serviço de emergência pelo canal oficial.",
+      "Procure a rede oficial de atendimento à mulher da sua cidade ou estado (confira os canais atuais), a Defensoria Pública ou o Ministério Público.",
+      "Você não precisa enfrentar isso sozinha: peça ajuda a alguém de confiança."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 11.340/2006 — Lei Maria da Penha",
+      "sphere": "federal",
+      "provisions": [
+        "art. 5º",
+        "art. 7º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2006/lei-11340-2006-08-07.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "5",
+          "7"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "MUL-002",
+    "MUL-004"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

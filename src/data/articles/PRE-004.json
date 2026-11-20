@@ -1,0 +1,78 @@
+{
+  "id": "PRE-004",
+  "slug": "pensao-por-morte",
+  "title": "Quem pode receber pensão por morte?",
+  "category": "previdencia",
+  "summary": "Noções gerais sobre pensão por morte do segurado e por que dependentes e prazos precisam ser conferidos.",
+  "keywords": [
+    "pensão por morte",
+    "dependentes",
+    "viúva",
+    "viúvo",
+    "INSS"
+  ],
+  "synonyms": [
+    "pensão do falecido",
+    "morreu quem sustentava a família"
+  ],
+  "quickAnswer": "A pensão por morte é devida ao conjunto dos dependentes do segurado que falecer, aposentado ou não. Quem é dependente, a duração e o valor variam conforme a legislação vigente e o caso.",
+  "sections": {
+    "explanation": "É importante pedir o benefício com os documentos corretos e conferir a data a partir da qual ele é devido, pois isso pode depender de quando o pedido foi feito.",
+    "whenApplies": [
+      "Faleceu alguém que contribuía ou recebia benefício do INSS e você era dependente."
+    ],
+    "exceptions": [
+      "A condição de dependente e o tempo de duração dependem de regras específicas.",
+      "Há regras diferentes para servidores públicos."
+    ],
+    "steps": [
+      "Reúna certidão de óbito e documentos que comprovem a relação com o falecido.",
+      "Confira o prazo e a forma de pedido nos canais oficiais.",
+      "Guarde o protocolo do pedido."
+    ],
+    "documentsToKeep": [
+      "Documentos pessoais e número do benefício ou protocolo",
+      "Carteira de trabalho e comprovantes de contribuição",
+      "Laudos, atestados e exames, quando houver incapacidade",
+      "Comunicados e decisões do INSS"
+    ],
+    "ifDenied": [
+      "Confira o motivo da decisão por escrito e os canais oficiais de recurso do INSS (confira o canal atual).",
+      "Sindicatos, Defensoria Pública e advogados podem orientar sobre o seu caso.",
+      "Atenção a prazos de recurso informados na própria decisão."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 74"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "74"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "PRE-002",
+    "PRE-006"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}

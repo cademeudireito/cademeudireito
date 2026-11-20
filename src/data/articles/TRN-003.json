@@ -1,0 +1,74 @@
+{
+  "id": "TRN-003",
+  "slug": "pontos-na-cnh",
+  "title": "Como funcionam os pontos na CNH?",
+  "category": "transito",
+  "summary": "Noções sobre a contagem de pontos por infração e por que a regra de suspensão deve ser conferida.",
+  "keywords": [
+    "pontos na CNH",
+    "suspensão da CNH",
+    "carteira de motorista",
+    "infração",
+    "pontuação"
+  ],
+  "synonyms": [
+    "perder a carteira",
+    "limite de pontos"
+  ],
+  "quickAnswer": "O Código de Trânsito Brasileiro prevê números de pontos para cada infração, e a soma pode levar a penalidades como suspensão do direito de dirigir. Os limites e prazos mudam por lei, então confira a regra vigente e a sua situação no órgão de trânsito.",
+  "sections": {
+    "explanation": "O número de pontos depende da gravidade da infração. Defesas e recursos podem afetar a contagem.",
+    "whenApplies": [
+      "Você quer entender sua pontuação ou recebeu notificação de suspensão."
+    ],
+    "exceptions": [
+      "Regras sobre condutores profissionais e outras situações podem ser diferentes."
+    ],
+    "steps": [
+      "Consulte sua pontuação pelo canal oficial do órgão de trânsito.",
+      "Confira os prazos para defesa na notificação.",
+      "Em caso de suspensão, siga as instruções oficiais."
+    ],
+    "documentsToKeep": [
+      "Notificação, auto de infração ou boletim de ocorrência",
+      "Documento do veículo e CNH",
+      "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+    ],
+    "ifDenied": [
+      "Siga as instruções e os prazos da própria notificação e do órgão de trânsito competente.",
+      "Para dúvidas sobre o caso, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 9.503/1997 — Código de Trânsito Brasileiro (CTB)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 259"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503",
+      "status": "pending_verification",
+      "checkedAt": null,
+      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1997/lei-9503-1997-09-23.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "259"
+        ],
+        "provisionsMissing": []
+      }
+    }
+  ],
+  "relatedArticles": [
+    "TRN-001"
+  ],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
+  "status": "draft"
+}
