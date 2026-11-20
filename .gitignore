@@ -1,6 +1,6 @@
 node_modules/
 dist/
-dist-preview/
+dist-strict/
 .DS_Store
 *.log
 .env*

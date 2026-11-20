@@ -7,7 +7,7 @@ import { search } from '../services/search.js';
 
 /** Monta busca com resultados ao vivo; usada na enciclopédia e nas categorias. */
 export function SearchPanel({ content, category = null, initial = '', idPrefix }) {
-  const { articles, categories, preview, index } = content;
+  const { articles, categories, index } = content;
   const catTitle = new Map(categories.map((c) => [c.id, c.title]));
   const scope = category ? articles.filter((a) => a.category === category) : articles;
   const status = h('p', { class: 'search-status', role: 'status', 'aria-live': 'polite' });
@@ -18,7 +18,7 @@ export function SearchPanel({ content, category = null, initial = '', idPrefix }
     if (category) {
       results.replaceChildren(
         scope.length
-          ? h('ul', { class: 'list list--cards' }, scope.map((a) => ArticleCard(a, { preview })))
+          ? h('ul', { class: 'list list--cards' }, scope.map((a) => ArticleCard(a)))
           : EmptyState('Ainda não há assuntos publicados nesta categoria', 'Os conteúdos só são publicados depois de conferidos em fontes oficiais.', [{ label: 'Voltar à enciclopédia', href: '/enciclopedia/' }]),
       );
       return;
@@ -27,7 +27,7 @@ export function SearchPanel({ content, category = null, initial = '', idPrefix }
     for (const c of categories) {
       const list = scope.filter((a) => a.category === c.id);
       if (!list.length) continue;
-      nodes.push(h('section', { class: 'article__section' }, h('h2', { text: c.title }), h('ul', { class: 'list list--cards' }, list.map((a) => ArticleCard(a, { preview })))));
+      nodes.push(h('section', { class: 'article__section' }, h('h2', { text: c.title }), h('ul', { class: 'list list--cards' }, list.map((a) => ArticleCard(a)))));
     }
     results.replaceChildren(
       nodes.length ? h('div', {}, nodes) : EmptyState('Ainda não há assuntos publicados', 'Os conteúdos só são publicados depois de conferidos em fontes oficiais. Você pode explorar as categorias ou conhecer o orientador.', [{ label: 'Ver categorias', href: '/' }, { label: 'Abrir o orientador', href: '/orientador/' }]),
@@ -45,7 +45,7 @@ export function SearchPanel({ content, category = null, initial = '', idPrefix }
     status.textContent = found.length ? `${found.length} ${found.length === 1 ? 'resultado' : 'resultados'} para “${query}”.` : `Nenhum resultado para “${query}”.`;
     results.replaceChildren(
       found.length
-        ? h('ul', { class: 'list list--cards' }, found.map(({ article }) => ArticleCard(article, { categoryTitle: category ? null : catTitle.get(article.category), preview })))
+        ? h('ul', { class: 'list list--cards' }, found.map(({ article }) => ArticleCard(article, { categoryTitle: category ? null : catTitle.get(article.category) })))
         : EmptyState('Não encontramos um assunto com esses termos', 'Tente outras palavras, escolha uma categoria ou use o orientador, que faz perguntas simples para ajudar.', [{ label: 'Abrir o orientador', href: '/orientador/' }, { label: 'Ver categorias', href: '/' }]),
     );
   }

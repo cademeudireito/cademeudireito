@@ -1,7 +1,7 @@
 import { h, link } from '../utils/dom.js';
 import { StatusLabel } from './StatusLabel.js';
 
-export function ArticleCard(article, { categoryTitle = null, preview = false } = {}) {
+export function ArticleCard(article, { categoryTitle = null } = {}) {
   return h(
     'li',
     { class: 'list__item' },
@@ -11,7 +11,7 @@ export function ArticleCard(article, { categoryTitle = null, preview = false } =
       categoryTitle ? h('span', { class: 'card__eyebrow', text: categoryTitle }) : null,
       h('span', { class: 'card__title', text: article.title }),
       h('span', { class: 'card__text', text: article.summary }),
-      preview ? StatusLabel(article.status) : null,
+      StatusLabel(article.status),
     ),
   );
 }

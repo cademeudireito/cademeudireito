@@ -10,10 +10,27 @@ test('30 assuntos cadastrados, todos rascunho', () => {
   assert.equal(data.articles.length, 30);
   assert.ok(data.articles.every((a) => a.status === 'draft' && a.reviewStatus === 'pending_review' && a.lastReviewed === null));
 });
-test('build público não contém rascunhos', () => {
+test('modo estrito não contém rascunhos', () => {
   const pub = buildPublicContent(data);
   assert.equal(pub.articles.length, 0);
   assert.equal(pub.guides.length, 0);
+});
+test('com rascunhos visíveis, mostra draft/pending/outdated/published e nunca archived', () => {
+  const d = structuredClone(data);
+  d.articles[0].status = 'archived';
+  d.articles[1].status = 'outdated';
+  const pub = buildPublicContent(d, { includeDrafts: true });
+  assert.ok(!pub.articles.some((a) => a.status === 'archived'));
+  assert.ok(pub.articles.some((a) => a.status === 'outdated'));
+  assert.equal(pub.articles.length, d.articles.length - 1);
+  assert.ok(pub.articles.every((a) => (a.relatedArticles ?? []).every((id) => pub.articles.some((x) => x.id === id))));
+});
+test('guia some se algum artigo do resultado não é exibido', () => {
+  const d = structuredClone(data);
+  const target = d.guides[0].results[Object.keys(d.guides[0].results)[0]].articleId;
+  d.articles.find((a) => a.id === target).status = 'archived';
+  const pub = buildPublicContent(d, { includeDrafts: true });
+  assert.ok(!pub.guides.some((g) => g.id === d.guides[0].id));
 });
 test('apenas published é público', () => {
   const items = ['draft', 'pending_review', 'published', 'outdated', 'archived'].map((status) => ({ status }));

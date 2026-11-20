@@ -6,9 +6,9 @@ import { Notice } from '../components/Notice.js';
 import { StatusLabel } from '../components/StatusLabel.js';
 
 export async function GuideIndex({ content }) {
-  const { guides, preview, site } = content;
+  const { guides, site } = content;
   const body = guides.length
-    ? h('ul', { class: 'list list--cards' }, guides.map((g) => h('li', { class: 'list__item' }, link(`/orientador/${g.slug}/`, { class: 'card card--article' }, h('span', { class: 'card__icon' }, icon('compass', { size: 26 })), h('span', { class: 'card__title', text: g.title }), h('span', { class: 'card__text', text: g.description }), preview ? StatusLabel(g.status) : null, h('span', { class: 'card__meta' }, 'Começar', icon('arrow', { size: 18 }))))))
+    ? h('ul', { class: 'list list--cards' }, guides.map((g) => h('li', { class: 'list__item' }, link(`/orientador/${g.slug}/`, { class: 'card card--article' }, h('span', { class: 'card__icon' }, icon('compass', { size: 26 })), h('span', { class: 'card__title', text: g.title }), h('span', { class: 'card__text', text: g.description }), StatusLabel(g.status), h('span', { class: 'card__meta' }, 'Começar', icon('arrow', { size: 18 }))))))
     : EmptyState('Os orientadores estão em revisão', 'Cada guia só é publicado depois que seus resultados e fontes forem validados. Enquanto isso, você pode pesquisar na enciclopédia.', [{ label: 'Ver a enciclopédia', href: '/enciclopedia/' }]);
   return {
     title: 'Encontrar meus direitos',

@@ -25,7 +25,7 @@ const HERO_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 380" 
 </svg>`;
 
 export async function Home({ content }) {
-  const { site, categories, articles, preview } = content;
+  const { site, categories, articles } = content;
   const counts = new Map(categories.map((c) => [c.id, articles.filter((a) => a.category === c.id).length]));
 
   const hero = h(
@@ -73,7 +73,7 @@ export async function Home({ content }) {
     { class: 'container section', 'aria-labelledby': 'pop-title' },
     h('h2', { id: 'pop-title', class: 'section__title', text: 'Assuntos populares' }),
     popular.length
-      ? h('ul', { class: 'list list--cards' }, popular.map((a) => ArticleCard(a, { preview })))
+      ? h('ul', { class: 'list list--cards' }, popular.map((a) => ArticleCard(a)))
       : EmptyState('Os primeiros assuntos estão em revisão', 'Cada conteúdo só é publicado depois de conferido em fontes oficiais. Enquanto isso, você pode explorar as categorias.', [{ label: 'Ver a enciclopédia', href: '/enciclopedia/' }]),
   );
 

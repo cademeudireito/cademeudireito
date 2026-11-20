@@ -1,11 +1,10 @@
-// Servidor de desenvolvimento sem dependências. Por padrão inclui rascunhos (prévia interna).
-// Use --public para simular o build público.
+// Servidor de desenvolvimento sem dependências. Segue site.json (draftVisibility). Use --strict para só validados.
 import path from 'node:path';
 import { SRC, ROOT, loadAllData } from './lib-data.mjs';
 import { serve } from './lib-server.mjs';
 import { buildPublicContent } from '../src/services/content.js';
 
-const publicMode = process.argv.includes('--public');
+const strict = process.argv.includes('--strict');
 const port = Number(process.env.PORT ?? 5173);
 
 serve({
@@ -15,7 +14,8 @@ serve({
   virtual: async (pathname) => {
     if (pathname === '/data/content.json') {
       const data = await loadAllData();
-      const body = publicMode ? { mode: 'public', site: data.site, ...buildPublicContent(data) } : { mode: 'preview', ...data };
+      const includeDrafts = !strict && data.site.draftVisibility === 'show';
+      const body = { includeDrafts, site: data.site, ...buildPublicContent(data, { includeDrafts }) };
       return { type: 'application/json; charset=utf-8', body: JSON.stringify(body) };
     }
     for (const f of ['favicon.svg', 'robots.txt']) if (pathname === `/${f}`) {
@@ -25,4 +25,4 @@ serve({
     return null;
   },
 });
-console.log(publicMode ? 'Modo: público (só conteúdo published)' : 'Modo: prévia interna (inclui rascunhos — não publicar)');
+console.log(strict ? 'Modo estrito: só conteúdo published' : 'Modo normal: conforme draftVisibility do site.json');

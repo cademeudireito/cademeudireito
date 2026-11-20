@@ -5,10 +5,11 @@ import path from 'node:path';
 import { ROOT, SRC, loadAllData } from './lib-data.mjs';
 import { validateContent, buildPublicContent } from '../src/services/content.js';
 
-const preview = process.argv.includes('--preview');
-const OUT = path.join(ROOT, preview ? 'dist-preview' : 'dist');
+const strict = process.argv.includes('--strict');
+const OUT = path.join(ROOT, strict ? 'dist-strict' : 'dist');
 
 const data = await loadAllData();
+const site0 = data.site;
 const { errors, warnings } = validateContent(data);
 if (errors.length) {
   console.error(`Build abortado: ${errors.length} erro(s) de conteúdo`);
@@ -22,16 +23,14 @@ await cp(SRC, OUT, { recursive: true, filter: (p) => !p.startsWith(path.join(SRC
 await cp(path.join(ROOT, 'public'), OUT, { recursive: true });
 
 // ---- conteúdo ----
-let content;
-if (preview) {
-  content = { mode: 'preview', ...data };
-} else {
-  const pub = buildPublicContent(data);
-  // Notas internas de revisão nunca vão ao público.
-  pub.articles = pub.articles.map(({ reviewNotes, ...rest }) => rest);
-  pub.guides = pub.guides.map(({ reviewNotes, ...rest }) => rest);
-  content = { mode: 'public', site: data.site, ...pub };
-}
+// Política (decisão do responsável): site.json "draftVisibility": "show" exibe conteúdo em revisão
+// com aviso claro; --strict (ou "hide") publica somente `published`. `archived` nunca é exibido.
+const includeDrafts = !strict && site0.draftVisibility === 'show';
+const pub = buildPublicContent(data, { includeDrafts });
+// Notas internas de revisão nunca vão ao site.
+pub.articles = pub.articles.map(({ reviewNotes, ...rest }) => rest);
+pub.guides = pub.guides.map(({ reviewNotes, ...rest }) => rest);
+const content = { includeDrafts, site: data.site, ...pub };
 await mkdir(path.join(OUT, 'data'), { recursive: true });
 await writeFile(path.join(OUT, 'data', 'content.json'), JSON.stringify(content));
 
@@ -41,7 +40,7 @@ const site = data.site;
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const base = site.siteUrl ? site.siteUrl.replace(/\/$/, '') : null;
 
-function page(route, title, description) {
+function page(route, title, description, noindex = false) {
   const full = title.includes(site.name) ? title : `${title} — ${site.name}`;
   let html = shell
     .replace(/<title>.*?<\/title>/, `<title>${esc(full)}</title>`)
@@ -53,7 +52,7 @@ function page(route, title, description) {
     '<meta property="og:locale" content="pt_BR">',
   ];
   if (base) extra.push(`<link rel="canonical" href="${base}${route}">`, `<meta property="og:url" content="${base}${route}">`);
-  if (preview) extra.push('<meta name="robots" content="noindex, nofollow">');
+  extra.push(noindex ? '<meta name="robots" content="noindex, nofollow">' : '<meta name="robots" content="index, follow">');
   return html.replace('<!--HEAD_EXTRA-->', extra.join('\n  '));
 }
 
@@ -62,28 +61,27 @@ const routes = [
   ['/enciclopedia/', 'Enciclopédia de direitos', 'Encontre situações do dia a dia explicadas em linguagem simples, organizadas por categoria.'],
   ['/orientador/', 'Encontrar meus direitos', 'Responda perguntas simples, uma por vez, e encontre conteúdos relevantes para a sua situação.'],
   ...content.categories.map((c) => [`/categoria/${c.slug}/`, c.title, c.description]),
-  ...content.articles.map((a) => [`/assunto/${a.slug}/`, a.title, a.summary]),
-  ...content.guides.map((g) => [`/orientador/${g.slug}/`, g.title, g.description]),
+  ...content.articles.map((a) => [`/assunto/${a.slug}/`, a.title, a.summary, a.status !== 'published']),
+  ...content.guides.map((g) => [`/orientador/${g.slug}/`, g.title, g.description, g.status !== 'published']),
   ...content.pages.map((p) => [`/${p.slug}/`, p.title, p.description]),
 ];
-for (const [route, title, desc] of routes) {
+for (const [route, title, desc, noindex] of routes) {
   const file = route === '/' ? path.join(OUT, 'index.html') : path.join(OUT, route, 'index.html');
   await mkdir(path.dirname(file), { recursive: true });
-  await writeFile(file, page(route, title, desc));
+  await writeFile(file, page(route, title, desc, noindex));
 }
 await writeFile(path.join(OUT, '404.html'), page('/404', 'Página não encontrada', 'A página que você procura não existe ou ainda não foi publicada.'));
 
 // ---- sitemap / robots ----
-if (preview) {
-  await writeFile(path.join(OUT, 'robots.txt'), 'User-agent: *\nDisallow: /\n');
-} else if (base) {
-  const urls = routes.map(([r]) => `  <url><loc>${base}${r}</loc></url>`).join('\n');
+if (base) {
+  const urls = routes.filter(([, , , noindex]) => !noindex).map(([r]) => `  <url><loc>${base}${r}</loc></url>`).join('\n');
   await writeFile(path.join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
   await writeFile(path.join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${base}/sitemap.xml\n`);
 } else {
   console.warn('Aviso: "siteUrl" não definido em src/data/site.json — sitemap.xml e canonical não foram gerados.');
 }
 
-console.log(`✓ ${preview ? 'Prévia interna (INCLUI RASCUNHOS)' : 'Build público'} em ${path.relative(ROOT, OUT)}/`);
-console.log(`  páginas: ${routes.length + 1} | artigos no build: ${content.articles.length} | guias: ${content.guides.length}`);
-if (!preview) console.log(`  rascunhos excluídos: ${data.articles.length - content.articles.length} artigos, ${data.guides.length - content.guides.length} guias`);
+const unvalidated = content.articles.filter((a) => a.status !== 'published').length;
+console.log(`✓ Build ${strict ? 'ESTRITO (só validados)' : includeDrafts ? 'com conteúdo em revisão visível' : 'público'} em ${path.relative(ROOT, OUT)}/`);
+console.log(`  páginas: ${routes.length + 1} | artigos: ${content.articles.length} (${unvalidated} em revisão, noindex) | guias: ${content.guides.length}`);
+console.log(`  excluídos do build: ${data.articles.length - content.articles.length} artigos, ${data.guides.length - content.guides.length} guias`);

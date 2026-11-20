@@ -11,10 +11,10 @@ export const ICON_NAMES = [
 ];
 
 export const STATUS_LABELS = {
-  draft: 'Rascunho',
-  pending_review: 'Aguardando revisão',
-  published: 'Publicado',
-  outdated: 'Desatualizado',
+  draft: 'Em revisão · ainda não validado',
+  pending_review: 'Em revisão · ainda não validado',
+  published: 'Validado',
+  outdated: 'Pode estar desatualizado',
   archived: 'Arquivado',
 };
 
@@ -148,21 +148,38 @@ export function validateContent({ categories, articles, guides, pages = [] }) {
   return { errors, warnings };
 }
 
+/** Situações exibidas no site quando a política permite mostrar conteúdo em revisão. */
+export const VISIBLE_WITH_DRAFTS = ['published', 'draft', 'pending_review', 'outdated'];
+export const VISIBLE_STRICT = ['published'];
+
+export function visibleStatuses(includeDrafts) {
+  return includeDrafts ? VISIBLE_WITH_DRAFTS : VISIBLE_STRICT;
+}
+
+/** Conteúdo ainda não validado juridicamente (precisa de aviso na interface). */
+export function isUnvalidated(item) {
+  return item?.status !== 'published';
+}
+
 /**
- * Remove tudo o que não é público. Guias publicados com resultados que apontam
- * para artigos não publicados também são removidos (nunca quebram a página pública).
+ * Seleciona o que o site exibe. Com `includeDrafts` (decisão do responsável, site.json),
+ * rascunhos aparecem com aviso; `archived` nunca aparece. Guias cujos resultados apontam
+ * para artigos não exibidos são removidos (nunca quebram a página).
  */
-export function buildPublicContent({ categories, articles, guides, pages = [] }) {
-  const publicArticles = filterPublic(articles);
-  const ids = new Set(publicArticles.map((a) => a.id));
-  const cleanArticles = publicArticles.map((a) => ({
+export function buildPublicContent({ categories, articles, guides, pages = [] }, { includeDrafts = false } = {}) {
+  const allowed = new Set(visibleStatuses(includeDrafts));
+  const shown = articles.filter((a) => allowed.has(a.status));
+  const ids = new Set(shown.map((a) => a.id));
+  const cleanArticles = shown.map((a) => ({
     ...a,
     relatedArticles: (a.relatedArticles ?? []).filter((id) => ids.has(id)),
   }));
-  const publicGuides = filterPublic(guides).filter((g) =>
-    Object.values(g.results ?? {}).every((r) =>
-      [r.articleId, ...(r.relatedArticleIds ?? [])].every((id) => ids.has(id)),
-    ),
+  const shownGuides = guides.filter(
+    (g) =>
+      allowed.has(g.status) &&
+      Object.values(g.results ?? {}).every((r) =>
+        [r.articleId, ...(r.relatedArticleIds ?? [])].every((id) => ids.has(id)),
+      ),
   );
-  return { categories, articles: cleanArticles, guides: publicGuides, pages };
+  return { categories, articles: cleanArticles, guides: shownGuides, pages };
 }

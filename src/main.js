@@ -25,7 +25,7 @@ function setMeta(name, value, attr = 'name') {
   el.setAttribute('content', value);
 }
 
-function applyHead({ title, description }, site, preview) {
+function applyHead({ title, description, noindex }, site) {
   const full = title.includes(site.name) ? title : `${title} — ${site.name}`;
   document.title = full;
   setMeta('description', description);
@@ -33,7 +33,7 @@ function applyHead({ title, description }, site, preview) {
   setMeta('og:description', description, 'property');
   setMeta('og:type', 'website', 'property');
   setMeta('og:locale', 'pt_BR', 'property');
-  if (preview) setMeta('robots', 'noindex, nofollow');
+  setMeta('robots', noindex ? 'noindex, nofollow' : 'index, follow');
 }
 
 async function renderPage(handler, ctx) {
@@ -50,8 +50,8 @@ async function renderPage(handler, ctx) {
     console.error(err);
     result = await NotFound({ ctx, content });
   }
-  applyHead(result, content.site, content.preview);
-  const banner = content.preview ? h('div', { class: 'preview-banner', role: 'note', text: 'Ambiente de prévia interna: inclui conteúdo em rascunho, NÃO validado juridicamente. Não publicar.' }) : null;
+  applyHead(result, content.site);
+  const banner = content.includeDrafts ? h('div', { class: 'review-banner', role: 'note' }, 'Site em construção: os conteúdos estão em revisão e ainda não foram validados juridicamente. ', h('a', { href: '/fontes-e-metodologia/' }, 'Saiba como conferimos as fontes'), '.') : null;
   const main = h('main', { id: 'conteudo', tabindex: '-1' }, result.main);
   app.replaceChildren(banner, Header(content.site, location.pathname), main, Footer(content.site, content.categories));
   window.scrollTo(0, 0);

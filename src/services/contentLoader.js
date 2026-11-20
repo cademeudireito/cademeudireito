@@ -1,4 +1,4 @@
-import { filterPublic, buildPublicContent } from './content.js';
+import { buildPublicContent } from './content.js';
 import { buildIndex } from './search.js';
 
 let store = null;
@@ -14,15 +14,16 @@ export async function loadContent() {
   } catch (err) {
     throw new Error(`Não foi possível carregar o conteúdo (${err.message}).`);
   }
-  const preview = raw.mode === 'preview';
-  const data = preview ? raw : { ...raw, ...buildPublicContent(raw) };
-  const articles = preview ? data.articles : filterPublic(data.articles);
+  // Defesa em profundidade: reaplica a política mesmo se o JSON trouxer itens a mais.
+  const includeDrafts = raw.includeDrafts === true;
+  const data = buildPublicContent(raw, { includeDrafts });
+  const articles = data.articles;
   store = {
-    preview,
+    includeDrafts,
     site: raw.site,
     categories: data.categories.slice().sort((a, b) => a.order - b.order),
     articles,
-    guides: preview ? data.guides : filterPublic(data.guides),
+    guides: data.guides,
     pages: data.pages,
     articleById: new Map(articles.map((a) => [a.id, a])),
     articleBySlug: new Map(articles.map((a) => [a.slug, a])),

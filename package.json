@@ -9,7 +9,7 @@
     "dev": "node scripts/dev.mjs",
     "validate": "node scripts/validate.mjs",
     "build": "node scripts/build.mjs",
-    "build:preview": "node scripts/build.mjs --preview",
+    "build:strict": "node scripts/build.mjs --strict",
     "preview": "node scripts/serve-dist.mjs",
     "report": "node scripts/report.mjs",
     "test": "node --test tests/*.test.mjs"

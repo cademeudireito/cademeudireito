@@ -98,8 +98,9 @@ export async function Guide({ ctx, content }) {
   } else draw();
 
   return {
+    noindex: guide.status !== 'published',
     title: guide.title,
     description: guide.description,
-    main: h('div', { class: 'container page page--narrow' }, Breadcrumbs([{ label: 'Início', href: '/' }, { label: 'Encontrar meus direitos', href: '/orientador/' }, { label: guide.title }]), h('h1', { text: guide.title }), content.preview ? StatusLabel(guide.status) : null, Notice('Não digite dados pessoais. As respostas ficam só no seu navegador e não são enviadas a ninguém.'), live, panel),
+    main: h('div', { class: 'container page page--narrow' }, Breadcrumbs([{ label: 'Início', href: '/' }, { label: 'Encontrar meus direitos', href: '/orientador/' }, { label: guide.title }]), h('h1', { text: guide.title }), StatusLabel(guide.status), Notice('Não digite dados pessoais. As respostas ficam só no seu navegador e não são enviadas a ninguém.'), live, panel),
   };
 }

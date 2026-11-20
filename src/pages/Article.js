@@ -31,7 +31,7 @@ export async function Article({ ctx, content }) {
       { class: 'article' },
       h('p', { class: 'article__cat' }, link(`/categoria/${cat.slug}/`, {}, cat.title)),
       h('h1', { text: a.title }),
-      content.preview ? h('div', { class: 'preview-box' }, StatusLabel(a.status), h('p', { text: a.reviewNotes ?? '' })) : null,
+      a.status !== 'published' ? h('div', { class: 'review-box' }, StatusLabel(a.status), h('p', { text: 'Este conteúdo está em revisão e ainda não foi validado juridicamente. Use como informação geral e confira as fontes oficiais antes de tomar decisões.' })) : null,
       QuickAnswer(a.quickAnswer),
       section('s-explain', 'Entenda melhor', s.explanation ? h('p', { text: s.explanation }) : null),
       section('s-when', 'Quando isso se aplica', ul(s.whenApplies)),
@@ -40,10 +40,10 @@ export async function Article({ ctx, content }) {
       section('s-denied', 'E se não resolver?', ul(s.ifDenied)),
       section('s-law', 'O que diz a lei', a.legalReferences?.length ? h('div', {}, h('p', { class: 'muted', text: 'Não reproduzimos a lei na íntegra. Use os links oficiais para ler o texto completo.' }), h('ul', { class: 'legal-list' }, a.legalReferences.map((r) => LegalReference(r, content.site.fallbackLegalUrl)))) : null),
       section('s-exc', 'Exceções e pontos de atenção', ul(s.exceptions)),
-      RelatedArticles(related, content.preview),
+      RelatedArticles(related),
       h('p', { class: 'article__review', text: reviewed ? `Última revisão: ${reviewed}.` : 'Última revisão: ainda não revisado.' }),
       Notice(content.site.defaultNotice, { title: 'Aviso educativo' }),
     ),
   );
-  return { title: a.title, description: a.summary, main };
+  return { title: a.title, description: a.summary, main, noindex: a.status !== 'published' };
 }
