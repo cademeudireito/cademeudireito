@@ -6,7 +6,12 @@ import { getStart, answer, validateGuide, enumeratePaths, maxQuestionsFrom } fro
 const { guides, articles } = load();
 const byId = new Map(articles.map((a) => [a.id, a]));
 
-test('há três guias iniciais', () => assert.equal(guides.length, 3));
+test('há guias para as principais áreas', () => assert.ok(guides.length >= 13));
+test('guia de violência tem saída rápida', () => assert.equal(guides.find((g) => g.id === 'GUI-011').quickExit, true));
+test('guia de violência começa perguntando sobre risco imediato', () => {
+  const g = guides.find((x) => x.id === 'GUI-011');
+  assert.match(g.questions[g.startQuestion].text, /risco imediato/);
+});
 
 for (const g of guides) {
   test(`${g.id}: estrutura válida`, () => assert.deepEqual(validateGuide(g, byId), []));

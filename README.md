@@ -6,7 +6,7 @@ Site estático e gratuito que explica direitos brasileiros do dia a dia em lingu
 
 ## Estado atual
 
-- 13 categorias, **93 assuntos em rascunho** e **3 guias em rascunho**.
+- 13 categorias, **93 assuntos em rascunho** e **13 guias (orientadores) em rascunho**.
 - **Nenhum conteúdo jurídico foi validado.** Por decisão do responsável, o site exibe os rascunhos com faixa e etiqueta de "em revisão" e `noindex`. Para exibir só o que for validado, use `draftVisibility: "hide"` em `src/data/site.json` ou `npm run build:strict`. Veja [`docs/CHANGELOG-DECISOES.md`](docs/CHANGELOG-DECISOES.md).
 
 ## Requisitos

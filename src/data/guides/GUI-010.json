@@ -1,0 +1,155 @@
+{
+  "id": "GUI-010",
+  "slug": "transito-multa-acidente-cnh",
+  "category": "transito",
+  "title": "Tenho um problema de trânsito",
+  "description": "Encontre o conteúdo sobre multa, acidente, pontos na CNH ou transferência de veículo.",
+  "status": "draft",
+  "startQuestion": "q1",
+  "questions": {
+    "q1": {
+      "id": "q1",
+      "text": "Qual é o assunto?",
+      "options": [
+        {
+          "label": "Recebi uma multa",
+          "next": "r_multa"
+        },
+        {
+          "label": "Me envolvi em um acidente",
+          "next": "q2"
+        },
+        {
+          "label": "Pontos ou suspensão da CNH",
+          "next": "r_pontos"
+        },
+        {
+          "label": "Vendi ou comprei um veículo",
+          "next": "r_venda"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "Houve vítima ferida?",
+      "helpText": "Se alguém está ferido, chame socorro antes de qualquer outra providência.",
+      "options": [
+        {
+          "label": "Sim",
+          "next": "r_vitima"
+        },
+        {
+          "label": "Não, só danos materiais",
+          "next": "r_acid"
+        }
+      ]
+    }
+  },
+  "results": {
+    "r_multa": {
+      "id": "r_multa",
+      "title": "Multa de trânsito",
+      "indicates": "Suas respostas indicam que pode valer a pena entender as etapas de defesa e os prazos da notificação.",
+      "rule": "O Código de Trânsito Brasileiro prevê auto de infração, defesa prévia e, depois, notificação da penalidade e recursos. Os prazos e os canais constam na própria notificação, e perder o prazo pode prejudicar a defesa.",
+      "steps": [
+        "Leia a notificação e anote os prazos.",
+        "Reúna documento do veículo, CNH e provas (fotos, vídeos).",
+        "Apresente a defesa pelo canal oficial do órgão autuador."
+      ],
+      "documents": [
+        "Notificação, auto de infração ou boletim de ocorrência",
+        "Documento do veículo e CNH",
+        "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+      ],
+      "articleId": "TRN-001",
+      "relatedArticleIds": [
+        "TRN-003"
+      ]
+    },
+    "r_pontos": {
+      "id": "r_pontos",
+      "title": "Pontos na CNH",
+      "indicates": "Suas respostas indicam que pode valer a pena entender a contagem de pontos e a suspensão.",
+      "rule": "O Código de Trânsito Brasileiro prevê números de pontos para cada infração, e a soma pode levar a penalidades como suspensão do direito de dirigir. Os limites e prazos mudam por lei, então confira a regra vigente e a sua situação no órgão de trânsito.",
+      "steps": [
+        "Consulte sua pontuação pelo canal oficial do órgão de trânsito.",
+        "Confira os prazos para defesa na notificação.",
+        "Em caso de suspensão, siga as instruções oficiais."
+      ],
+      "documents": [
+        "Notificação, auto de infração ou boletim de ocorrência",
+        "Documento do veículo e CNH",
+        "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+      ],
+      "articleId": "TRN-003",
+      "relatedArticleIds": [
+        "TRN-001"
+      ]
+    },
+    "r_venda": {
+      "id": "r_venda",
+      "title": "Transferência de veículo",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer os cuidados na venda e na compra.",
+      "rule": "O Código de Trânsito prevê prazo e procedimento para a transferência de propriedade e para o antigo proprietário comunicar a venda ao órgão de trânsito. Quando isso não é feito, pode haver consequências, como responsabilidade por débitos.",
+      "steps": [
+        "Assine e guarde o comprovante da negociação.",
+        "Comunique a venda ao órgão de trânsito pelo canal oficial.",
+        "O comprador deve providenciar o novo certificado de registro."
+      ],
+      "documents": [
+        "Notificação, auto de infração ou boletim de ocorrência",
+        "Documento do veículo e CNH",
+        "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+      ],
+      "articleId": "TRN-004",
+      "relatedArticleIds": [
+        "TRN-001"
+      ]
+    },
+    "r_vitima": {
+      "id": "r_vitima",
+      "title": "Acidente com vítima",
+      "indicates": "Suas respostas indicam que a prioridade é o socorro; depois, conhecer os cuidados de registro e provas.",
+      "rule": "Se houver vítima, o socorro é prioridade, e a lei trata como infração deixar de prestar socorro quando possível fazê-lo. Depois, registre o acidente e guarde provas. Quem responde pelos danos depende de análise do caso.",
+      "steps": [
+        "Se houver feridos, chame socorro pelos canais de emergência.",
+        "Fotografe a cena, os veículos e anote dados das pessoas e testemunhas.",
+        "Registre a ocorrência e avise a seguradora, se houver."
+      ],
+      "documents": [
+        "Notificação, auto de infração ou boletim de ocorrência",
+        "Documento do veículo e CNH",
+        "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+      ],
+      "articleId": "TRN-002",
+      "relatedArticleIds": [
+        "TRN-001"
+      ],
+      "caution": "Chame socorro pelos canais de emergência e não deixe o local sem prestar ou providenciar socorro."
+    },
+    "r_acid": {
+      "id": "r_acid",
+      "title": "Acidente sem vítima",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer os cuidados de registro e provas.",
+      "rule": "Se houver vítima, o socorro é prioridade, e a lei trata como infração deixar de prestar socorro quando possível fazê-lo. Depois, registre o acidente e guarde provas. Quem responde pelos danos depende de análise do caso.",
+      "steps": [
+        "Se houver feridos, chame socorro pelos canais de emergência.",
+        "Fotografe a cena, os veículos e anote dados das pessoas e testemunhas.",
+        "Registre a ocorrência e avise a seguradora, se houver."
+      ],
+      "documents": [
+        "Notificação, auto de infração ou boletim de ocorrência",
+        "Documento do veículo e CNH",
+        "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+      ],
+      "articleId": "TRN-002",
+      "relatedArticleIds": [
+        "TRN-001"
+      ]
+    }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+}

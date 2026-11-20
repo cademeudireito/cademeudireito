@@ -1,0 +1,164 @@
+{
+  "id": "GUI-012",
+  "slug": "direitos-da-pessoa-idosa",
+  "category": "idosos",
+  "title": "Direitos da pessoa idosa: por onde começar?",
+  "description": "Encontre conteúdos sobre atendimento, transporte, plano de saúde e proteção contra maus-tratos.",
+  "status": "draft",
+  "startQuestion": "q1",
+  "questions": {
+    "q1": {
+      "id": "q1",
+      "text": "Seu caso envolve:",
+      "options": [
+        {
+          "label": "Atendimento ou transporte",
+          "next": "q2"
+        },
+        {
+          "label": "Plano de saúde mais caro por causa da idade",
+          "next": "r_plano"
+        },
+        {
+          "label": "Maus-tratos, abandono ou discriminação",
+          "next": "q3"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "Qual é o assunto?",
+      "options": [
+        {
+          "label": "Fila ou atendimento prioritário",
+          "next": "r_prio"
+        },
+        {
+          "label": "Gratuidade no transporte coletivo",
+          "next": "r_transp"
+        }
+      ]
+    },
+    "q3": {
+      "id": "q3",
+      "text": "O que acontece?",
+      "options": [
+        {
+          "label": "Maus-tratos, abandono ou exploração",
+          "next": "r_maus"
+        },
+        {
+          "label": "Me impediram de fazer algo por causa da idade",
+          "next": "r_disc"
+        }
+      ]
+    }
+  },
+  "results": {
+    "r_plano": {
+      "id": "r_plano",
+      "title": "Plano de saúde e idade",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer os limites ao reajuste por faixa etária.",
+      "rule": "A lei dos planos de saúde prevê que a variação por faixa etária só pode ocorrer se estiver prevista no contrato inicial, com as faixas e percentuais claros, e há restrições para quem completa certa idade. O Estatuto da Pessoa Idosa também trata do tema. Confira o seu contrato e as regras da ANS.",
+      "steps": [
+        "Leia no contrato as faixas etárias e os percentuais previstos.",
+        "Peça à operadora, por escrito, o demonstrativo do cálculo.",
+        "Registre reclamação na operadora e, se não resolver, na ANS."
+      ],
+      "documents": [
+        "Documento de identificação e comprovante de idade",
+        "Contratos, boletos e comunicados relacionados",
+        "Protocolos e registros de atendimento"
+      ],
+      "articleId": "IDO-003",
+      "relatedArticleIds": [
+        "SAU-007"
+      ]
+    },
+    "r_prio": {
+      "id": "r_prio",
+      "title": "Atendimento prioritário",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer a prioridade de atendimento.",
+      "rule": "O Estatuto da Pessoa Idosa fala em absoluta prioridade na efetivação de direitos como vida, saúde e dignidade, e a lei de prioridade de atendimento assegura atendimento prioritário a pessoas idosas, entre outras. A idade mínima e os detalhes devem ser conferidos nas normas vigentes.",
+      "steps": [
+        "Mostre um documento oficial com foto, se solicitado.",
+        "Se houver recusa, peça justificativa e registre.",
+        "Registre reclamação na ouvidoria da empresa ou do órgão."
+      ],
+      "documents": [
+        "Documento de identificação e comprovante de idade",
+        "Contratos, boletos e comunicados relacionados",
+        "Protocolos e registros de atendimento"
+      ],
+      "articleId": "IDO-001",
+      "relatedArticleIds": [
+        "IDO-002"
+      ]
+    },
+    "r_transp": {
+      "id": "r_transp",
+      "title": "Transporte gratuito",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer a gratuidade no transporte coletivo.",
+      "rule": "O Estatuto assegura aos maiores de 65 anos a gratuidade dos transportes coletivos públicos urbanos e semi-urbanos, exceto nos serviços seletivos e especiais prestados paralelamente aos regulares. Regras locais sobre cadastro e documento podem variar.",
+      "steps": [
+        "Verifique no órgão de transporte da sua cidade como obter o cartão ou o registro.",
+        "Leve documento oficial com foto.",
+        "Em caso de recusa, registre reclamação na ouvidoria da empresa ou do órgão."
+      ],
+      "documents": [
+        "Documento de identificação e comprovante de idade",
+        "Contratos, boletos e comunicados relacionados",
+        "Protocolos e registros de atendimento"
+      ],
+      "articleId": "IDO-002",
+      "relatedArticleIds": [
+        "IDO-001"
+      ]
+    },
+    "r_maus": {
+      "id": "r_maus",
+      "title": "Maus-tratos e abandono",
+      "indicates": "Suas respostas indicam que a prioridade é a segurança da pessoa idosa e conhecer os canais de proteção.",
+      "rule": "O Estatuto da Pessoa Idosa prevê crimes como o abandono em hospitais ou instituições e a falta de provisão das necessidades básicas quando há obrigação. Se há risco, procure a polícia ou o serviço de emergência. Para denunciar e buscar proteção, use os canais oficiais atuais.",
+      "steps": [
+        "Se houver risco imediato, acione a polícia ou a emergência.",
+        "Anote datas, locais e fatos e guarde provas.",
+        "Procure o Ministério Público, a Defensoria Pública ou os canais oficiais de proteção à pessoa idosa."
+      ],
+      "documents": [
+        "Documento de identificação e comprovante de idade",
+        "Contratos, boletos e comunicados relacionados",
+        "Protocolos e registros de atendimento"
+      ],
+      "articleId": "IDO-004",
+      "relatedArticleIds": [
+        "IDO-005"
+      ],
+      "caution": "Se houver risco imediato, acione a polícia ou o serviço de emergência."
+    },
+    "r_disc": {
+      "id": "r_disc",
+      "title": "Discriminação por idade",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o que a lei diz sobre discriminação por idade.",
+      "rule": "O Estatuto da Pessoa Idosa prevê crime para quem discrimina a pessoa idosa, impedindo ou dificultando seu acesso a operações bancárias, a meios de transporte, ao direito de contratar ou a outros meios necessários ao exercício da cidadania, por motivo de idade.",
+      "steps": [
+        "Peça a recusa por escrito, com o motivo.",
+        "Guarde protocolos, e-mails e nomes de quem atendeu.",
+        "Registre reclamação e, se necessário, procure o Ministério Público ou a Defensoria Pública."
+      ],
+      "documents": [
+        "Documento de identificação e comprovante de idade",
+        "Contratos, boletos e comunicados relacionados",
+        "Protocolos e registros de atendimento"
+      ],
+      "articleId": "IDO-005",
+      "relatedArticleIds": [
+        "IDO-001"
+      ]
+    }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+}

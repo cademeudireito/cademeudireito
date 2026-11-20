@@ -1,0 +1,164 @@
+{
+  "id": "GUI-013",
+  "slug": "direitos-da-pessoa-com-deficiencia",
+  "category": "pessoa-com-deficiencia",
+  "title": "Direitos da pessoa com deficiência: por onde começar?",
+  "description": "Encontre conteúdos sobre acessibilidade, transporte, trabalho, escola e benefício.",
+  "status": "draft",
+  "startQuestion": "q1",
+  "questions": {
+    "q1": {
+      "id": "q1",
+      "text": "Seu caso envolve:",
+      "options": [
+        {
+          "label": "Locais, transporte ou atendimento",
+          "next": "q2"
+        },
+        {
+          "label": "Trabalho ou estudo",
+          "next": "q3"
+        },
+        {
+          "label": "Benefício em dinheiro",
+          "next": "r_bpc"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "Qual é o assunto?",
+      "options": [
+        {
+          "label": "Barreira de acesso em um local ou serviço",
+          "next": "r_acess"
+        },
+        {
+          "label": "Viagem entre estados (passe livre)",
+          "next": "r_passe"
+        }
+      ]
+    },
+    "q3": {
+      "id": "q3",
+      "text": "Qual é o assunto?",
+      "options": [
+        {
+          "label": "Vaga de emprego",
+          "next": "r_emp"
+        },
+        {
+          "label": "Matrícula ou atendimento na escola",
+          "next": "r_esc"
+        }
+      ]
+    }
+  },
+  "results": {
+    "r_bpc": {
+      "id": "r_bpc",
+      "title": "Benefício assistencial (BPC)",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o BPC e seus critérios.",
+      "rule": "A LOAS garante um salário-mínimo mensal à pessoa com deficiência que comprove não ter meios de prover a própria manutenção nem de tê-la provida por sua família. Há avaliação da deficiência e critérios de renda a conferir.",
+      "steps": [
+        "Atualize o Cadastro Único.",
+        "Reúna laudos, receitas e exames.",
+        "Peça o benefício pelos canais oficiais do INSS."
+      ],
+      "documents": [
+        "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
+        "Protocolos, comunicados e respostas recebidas",
+        "Fotos ou registros da barreira ou da recusa"
+      ],
+      "articleId": "PCD-004",
+      "relatedArticleIds": [
+        "PRE-003"
+      ]
+    },
+    "r_acess": {
+      "id": "r_acess",
+      "title": "Acessibilidade",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer as normas de acessibilidade e como registrar uma barreira.",
+      "rule": "A legislação brasileira estabelece normas gerais e critérios para a promoção da acessibilidade e a Lei Brasileira de Inclusão assegura direitos à pessoa com deficiência. As obrigações variam conforme o tipo de espaço, serviço e a data de construção ou reforma.",
+      "steps": [
+        "Registre a barreira com fotos e descreva o problema.",
+        "Comunique o responsável pelo local ou serviço por escrito.",
+        "Se não resolver, procure a ouvidoria, o Ministério Público ou a Defensoria Pública."
+      ],
+      "documents": [
+        "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
+        "Protocolos, comunicados e respostas recebidas",
+        "Fotos ou registros da barreira ou da recusa"
+      ],
+      "articleId": "PCD-001",
+      "relatedArticleIds": [
+        "PCD-003"
+      ]
+    },
+    "r_passe": {
+      "id": "r_passe",
+      "title": "Passe livre interestadual",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer a lei do passe livre.",
+      "rule": "A Lei 8.899/1994 concede passe livre às pessoas portadoras de deficiência, comprovadamente carentes, no sistema de transporte coletivo interestadual. Os requisitos e o procedimento de cadastro estão em regulamento e precisam ser conferidos.",
+      "steps": [
+        "Reúna documento de identidade e laudos exigidos.",
+        "Confira o procedimento oficial de solicitação do documento.",
+        "Guarde o protocolo do pedido."
+      ],
+      "documents": [
+        "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
+        "Protocolos, comunicados e respostas recebidas",
+        "Fotos ou registros da barreira ou da recusa"
+      ],
+      "articleId": "PCD-003",
+      "relatedArticleIds": [
+        "PCD-001"
+      ]
+    },
+    "r_emp": {
+      "id": "r_emp",
+      "title": "Cota de empregos",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer a reserva de vagas em empresas de maior porte.",
+      "rule": "A Lei 8.213/1991 obriga a empresa com 100 ou mais empregados a preencher de 2% a 5% dos cargos com beneficiários reabilitados ou pessoas com deficiência habilitadas, na proporção que a lei define. As condições e a fiscalização devem ser conferidas.",
+      "steps": [
+        "Reúna laudos e documentos de comprovação.",
+        "Procure vagas indicadas como afirmativas ou serviços de apoio ao emprego da sua cidade.",
+        "Em caso de discriminação, registre a situação e procure órgãos de proteção."
+      ],
+      "documents": [
+        "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
+        "Protocolos, comunicados e respostas recebidas",
+        "Fotos ou registros da barreira ou da recusa"
+      ],
+      "articleId": "PCD-002",
+      "relatedArticleIds": [
+        "PCD-004"
+      ]
+    },
+    "r_esc": {
+      "id": "r_esc",
+      "title": "Educação inclusiva",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o direito à educação inclusiva.",
+      "rule": "A Lei Brasileira de Inclusão afirma que a educação é direito da pessoa com deficiência, assegurado sistema educacional inclusivo em todos os níveis e aprendizado ao longo da vida. A lei lista também o que incumbe ao poder público assegurar.",
+      "steps": [
+        "Registre o pedido de matrícula e a resposta por escrito.",
+        "Reúna laudos e documentos do aluno.",
+        "Procure a secretaria de educação, o Ministério Público ou a Defensoria Pública."
+      ],
+      "documents": [
+        "Contrato de prestação de serviços educacionais",
+        "Boletos e comprovantes de pagamento",
+        "Comunicados e regulamento da instituição"
+      ],
+      "articleId": "EDU-005",
+      "relatedArticleIds": [
+        "EDU-002",
+        "PCD-001"
+      ]
+    }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+}

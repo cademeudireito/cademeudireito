@@ -6,90 +6,267 @@
   "status": "draft",
   "startQuestion": "q1",
   "questions": {
-    "q1": { "id": "q1", "text": "De onde veio a cobrança?",
+    "q1": {
+      "id": "q1",
+      "text": "De onde veio a cobrança?",
       "options": [
-        { "label": "Banco ou cartão de crédito", "next": "q1b" },
-        { "label": "Loja ou site de compras", "next": "q2" },
-        { "label": "Serviço recorrente ou assinatura", "next": "q2" },
-        { "label": "Outro", "next": "q2" }
-      ] },
-    "q1b": { "id": "q1b", "text": "Pode ter sido uma transação feita por golpe ou por outra pessoa?", "helpText": "Por exemplo: transferência que você não fez ou compra que não reconhece.",
+        {
+          "label": "Banco ou cartão de crédito",
+          "next": "q1b"
+        },
+        {
+          "label": "Loja ou site de compras",
+          "next": "q2"
+        },
+        {
+          "label": "Serviço recorrente ou assinatura",
+          "next": "q2"
+        },
+        {
+          "label": "Outro",
+          "next": "q2"
+        }
+      ]
+    },
+    "q1b": {
+      "id": "q1b",
+      "text": "Pode ter sido uma transação feita por golpe ou por outra pessoa?",
+      "helpText": "Por exemplo: transferência que você não fez ou compra que não reconhece.",
       "options": [
-        { "label": "Sim, pode ter sido golpe ou fraude", "next": "r_golpe" },
-        { "label": "Não, parece erro de cobrança", "next": "q2" }
-      ] },
-    "q2": { "id": "q2", "text": "Você reconhece essa contratação?",
+        {
+          "label": "Sim, pode ter sido golpe ou fraude",
+          "next": "r_golpe"
+        },
+        {
+          "label": "Não, parece erro de cobrança",
+          "next": "q2"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "Você reconhece essa contratação?",
       "options": [
-        { "label": "Reconheço, mas o valor ou a condição está errado", "next": "q3" },
-        { "label": "Não reconheço", "next": "q3" },
-        { "label": "Não tenho certeza", "next": "r_verificar" }
-      ] },
-    "q3": { "id": "q3", "text": "A cobrança já foi paga?",
+        {
+          "label": "Reconheço, mas o valor ou a condição está errado",
+          "next": "q3"
+        },
+        {
+          "label": "Não reconheço",
+          "next": "q3"
+        },
+        {
+          "label": "Não tenho certeza",
+          "next": "r_verificar"
+        }
+      ]
+    },
+    "q3": {
+      "id": "q3",
+      "text": "A cobrança já foi paga?",
       "options": [
-        { "label": "Sim, já paguei", "next": "r_pago" },
-        { "label": "Não paguei", "next": "q4" }
-      ] },
-    "q4": { "id": "q4", "text": "Seu nome foi negativado por causa dela?",
+        {
+          "label": "Sim, já paguei",
+          "next": "r_pago"
+        },
+        {
+          "label": "Não paguei",
+          "next": "q4"
+        }
+      ]
+    },
+    "q4": {
+      "id": "q4",
+      "text": "Seu nome foi negativado por causa dela?",
       "options": [
-        { "label": "Sim", "next": "q5n" },
-        { "label": "Não", "next": "q5" }
-      ] },
-    "q5": { "id": "q5", "text": "Você já contestou formalmente a cobrança?",
+        {
+          "label": "Sim",
+          "next": "q5n"
+        },
+        {
+          "label": "Não",
+          "next": "q5"
+        }
+      ]
+    },
+    "q5": {
+      "id": "q5",
+      "text": "Você já contestou formalmente a cobrança?",
       "options": [
-        { "label": "Sim, tenho protocolo", "next": "r_escalar" },
-        { "label": "Ainda não", "next": "r_contestar" }
-      ] },
-    "q5n": { "id": "q5n", "text": "Você já contestou formalmente a cobrança?",
+        {
+          "label": "Sim, tenho protocolo",
+          "next": "r_escalar"
+        },
+        {
+          "label": "Ainda não",
+          "next": "r_contestar"
+        }
+      ]
+    },
+    "q5n": {
+      "id": "q5n",
+      "text": "Você já contestou formalmente a cobrança?",
       "options": [
-        { "label": "Sim, tenho protocolo", "next": "r_neg_contestou" },
-        { "label": "Ainda não", "next": "r_neg_nao" }
-      ] }
+        {
+          "label": "Sim, tenho protocolo",
+          "next": "r_neg_contestou"
+        },
+        {
+          "label": "Ainda não",
+          "next": "r_neg_nao"
+        }
+      ]
+    }
   },
   "results": {
-    "r_golpe": { "id": "r_golpe", "title": "Pode ter sido golpe: aja rápido",
+    "r_golpe": {
+      "id": "r_golpe",
+      "title": "Pode ter sido golpe: aja rápido",
       "indicates": "Suas respostas indicam que pode valer a pena tratar o caso como possível fraude, avisando logo a instituição.",
       "rule": "As responsabilidades dependem dos fatos e das normas do setor financeiro. Não há garantia de ressarcimento.",
-      "steps": ["Avise o banco pelo canal oficial e peça o bloqueio, se for o caso.", "Guarde comprovantes, prints e protocolos.", "Verifique como registrar ocorrência."],
-      "documents": ["Extratos", "Prints", "Protocolos"],
-      "articleId": "CON-011", "relatedArticleIds": ["DIG-003", "CON-005"] },
-    "r_verificar": { "id": "r_verificar", "title": "Primeiro, confirme a origem da cobrança",
+      "steps": [
+        "Avise o banco pelo canal oficial e peça o bloqueio, se for o caso.",
+        "Guarde comprovantes, prints e protocolos.",
+        "Verifique como registrar ocorrência."
+      ],
+      "documents": [
+        "Extratos",
+        "Prints",
+        "Protocolos"
+      ],
+      "articleId": "CON-011",
+      "relatedArticleIds": [
+        "DIG-003",
+        "CON-005"
+      ]
+    },
+    "r_verificar": {
+      "id": "r_verificar",
+      "title": "Primeiro, confirme a origem da cobrança",
       "indicates": "Suas respostas indicam que o primeiro passo geral pode ser identificar quem cobra e a origem da contratação.",
       "rule": "Sem saber se houve contratação, não é possível apontar o caminho. Peça esclarecimento por escrito.",
-      "steps": ["Anote quem cobra, valor e data.", "Peça a origem da contratação por canal que gere protocolo.", "Verifique contratos e e-mails antigos."],
-      "documents": ["Fatura ou cobrança", "E-mails e contratos", "Protocolo"],
-      "articleId": "CON-005", "relatedArticleIds": ["CON-012"] },
-    "r_pago": { "id": "r_pago", "title": "Cobrança já paga: veja devolução de valores",
+      "steps": [
+        "Anote quem cobra, valor e data.",
+        "Peça a origem da contratação por canal que gere protocolo.",
+        "Verifique contratos e e-mails antigos."
+      ],
+      "documents": [
+        "Fatura ou cobrança",
+        "E-mails e contratos",
+        "Protocolo"
+      ],
+      "articleId": "CON-005",
+      "relatedArticleIds": [
+        "CON-012"
+      ]
+    },
+    "r_pago": {
+      "id": "r_pago",
+      "title": "Cobrança já paga: veja devolução de valores",
       "indicates": "Suas respostas indicam que pode valer a pena verificar as regras sobre devolução de valores pagos indevidamente.",
       "rule": "A devolução, inclusive em dobro, tem requisitos e interpretação jurídica própria. Não é automática.",
-      "steps": ["Guarde o comprovante de pagamento.", "Conteste por escrito e peça a devolução.", "Acompanhe a resposta."],
-      "documents": ["Comprovante de pagamento", "Fatura", "Protocolo"],
-      "articleId": "CON-010", "relatedArticleIds": ["CON-005", "CON-012"] },
-    "r_neg_contestou": { "id": "r_neg_contestou", "title": "Negativado e já contestou: acompanhe e escale",
+      "steps": [
+        "Guarde o comprovante de pagamento.",
+        "Conteste por escrito e peça a devolução.",
+        "Acompanhe a resposta."
+      ],
+      "documents": [
+        "Comprovante de pagamento",
+        "Fatura",
+        "Protocolo"
+      ],
+      "articleId": "CON-010",
+      "relatedArticleIds": [
+        "CON-005",
+        "CON-012"
+      ]
+    },
+    "r_neg_contestou": {
+      "id": "r_neg_contestou",
+      "title": "Negativado e já contestou: acompanhe e escale",
       "indicates": "Suas respostas indicam que você já contestou. Pode valer a pena acompanhar a resposta e considerar outros canais.",
       "rule": "Regras sobre cadastros de crédito e jurisprudência precisam ser conferidas no conteúdo.",
-      "steps": ["Acompanhe o prazo informado pelo protocolo.", "Se não resolver, registre reclamação em canal oficial.", "Considere orientação da Defensoria ou de advogado."],
-      "documents": ["Protocolo da contestação", "Comprovante da negativação", "Provas de que não contratou"],
-      "articleId": "CON-009", "relatedArticleIds": ["CON-012", "CON-010"] },
-    "r_neg_nao": { "id": "r_neg_nao", "title": "Negativado: conteste formalmente",
+      "steps": [
+        "Acompanhe o prazo informado pelo protocolo.",
+        "Se não resolver, registre reclamação em canal oficial.",
+        "Considere orientação da Defensoria ou de advogado."
+      ],
+      "documents": [
+        "Protocolo da contestação",
+        "Comprovante da negativação",
+        "Provas de que não contratou"
+      ],
+      "articleId": "CON-009",
+      "relatedArticleIds": [
+        "CON-012",
+        "CON-010"
+      ]
+    },
+    "r_neg_nao": {
+      "id": "r_neg_nao",
+      "title": "Negativado: conteste formalmente",
       "indicates": "Suas respostas indicam que o próximo passo geral pode ser contestar formalmente e reunir provas.",
       "rule": "As regras sobre negativação precisam ser conferidas no conteúdo indicado.",
-      "steps": ["Identifique quem negativou e o valor.", "Conteste por escrito e guarde o protocolo.", "Reúna provas de pagamento ou de que não contratou."],
-      "documents": ["Comprovante da negativação", "Provas de pagamento", "Protocolo"],
-      "articleId": "CON-009", "relatedArticleIds": ["CON-005", "CON-012"] },
-    "r_escalar": { "id": "r_escalar", "title": "Já contestou: veja como reclamar oficialmente",
+      "steps": [
+        "Identifique quem negativou e o valor.",
+        "Conteste por escrito e guarde o protocolo.",
+        "Reúna provas de pagamento ou de que não contratou."
+      ],
+      "documents": [
+        "Comprovante da negativação",
+        "Provas de pagamento",
+        "Protocolo"
+      ],
+      "articleId": "CON-009",
+      "relatedArticleIds": [
+        "CON-005",
+        "CON-012"
+      ]
+    },
+    "r_escalar": {
+      "id": "r_escalar",
+      "title": "Já contestou: veja como reclamar oficialmente",
       "indicates": "Suas respostas indicam que, se não houver resposta adequada, pode valer a pena usar canais oficiais de reclamação.",
       "rule": "Canais como Consumidor.gov.br e Procon não garantem resultado.",
-      "steps": ["Anote o protocolo e as respostas.", "Registre reclamação em canal oficial.", "Procure o regulador do setor, se for o caso."],
-      "documents": ["Protocolo", "Fatura", "Respostas da empresa"],
-      "articleId": "CON-012", "relatedArticleIds": ["CON-005"] },
-    "r_contestar": { "id": "r_contestar", "title": "Conteste a cobrança e guarde o protocolo",
+      "steps": [
+        "Anote o protocolo e as respostas.",
+        "Registre reclamação em canal oficial.",
+        "Procure o regulador do setor, se for o caso."
+      ],
+      "documents": [
+        "Protocolo",
+        "Fatura",
+        "Respostas da empresa"
+      ],
+      "articleId": "CON-012",
+      "relatedArticleIds": [
+        "CON-005"
+      ]
+    },
+    "r_contestar": {
+      "id": "r_contestar",
+      "title": "Conteste a cobrança e guarde o protocolo",
       "indicates": "Suas respostas indicam que o próximo passo geral pode ser contestar formalmente a cobrança.",
       "rule": "Em relações de consumo, cobranças sem contratação regular podem ser contestadas. Detalhes a conferir.",
-      "steps": ["Identifique quem cobra e o valor.", "Envie contestação por escrito.", "Guarde protocolo e respostas."],
-      "documents": ["Fatura", "Protocolo", "Mensagens"],
-      "articleId": "CON-005", "relatedArticleIds": ["CON-010", "CON-012"] }
+      "steps": [
+        "Identifique quem cobra e o valor.",
+        "Envie contestação por escrito.",
+        "Guarde protocolo e respostas."
+      ],
+      "documents": [
+        "Fatura",
+        "Protocolo",
+        "Mensagens"
+      ],
+      "articleId": "CON-005",
+      "relatedArticleIds": [
+        "CON-010",
+        "CON-012"
+      ]
+    }
   },
   "legalReferences": [],
   "lastReviewed": null,
-  "reviewStatus": "pending_review"
+  "reviewStatus": "pending_review",
+  "category": "consumidor"
 }

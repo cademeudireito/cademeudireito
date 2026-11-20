@@ -7,8 +7,11 @@ import { StatusLabel } from '../components/StatusLabel.js';
 
 export async function GuideIndex({ content }) {
   const { guides, site } = content;
+  const card = (g) => h('li', { class: 'list__item' }, link(`/orientador/${g.slug}/`, { class: 'card card--article' }, h('span', { class: 'card__icon' }, icon('compass', { size: 26 })), h('span', { class: 'card__title', text: g.title }), h('span', { class: 'card__text', text: g.description }), StatusLabel(g.status), h('span', { class: 'card__meta' }, 'Começar', icon('arrow', { size: 18 }))));
+  const groups = content.categories.map((c) => [c, guides.filter((g) => g.category === c.id)]).filter(([, list]) => list.length);
+  const others = guides.filter((g) => !content.categories.some((c) => c.id === g.category));
   const body = guides.length
-    ? h('ul', { class: 'list list--cards' }, guides.map((g) => h('li', { class: 'list__item' }, link(`/orientador/${g.slug}/`, { class: 'card card--article' }, h('span', { class: 'card__icon' }, icon('compass', { size: 26 })), h('span', { class: 'card__title', text: g.title }), h('span', { class: 'card__text', text: g.description }), StatusLabel(g.status), h('span', { class: 'card__meta' }, 'Começar', icon('arrow', { size: 18 }))))))
+    ? h('div', {}, groups.map(([c, list]) => h('section', { class: 'article__section' }, h('h2', { text: c.title }), h('ul', { class: 'list list--cards' }, list.map(card)))), others.length ? h('ul', { class: 'list list--cards' }, others.map(card)) : null)
     : EmptyState('Os orientadores estão em revisão', 'Cada guia só é publicado depois que seus resultados e fontes forem validados. Enquanto isso, você pode pesquisar na enciclopédia.', [{ label: 'Ver a enciclopédia', href: '/enciclopedia/' }]);
   return {
     title: 'Encontrar meus direitos',

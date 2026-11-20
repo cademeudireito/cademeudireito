@@ -22,6 +22,9 @@ Conforme `docs/00-visao-geral-e-regras.md` §6 e `docs/10-plano-de-execucao-e-pr
 13. **Sem telefones de serviços:** os assuntos sobre violência e proteção não trazem números de telefone, para não publicar dado desatualizado. Indicam buscar polícia/emergência e a rede oficial local.
 14. **Dispositivos "a conferir":** onde o artigo exato não foi confirmado, o texto indica "a conferir" e a pendência aparece em `docs/relatorios/referencias-pendentes.md`.
 
+15. **Orientadores (2026-11-20):** de 3 para 13 guias, um por área (consumo, previdência ×2, trabalho, saúde, moradia, família, trânsito, mulheres, pessoa idosa, pessoa com deficiência). Os resultados reaproveitam passos, documentos e resposta rápida do assunto ligado, para manter consistência. Os guias aparecem agrupados por categoria e também nas páginas de categoria.
+16. **Guia de violência contra a mulher:** começa perguntando sobre risco imediato, não traz telefones e tem botão "Sair rapidamente" (leva a um site neutro). Revisar com especialista em atendimento a mulheres antes de validar.
+
 ## Precisam de aprovação / dados do responsável
 
 - Licença do código (nenhum `LICENSE` foi adicionado; docs/10 §5).

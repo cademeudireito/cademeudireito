@@ -1,0 +1,209 @@
+{
+  "id": "GUI-008",
+  "slug": "aluguel-e-moradia",
+  "category": "moradia",
+  "title": "Tenho um problema com aluguel ou moradia",
+  "description": "Encontre conteúdos sobre aluguel conforme a fase em que você está.",
+  "status": "draft",
+  "startQuestion": "q1",
+  "questions": {
+    "q1": {
+      "id": "q1",
+      "text": "Em que fase está o aluguel?",
+      "options": [
+        {
+          "label": "Ainda vou alugar",
+          "next": "r_gar"
+        },
+        {
+          "label": "Já moro no imóvel",
+          "next": "q2"
+        },
+        {
+          "label": "Vou sair ou devolver o imóvel",
+          "next": "r_dev"
+        },
+        {
+          "label": "Recebi uma notificação para sair",
+          "next": "r_desp"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "Qual é o assunto?",
+      "options": [
+        {
+          "label": "O proprietário quer aumentar o aluguel",
+          "next": "r_aum"
+        },
+        {
+          "label": "Preciso de um reparo no imóvel",
+          "next": "r_rep"
+        },
+        {
+          "label": "O proprietário vai vender o imóvel",
+          "next": "r_venda"
+        },
+        {
+          "label": "Cobrança ou multa do condomínio",
+          "next": "r_cond"
+        }
+      ]
+    }
+  },
+  "results": {
+    "r_gar": {
+      "id": "r_gar",
+      "title": "Garantias do aluguel",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer as modalidades de garantia previstas na lei de locação.",
+      "rule": "A lei de locação permite que o locador exija modalidades de garantia, como caução, fiança, seguro de fiança locatícia ou cessão fiduciária de quotas de fundo de investimento. A lei também limita a exigência de mais de uma modalidade ao mesmo tempo.",
+      "steps": [
+        "Compare as opções de garantia.",
+        "Leia as cláusulas sobre responsabilidade do fiador.",
+        "Guarde cópia do contrato e dos recibos."
+      ],
+      "documents": [
+        "Contrato de locação e aditivos",
+        "Comprovantes de pagamento de aluguel e encargos",
+        "Vistoria de entrada, fotos e orçamentos",
+        "Notificações, mensagens e e-mails trocados"
+      ],
+      "articleId": "MOR-004",
+      "relatedArticleIds": [
+        "MOR-001"
+      ]
+    },
+    "r_dev": {
+      "id": "r_dev",
+      "title": "Devolução do imóvel",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer os cuidados na devolução e na vistoria de saída.",
+      "rule": "A lei de locação lista as obrigações do locador e do locatário. Na devolução, é prudente fazer vistoria de saída, comparar com a vistoria de entrada e registrar a entrega das chaves por escrito.",
+      "steps": [
+        "Avise o locador conforme o contrato, por escrito.",
+        "Faça a vistoria de saída e fotografe o imóvel.",
+        "Registre a entrega das chaves e peça recibo."
+      ],
+      "documents": [
+        "Contrato de locação e aditivos",
+        "Comprovantes de pagamento de aluguel e encargos",
+        "Vistoria de entrada, fotos e orçamentos",
+        "Notificações, mensagens e e-mails trocados"
+      ],
+      "articleId": "MOR-005",
+      "relatedArticleIds": [
+        "MOR-002"
+      ]
+    },
+    "r_desp": {
+      "id": "r_desp",
+      "title": "Notificação para sair",
+      "indicates": "Suas respostas indicam que é importante entender o documento recebido, que despejo tem procedimento próprio e que pode haver prazos.",
+      "rule": "Despejo não é expulsão imediata. A lei de locação e o Código de Processo Civil preveem requisitos e procedimento. A situação depende dos fatos, do contrato e da modalidade. Se houver prazo correndo, procure rapidamente a Defensoria Pública ou um advogado.",
+      "steps": [
+        "Leia todo o documento e anote datas.",
+        "Guarde comprovantes de pagamento e o contrato.",
+        "Procure a Defensoria Pública ou um advogado sem demora."
+      ],
+      "documents": [
+        "Contrato de locação e aditivos",
+        "Comprovantes de pagamento de aluguel e encargos",
+        "Vistoria de entrada, fotos e orçamentos",
+        "Notificações, mensagens e e-mails trocados"
+      ],
+      "articleId": "MOR-003",
+      "relatedArticleIds": [
+        "MOR-001"
+      ],
+      "caution": "Se houver prazo correndo, procure a Defensoria Pública ou um advogado sem demora."
+    },
+    "r_aum": {
+      "id": "r_aum",
+      "title": "Aumento do aluguel",
+      "indicates": "Suas respostas indicam que pode valer a pena conferir a cláusula de reajuste e pedir o cálculo por escrito.",
+      "rule": "O reajuste do aluguel depende do contrato e da legislação de locação. Confira a cláusula de reajuste e a periodicidade e peça a memória de cálculo por escrito antes de concordar.",
+      "steps": [
+        "Releia a cláusula de reajuste.",
+        "Peça a memória de cálculo por escrito.",
+        "Registre a resposta e as datas."
+      ],
+      "documents": [
+        "Contrato de locação e aditivos",
+        "Comprovantes de pagamento de aluguel e encargos",
+        "Vistoria de entrada, fotos e orçamentos",
+        "Notificações, mensagens e e-mails trocados"
+      ],
+      "articleId": "MOR-001",
+      "relatedArticleIds": [
+        "MOR-004"
+      ]
+    },
+    "r_rep": {
+      "id": "r_rep",
+      "title": "Reparos no imóvel",
+      "indicates": "Suas respostas indicam que pode valer a pena entender quem costuma ser responsável por cada tipo de reparo.",
+      "rule": "A lei de locação e o contrato dividem responsabilidades entre locador e locatário. Quem arca com o reparo depende da natureza do problema e do que foi combinado.",
+      "steps": [
+        "Compare o estado atual com a vistoria de entrada.",
+        "Comunique o proprietário ou a imobiliária por escrito, com fotos.",
+        "Peça orçamento antes de gastar e guarde comprovantes."
+      ],
+      "documents": [
+        "Contrato de locação e aditivos",
+        "Comprovantes de pagamento de aluguel e encargos",
+        "Vistoria de entrada, fotos e orçamentos",
+        "Notificações, mensagens e e-mails trocados"
+      ],
+      "articleId": "MOR-002",
+      "relatedArticleIds": [
+        "MOR-005"
+      ]
+    },
+    "r_venda": {
+      "id": "r_venda",
+      "title": "Venda do imóvel alugado",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o direito de preferência do locatário.",
+      "rule": "A lei de locação dá ao locatário preferência para adquirir o imóvel locado, em igualdade de condições com terceiros, e exige que o locador lhe dê conhecimento do negócio. Detalhes de forma, prazo e exceções precisam ser conferidos.",
+      "steps": [
+        "Peça a comunicação por escrito com as condições da venda.",
+        "Guarde seu contrato e comprovantes de pagamento.",
+        "Procure orientação antes que o prazo para responder termine."
+      ],
+      "documents": [
+        "Contrato de locação e aditivos",
+        "Comprovantes de pagamento de aluguel e encargos",
+        "Vistoria de entrada, fotos e orçamentos",
+        "Notificações, mensagens e e-mails trocados"
+      ],
+      "articleId": "MOR-007",
+      "relatedArticleIds": [
+        "MOR-003"
+      ]
+    },
+    "r_cond": {
+      "id": "r_cond",
+      "title": "Condomínio",
+      "indicates": "Suas respostas indicam que pode valer a pena conferir deveres do condômino e os documentos que embasam a cobrança.",
+      "rule": "O Código Civil lista deveres do condômino, como contribuir para as despesas do condomínio. A validade de multas e taxas depende da convenção, do regimento e de decisões em assembleia, e pode ser questionada em alguns casos.",
+      "steps": [
+        "Peça a convenção, o regimento e a ata.",
+        "Questione por escrito ao síndico ou administradora.",
+        "Se necessário, procure orientação jurídica."
+      ],
+      "documents": [
+        "Contrato de locação e aditivos",
+        "Comprovantes de pagamento de aluguel e encargos",
+        "Vistoria de entrada, fotos e orçamentos",
+        "Notificações, mensagens e e-mails trocados"
+      ],
+      "articleId": "MOR-006",
+      "relatedArticleIds": [
+        "MOR-001"
+      ]
+    }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+}

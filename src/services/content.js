@@ -126,6 +126,7 @@ export function validateContent({ categories, articles, guides, pages = [] }) {
     gSlugs.add(g.slug);
     if (g.slug && !SLUG_RE.test(g.slug)) errors.push(`${w}: slug inválido "${g.slug}"`);
     if (g.status && !ARTICLE_STATUSES.includes(g.status)) errors.push(`${w}: status inválido`);
+    if (g.category && !catIds.has(g.category)) errors.push(`${w}: categoria inexistente "${g.category}"`);
     errors.push(...validateGuide(g, byId));
     if (g.status === 'published') {
       if (g.reviewStatus !== 'approved') errors.push(`${w}: publicado sem reviewStatus "approved"`);

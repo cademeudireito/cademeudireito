@@ -1,0 +1,166 @@
+{
+  "id": "GUI-011",
+  "slug": "violencia-contra-a-mulher",
+  "category": "mulheres",
+  "title": "Preciso de informações sobre violência ou assédio",
+  "description": "Informações gerais e caminhos de ajuda. Se você está em perigo agora, procure um lugar seguro e acione a polícia ou o serviço de emergência.",
+  "status": "draft",
+  "quickExit": true,
+  "startQuestion": "q1",
+  "questions": {
+    "q1": {
+      "id": "q1",
+      "text": "Você está em risco imediato agora?",
+      "helpText": "Sua segurança vem primeiro.",
+      "options": [
+        {
+          "label": "Sim, estou em perigo agora",
+          "next": "r_risco"
+        },
+        {
+          "label": "Não, não agora",
+          "next": "q2"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "O que está acontecendo?",
+      "options": [
+        {
+          "label": "Violência ou ameaças de alguém da família ou de um parceiro",
+          "next": "r_vd"
+        },
+        {
+          "label": "Assédio ou importunação sexual",
+          "next": "r_ass"
+        },
+        {
+          "label": "Divulgaram fotos ou vídeos íntimos meus",
+          "next": "r_img"
+        },
+        {
+          "label": "Quero saber onde buscar ajuda",
+          "next": "r_ajuda"
+        }
+      ]
+    }
+  },
+  "results": {
+    "r_risco": {
+      "id": "r_risco",
+      "title": "Procure segurança e ajuda agora",
+      "indicates": "Suas respostas indicam que a prioridade é a sua segurança. Procure um lugar seguro e acione a polícia ou o serviço de emergência.",
+      "rule": "A Lei Maria da Penha prevê atuação integrada de polícia, Judiciário, Ministério Público, assistência social e saúde. Em risco imediato, procure a polícia ou o serviço de emergência. Para os canais e endereços atuais da sua cidade, consulte os portais oficiais do seu estado ou município.",
+      "steps": [
+        "Em perigo imediato, busque lugar seguro e acione a polícia ou a emergência.",
+        "Procure a rede de atendimento da sua cidade pelo site oficial do estado ou município.",
+        "Fale com alguém de confiança e combine um plano para pedir ajuda rapidamente."
+      ],
+      "documents": [
+        "Registros de mensagens, ligações e áudios",
+        "Fotos de lesões ou danos, laudos e atendimentos",
+        "Nomes de testemunhas e datas dos fatos",
+        "Número do registro de ocorrência, se houver"
+      ],
+      "articleId": "MUL-004",
+      "relatedArticleIds": [
+        "MUL-002"
+      ],
+      "caution": "Em perigo imediato, acione a polícia ou o serviço de emergência pelo canal oficial."
+    },
+    "r_vd": {
+      "id": "r_vd",
+      "title": "Informações sobre violência doméstica e proteção",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer as formas de violência doméstica previstas na lei e as medidas protetivas.",
+      "rule": "A Lei Maria da Penha considera violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial. Violência não é só física: pode ser psicológica, sexual, patrimonial e moral.",
+      "steps": [
+        "Se estiver em perigo, procure um lugar seguro e acione a polícia ou o serviço de emergência.",
+        "Guarde registros (mensagens, fotos, laudos) em local seguro.",
+        "Procure a rede oficial de atendimento à mulher para orientação."
+      ],
+      "documents": [
+        "Registros de mensagens, ligações e áudios",
+        "Fotos de lesões ou danos, laudos e atendimentos",
+        "Nomes de testemunhas e datas dos fatos",
+        "Número do registro de ocorrência, se houver"
+      ],
+      "articleId": "MUL-001",
+      "relatedArticleIds": [
+        "MUL-002",
+        "MUL-004"
+      ],
+      "caution": "Se a situação piorar, procure imediatamente a polícia ou a emergência."
+    },
+    "r_ass": {
+      "id": "r_ass",
+      "title": "Informações sobre importunação e assédio sexual",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer como a lei trata essas condutas. O enquadramento do seu caso não é feito aqui.",
+      "rule": "O Código Penal trata da importunação sexual e do assédio sexual como condutas distintas, com requisitos próprios. Se você sofreu isso, o ocorrido merece ser levado a sério, e há canais para registrar. O enquadramento de cada caso precisa de análise individual.",
+      "steps": [
+        "Se estiver em perigo, procure um lugar seguro e o serviço de emergência.",
+        "Anote data, local, o que aconteceu e testemunhas, e guarde provas.",
+        "Procure a delegacia, a Defensoria Pública ou a rede de atendimento à mulher."
+      ],
+      "documents": [
+        "Registros de mensagens, ligações e áudios",
+        "Fotos de lesões ou danos, laudos e atendimentos",
+        "Nomes de testemunhas e datas dos fatos",
+        "Número do registro de ocorrência, se houver"
+      ],
+      "articleId": "MUL-003",
+      "relatedArticleIds": [
+        "MUL-004",
+        "TRA-011"
+      ]
+    },
+    "r_img": {
+      "id": "r_img",
+      "title": "Imagens íntimas divulgadas",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer como pedir a retirada do conteúdo e preservar provas.",
+      "rule": "O Marco Civil da Internet prevê que o provedor que disponibiliza conteúdo gerado por terceiros pode ser responsabilizado subsidiariamente pela divulgação, sem autorização, de imagens, vídeos ou outros materiais com cenas de nudez ou de atos sexuais privados, se, após notificação, não retirar o conteúdo. Procure ajuda e guarde provas.",
+      "steps": [
+        "Guarde prints com endereço (link), data e perfil responsável.",
+        "Notifique a plataforma e peça a retirada.",
+        "Procure a delegacia e a Defensoria Pública para orientação."
+      ],
+      "documents": [
+        "Prints de telas, mensagens e e-mails",
+        "Comprovantes de pagamentos e transferências",
+        "Endereços de sites, perfis ou contas envolvidos (links)",
+        "Protocolos das plataformas e instituições"
+      ],
+      "articleId": "DIG-004",
+      "relatedArticleIds": [
+        "MUL-003",
+        "MUL-004"
+      ]
+    },
+    "r_ajuda": {
+      "id": "r_ajuda",
+      "title": "Onde buscar ajuda",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer os tipos de serviço que costumam existir e como encontrá-los.",
+      "rule": "A Lei Maria da Penha prevê atuação integrada de polícia, Judiciário, Ministério Público, assistência social e saúde. Em risco imediato, procure a polícia ou o serviço de emergência. Para os canais e endereços atuais da sua cidade, consulte os portais oficiais do seu estado ou município.",
+      "steps": [
+        "Em perigo imediato, busque lugar seguro e acione a polícia ou a emergência.",
+        "Procure a rede de atendimento da sua cidade pelo site oficial do estado ou município.",
+        "Fale com alguém de confiança e combine um plano para pedir ajuda rapidamente."
+      ],
+      "documents": [
+        "Registros de mensagens, ligações e áudios",
+        "Fotos de lesões ou danos, laudos e atendimentos",
+        "Nomes de testemunhas e datas dos fatos",
+        "Número do registro de ocorrência, se houver"
+      ],
+      "articleId": "MUL-004",
+      "relatedArticleIds": [
+        "MUL-001",
+        "MUL-002"
+      ]
+    }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+}

@@ -1,0 +1,140 @@
+{
+  "id": "GUI-005",
+  "slug": "inss-negou-ou-demora",
+  "category": "previdencia",
+  "title": "O INSS negou, cancelou ou demora a responder meu benefício",
+  "description": "Encontre os próximos passos gerais depois de uma decisão do INSS ou de uma demora.",
+  "status": "draft",
+  "startQuestion": "q1",
+  "questions": {
+    "q1": {
+      "id": "q1",
+      "text": "O que aconteceu com o seu pedido?",
+      "options": [
+        {
+          "label": "O INSS negou o pedido",
+          "next": "q2"
+        },
+        {
+          "label": "O benefício foi cancelado ou suspenso",
+          "next": "r_cancel"
+        },
+        {
+          "label": "O pedido está demorando muito",
+          "next": "r_demora"
+        },
+        {
+          "label": "Não sei explicar",
+          "next": "r_neg"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "Você já leu o motivo da negativa?",
+      "helpText": "O motivo costuma estar na carta ou no aplicativo oficial.",
+      "options": [
+        {
+          "label": "Sim, tenho o motivo por escrito",
+          "next": "r_neg_motivo"
+        },
+        {
+          "label": "Ainda não",
+          "next": "r_neg"
+        }
+      ]
+    }
+  },
+  "results": {
+    "r_neg_motivo": {
+      "id": "r_neg_motivo",
+      "title": "Com o motivo em mãos, verifique prazo e documentos",
+      "indicates": "Suas respostas indicam que o próximo passo geral é comparar o motivo da negativa com seus documentos e conferir o prazo para recurso.",
+      "rule": "Antes de tudo, leia o motivo da negativa. Em geral é possível recorrer pelos canais do próprio INSS, dentro de um prazo informado na decisão, e depois buscar orientação individual. Não há garantia de que o recurso será aceito.",
+      "steps": [
+        "Peça a decisão por escrito e anote o prazo de recurso.",
+        "Reúna documentos que respondam ao motivo da negativa.",
+        "Procure orientação (sindicato, Defensoria Pública, advogado) antes de o prazo terminar."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-006",
+      "relatedArticleIds": [
+        "PRE-001"
+      ],
+      "caution": "O prazo para recorrer costuma estar na própria decisão e pode ser curto."
+    },
+    "r_neg": {
+      "id": "r_neg",
+      "title": "Primeiro, descubra o motivo da negativa",
+      "indicates": "Suas respostas indicam que o primeiro passo é obter a decisão por escrito e entender o motivo.",
+      "rule": "Antes de tudo, leia o motivo da negativa. Em geral é possível recorrer pelos canais do próprio INSS, dentro de um prazo informado na decisão, e depois buscar orientação individual. Não há garantia de que o recurso será aceito.",
+      "steps": [
+        "Peça a decisão por escrito e anote o prazo de recurso.",
+        "Reúna documentos que respondam ao motivo da negativa.",
+        "Procure orientação (sindicato, Defensoria Pública, advogado) antes de o prazo terminar."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-006",
+      "relatedArticleIds": [
+        "PRE-004"
+      ]
+    },
+    "r_cancel": {
+      "id": "r_cancel",
+      "title": "Cancelamento ou suspensão: peça a justificativa",
+      "indicates": "Suas respostas indicam que pode valer a pena pedir a justificativa por escrito e conferir os canais de defesa e recurso.",
+      "rule": "Antes de tudo, leia o motivo da negativa. Em geral é possível recorrer pelos canais do próprio INSS, dentro de um prazo informado na decisão, e depois buscar orientação individual. Não há garantia de que o recurso será aceito.",
+      "steps": [
+        "Peça a decisão por escrito e anote o prazo de recurso.",
+        "Reúna documentos que respondam ao motivo da negativa.",
+        "Procure orientação (sindicato, Defensoria Pública, advogado) antes de o prazo terminar."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-006",
+      "relatedArticleIds": [
+        "PRE-001"
+      ],
+      "caution": "Atenção a prazos informados na comunicação."
+    },
+    "r_demora": {
+      "id": "r_demora",
+      "title": "Demora: registre e cobre pelos canais oficiais",
+      "indicates": "Suas respostas indicam que o caminho geral é consultar o andamento, registrar reclamação e guardar protocolos.",
+      "rule": "A Lei 9.784/1999 regula o processo administrativo na administração pública federal, e leis estaduais e municipais podem ter regras próprias. Prazos e consequências variam por órgão e por tipo de pedido; peça informações e registre reclamação.",
+      "steps": [
+        "Consulte o andamento pelo canal oficial.",
+        "Peça uma resposta por escrito sobre o prazo.",
+        "Registre reclamação na ouvidoria e procure a Defensoria Pública, se necessário."
+      ],
+      "documents": [
+        "Número de protocolo do pedido",
+        "Cópia de requerimentos e documentos enviados",
+        "Datas, nomes e setores consultados"
+      ],
+      "articleId": "PUB-004",
+      "relatedArticleIds": [
+        "PUB-003",
+        "PRE-006"
+      ]
+    }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+}

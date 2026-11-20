@@ -105,3 +105,13 @@ Gerado em 2026-11-20. Total: 93.
 | GUI-001 | Quero desistir de uma compra pela internet | `draft` |
 | GUI-002 | Meu produto apresentou defeito | `draft` |
 | GUI-003 | Recebi uma cobrança que não reconheço | `draft` |
+| GUI-004 | Preciso de um benefício do INSS: por onde começar? | `draft` |
+| GUI-005 | O INSS negou, cancelou ou demora a responder meu benefício | `draft` |
+| GUI-006 | Tenho um problema no trabalho | `draft` |
+| GUI-007 | Meu plano de saúde ou o SUS negou ou demorou um atendimento | `draft` |
+| GUI-008 | Tenho um problema com aluguel ou moradia | `draft` |
+| GUI-009 | Tenho uma dúvida de família | `draft` |
+| GUI-010 | Tenho um problema de trânsito | `draft` |
+| GUI-011 | Preciso de informações sobre violência ou assédio | `draft` |
+| GUI-012 | Direitos da pessoa idosa: por onde começar? | `draft` |
+| GUI-013 | Direitos da pessoa com deficiência: por onde começar? | `draft` |

@@ -116,6 +116,16 @@ Gerado em 2026-11-20 por `npm run report`. Rotas de assuntos e guias só existem
 | `/orientador/compra-online-desistencia/` | Guia GUI-001 (draft) |
 | `/orientador/produto-com-defeito/` | Guia GUI-002 (draft) |
 | `/orientador/cobranca-nao-reconhecida/` | Guia GUI-003 (draft) |
+| `/orientador/qual-beneficio-do-inss/` | Guia GUI-004 (draft) |
+| `/orientador/inss-negou-ou-demora/` | Guia GUI-005 (draft) |
+| `/orientador/problema-no-trabalho/` | Guia GUI-006 (draft) |
+| `/orientador/plano-de-saude-ou-sus/` | Guia GUI-007 (draft) |
+| `/orientador/aluguel-e-moradia/` | Guia GUI-008 (draft) |
+| `/orientador/familia-filhos-e-casal/` | Guia GUI-009 (draft) |
+| `/orientador/transito-multa-acidente-cnh/` | Guia GUI-010 (draft) |
+| `/orientador/violencia-contra-a-mulher/` | Guia GUI-011 (draft) |
+| `/orientador/direitos-da-pessoa-idosa/` | Guia GUI-012 (draft) |
+| `/orientador/direitos-da-pessoa-com-deficiencia/` | Guia GUI-013 (draft) |
 | `/acessibilidade/` | Institucional: Acessibilidade |
 | `/aviso-educativo/` | Institucional: Aviso educativo |
 | `/fontes-e-metodologia/` | Institucional: Como usamos as leis: fontes e metodologia |

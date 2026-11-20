@@ -1,0 +1,251 @@
+{
+  "id": "GUI-007",
+  "slug": "plano-de-saude-ou-sus",
+  "category": "saude",
+  "title": "Meu plano de saúde ou o SUS negou ou demorou um atendimento",
+  "description": "Encontre os conteúdos sobre a sua situação de saúde no plano privado ou no SUS.",
+  "status": "draft",
+  "startQuestion": "q1",
+  "questions": {
+    "q1": {
+      "id": "q1",
+      "text": "Qual é o seu atendimento?",
+      "options": [
+        {
+          "label": "Plano de saúde privado",
+          "next": "q2"
+        },
+        {
+          "label": "SUS (sistema público)",
+          "next": "q3"
+        },
+        {
+          "label": "Quero acessar meu prontuário ou exames",
+          "next": "r_pront"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "É uma urgência ou emergência?",
+      "helpText": "Em caso de risco à vida, procure atendimento imediato antes de qualquer outra providência.",
+      "options": [
+        {
+          "label": "Sim",
+          "next": "r_urg"
+        },
+        {
+          "label": "Não",
+          "next": "q4"
+        }
+      ]
+    },
+    "q4": {
+      "id": "q4",
+      "text": "O que o plano fez?",
+      "options": [
+        {
+          "label": "Negou exame, tratamento ou cirurgia",
+          "next": "r_neg"
+        },
+        {
+          "label": "Aumentou a mensalidade",
+          "next": "r_reaj"
+        },
+        {
+          "label": "Cancelou ou não renovou o plano",
+          "next": "r_canc"
+        }
+      ]
+    },
+    "q3": {
+      "id": "q3",
+      "text": "O que aconteceu no SUS?",
+      "options": [
+        {
+          "label": "Não forneceu medicamento ou exame",
+          "next": "r_med"
+        },
+        {
+          "label": "Demora ou negativa de atendimento",
+          "next": "r_dem"
+        },
+        {
+          "label": "Preciso de acompanhante no parto ou internação",
+          "next": "r_acomp"
+        }
+      ]
+    }
+  },
+  "results": {
+    "r_urg": {
+      "id": "r_urg",
+      "title": "Urgência e emergência no plano",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer a cobertura obrigatória prevista para urgência e emergência.",
+      "rule": "A Lei 9.656/1998 torna obrigatória a cobertura do atendimento nos casos que ela lista, como emergência e urgência, nos termos da lei. As condições, como carência e limites, precisam ser conferidas na redação vigente e na norma da ANS.",
+      "steps": [
+        "Busque atendimento imediato se houver risco.",
+        "Guarde laudos, receitas e comprovantes de despesas.",
+        "Peça a negativa por escrito e registre reclamação na ANS."
+      ],
+      "documents": [
+        "Documento do plano ou cartão do SUS",
+        "Pedido médico, laudos e receitas",
+        "Protocolos e comunicados do plano ou da unidade de saúde"
+      ],
+      "articleId": "SAU-009",
+      "relatedArticleIds": [
+        "SAU-001"
+      ],
+      "caution": "Se houver risco à vida, busque atendimento imediato."
+    },
+    "r_neg": {
+      "id": "r_neg",
+      "title": "Plano negou procedimento",
+      "indicates": "Suas respostas indicam que pode valer a pena entender como a negativa de cobertura é analisada e o que pedir por escrito.",
+      "rule": "A cobertura depende do tipo de contrato, da segmentação, da data, do procedimento e das normas vigentes da ANS e da lei. Peça a negativa por escrito e procure os canais da ANS. Se houver urgência, procure atendimento de saúde.",
+      "steps": [
+        "Peça a negativa por escrito, com o motivo.",
+        "Reúna pedido médico, laudos e protocolos.",
+        "Registre reclamação nos canais da operadora e da ANS."
+      ],
+      "documents": [
+        "Documento do plano ou cartão do SUS",
+        "Pedido médico, laudos e receitas",
+        "Protocolos e comunicados do plano ou da unidade de saúde",
+        "Datas e nomes de quem atendeu"
+      ],
+      "articleId": "SAU-001",
+      "relatedArticleIds": [
+        "SAU-009"
+      ]
+    },
+    "r_reaj": {
+      "id": "r_reaj",
+      "title": "Reajuste da mensalidade",
+      "indicates": "Suas respostas indicam que pode valer a pena entender os tipos de reajuste e como pedir o demonstrativo.",
+      "rule": "Os contratos de plano de saúde têm regras de reajuste, que dependem do tipo de plano (individual ou coletivo) e das normas da ANS. Peça à operadora o demonstrativo do cálculo e confira o seu contrato.",
+      "steps": [
+        "Guarde o comunicado de reajuste e o contrato.",
+        "Peça o demonstrativo por escrito.",
+        "Reclame na operadora e, se não resolver, na ANS."
+      ],
+      "documents": [
+        "Documento do plano ou cartão do SUS",
+        "Pedido médico, laudos e receitas",
+        "Protocolos e comunicados do plano ou da unidade de saúde"
+      ],
+      "articleId": "SAU-007",
+      "relatedArticleIds": [
+        "IDO-003"
+      ]
+    },
+    "r_canc": {
+      "id": "r_canc",
+      "title": "Plano cancelado ou não renovado",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer as regras de renovação e de rescisão.",
+      "rule": "A Lei 9.656/1998 trata da renovação automática dos contratos e limita a cobrança de taxas na renovação. As hipóteses em que a operadora pode rescindir dependem do tipo de contrato; peça o motivo por escrito.",
+      "steps": [
+        "Peça o motivo e a base contratual por escrito.",
+        "Guarde comprovantes de pagamento.",
+        "Reclame na operadora e na ANS e procure orientação."
+      ],
+      "documents": [
+        "Documento do plano ou cartão do SUS",
+        "Pedido médico, laudos e receitas",
+        "Protocolos e comunicados do plano ou da unidade de saúde"
+      ],
+      "articleId": "SAU-008",
+      "relatedArticleIds": [
+        "SAU-007"
+      ]
+    },
+    "r_med": {
+      "id": "r_med",
+      "title": "Medicamento ou exame no SUS",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer os caminhos para cobrar medicamento ou exame no SUS.",
+      "rule": "A Constituição trata a saúde como direito de todos e dever do Estado, e a lei do SUS organiza as ações. O que o SUS fornece depende de listas e protocolos oficiais, e há canais para reclamar. Em urgência, procure atendimento imediato.",
+      "steps": [
+        "Peça por escrito a negativa ou a previsão de fornecimento.",
+        "Reúna receitas, laudos e pedidos.",
+        "Registre reclamação na ouvidoria e procure a Defensoria Pública, se necessário."
+      ],
+      "documents": [
+        "Documento do plano ou cartão do SUS",
+        "Pedido médico, laudos e receitas",
+        "Protocolos e comunicados do plano ou da unidade de saúde"
+      ],
+      "articleId": "SAU-005",
+      "relatedArticleIds": [
+        "SAU-002"
+      ],
+      "caution": "Se houver urgência, procure atendimento imediato."
+    },
+    "r_dem": {
+      "id": "r_dem",
+      "title": "Demora ou negativa no SUS",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer os canais de reclamação do SUS.",
+      "rule": "A Constituição e a legislação do SUS tratam da saúde como direito, mas os canais e as regras locais variam. Procure a ouvidoria da unidade e da secretaria de saúde da sua localidade. Em urgência, busque atendimento imediato.",
+      "steps": [
+        "Anote datas, locais e nomes de quem atendeu.",
+        "Registre reclamação na ouvidoria da unidade ou secretaria.",
+        "Guarde protocolo e documentos médicos."
+      ],
+      "documents": [
+        "Documento do plano ou cartão do SUS",
+        "Pedido médico, laudos e receitas",
+        "Protocolos e comunicados do plano ou da unidade de saúde",
+        "Datas e nomes de quem atendeu"
+      ],
+      "articleId": "SAU-002",
+      "relatedArticleIds": [
+        "SAU-005"
+      ]
+    },
+    "r_acomp": {
+      "id": "r_acomp",
+      "title": "Acompanhante",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o direito a acompanhante em algumas situações de saúde.",
+      "rule": "Há leis que asseguram acompanhante à parturiente no SUS e a acompanhante de pessoas idosas e de crianças em internação. As regras exatas variam por situação e precisam ser conferidas.",
+      "steps": [
+        "Informe a unidade com antecedência.",
+        "Peça justificativa por escrito se houver recusa.",
+        "Registre reclamação na ouvidoria."
+      ],
+      "documents": [
+        "Documento do plano ou cartão do SUS",
+        "Pedido médico, laudos e receitas",
+        "Protocolos e comunicados do plano ou da unidade de saúde"
+      ],
+      "articleId": "SAU-006",
+      "relatedArticleIds": [
+        "SAU-002"
+      ]
+    },
+    "r_pront": {
+      "id": "r_pront",
+      "title": "Acesso ao prontuário",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer como pedir cópia do prontuário.",
+      "rule": "Existem normas sobre prontuário do paciente e proteção de dados. Como pedir, em que prazo e com quais limites precisa ser conferido nas normas profissionais e na legislação aplicável. Peça por escrito à unidade de saúde.",
+      "steps": [
+        "Peça por escrito, informando seus dados e o período desejado.",
+        "Guarde protocolo do pedido.",
+        "Se houver recusa, peça justificativa por escrito."
+      ],
+      "documents": [
+        "Documento do plano ou cartão do SUS",
+        "Pedido médico, laudos e receitas",
+        "Protocolos e comunicados do plano ou da unidade de saúde",
+        "Datas e nomes de quem atendeu"
+      ],
+      "articleId": "SAU-003",
+      "relatedArticleIds": [
+        "DIG-005"
+      ]
+    }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+}

@@ -1,0 +1,213 @@
+{
+  "id": "GUI-004",
+  "slug": "qual-beneficio-do-inss",
+  "category": "previdencia",
+  "title": "Preciso de um benefício do INSS: por onde começar?",
+  "description": "Responda algumas perguntas para encontrar o conteúdo sobre o benefício que mais se parece com a sua situação.",
+  "status": "draft",
+  "startQuestion": "q1",
+  "questions": {
+    "q1": {
+      "id": "q1",
+      "text": "Qual é a sua situação?",
+      "helpText": "Escolha a que mais se aproxima do seu caso.",
+      "options": [
+        {
+          "label": "Estou doente ou machucado e não consigo trabalhar",
+          "next": "q2"
+        },
+        {
+          "label": "Tive um filho ou adotei",
+          "next": "r_mat"
+        },
+        {
+          "label": "Faleceu alguém da família que me sustentava",
+          "next": "r_pensao"
+        },
+        {
+          "label": "Quero saber sobre aposentadoria",
+          "next": "r_apos"
+        },
+        {
+          "label": "Sou idoso ou tenho deficiência e tenho baixa renda",
+          "next": "r_bpc"
+        },
+        {
+          "label": "Não sei",
+          "next": "r_inc"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "Você trabalha com carteira assinada?",
+      "options": [
+        {
+          "label": "Sim",
+          "next": "r_inc_clt"
+        },
+        {
+          "label": "Não, sou autônomo ou contribuo por conta própria",
+          "next": "r_inc_aut"
+        },
+        {
+          "label": "Não sei",
+          "next": "r_inc_aut"
+        }
+      ]
+    }
+  },
+  "results": {
+    "r_mat": {
+      "id": "r_mat",
+      "title": "Pode ser o salário-maternidade",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o salário-maternidade e a licença-maternidade.",
+      "rule": "O salário-maternidade é devido à segurada da Previdência Social, em regra por 120 dias, com início no período entre 28 dias antes do parto e a data dele. Há situações e condições específicas, e normas mais recentes podem alterar detalhes: confira a regra vigente.",
+      "steps": [
+        "Informe a empresa sobre a gestação e o afastamento, por escrito.",
+        "Reúna atestado médico e, depois, a certidão de nascimento.",
+        "Se não for empregada, confira como pedir ao INSS."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-005",
+      "relatedArticleIds": [
+        "TRA-008"
+      ]
+    },
+    "r_pensao": {
+      "id": "r_pensao",
+      "title": "Pode ser a pensão por morte",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer a pensão por morte e quem pode ser dependente.",
+      "rule": "A pensão por morte é devida ao conjunto dos dependentes do segurado que falecer, aposentado ou não. Quem é dependente, a duração e o valor variam conforme a legislação vigente e o caso.",
+      "steps": [
+        "Reúna certidão de óbito e documentos que comprovem a relação com o falecido.",
+        "Confira o prazo e a forma de pedido nos canais oficiais.",
+        "Guarde o protocolo do pedido."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-004",
+      "relatedArticleIds": [
+        "PRE-006"
+      ]
+    },
+    "r_apos": {
+      "id": "r_apos",
+      "title": "Veja as regras gerais de aposentadoria",
+      "indicates": "Suas respostas indicam que o primeiro passo é entender por que as regras variam e onde conferir o seu histórico.",
+      "rule": "As regras de aposentadoria dependem de idade, tempo de contribuição, data de filiação e de regras de transição criadas pela Emenda Constitucional 103/2019. Não dá para responder com um número único: é preciso conferir o seu histórico no canal oficial do INSS.",
+      "steps": [
+        "Reúna carteira de trabalho e comprovantes de contribuição.",
+        "Consulte seu extrato de contribuições pelos canais oficiais.",
+        "Peça simulação ou orientação ao INSS ou a um profissional de confiança."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-002",
+      "relatedArticleIds": [
+        "PRE-006"
+      ]
+    },
+    "r_bpc": {
+      "id": "r_bpc",
+      "title": "Pode ser o BPC (benefício assistencial)",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o BPC, que não exige contribuição ao INSS, mas tem critérios de renda.",
+      "rule": "O BPC é a garantia de um salário-mínimo mensal à pessoa com deficiência e ao idoso com 65 anos ou mais que comprovem não ter meios de se manter nem de ser mantidos pela família. Não exige contribuição ao INSS, mas há critérios de renda e avaliação que precisam ser conferidos.",
+      "steps": [
+        "Verifique se a família está inscrita no Cadastro Único e se os dados estão atualizados.",
+        "Reúna documentos pessoais, comprovantes de renda e, se for o caso, laudos.",
+        "Peça o benefício pelos canais oficiais do INSS."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-003",
+      "relatedArticleIds": [
+        "PCD-004"
+      ]
+    },
+    "r_inc_clt": {
+      "id": "r_inc_clt",
+      "title": "Pode ser o benefício por incapacidade (com vínculo de emprego)",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o benefício por incapacidade e como o afastamento se relaciona ao emprego.",
+      "rule": "A lei prevê benefício para o segurado da Previdência que fica incapacitado para o trabalho por mais de 15 dias consecutivos, observada a carência quando exigida. Se você tem direito depende da sua condição de segurado, do tempo de contribuição e de avaliação do INSS.",
+      "steps": [
+        "Guarde atestados, laudos e exames com datas.",
+        "Confira sua situação de contribuição pelos canais oficiais do INSS.",
+        "Siga as instruções para pedido e perícia informadas pelo canal oficial."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-001",
+      "relatedArticleIds": [
+        "TRA-009"
+      ]
+    },
+    "r_inc_aut": {
+      "id": "r_inc_aut",
+      "title": "Pode ser o benefício por incapacidade (sem carteira assinada)",
+      "indicates": "Suas respostas indicam que pode valer a pena conferir sua condição de segurado e a carência para o benefício por incapacidade.",
+      "rule": "A lei prevê benefício para o segurado da Previdência que fica incapacitado para o trabalho por mais de 15 dias consecutivos, observada a carência quando exigida. Se você tem direito depende da sua condição de segurado, do tempo de contribuição e de avaliação do INSS.",
+      "steps": [
+        "Guarde atestados, laudos e exames com datas.",
+        "Confira sua situação de contribuição pelos canais oficiais do INSS.",
+        "Siga as instruções para pedido e perícia informadas pelo canal oficial."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-001",
+      "relatedArticleIds": [
+        "PRE-006"
+      ]
+    },
+    "r_inc": {
+      "id": "r_inc",
+      "title": "Precisamos de mais informações",
+      "indicates": "Com a resposta dada não é possível apontar um caminho claro. Veja a visão geral das regras e confira seu histórico no canal oficial.",
+      "rule": "As regras de aposentadoria dependem de idade, tempo de contribuição, data de filiação e de regras de transição criadas pela Emenda Constitucional 103/2019. Não dá para responder com um número único: é preciso conferir o seu histórico no canal oficial do INSS.",
+      "steps": [
+        "Reúna carteira de trabalho e comprovantes de contribuição.",
+        "Consulte seu extrato de contribuições pelos canais oficiais.",
+        "Peça simulação ou orientação ao INSS ou a um profissional de confiança."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-002",
+      "relatedArticleIds": [
+        "PRE-001"
+      ]
+    }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+}

@@ -1,0 +1,312 @@
+{
+  "id": "GUI-006",
+  "slug": "problema-no-trabalho",
+  "category": "trabalho",
+  "title": "Tenho um problema no trabalho",
+  "description": "Responda perguntas simples para encontrar o conteúdo sobre o seu problema de trabalho.",
+  "status": "draft",
+  "startQuestion": "q1",
+  "questions": {
+    "q1": {
+      "id": "q1",
+      "text": "Qual é o seu problema?",
+      "options": [
+        {
+          "label": "Salário ou 13º atrasado ou não pago",
+          "next": "q2"
+        },
+        {
+          "label": "Fui demitido ou vou ser",
+          "next": "r_dem"
+        },
+        {
+          "label": "Estou grávida",
+          "next": "r_grav"
+        },
+        {
+          "label": "Sofro humilhações, pressão ou assédio",
+          "next": "q3"
+        },
+        {
+          "label": "Trabalho sem registro na carteira",
+          "next": "r_semreg"
+        },
+        {
+          "label": "Horas extras, intervalo ou descanso",
+          "next": "q4"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "O que não foi pago?",
+      "options": [
+        {
+          "label": "O salário do mês",
+          "next": "r_sal"
+        },
+        {
+          "label": "O 13º salário",
+          "next": "r_13"
+        },
+        {
+          "label": "As férias ou o adicional de férias",
+          "next": "r_fer"
+        }
+      ]
+    },
+    "q3": {
+      "id": "q3",
+      "text": "O que mais se parece com o que acontece?",
+      "options": [
+        {
+          "label": "Humilhações, gritos, perseguição ou isolamento",
+          "next": "r_moral"
+        },
+        {
+          "label": "Investidas ou comentários de natureza sexual",
+          "next": "r_sex"
+        }
+      ]
+    },
+    "q4": {
+      "id": "q4",
+      "text": "Sobre o que é a sua dúvida?",
+      "options": [
+        {
+          "label": "Trabalho além do horário combinado",
+          "next": "r_he"
+        },
+        {
+          "label": "Intervalo para almoço ou descanso entre jornadas",
+          "next": "r_int"
+        }
+      ]
+    }
+  },
+  "results": {
+    "r_sal": {
+      "id": "r_sal",
+      "title": "Salário atrasado",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o conteúdo sobre atraso de salário e o que reunir antes de buscar ajuda.",
+      "rule": "A Constituição e a CLT tratam do pagamento de salário, e o que cabe fazer depende do seu tipo de vínculo, das datas e de normas coletivas. Reúna comprovantes e procure os canais oficiais; não é possível prometer resultado.",
+      "steps": [
+        "Confira o contrato e as datas de pagamento.",
+        "Reúna contracheques, extratos e mensagens sobre o atraso.",
+        "Procure o sindicato ou os canais oficiais para orientação."
+      ],
+      "documents": [
+        "Carteira de trabalho (física ou digital)",
+        "Contracheques e comprovantes de pagamento",
+        "Controle de jornada, quando houver",
+        "Mensagens, e-mails e documentos da empresa",
+        "Convenção ou acordo coletivo da categoria, se conhecer"
+      ],
+      "articleId": "TRA-001",
+      "relatedArticleIds": [
+        "TRA-005"
+      ]
+    },
+    "r_13": {
+      "id": "r_13",
+      "title": "13º salário",
+      "indicates": "Suas respostas indicam que pode valer a pena conferir as regras do 13º salário.",
+      "rule": "O 13º salário é previsto em lei específica e em sua regulamentação. Regras de cálculo e de pagamento precisam ser conferidas na norma vigente; o seu caso pode depender do tempo de serviço e do tipo de contrato.",
+      "steps": [
+        "Reúna contracheques do ano.",
+        "Anote datas de admissão e eventuais afastamentos.",
+        "Procure o sindicato ou canais oficiais para orientação."
+      ],
+      "documents": [
+        "Carteira de trabalho (física ou digital)",
+        "Contracheques e comprovantes de pagamento",
+        "Controle de jornada, quando houver",
+        "Mensagens, e-mails e documentos da empresa",
+        "Convenção ou acordo coletivo da categoria, se conhecer"
+      ],
+      "articleId": "TRA-006",
+      "relatedArticleIds": [
+        "TRA-001"
+      ]
+    },
+    "r_fer": {
+      "id": "r_fer",
+      "title": "Férias e adicional",
+      "indicates": "Suas respostas indicam que pode valer a pena conferir as regras de férias.",
+      "rule": "A Constituição prevê férias com um adicional, e a CLT detalha regras (período, concessão, pagamento). Os detalhes — como prazos, fracionamento e exceções — precisam ser conferidos na norma vigente e no seu caso.",
+      "steps": [
+        "Liste períodos de trabalho e férias já gozadas.",
+        "Guarde recibos de férias e contracheques.",
+        "Procure orientação do sindicato ou dos canais oficiais."
+      ],
+      "documents": [
+        "Carteira de trabalho (física ou digital)",
+        "Contracheques e comprovantes de pagamento",
+        "Controle de jornada, quando houver",
+        "Mensagens, e-mails e documentos da empresa",
+        "Convenção ou acordo coletivo da categoria, se conhecer"
+      ],
+      "articleId": "TRA-002",
+      "relatedArticleIds": [
+        "TRA-001"
+      ]
+    },
+    "r_dem": {
+      "id": "r_dem",
+      "title": "Demissão: verbas e documentos",
+      "indicates": "Suas respostas indicam que pode valer a pena entender quais verbas podem ser discutidas e o que guardar.",
+      "rule": "Quais verbas podem ser devidas depende da modalidade de rescisão, do contrato e do tempo de serviço. A CLT e a legislação do FGTS são ponto de partida; confira os requisitos e peça orientação para o seu caso.",
+      "steps": [
+        "Guarde o termo de rescisão e comprovantes de pagamento.",
+        "Confira extrato do FGTS pelos canais oficiais.",
+        "Procure orientação antes de assinar documentos que não compreenda."
+      ],
+      "documents": [
+        "Carteira de trabalho (física ou digital)",
+        "Contracheques e comprovantes de pagamento",
+        "Controle de jornada, quando houver",
+        "Mensagens, e-mails e documentos da empresa",
+        "Convenção ou acordo coletivo da categoria, se conhecer"
+      ],
+      "articleId": "TRA-004",
+      "relatedArticleIds": [
+        "TRA-010",
+        "TRA-014"
+      ]
+    },
+    "r_grav": {
+      "id": "r_grav",
+      "title": "Gravidez: licença e proteção",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer a licença-maternidade e a proteção da gestante no emprego.",
+      "rule": "A CLT prevê que a empregada gestante tem direito à licença-maternidade de 120 dias, sem prejuízo do emprego e do salário, e leis mais recentes podem ter alterado detalhes. A Constituição também protege contra dispensa arbitrária ou sem justa causa. Confira o texto vigente.",
+      "steps": [
+        "Informe a empresa por escrito e entregue o atestado.",
+        "Guarde cópia de tudo o que entregou.",
+        "Se houver dispensa ou pressão, procure o sindicato, a Defensoria Pública ou advogado."
+      ],
+      "documents": [
+        "Carteira de trabalho (física ou digital)",
+        "Contracheques e comprovantes de pagamento",
+        "Controle de jornada, quando houver",
+        "Mensagens, e-mails e documentos da empresa"
+      ],
+      "articleId": "TRA-008",
+      "relatedArticleIds": [
+        "PRE-005"
+      ]
+    },
+    "r_moral": {
+      "id": "r_moral",
+      "title": "Possível assédio moral",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o que se discute como assédio moral e como registrar o que acontece. O enquadramento do seu caso não é feito aqui.",
+      "rule": "A dignidade da pessoa humana é fundamento da Constituição, e a CLT prevê hipóteses em que o empregado pode considerar rescindido o contrato por falta grave do empregador. Se o seu caso é assédio moral depende de fatos, repetição e provas.",
+      "steps": [
+        "Anote datas, locais e o que foi dito, e guarde mensagens.",
+        "Verifique se há canal interno de denúncia.",
+        "Procure o sindicato, a Defensoria Pública ou advogado."
+      ],
+      "documents": [
+        "Carteira de trabalho (física ou digital)",
+        "Contracheques e comprovantes de pagamento",
+        "Controle de jornada, quando houver",
+        "Mensagens, e-mails e documentos da empresa"
+      ],
+      "articleId": "TRA-011",
+      "relatedArticleIds": [
+        "TRA-004"
+      ]
+    },
+    "r_sex": {
+      "id": "r_sex",
+      "title": "Possível assédio sexual",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer como a lei trata assédio e importunação sexual. O enquadramento do seu caso não é feito aqui.",
+      "rule": "O Código Penal trata da importunação sexual e do assédio sexual como condutas distintas, com requisitos próprios. Se você sofreu isso, o ocorrido merece ser levado a sério, e há canais para registrar. O enquadramento de cada caso precisa de análise individual.",
+      "steps": [
+        "Se estiver em perigo, procure um lugar seguro e o serviço de emergência.",
+        "Anote data, local, o que aconteceu e testemunhas, e guarde provas.",
+        "Procure a delegacia, a Defensoria Pública ou a rede de atendimento à mulher."
+      ],
+      "documents": [
+        "Registros de mensagens, ligações e áudios",
+        "Fotos de lesões ou danos, laudos e atendimentos",
+        "Nomes de testemunhas e datas dos fatos",
+        "Número do registro de ocorrência, se houver"
+      ],
+      "articleId": "MUL-003",
+      "relatedArticleIds": [
+        "TRA-011"
+      ],
+      "caution": "Se estiver em perigo, procure um local seguro e o serviço de emergência."
+    },
+    "r_semreg": {
+      "id": "r_semreg",
+      "title": "Trabalho sem registro",
+      "indicates": "Suas respostas indicam que pode valer a pena entender como o vínculo de emprego é analisado e que provas guardar.",
+      "rule": "A CLT trata do registro do empregado, mas a existência de vínculo de emprego depende dos fatos e dos requisitos legais. Não é possível afirmar automaticamente que há vínculo; reúna provas da relação e busque orientação.",
+      "steps": [
+        "Guarde prova de pagamentos e mensagens de trabalho.",
+        "Anote dias, horários e tarefas.",
+        "Procure orientação do sindicato, da Defensoria ou de advogado."
+      ],
+      "documents": [
+        "Carteira de trabalho (física ou digital)",
+        "Contracheques e comprovantes de pagamento",
+        "Controle de jornada, quando houver",
+        "Mensagens, e-mails e documentos da empresa",
+        "Convenção ou acordo coletivo da categoria, se conhecer"
+      ],
+      "articleId": "TRA-005",
+      "relatedArticleIds": [
+        "TRA-001",
+        "TRA-012"
+      ]
+    },
+    "r_he": {
+      "id": "r_he",
+      "title": "Horas extras e jornada",
+      "indicates": "Suas respostas indicam que pode valer a pena entender como jornada e horas extras são analisadas.",
+      "rule": "Jornada e horas extras dependem da jornada contratada, do regime, da categoria, de acordos ou convenções e de exceções. A Constituição e a CLT são pontos de partida; o seu caso pode exigir análise individual.",
+      "steps": [
+        "Anote horários de entrada e saída.",
+        "Guarde controle de ponto e mensagens sobre horários.",
+        "Confira a convenção ou o acordo coletivo da categoria."
+      ],
+      "documents": [
+        "Carteira de trabalho (física ou digital)",
+        "Contracheques e comprovantes de pagamento",
+        "Controle de jornada, quando houver",
+        "Mensagens, e-mails e documentos da empresa",
+        "Convenção ou acordo coletivo da categoria, se conhecer"
+      ],
+      "articleId": "TRA-003",
+      "relatedArticleIds": [
+        "TRA-013"
+      ]
+    },
+    "r_int": {
+      "id": "r_int",
+      "title": "Intervalo e descanso",
+      "indicates": "Suas respostas indicam que pode valer a pena conferir as regras de intervalo e de descanso entre jornadas.",
+      "rule": "A CLT prevê, em trabalho contínuo de mais de 6 horas, intervalo para repouso ou alimentação de no mínimo 1 hora (com exceções por acordo ou contrato coletivo) e um período mínimo de 11 horas de descanso entre duas jornadas. Confira as exceções vigentes.",
+      "steps": [
+        "Anote seus horários de entrada, saída e intervalo.",
+        "Guarde espelhos de ponto.",
+        "Procure o sindicato para conferir a convenção da categoria."
+      ],
+      "documents": [
+        "Carteira de trabalho (física ou digital)",
+        "Contracheques e comprovantes de pagamento",
+        "Controle de jornada, quando houver",
+        "Mensagens, e-mails e documentos da empresa"
+      ],
+      "articleId": "TRA-013",
+      "relatedArticleIds": [
+        "TRA-003"
+      ]
+    }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+}

@@ -1,0 +1,169 @@
+{
+  "id": "GUI-009",
+  "slug": "familia-filhos-e-casal",
+  "category": "familia",
+  "title": "Tenho uma dúvida de família",
+  "description": "Encontre o conteúdo sobre pensão, guarda, união estável, divórcio ou registro de nascimento.",
+  "status": "draft",
+  "startQuestion": "q1",
+  "questions": {
+    "q1": {
+      "id": "q1",
+      "text": "Sua dúvida envolve:",
+      "options": [
+        {
+          "label": "Filhos",
+          "next": "q2"
+        },
+        {
+          "label": "Casal (casamento ou convivência)",
+          "next": "q3"
+        }
+      ]
+    },
+    "q2": {
+      "id": "q2",
+      "text": "Sobre os filhos, qual é o assunto?",
+      "options": [
+        {
+          "label": "Pensão alimentícia",
+          "next": "r_pens"
+        },
+        {
+          "label": "Guarda e convivência",
+          "next": "r_guarda"
+        },
+        {
+          "label": "Registro de nascimento",
+          "next": "r_reg"
+        }
+      ]
+    },
+    "q3": {
+      "id": "q3",
+      "text": "Sobre o casal, qual é o assunto?",
+      "options": [
+        {
+          "label": "Vivemos juntos sem casar",
+          "next": "r_ue"
+        },
+        {
+          "label": "Quero me divorciar",
+          "next": "r_div"
+        }
+      ]
+    }
+  },
+  "results": {
+    "r_pens": {
+      "id": "r_pens",
+      "title": "Pensão alimentícia",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer como a pensão é pedida e revista.",
+      "rule": "O Código Civil prevê que parentes, cônjuges ou companheiros podem pedir alimentos para viver de modo compatível com sua condição social, inclusive educação. O valor considera a necessidade de quem recebe e a possibilidade de quem paga, e muda conforme o caso.",
+      "steps": [
+        "Reúna certidão de nascimento e comprovantes de despesas.",
+        "Reúna o que souber sobre a renda de quem deve pagar.",
+        "Procure a Defensoria Pública ou um advogado para o pedido."
+      ],
+      "documents": [
+        "Certidões de nascimento, casamento ou outras do caso",
+        "Documentos de identificação das partes",
+        "Comprovantes de renda e despesas, quando houver pedido de valores",
+        "Mensagens e provas relacionadas"
+      ],
+      "articleId": "FAM-001",
+      "relatedArticleIds": [
+        "FAM-002"
+      ]
+    },
+    "r_guarda": {
+      "id": "r_guarda",
+      "title": "Guarda dos filhos",
+      "indicates": "Suas respostas indicam que pode valer a pena entender a guarda unilateral e a compartilhada.",
+      "rule": "O Código Civil prevê guarda unilateral ou compartilhada. A separação, o divórcio ou o fim da união estável não alteram as relações entre pais e filhos, apenas o direito de terem os filhos em sua companhia. O interesse da criança é o ponto central.",
+      "steps": [
+        "Converse e, se possível, registre um acordo por escrito.",
+        "Reúna documentos dos filhos e comprovantes de convivência.",
+        "Procure a Defensoria Pública ou advogado para formalizar."
+      ],
+      "documents": [
+        "Certidões de nascimento, casamento ou outras do caso",
+        "Documentos de identificação das partes",
+        "Comprovantes de renda e despesas, quando houver pedido de valores",
+        "Mensagens e provas relacionadas"
+      ],
+      "articleId": "FAM-002",
+      "relatedArticleIds": [
+        "FAM-001"
+      ]
+    },
+    "r_reg": {
+      "id": "r_reg",
+      "title": "Registro de nascimento",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer como fazer o registro e a primeira certidão.",
+      "rule": "O registro de nascimento é feito no cartório de registro civil, conforme a Lei de Registros Públicos. A Constituição garante a gratuidade do registro civil de nascimento aos reconhecidamente pobres, e a primeira certidão tem regras próprias de gratuidade. Confira os documentos exigidos no cartório da sua cidade.",
+      "steps": [
+        "Reúna a declaração de nascido vivo e os documentos dos pais.",
+        "Procure o cartório de registro civil mais próximo.",
+        "Guarde a primeira certidão com cuidado."
+      ],
+      "documents": [
+        "Certidões de nascimento, casamento ou outras do caso",
+        "Documentos de identificação das partes",
+        "Comprovantes de renda e despesas, quando houver pedido de valores",
+        "Mensagens e provas relacionadas"
+      ],
+      "articleId": "FAM-005",
+      "relatedArticleIds": [
+        "FAM-002"
+      ]
+    },
+    "r_ue": {
+      "id": "r_ue",
+      "title": "União estável",
+      "indicates": "Suas respostas indicam que pode valer a pena entender como a lei reconhece a união estável.",
+      "rule": "O Código Civil reconhece como entidade familiar a união estável, configurada na convivência pública, contínua e duradoura, com o objetivo de constituir família. Os efeitos (patrimônio, herança, pensão) dependem do caso e de eventual contrato.",
+      "steps": [
+        "Reúna provas da convivência (documentos, contas, fotos).",
+        "Converse sobre formalização em cartório ou com advogado.",
+        "Guarde cópias de qualquer contrato assinado."
+      ],
+      "documents": [
+        "Certidões de nascimento, casamento ou outras do caso",
+        "Documentos de identificação das partes",
+        "Comprovantes de renda e despesas, quando houver pedido de valores",
+        "Mensagens e provas relacionadas"
+      ],
+      "articleId": "FAM-003",
+      "relatedArticleIds": [
+        "FAM-004"
+      ]
+    },
+    "r_div": {
+      "id": "r_div",
+      "title": "Divórcio",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o panorama do divórcio e dos temas que costumam ser tratados.",
+      "rule": "A Constituição trata da dissolução do casamento pelo divórcio, e a lei processual e civil define os procedimentos. Se há acordo e não há situações que exijam a Justiça, pode haver caminhos mais simples; com filhos menores ou conflito, a análise costuma ser mais detalhada.",
+      "steps": [
+        "Liste bens, dívidas e dados dos filhos.",
+        "Veja se há acordo sobre guarda, pensão e partilha.",
+        "Procure a Defensoria Pública ou advogado para indicar a via adequada."
+      ],
+      "documents": [
+        "Certidões de nascimento, casamento ou outras do caso",
+        "Documentos de identificação das partes",
+        "Comprovantes de renda e despesas, quando houver pedido de valores",
+        "Mensagens e provas relacionadas"
+      ],
+      "articleId": "FAM-004",
+      "relatedArticleIds": [
+        "FAM-001",
+        "FAM-002"
+      ]
+    }
+  },
+  "legalReferences": [],
+  "lastReviewed": null,
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+}
