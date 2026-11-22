@@ -274,6 +274,30 @@
       "tipo": "emendas-constitucionais",
       "numero": 103,
       "ano": 2019
+    },
+    "l9099": {
+      "name": "Lei nº 9.099/1995 — Juizados Especiais Cíveis e Criminais",
+      "tipo": "leis-ordinarias",
+      "numero": 9099,
+      "ano": 1995
+    },
+    "l9534": {
+      "name": "Lei nº 9.534/1997 (gratuidade do registro de nascimento e da primeira certidão)",
+      "tipo": "leis-ordinarias",
+      "numero": 9534,
+      "ano": 1997
+    },
+    "l12506": {
+      "name": "Lei nº 12.506/2011 — aviso prévio proporcional",
+      "tipo": "leis-ordinarias",
+      "numero": 12506,
+      "ano": 2011
+    },
+    "l15371": {
+      "name": "Lei nº 15.371/2026 — licença-paternidade e salário-paternidade",
+      "tipo": "leis-ordinarias",
+      "numero": 15371,
+      "ano": 2026
     }
   }
 }

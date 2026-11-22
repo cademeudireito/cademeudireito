@@ -3,7 +3,7 @@
   "slug": "plano-cancelado-pela-operadora",
   "title": "A operadora cancelou ou não renovou meu plano",
   "category": "saude",
-  "summary": "Em que situações a operadora pode ou não rescindir o plano e o que pedir por escrito.",
+  "summary": "Quando a operadora pode cancelar um plano individual e o que você pode fazer.",
   "keywords": [
     "cancelamento do plano",
     "rescisão unilateral",
@@ -13,31 +13,36 @@
   ],
   "synonyms": [
     "plano cancelado",
-    "perda do plano"
+    "perda do plano",
+    "plano cancelado durante tratamento"
   ],
-  "quickAnswer": "A Lei 9.656/1998 trata da renovação automática dos contratos e limita a cobrança de taxas na renovação. As hipóteses em que a operadora pode rescindir dependem do tipo de contrato; peça o motivo por escrito.",
+  "quickAnswer": "Em plano individual, a operadora só pode cancelar em caso de fraude ou se você ficar mais de 60 dias sem pagar, e precisa avisar antes. Se perdeu o emprego ou se aposentou, pode manter o plano pagando o valor integral. Peça o motivo por escrito.",
   "sections": {
-    "explanation": "Em planos coletivos e individuais, as regras de rescisão e de manutenção do beneficiário são diferentes.",
+    "explanation": "A renovação do contrato é automática no fim do prazo e não pode ter taxa de renovação. Em plano individual, o contrato dura pelo menos um ano e não pode ser suspenso nem cancelado pela operadora, exceto por fraude ou por atraso de mais de 60 dias nos últimos 12 meses. Nesse caso, você precisa ter sido avisado até o 50º dia de atraso. Durante uma internação, a operadora também não pode cancelar o contrato.",
     "whenApplies": [
-      "Você recebeu aviso de cancelamento ou de não renovação do plano."
+      "Você recebeu aviso de cancelamento ou de que o plano não será renovado.",
+      "Você perdeu o emprego ou se aposentou e quer manter o plano."
     ],
     "exceptions": [
-      "Inadimplência e outras hipóteses previstas em contrato e na lei têm tratamento próprio."
+      "Quem perdeu o emprego sem justa causa pode manter o plano por um terço do tempo em que contribuiu, com mínimo de 6 meses e máximo de 24 meses, pagando o valor integral (art. 30, § 1º).",
+      "Quem se aposentou e contribuiu por pelo menos 10 anos pode manter o plano nas mesmas condições (art. 31)."
     ],
     "steps": [
-      "Peça o motivo e a base contratual por escrito.",
-      "Guarde comprovantes de pagamento.",
-      "Reclame na operadora e na ANS e procure orientação."
+      "Peça o motivo do cancelamento e a base do contrato por escrito.",
+      "Guarde comprovantes de pagamento e o aviso recebido, com a data.",
+      "Se perdeu o emprego ou se aposentou, pergunte à operadora sobre a manutenção do plano e o prazo.",
+      "Reclame na operadora e na ANS se o cancelamento não tiver base legal."
     ],
     "documentsToKeep": [
-      "Documento do plano ou cartão do SUS",
-      "Pedido médico, laudos e receitas",
-      "Protocolos e comunicados do plano ou da unidade de saúde"
+      "Contrato do plano e carteirinha",
+      "Comprovantes de pagamento",
+      "Aviso de cancelamento ou de não renovação",
+      "Documento de demissão ou de aposentadoria, se for o caso"
     ],
     "ifDenied": [
-      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
-      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
-      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+      "Registre reclamação no Consumidor.gov.br, se a operadora participar da plataforma.",
+      "Registre reclamação na ANS, pelo canal oficial da agência.",
+      "Se o plano foi cancelado durante tratamento ou internação, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -45,12 +50,14 @@
       "name": "Lei nº 9.656/1998 (planos privados de assistência à saúde)",
       "sphere": "federal",
       "provisions": [
-        "art. 13"
+        "art. 13, caput",
+        "art. 13, parágrafo único",
+        "art. 30, caput e § 1º",
+        "art. 31, caput"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1998/lei-9656-1998-06-03.md",
@@ -59,29 +66,21 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "13"
+          "13",
+          "30",
+          "1",
+          "31"
         ],
         "provisionsMissing": []
       }
-    },
-    {
-      "name": "Normas vigentes da ANS (a identificar)",
-      "sphere": "federal",
-      "provisions": [
-        "a identificar"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
     }
   ],
   "relatedArticles": [
     "SAU-007",
     "SAU-001"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/04-saude.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

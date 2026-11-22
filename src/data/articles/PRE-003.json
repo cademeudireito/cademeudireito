@@ -3,43 +3,57 @@
   "slug": "bpc-beneficio-assistencial",
   "title": "O que é o BPC (benefício assistencial)?",
   "category": "previdencia",
-  "summary": "Benefício de um salário-mínimo para pessoa idosa ou com deficiência em situação de baixa renda: noções gerais.",
+  "summary": "O BPC é um salário mínimo por mês para a pessoa com deficiência ou para o idoso de 65 anos ou mais que não tem como se manter nem é mantido pela família.",
   "keywords": [
     "BPC",
     "LOAS",
     "benefício assistencial",
     "baixa renda",
-    "CadÚnico"
+    "CadÚnico",
+    "salário mínimo",
+    "idoso 65 anos",
+    "pessoa com deficiência",
+    "renda por pessoa",
+    "Cadastro Único"
   ],
   "synonyms": [
     "benefício de prestação continuada",
-    "amparo assistencial"
+    "amparo assistencial",
+    "benefício para idoso de baixa renda",
+    "benefício para pessoa com deficiência",
+    "um salário mínimo para idoso",
+    "bpc loas",
+    "renda de 1/4 do salário mínimo"
   ],
-  "quickAnswer": "O BPC é a garantia de um salário-mínimo mensal à pessoa com deficiência e ao idoso com 65 anos ou mais que comprovem não ter meios de se manter nem de ser mantidos pela família. Não exige contribuição ao INSS, mas há critérios de renda e avaliação que precisam ser conferidos.",
+  "quickAnswer": "O BPC paga um salário mínimo por mês à pessoa com deficiência ou ao idoso de 65 anos ou mais que não tem como se sustentar nem é sustentado pela família. Não precisa ter contribuído ao INSS. A renda por pessoa da família deve ser de até 1/4 do salário mínimo, e é preciso estar inscrito no CPF e no Cadastro Único.",
   "sections": {
-    "explanation": "É um benefício de assistência social, não uma aposentadoria. A lei define quem é a família considerada e a forma de avaliar a renda e a deficiência.",
+    "explanation": "O BPC é um salário mínimo por mês, previsto na Lei 8.742 (art. 20). Ele não exige contribuição ao INSS, mas a renda da família é avaliada: a renda mensal por pessoa da família deve ser de até 1/4 do salário mínimo. A família conta quem vive sob o mesmo teto, como cônjuge, pais, irmãos solteiros e filhos solteiros. Em alguns casos, o regulamento pode aceitar um limite maior, de até 1/2 salário mínimo. Para a pessoa com deficiência, o impedimento precisa durar pelo menos 2 anos, e o INSS faz avaliação médica e social.",
     "whenApplies": [
-      "Você, ou alguém da sua família, é idoso (65 anos ou mais) ou tem deficiência e tem baixa renda."
+      "Você tem 65 anos ou mais, ou tem deficiência que dura pelo menos 2 anos.",
+      "Você não consegue se manter e não é mantido pela família.",
+      "A renda por pessoa da família é de até 1/4 do salário mínimo."
     ],
     "exceptions": [
-      "Critérios de renda e composição familiar mudam com alterações legais; confira a regra vigente.",
-      "O benefício não gera 13º nem pensão, entre outras diferenças."
+      "O BPC não pode ser somado a outro benefício da seguridade social, com as exceções previstas na lei (art. 20, §4º).",
+      "Morar em instituição de longa permanência não tira o direito (art. 20, §5º).",
+      "Alguns valores, como rendimentos de estágio e certos auxílios temporários, não entram no cálculo da renda (art. 20, §9º).",
+      "Cada caso é diferente: a avaliação do INSS e a renda real da família decidem."
     ],
     "steps": [
-      "Verifique se a família está inscrita no Cadastro Único e se os dados estão atualizados.",
-      "Reúna documentos pessoais, comprovantes de renda e, se for o caso, laudos.",
-      "Peça o benefício pelos canais oficiais do INSS."
+      "Faça ou atualize sua inscrição no CPF e no Cadastro Único.",
+      "Reúna seus documentos pessoais, comprovantes de renda da família e laudos médicos, se houver deficiência.",
+      "Peça o BPC pelos canais oficiais do INSS e compareça às avaliações médica e social."
     ],
     "documentsToKeep": [
-      "Documentos pessoais e número do benefício ou protocolo",
-      "Carteira de trabalho e comprovantes de contribuição",
-      "Laudos, atestados e exames, quando houver incapacidade",
-      "Comunicados e decisões do INSS"
+      "Documentos pessoais de todos que moram na casa",
+      "Número do CPF e do Cadastro Único",
+      "Comprovantes de renda da família, ou declaração de que não há renda",
+      "Laudos e exames que mostrem a deficiência, se houver"
     ],
     "ifDenied": [
-      "Confira o motivo da decisão por escrito e os canais oficiais de recurso do INSS (confira o canal atual).",
-      "Sindicatos, Defensoria Pública e advogados podem orientar sobre o seu caso.",
-      "Atenção a prazos de recurso informados na própria decisão."
+      "Leia o motivo da negativa por escrito. Se foi a renda, confira se foram somados os rendimentos de todos que moram juntos (art. 20, §3º-A).",
+      "Se a negativa foi pela avaliação da deficiência, peça o laudo e o relatório da avaliação.",
+      "Recorra pelos canais oficiais do INSS, dentro do prazo informado. Procure também a Defensoria Pública ou a assistência social da sua cidade."
     ]
   },
   "legalReferences": [
@@ -47,12 +61,21 @@
       "name": "Lei nº 8.742/1993 (Lei Orgânica da Assistência Social — LOAS)",
       "sphere": "federal",
       "provisions": [
-        "art. 20"
+        "art. 20, caput",
+        "art. 20, §1º",
+        "art. 20, §2º",
+        "art. 20, §3º",
+        "art. 20, §3º-A",
+        "art. 20, §4º",
+        "art. 20, §5º",
+        "art. 20, §9º",
+        "art. 20, §10",
+        "art. 20, §11-A",
+        "art. 20, §12"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-12-07;8742",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1993/lei-8742-1993-12-07.md",
@@ -71,8 +94,8 @@
     "PCD-004",
     "IDO-001"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/03-previdencia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

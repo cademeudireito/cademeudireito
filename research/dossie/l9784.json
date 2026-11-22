@@ -12,5 +12,10 @@
   "urn": "urn:lex:br:federal:lei:1999-01-29;9784",
   "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-01-29;9784",
   "baixado_em": "2026-10-13",
-  "artigosCitados": {}
+  "artigosCitados": {
+    "48": "**Art. 48.** A Administração tem o dever de explicitamente emitir decisão nos processos administrativos e sobre solicitações ou reclamações, em matéria de sua competência.",
+    "49": "**Art. 49.** Concluída a instrução de processo administrativo, a Administração tem o prazo de até trinta dias para decidir, salvo prorrogação por igual período expressamente motivada.\n\n#### CAPÍTULO XI-A — DA DECISÃO COORDENADA\n\n*(Capítulo acrescido pela Lei nº 14.210, de 30/9/2021)*",
+    "56": "**Art. 56.** Das decisões administrativas cabe recurso, em face de razões de legalidade e de mérito.\n\n**§ 1º** O recurso será dirigido à autoridade que proferiu a decisão, a qual, se não a reconsiderar no prazo de cinco dias, o encaminhará à autoridade superior.\n\n**§ 2º** Salvo exigência legal, a interposição de recurso administrativo independe de caução.\n\n**§ 3º** Se o recorrente alegar que a decisão administrativa contraria enunciado da súmula vinculante, caberá à autoridade prolatora da decisão impugnada, se não a reconsiderar, explicitar, antes de encaminhar o recurso à autoridade superior, as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso. *(Parágrafo acrescido pela Lei nº 11.417, de 19/12/2006, publicada no DOU de 20/12/2006, em vigor 3 (três) meses após a publicação)*",
+    "59": "**Art. 59.** Salvo disposição legal específica, é de dez dias o prazo para interposição de recurso administrativo, contado a partir da ciência ou divulgação oficial da decisão recorrida.\n\n**§ 1º** Quando a lei não fixar prazo diferente, o recurso administrativo deverá ser decidido no prazo máximo de trinta dias, a partir do recebimento dos autos pelo órgão competente.\n\n**§ 2º** O prazo mencionado no parágrafo anterior poderá ser prorrogado por igual período, ante justificativa explícita."
+  }
 }

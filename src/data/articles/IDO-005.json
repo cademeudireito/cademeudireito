@@ -3,40 +3,47 @@
   "slug": "discriminacao-por-idade",
   "title": "Fui impedido de fazer algo por causa da minha idade",
   "category": "idosos",
-  "summary": "O que a lei diz sobre discriminar a pessoa idosa no acesso a serviços, bancos e transporte.",
+  "summary": "Negar serviço, conta, contrato ou transporte só por causa da idade é crime.",
   "keywords": [
     "discriminação",
     "etarismo",
     "idoso",
     "banco",
-    "contratar"
+    "contratar",
+    "discriminação por idade",
+    "negaram por ser idoso"
   ],
   "synonyms": [
     "negaram por ser idoso",
-    "preconceito de idade"
+    "preconceito de idade",
+    "banco negou por idade",
+    "recusa por ser idoso"
   ],
-  "quickAnswer": "O Estatuto da Pessoa Idosa prevê crime para quem discrimina a pessoa idosa, impedindo ou dificultando seu acesso a operações bancárias, a meios de transporte, ao direito de contratar ou a outros meios necessários ao exercício da cidadania, por motivo de idade.",
+  "quickAnswer": "Negar ou dificultar, por causa da idade, o acesso a banco, transporte ou contrato é crime, com pena de reclusão de 6 meses a 1 ano e multa (Estatuto, art. 96). Algumas exigências de segurança podem ser avaliadas caso a caso. Peça a recusa por escrito, com o motivo.",
   "sections": {
-    "explanation": "Exigências razoáveis, como as de segurança em determinadas atividades, podem ser analisadas caso a caso. Negar serviço apenas pela idade merece atenção.",
+    "explanation": "O Estatuto da Pessoa Idosa (art. 96) considera crime discriminar a pessoa idosa por causa da idade, impedindo ou dificultando seu acesso a operações bancárias, a meios de transporte, ao direito de contratar ou a outro meio necessário ao exercício da cidadania. A pena é de reclusão de 6 meses a 1 ano, e multa. Humilhar, desdenhar ou menosprezar pessoa idosa também é crime, com a mesma pena.",
     "whenApplies": [
-      "Você teve serviço, contrato ou acesso negado ou dificultado pela idade."
+      "Você teve serviço, conta, contrato ou transporte negado ou dificultado por causa da idade."
     ],
     "exceptions": [
-      "Cada caso precisa de análise dos fatos e da justificativa dada."
+      "Exigências razoáveis, como as de segurança em determinadas atividades, podem ser analisadas caso a caso.",
+      "Negar crédito por causa de superendividamento da pessoa idosa não é crime (art. 96, §3º)."
     ],
     "steps": [
       "Peça a recusa por escrito, com o motivo.",
-      "Guarde protocolos, e-mails e nomes de quem atendeu.",
-      "Registre reclamação e, se necessário, procure o Ministério Público ou a Defensoria Pública."
+      "Guarde o protocolo, os e-mails e o nome de quem atendeu.",
+      "Registre reclamação na ouvidoria da empresa ou do órgão."
     ],
     "documentsToKeep": [
-      "Documento de identificação e comprovante de idade",
-      "Contratos, boletos e comunicados relacionados",
-      "Protocolos e registros de atendimento"
+      "Recusa por escrito ou protocolo do atendimento",
+      "E-mails, mensagens e prints das conversas",
+      "Nome de quem atendeu",
+      "Documento que comprove a idade"
     ],
     "ifDenied": [
       "Procure a ouvidoria da empresa ou do órgão responsável.",
-      "Verifique os canais oficiais de proteção à pessoa idosa da sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+      "Procure o Ministério Público ou a Defensoria Pública e leve as provas.",
+      "Se for crime, registre boletim de ocorrência na delegacia."
     ]
   },
   "legalReferences": [
@@ -44,12 +51,12 @@
       "name": "Lei nº 10.741/2003 — Estatuto da Pessoa Idosa",
       "sphere": "federal",
       "provisions": [
-        "art. 96"
+        "art. 96",
+        "art. 96, §§ 1º e 3º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2003/lei-10741-2003-10-01.md",
@@ -68,8 +75,8 @@
     "IDO-001",
     "IDO-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/10-pessoa-idosa.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

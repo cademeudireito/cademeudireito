@@ -3,42 +3,47 @@
   "slug": "comprar-online-com-seguranca",
   "title": "Como comprar online com mais segurança",
   "category": "direitos-digitais",
-  "summary": "Informações que o site deve exibir e cuidados para evitar golpes em compras pela internet.",
+  "summary": "O que o site de venda precisa informar e como desistir de uma compra feita pela internet.",
   "keywords": [
     "compra online",
     "site confiável",
     "comércio eletrônico",
     "identificação do vendedor",
-    "golpe"
+    "golpe",
+    "arrependimento"
   ],
   "synonyms": [
     "loja virtual",
-    "site falso"
+    "site falso",
+    "comprei na internet",
+    "direito de arrependimento"
   ],
-  "quickAnswer": "O decreto do comércio eletrônico exige que sites informem dados do fornecedor, como identificação e endereço, e informações claras sobre o produto, preço e condições. A ausência delas é um sinal de alerta.",
+  "quickAnswer": "Sites de venda devem informar o nome da empresa, o CNPJ, o endereço e canais de atendimento. Se você comprou pela internet, pode desistir em até 7 dias após receber o produto, sem precisar dar motivo. Desconfie de preço muito abaixo do mercado.",
   "sections": {
-    "explanation": "Confira se há CNPJ, endereço, canal de atendimento e política de troca. Desconfie de preços muito abaixo do mercado.",
+    "explanation": "Antes de comprar em um site desconhecido, procure o nome da empresa, o CNPJ, o endereço e um canal de atendimento (Decreto 7.962/2013, art. 2º). Se você comprou fora da loja física, como pela internet, pode desistir em até 7 dias da assinatura ou do recebimento do produto, sem explicar o motivo (Código de Defesa do Consumidor, art. 49). A loja deve informar como fazer isso (Decreto 7.962/2013, art. 5º).",
     "whenApplies": [
-      "Você quer comprar em um site que não conhece."
+      "Você quer comprar em um site ou loja online que não conhece."
     ],
     "exceptions": [
-      "Nenhum cuidado elimina o risco totalmente."
+      "Nenhum cuidado elimina totalmente o risco de golpe.",
+      "Compra feita dentro da loja física não tem o mesmo direito de desistir por 7 dias."
     ],
     "steps": [
-      "Procure CNPJ, endereço e canais de contato no site.",
-      "Guarde prints da oferta e do pedido.",
-      "Prefira formas de pagamento com proteção e confirme o remetente de links."
+      "Procure no site o nome da empresa, o CNPJ, o endereço e um canal de atendimento. Se não encontrar, desconfie.",
+      "Compare o preço com outros sites. Desconfie de preço muito abaixo do mercado.",
+      "Guarde prints da oferta, do pedido e da confirmação de compra.",
+      "Se quiser desistir, faça o pedido em até 7 dias do recebimento, pelo mesmo canal da compra ou por outro canal da loja.",
+      "Prefira formas de pagamento com alguma proteção e confirme quem enviou o link antes de clicar."
     ],
     "documentsToKeep": [
-      "Prints de telas, mensagens e e-mails",
-      "Comprovantes de pagamentos e transferências",
-      "Endereços de sites, perfis ou contas envolvidos (links)",
-      "Protocolos das plataformas e instituições"
+      "Prints da oferta, do preço e das condições de entrega",
+      "Número do pedido e comprovante de pagamento",
+      "Confirmação do pedido de desistência e protocolo, se houver"
     ],
     "ifDenied": [
-      "Para questões de proteção de dados, verifique os canais da ANPD (confira o canal atual).",
-      "Em caso de indício de crime, verifique como registrar ocorrência na polícia do seu estado.",
-      "Se houver prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Procure o canal de atendimento da loja e guarde o protocolo de cada pedido.",
+      "Lembre que a loja deve manter atendimento eficaz em meio eletrônico (Decreto 7.962/2013, art. 4º, V). Se ela não responder, procure o Consumidor.gov.br ou o Procon.",
+      "Se houver prejuízo grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -46,12 +51,13 @@
       "name": "Decreto nº 7.962/2013 (comércio eletrônico)",
       "sphere": "federal",
       "provisions": [
-        "art. 2º"
+        "art. 2º",
+        "art. 4º, V",
+        "art. 5º"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos/2013/dec-7962-2013-03-15.md",
@@ -60,7 +66,9 @@
         "revogada": false,
         "baixadoEm": "2026-10-16",
         "provisionsFound": [
-          "2"
+          "2",
+          "4",
+          "5"
         ],
         "provisionsMissing": []
       }
@@ -72,9 +80,8 @@
         "art. 49"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -93,8 +100,8 @@
     "CON-001",
     "DIG-003"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/06-direitos-digitais.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

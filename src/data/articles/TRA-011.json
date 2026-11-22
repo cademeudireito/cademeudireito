@@ -3,44 +3,53 @@
   "slug": "assedio-moral-no-trabalho",
   "title": "Sofro humilhações no trabalho: é assédio moral?",
   "category": "trabalho",
-  "summary": "Panorama sobre assédio moral no trabalho e como registrar, sem classificar o seu caso.",
+  "summary": "Humilhação, grito e perseguição no trabalho podem ser falta grave da empresa; veja o que a lei diz e o que guardar.",
   "keywords": [
     "assédio moral",
     "humilhação",
     "abuso do chefe",
     "ambiente de trabalho",
-    "dignidade"
+    "dignidade",
+    "dano moral"
   ],
   "synonyms": [
     "chefe me humilha",
     "perseguição no trabalho",
-    "rescisão indireta"
+    "rescisão indireta",
+    "chefe grita comigo",
+    "isolamento no trabalho",
+    "indenização por humilhação"
   ],
-  "quickAnswer": "A dignidade da pessoa humana é fundamento da Constituição, e a CLT prevê hipóteses em que o empregado pode considerar rescindido o contrato por falta grave do empregador. Se o seu caso é assédio moral depende de fatos, repetição e provas.",
+  "quickAnswer": "A lei não tem um artigo só sobre assédio moral, mas humilhar, gritar ou perseguir pode ferir sua honra e dignidade. A CLT lista faltas graves da empresa que permitem encerrar o contrato e pedir indenização. Anote datas e falas, guarde provas e procure ajuda.",
   "sections": {
-    "explanation": "Registrar datas, falas e testemunhas é essencial. O caminho pode envolver canais internos, sindicato e Justiça do Trabalho.",
+    "explanation": "A dignidade da pessoa humana é um dos fundamentos da Constituição. A CLT diz que causa dano moral a ação ou omissão que ofenda a honra, a imagem, a autoestima, a intimidade ou a saúde da pessoa. Ela também lista faltas graves da empresa que permitem a você considerar o contrato encerrado e pedir indenização, como: tratamento com rigor excessivo, ofensa à sua honra e boa fama, ofensa física, serviços acima das suas forças ou alheios ao contrato, perigo manifesto de mal considerável e descumprimento do contrato. A CLT não tem um tipo específico chamado assédio moral.",
     "whenApplies": [
-      "Você sofre humilhações, cobranças abusivas ou isolamento repetidos no trabalho."
+      "Você é humilhado, xingado, ameaçado, isolado ou perseguido no trabalho.",
+      "Você é tratado com rigor excessivo pelo chefe ou pela empresa.",
+      "Exigem de você serviços acima das suas forças, proibidos por lei ou que não fazem parte do seu contrato."
     ],
     "exceptions": [
-      "Cobrança profissional comum não é, por si só, assédio.",
-      "A análise é individual."
+      "Se o seu caso é assédio moral depende dos fatos e das provas, e cada caso é diferente. Este site não faz esse enquadramento.",
+      "Se a situação envolve insinuações ou investidas sexuais, veja “Sofri importunação ou assédio sexual”.",
+      "Antes de pedir demissão ou deixar o emprego, procure orientação: nem todo caso é aceito como falta grave da empresa."
     ],
     "steps": [
-      "Anote datas, locais e o que foi dito, e guarde mensagens.",
-      "Verifique se há canal interno de denúncia.",
-      "Procure o sindicato, a Defensoria Pública ou advogado."
+      "Anote datas, horários, locais e o que foi dito ou feito, com o nome de quem viu.",
+      "Guarde mensagens, e-mails, áudios e prints. Não apague nada.",
+      "Veja se a empresa tem canal de denúncia, ouvidoria, RH ou Cipa (comissão de prevenção de acidentes e de assédio) e registre o caso por escrito.",
+      "Procure o sindicato, a Defensoria Pública ou um advogado antes de tomar uma decisão grande."
     ],
     "documentsToKeep": [
-      "Carteira de trabalho (física ou digital)",
-      "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa"
+      "Anotações com datas, horários e falas",
+      "Mensagens, e-mails, áudios e prints",
+      "Nomes e contatos de testemunhas",
+      "Atestados e laudos médicos, se a situação afetou sua saúde",
+      "Carteira de trabalho (física ou digital) e contracheques"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Se a empresa ignorar o problema, procure o sindicato ou o Ministério Público do Trabalho.",
+      "Para pedir indenização na Justiça do Trabalho, procure a Defensoria Pública ou um advogado. Há prazo: até 2 anos depois do fim do contrato.",
+      "Se a situação está afetando sua saúde, procure atendimento de saúde e guarde os laudos. Se houver ameaça ou agressão, procure um lugar seguro e a polícia."
     ]
   },
   "legalReferences": [
@@ -48,12 +57,12 @@
       "name": "Constituição Federal de 1988",
       "sphere": "federal",
       "provisions": [
-        "art. 1º, III"
+        "art. 1º, III",
+        "art. 7º, XXIX"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "constituicao.md",
@@ -62,7 +71,8 @@
         "revogada": false,
         "baixadoEm": null,
         "provisionsFound": [
-          "1"
+          "1",
+          "7"
         ],
         "provisionsMissing": []
       }
@@ -71,12 +81,14 @@
       "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
       "sphere": "federal",
       "provisions": [
+        "art. 163",
+        "art. 223-B",
+        "art. 223-C",
         "art. 483"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
@@ -85,6 +97,9 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
+          "163",
+          "223-B",
+          "223-C",
           "483"
         ],
         "provisionsMissing": []
@@ -95,8 +110,8 @@
     "MUL-003",
     "TRA-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

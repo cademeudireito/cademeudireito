@@ -3,42 +3,44 @@
   "slug": "registro-de-nascimento",
   "title": "Como fazer o registro de nascimento?",
   "category": "familia",
-  "summary": "O que saber sobre registro de nascimento e a primeira certidão: onde fazer e o que levar.",
+  "summary": "Prazo para registrar o nascimento e quando o registro e a primeira certidão são gratuitos.",
   "keywords": [
     "registro de nascimento",
     "certidão de nascimento",
     "cartório",
     "gratuidade",
-    "registro civil"
+    "registro civil",
+    "primeira certidão"
   ],
   "synonyms": [
     "registrar filho",
-    "primeira certidão"
+    "primeira certidão",
+    "tirar certidão de nascimento",
+    "registro do bebê"
   ],
-  "quickAnswer": "O registro de nascimento é feito no cartório de registro civil, conforme a Lei de Registros Públicos. A Constituição garante a gratuidade do registro civil de nascimento aos reconhecidamente pobres, e a primeira certidão tem regras próprias de gratuidade. Confira os documentos exigidos no cartório da sua cidade.",
+  "quickAnswer": "O nascimento deve ser registrado no cartório em até 15 dias. Se o cartório fica a mais de 30 km, o prazo pode ser ampliado em até três meses. O registro de nascimento e a primeira certidão são gratuitos.",
   "sections": {
-    "explanation": "Os documentos exigidos variam conforme o caso, como pais casados ou não e nascimento em hospital ou em casa.",
+    "explanation": "O nascimento deve ser registrado no lugar do parto ou da residência dos pais, dentro de 15 dias. Se o cartório fica a mais de 30 km da sede, o prazo pode ser ampliado em até três meses (Lei 6.015/1973, art. 50). O registro de nascimento e a primeira certidão são gratuitos (Lei 9.534/1997, art. 5º). A Constituição também garante a gratuidade do registro às pessoas reconhecidamente pobres (art. 5º, LXXVI, a).",
     "whenApplies": [
       "Nasceu uma criança, ou alguém nunca foi registrado."
     ],
     "exceptions": [
-      "Os prazos e as regras variam conforme o caso e a localidade.",
-      "Casos de reconhecimento de paternidade têm procedimentos específicos."
+      "Os documentos exigidos variam conforme o caso, como pais casados ou não e o lugar do parto.",
+      "Se o prazo já passou, procure o cartório para orientação sobre como fazer o registro."
     ],
     "steps": [
-      "Reúna a declaração de nascido vivo e os documentos dos pais.",
-      "Procure o cartório de registro civil mais próximo.",
+      "Leve a declaração de nascido vivo e os documentos dos pais ao cartório de registro civil mais próximo.",
+      "Antes de ir, confirme com o cartório os documentos exigidos na sua cidade.",
       "Guarde a primeira certidão com cuidado."
     ],
     "documentsToKeep": [
-      "Certidões de nascimento, casamento ou outras do caso",
-      "Documentos de identificação das partes",
-      "Comprovantes de renda e despesas, quando houver pedido de valores",
-      "Mensagens e provas relacionadas"
+      "Declaração de nascido vivo",
+      "Documentos de identificação dos pais",
+      "Certidão de casamento dos pais, se houver"
     ],
     "ifDenied": [
-      "Procure a Defensoria Pública do seu estado ou um advogado: questões de família costumam exigir orientação individual.",
-      "Verifique no tribunal ou cartório da sua cidade os procedimentos e documentos exigidos."
+      "Procure a Defensoria Pública do seu estado se houver dificuldade para registrar.",
+      "Procure o cartório da sua cidade para saber quais documentos são exigidos."
     ]
   },
   "legalReferences": [
@@ -46,12 +48,11 @@
       "name": "Lei nº 6.015/1973 (registros públicos)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 50"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1973-12-31;6015",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1973/lei-6015-1973-12-31.md",
@@ -59,7 +60,31 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "50"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 9.534/1997 (gratuidade do registro de nascimento e da primeira certidão)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 5º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-12-10;9534",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1997/lei-9534-1997-12-10.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-12-10;9534",
+        "versaoTexto": "original",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "5"
+        ],
         "provisionsMissing": []
       }
     },
@@ -67,12 +92,11 @@
       "name": "Constituição Federal de 1988",
       "sphere": "federal",
       "provisions": [
-        "art. 5º, LXXVI"
+        "art. 5º, LXXVI, a"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "constituicao.md",
@@ -91,8 +115,8 @@
     "FAM-002",
     "FAM-003"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/09-familia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

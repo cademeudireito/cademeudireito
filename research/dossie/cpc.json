@@ -12,5 +12,8 @@
   "urn": "urn:lex:br:federal:lei:2015-03-16;13105",
   "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-03-16;13105",
   "baixado_em": "2026-10-13",
-  "artigosCitados": {}
+  "artigosCitados": {
+    "2": "**Art. 2º** O processo começa por iniciativa da parte e se desenvolve por impulso oficial, salvo as exceções previstas em lei.",
+    "733": "**Art. 733.** O divórcio consensual, a separação consensual e a extinção consensual de união estável, não havendo nascituro ou filhos incapazes e observados os requisitos legais, poderão ser realizados por escritura pública, da qual constarão as disposições de que trata o art. 731.\n\n**§ 1º** A escritura não depende de homologação judicial e constitui título hábil para qualquer ato de registro, bem como para levantamento de importância depositada em instituições financeiras.\n\n**§ 2º** O tabelião somente lavrará a escritura se os interessados estiverem assistidos por advogado ou por defensor público, cuja qualificação e assinatura constarão do ato notarial."
+  }
 }

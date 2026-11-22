@@ -3,43 +3,48 @@
   "slug": "onde-buscar-ajuda-violencia",
   "title": "Onde buscar ajuda em caso de violência",
   "category": "mulheres",
-  "summary": "Quais tipos de serviço costumam existir para apoiar mulheres em situação de violência e como encontrá-los.",
+  "summary": "Onde pedir apoio em caso de violência contra a mulher: polícia, serviços de atendimento, Defensoria e Ministério Público.",
   "keywords": [
     "rede de atendimento",
     "delegacia da mulher",
     "casa abrigo",
     "Defensoria",
-    "denúncia"
+    "denúncia",
+    "rede de atendimento à mulher",
+    "onde denunciar violência"
   ],
   "synonyms": [
     "preciso de ajuda",
     "onde denunciar",
-    "abrigo para mulheres"
+    "abrigo para mulheres",
+    "preciso de abrigo",
+    "onde pedir socorro violência doméstica"
   ],
-  "quickAnswer": "A Lei Maria da Penha prevê atuação integrada de polícia, Judiciário, Ministério Público, assistência social e saúde. Em risco imediato, procure a polícia ou o serviço de emergência. Para os canais e endereços atuais da sua cidade, consulte os portais oficiais do seu estado ou município.",
+  "quickAnswer": "Em perigo agora, vá para um lugar seguro e acione a polícia ou o serviço de emergência. Para ajuda contínua, procure a delegacia, o serviço de atendimento à mulher, a Defensoria Pública ou o Ministério Público da sua cidade, pelos canais oficiais.",
   "sections": {
-    "explanation": "Os serviços variam por localidade. Em geral, incluem delegacias, centros de referência, serviços de saúde e assistência jurídica gratuita.",
+    "explanation": "A Lei Maria da Penha prevê uma política integrada: polícia, Justiça, Ministério Público, assistência social, saúde e educação devem atuar juntos (art. 8º). O atendimento à mulher em situação de violência é prioritário no SUS e na segurança pública (art. 9º). Quando precisa se afastar do trabalho, a mulher pode manter o vínculo trabalhista por até seis meses (art. 9º, §2º, II). Os serviços variam de cidade para cidade. Em geral, incluem delegacia de atendimento à mulher, centros de referência e serviços de saúde.",
     "whenApplies": [
       "Você precisa de apoio e não sabe a quem recorrer."
     ],
     "exceptions": [
-      "Não listamos telefones aqui para evitar informação desatualizada; confira os canais oficiais atuais."
+      "Não listamos telefones nem endereços aqui, para evitar informação desatualizada. Procure o canal oficial do órgão ou do seu estado ou município.",
+      "Se a mulher estiver em perigo, a prioridade é sair do local e chamar a polícia ou o serviço de emergência."
     ],
     "steps": [
-      "Em perigo imediato, busque lugar seguro e acione a polícia ou a emergência.",
-      "Procure a rede de atendimento da sua cidade pelo site oficial do estado ou município.",
+      "Em perigo imediato, vá para um lugar seguro e acione a polícia ou a emergência.",
+      "Procure a delegacia de atendimento à mulher ou o serviço de atendimento da sua cidade, pelo site oficial do estado ou do município.",
       "Fale com alguém de confiança e combine um plano para pedir ajuda rapidamente."
     ],
     "documentsToKeep": [
-      "Registros de mensagens, ligações e áudios",
+      "Mensagens, ligações e áudios",
       "Fotos de lesões ou danos, laudos e atendimentos",
       "Nomes de testemunhas e datas dos fatos",
       "Número do registro de ocorrência, se houver"
     ],
     "ifDenied": [
-      "Se houver risco imediato, procure a polícia ou o serviço de emergência pelo canal oficial.",
-      "Procure a rede oficial de atendimento à mulher da sua cidade ou estado (confira os canais atuais), a Defensoria Pública ou o Ministério Público.",
-      "Você não precisa enfrentar isso sozinha: peça ajuda a alguém de confiança."
+      "Se houver risco imediato, procure a polícia ou o serviço de emergência.",
+      "Procure a Defensoria Pública ou o Ministério Público, que atuam nesses casos.",
+      "Peça ajuda a alguém de confiança para acompanhar você."
     ]
   },
   "legalReferences": [
@@ -47,12 +52,12 @@
       "name": "Lei nº 11.340/2006 — Lei Maria da Penha",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 8º",
+        "art. 9º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2006/lei-11340-2006-08-07.md",
@@ -60,7 +65,10 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "8",
+          "9"
+        ],
         "provisionsMissing": []
       }
     }
@@ -69,8 +77,8 @@
     "MUL-001",
     "MUL-002"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/11-mulheres.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

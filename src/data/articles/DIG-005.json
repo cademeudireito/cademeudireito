@@ -3,42 +3,45 @@
   "slug": "direitos-do-titular-de-dados-lgpd",
   "title": "Que direitos tenho sobre meus dados pessoais?",
   "category": "direitos-digitais",
-  "summary": "Direitos do titular previstos na LGPD e como pedir informações a quem trata seus dados.",
+  "summary": "Os direitos que a LGPD dá a você sobre seus dados e como fazer o pedido.",
   "keywords": [
     "LGPD",
     "direitos do titular",
     "acesso a dados",
     "correção",
-    "exclusão"
+    "exclusão",
+    "portabilidade"
   ],
   "synonyms": [
     "ver meus dados",
-    "apagar meus dados"
+    "apagar meus dados",
+    "corrigir meus dados",
+    "retirar meu consentimento"
   ],
-  "quickAnswer": "A LGPD assegura ao titular o direito de obter do controlador, a qualquer momento e mediante requisição, informações e providências sobre os seus dados, como confirmação de tratamento e acesso. O alcance de cada direito depende do caso e das bases legais.",
+  "quickAnswer": "Pela LGPD, você pode pedir à empresa para saber quais dados ela tem sobre você, corrigir dados errados, pedir a exclusão do que não é mais necessário e retirar sua permissão. Quando você pede a declaração completa, a resposta deve vir em até 15 dias.",
   "sections": {
-    "explanation": "Faça o pedido pelo canal de privacidade da empresa e guarde o protocolo.",
+    "explanation": "Você pode fazer o pedido a qualquer momento, por escrito, ao canal de privacidade da empresa (art. 18). Se pedir apenas a confirmação e o acesso em formato simplificado, a resposta deve ser imediata. Se pedir a declaração clara e completa, o prazo é de até 15 dias (art. 19, I e II). Guarde o protocolo.",
     "whenApplies": [
-      "Você quer saber o que uma empresa faz com seus dados."
+      "Você quer saber o que uma empresa faz com seus dados, ou quer corrigir, excluir ou parar o uso deles."
     ],
     "exceptions": [
-      "Nem todo direito é absoluto; há situações de guarda obrigatória."
+      "Nem todo dado pode ser apagado: a lei manda guardar alguns por obrigação legal ou regulatória (art. 16, I).",
+      "Se você deu permissão, pode retirá-la a qualquer momento (art. 18, IX)."
     ],
     "steps": [
       "Procure o canal de privacidade da empresa.",
-      "Faça o pedido por escrito.",
-      "Se não houver resposta, verifique os canais da ANPD."
+      "Faça o pedido por escrito e diga o que você quer: saber os seus dados, corrigir, excluir ou retirar a permissão.",
+      "Guarde o protocolo e a data do pedido. Se não houver resposta, procure a ANPD."
     ],
     "documentsToKeep": [
-      "Prints de telas, mensagens e e-mails",
-      "Comprovantes de pagamentos e transferências",
-      "Endereços de sites, perfis ou contas envolvidos (links)",
-      "Protocolos das plataformas e instituições"
+      "Cópia do pedido enviado à empresa, com a data",
+      "Protocolo ou resposta da empresa",
+      "Prints de telas ou mensagens em que os seus dados aparecem"
     ],
     "ifDenied": [
-      "Para questões de proteção de dados, verifique os canais da ANPD (confira o canal atual).",
-      "Em caso de indício de crime, verifique como registrar ocorrência na polícia do seu estado.",
-      "Se houver prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Procure o canal oficial da ANPD, que fiscaliza a LGPD, e leve o protocolo do seu pedido.",
+      "A LGPD também permite fazer o pedido perante os órgãos de defesa do consumidor, como o Procon (art. 18, §8º).",
+      "Se precisar de orientação, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -46,12 +49,13 @@
       "name": "Lei nº 13.709/2018 — Lei Geral de Proteção de Dados (LGPD)",
       "sphere": "federal",
       "provisions": [
-        "art. 18"
+        "art. 16, I",
+        "art. 18, caput, I a IX e §8º",
+        "art. 19, I e II"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2018/lei-13709-2018-08-14.md",
@@ -60,7 +64,9 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "18"
+          "16",
+          "18",
+          "19"
         ],
         "provisionsMissing": []
       }
@@ -70,8 +76,8 @@
     "DIG-001",
     "SAU-003"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/06-direitos-digitais.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

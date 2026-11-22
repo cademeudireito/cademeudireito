@@ -12,5 +12,7 @@
   "urn": "urn:lex:br:federal:lei:1990-07-13;8069",
   "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-07-13;8069",
   "baixado_em": "2026-10-13",
-  "artigosCitados": {}
+  "artigosCitados": {
+    "12": "**Art. 12.** Os estabelecimentos de atendimento à saúde, inclusive as unidades neonatais, de terapia intensiva e de cuidados intermediários, deverão proporcionar condições para a permanência em tempo integral de um dos pais ou responsável, nos casos de internação de criança ou adolescente. *(“Caput” do artigo com redação dada pela Lei nº 13.257, de 8/3/2016)*\n\n**Parágrafo único.** Será garantido à criança e ao adolescente o direito de visitação à mãe ou ao pai internados em instituição de saúde, nos termos das normas regulamentadoras. *(Parágrafo único acrescido pela Lei nº 14.950, de 2/8/2024, publicada no DOU de 5/8/2024, em vigor 180 dias após a publicação)*"
+  }
 }

@@ -4,7 +4,7 @@
   "category": "familia",
   "title": "Tenho uma dúvida de família",
   "description": "Encontre o conteúdo sobre pensão, guarda, união estável, divórcio ou registro de nascimento.",
-  "status": "draft",
+  "status": "published",
   "startQuestion": "q1",
   "questions": {
     "q1": {
@@ -59,11 +59,11 @@
       "id": "r_pens",
       "title": "Pensão alimentícia",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer como a pensão é pedida e revista.",
-      "rule": "O Código Civil prevê que parentes, cônjuges ou companheiros podem pedir alimentos para viver de modo compatível com sua condição social, inclusive educação. O valor considera a necessidade de quem recebe e a possibilidade de quem paga, e muda conforme o caso.",
+      "rule": "O Código Civil prevê que parentes, cônjuges ou companheiros podem pedir alimentos para viver de modo compatível com sua condição social, inclusive para a educação. O valor depende da necessidade de quem recebe e dos recursos de quem paga. Não existe porcentagem fixa.",
       "steps": [
         "Reúna certidão de nascimento e comprovantes de despesas.",
         "Reúna o que souber sobre a renda de quem deve pagar.",
-        "Procure a Defensoria Pública ou um advogado para o pedido."
+        "Procure a Defensoria Pública ou um advogado. A revisão do valor, se a situação mudar, também é pedida na Justiça."
       ],
       "documents": [
         "Certidões de nascimento, casamento ou outras do caso",
@@ -80,7 +80,7 @@
       "id": "r_guarda",
       "title": "Guarda dos filhos",
       "indicates": "Suas respostas indicam que pode valer a pena entender a guarda unilateral e a compartilhada.",
-      "rule": "O Código Civil prevê guarda unilateral ou compartilhada. A separação, o divórcio ou o fim da união estável não alteram as relações entre pais e filhos, apenas o direito de terem os filhos em sua companhia. O interesse da criança é o ponto central.",
+      "rule": "O Código Civil prevê guarda unilateral ou compartilhada. Sem acordo, a regra é a guarda compartilhada, salvo se um dos pais não quiser a guarda ou houver risco de violência doméstica ou familiar. A separação não muda a relação dos pais com os filhos. O que vale é o interesse da criança.",
       "steps": [
         "Converse e, se possível, registre um acordo por escrito.",
         "Reúna documentos dos filhos e comprovantes de convivência.",
@@ -101,7 +101,7 @@
       "id": "r_reg",
       "title": "Registro de nascimento",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer como fazer o registro e a primeira certidão.",
-      "rule": "O registro de nascimento é feito no cartório de registro civil, conforme a Lei de Registros Públicos. A Constituição garante a gratuidade do registro civil de nascimento aos reconhecidamente pobres, e a primeira certidão tem regras próprias de gratuidade. Confira os documentos exigidos no cartório da sua cidade.",
+      "rule": "O registro de nascimento deve ser feito no cartório de registro civil em até 15 dias. O prazo pode ser ampliado em até três meses para lugares a mais de 30 km da sede do cartório (Lei 6.015/1973, art. 50). O registro de nascimento e a primeira certidão são gratuitos (Lei 9.534/1997). Confirme os documentos exigidos no cartório da sua cidade.",
       "steps": [
         "Reúna a declaração de nascido vivo e os documentos dos pais.",
         "Procure o cartório de registro civil mais próximo.",
@@ -114,15 +114,13 @@
         "Mensagens e provas relacionadas"
       ],
       "articleId": "FAM-005",
-      "relatedArticleIds": [
-        "FAM-002"
-      ]
+      "relatedArticleIds": []
     },
     "r_ue": {
       "id": "r_ue",
       "title": "União estável",
       "indicates": "Suas respostas indicam que pode valer a pena entender como a lei reconhece a união estável.",
-      "rule": "O Código Civil reconhece como entidade familiar a união estável, configurada na convivência pública, contínua e duradoura, com o objetivo de constituir família. Os efeitos (patrimônio, herança, pensão) dependem do caso e de eventual contrato.",
+      "rule": "O Código Civil reconhece como entidade familiar a união estável, configurada na convivência pública, contínua e duradoura, com o objetivo de constituir família. A lei não fixa tempo mínimo. Sem contrato escrito, em regra, o que foi adquirido durante a união é dividido na separação. Um contrato escrito pode mudar isso.",
       "steps": [
         "Reúna provas da convivência (documentos, contas, fotos).",
         "Converse sobre formalização em cartório ou com advogado.",
@@ -143,11 +141,11 @@
       "id": "r_div",
       "title": "Divórcio",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer o panorama do divórcio e dos temas que costumam ser tratados.",
-      "rule": "A Constituição trata da dissolução do casamento pelo divórcio, e a lei processual e civil define os procedimentos. Se há acordo e não há situações que exijam a Justiça, pode haver caminhos mais simples; com filhos menores ou conflito, a análise costuma ser mais detalhada.",
+      "rule": "O divórcio não exige prazo mínimo de separação. Se os dois estão de acordo e não há filho menor de 18 anos nem bebê não nascido, pode ser feito em cartório, com advogado ou defensor. Nos outros casos, é preciso ir à Justiça.",
       "steps": [
         "Liste bens, dívidas e dados dos filhos.",
-        "Veja se há acordo sobre guarda, pensão e partilha.",
-        "Procure a Defensoria Pública ou advogado para indicar a via adequada."
+        "Veja se há acordo sobre guarda, pensão, divisão de bens e nome.",
+        "Procure a Defensoria Pública ou um advogado para indicar a via adequada."
       ],
       "documents": [
         "Certidões de nascimento, casamento ou outras do caso",
@@ -163,7 +161,7 @@
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/09-familia.md; dispositivos conferidos no texto das normas."
 }

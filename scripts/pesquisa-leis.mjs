@@ -34,7 +34,7 @@ function parseFront(md) {
 /** Divide o texto em artigos: chave "49", "49-A"; valor = texto. */
 function splitArticles(body) {
   const arts = new Map();
-  const re = /^\*{0,2}Art\.?\s*(\d+(?:\.\d{3})*)(?:\s*[º°o])?(?:\s*-\s*([A-Z]))?[.\s*]/gm;
+  const re = /^\*{0,2}Art\*{0,2}\.?\s*(\d+(?:\.\d{3})*)(?:\s*[º°o])?(?:\s*-\s*([A-Z]))?[.\s*]/gm;
   const marks = [];
   let m;
   while ((m = re.exec(body))) { const num = m[1].replace(/\./g, ''); marks.push({ key: m[2] ? `${num}-${m[2]}` : num, at: m.index }); }

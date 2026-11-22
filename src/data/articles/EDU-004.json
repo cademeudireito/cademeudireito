@@ -3,41 +3,45 @@
   "slug": "escola-retem-documentos-por-inadimplencia",
   "title": "A escola está retendo documentos ou provas por atraso de mensalidade",
   "category": "educacao",
-  "summary": "O que a lei diz sobre penalidades pedagógicas em caso de inadimplência.",
+  "summary": "A escola não pode suspender provas nem segurar documentos por causa de mensalidade atrasada.",
   "keywords": [
     "retenção de documentos",
     "inadimplência",
     "escola",
     "provas",
-    "histórico escolar"
+    "histórico escolar",
+    "transferência"
   ],
   "synonyms": [
     "escola não entrega histórico",
-    "suspensão de provas por atraso"
+    "suspensão de provas por atraso",
+    "escola segura documento",
+    "mensalidade atrasada"
   ],
-  "quickAnswer": "A Lei 9.870/1999 proíbe a suspensão de provas escolares, a retenção de documentos escolares ou a aplicação de quaisquer outras penalidades pedagógicas por motivo de inadimplemento, sujeitando o contratante, no que couber, às sanções legais e administrativas.",
+  "quickAnswer": "A escola não pode suspender provas, reter documentos escolares nem punir o aluno por atraso na mensalidade. A dívida pode ser cobrada pelos meios legais. Os documentos de transferência devem ser entregues mesmo com atraso.",
   "sections": {
-    "explanation": "A dívida pode continuar sendo cobrada pelos meios legais, mas sem as penalidades pedagógicas. Confira a redação vigente.",
+    "explanation": "A Lei 9.870/1999 proíbe a suspensão de provas escolares, a retenção de documentos escolares e outras punições pedagógicas por atraso no pagamento (art. 6º). Os documentos de transferência devem ser expedidos a qualquer tempo, mesmo com atraso (art. 6º, §2º). A dívida pode ser cobrada pelos meios legais.",
     "whenApplies": [
-      "A instituição de ensino impediu provas ou reteve documentos por atraso no pagamento."
+      "A escola impediu provas, reteve documentos ou aplicou outra punição por atraso no pagamento."
     ],
     "exceptions": [
-      "Cada caso deve ser analisado; a lei tem requisitos próprios."
+      "Se o atraso passar de 90 dias, a escola pode usar as sanções legais e administrativas previstas em lei (art. 6º).",
+      "O aluno só pode ser desligado por atraso ao final do ano letivo (art. 6º, §1º)."
     ],
     "steps": [
-      "Peça por escrito a entrega do documento e guarde o protocolo.",
-      "Anote a data e o nome de quem negou.",
-      "Procure o Procon ou o órgão de educação competente."
+      "Peça por escrito a entrega do documento ou a liberação da prova, com a data, e guarde o protocolo.",
+      "Anote o nome de quem negou, a data e o motivo dado.",
+      "Se não resolver, procure o Procon ou o órgão de educação competente."
     ],
     "documentsToKeep": [
       "Contrato de prestação de serviços educacionais",
       "Boletos e comprovantes de pagamento",
-      "Comunicados e regulamento da instituição"
+      "Pedido por escrito e o protocolo da escola"
     ],
     "ifDenied": [
-      "Verifique o Procon da sua localidade, se for instituição privada.",
-      "Para rede pública, procure a secretaria de educação ou a ouvidoria competente.",
-      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Procure o Procon da sua cidade ou do seu estado, com o pedido e o protocolo.",
+      "Na escola pública, procure a secretaria de educação ou a ouvidoria competente.",
+      "Se houver prazo ou prejuízo grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -45,12 +49,13 @@
       "name": "Lei nº 9.870/1999 (mensalidades escolares)",
       "sphere": "federal",
       "provisions": [
-        "art. 6º"
+        "art. 6º, caput",
+        "art. 6º, §1º",
+        "art. 6º, §2º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-11-23;9870",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1999/lei-9870-1999-11-23.md",
@@ -69,8 +74,8 @@
     "EDU-003",
     "EDU-001"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/07-educacao.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

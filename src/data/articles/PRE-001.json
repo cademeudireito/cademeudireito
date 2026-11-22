@@ -3,44 +3,55 @@
   "slug": "auxilio-por-doenca-incapacidade",
   "title": "Fiquei doente e não consigo trabalhar: existe auxílio?",
   "category": "previdencia",
-  "summary": "Como funciona, em linhas gerais, o benefício por incapacidade temporária para quem contribui à Previdência.",
+  "summary": "Se você não consegue trabalhar por mais de 15 dias seguidos por doença ou acidente, pode ter direito ao auxílio-doença do INSS.",
   "keywords": [
     "auxílio-doença",
     "incapacidade",
     "INSS",
     "afastamento",
-    "perícia"
+    "perícia",
+    "15 dias",
+    "carência",
+    "atestado",
+    "perícia do INSS",
+    "acidente"
   ],
   "synonyms": [
     "benefício por doença",
     "atestado médico longo",
-    "encostar no INSS"
+    "encostar no INSS",
+    "fiquei doente e não posso trabalhar",
+    "afastamento pelo INSS",
+    "acidente e afastamento do trabalho"
   ],
-  "quickAnswer": "A lei prevê benefício para o segurado da Previdência que fica incapacitado para o trabalho por mais de 15 dias consecutivos, observada a carência quando exigida. Se você tem direito depende da sua condição de segurado, do tempo de contribuição e de avaliação do INSS.",
+  "quickAnswer": "Se você ficar mais de 15 dias seguidos sem conseguir trabalhar por doença ou acidente, pode ter direito ao auxílio-doença do INSS. Em geral, é preciso ter 12 contribuições mensais, mas acidente e certas doenças não exigem isso. Se você é empregado, a empresa paga os primeiros 15 dias. A perícia do INSS decide.",
   "sections": {
-    "explanation": "O benefício exige, em geral, qualidade de segurado, carência (quando for o caso) e comprovação da incapacidade, normalmente por perícia. Os nomes e as regras mudaram ao longo do tempo, então confira a redação vigente.",
+    "explanation": "A Lei 8.213 (art. 59) dá o auxílio-doença ao segurado, ou seja, a quem contribui ao INSS, que fica incapaz para o trabalho por mais de 15 dias seguidos. Em geral, é preciso ter pelo menos 12 contribuições mensais (carência), mas acidente e certas doenças de uma lista oficial não exigem essa carência. Se você for empregado, a empresa paga o seu salário nos primeiros 15 dias de afastamento; a partir do 16º dia, quem paga é o INSS. Quem decide se você está incapaz é a perícia médica do INSS.",
     "whenApplies": [
-      "Você contribui ou contribuiu ao INSS e está impossibilitado de trabalhar por doença ou acidente."
+      "Você não consegue trabalhar, nem sua atividade habitual, por doença ou acidente por mais de 15 dias seguidos.",
+      "Você tem 12 contribuições mensais ao INSS, ou o problema foi acidente ou doença da lista oficial."
     ],
     "exceptions": [
-      "Carência, qualidade de segurado e tipo de vínculo mudam o resultado.",
-      "Nos primeiros dias de afastamento, quem paga pode ser o empregador; confira a regra vigente."
+      "Se você já tinha a doença ao se filiar ao INSS, o benefício em geral não é devido, salvo se a doença piorou depois (art. 59, §1º).",
+      "Se você for empregado, os primeiros 15 dias são pagos pela empresa, e não pelo INSS (art. 60, §3º).",
+      "Cada caso é diferente: a perícia do INSS e o seu histórico de contribuições decidem."
     ],
     "steps": [
-      "Guarde atestados, laudos e exames com datas.",
-      "Confira sua situação de contribuição pelos canais oficiais do INSS.",
-      "Siga as instruções para pedido e perícia informadas pelo canal oficial."
+      "Procure atendimento médico e guarde atestados, laudos e exames com as datas.",
+      "Veja no extrato do INSS se as suas contribuições estão em dia.",
+      "Peça o benefício pelos canais oficiais do INSS e marque a perícia.",
+      "Leve todos os documentos médicos para a perícia."
     ],
     "documentsToKeep": [
-      "Documentos pessoais e número do benefício ou protocolo",
+      "Documentos pessoais e número do protocolo do pedido",
       "Carteira de trabalho e comprovantes de contribuição",
-      "Laudos, atestados e exames, quando houver incapacidade",
+      "Atestados, laudos e exames, com datas",
       "Comunicados e decisões do INSS"
     ],
     "ifDenied": [
-      "Confira o motivo da decisão por escrito e os canais oficiais de recurso do INSS (confira o canal atual).",
-      "Sindicatos, Defensoria Pública e advogados podem orientar sobre o seu caso.",
-      "Atenção a prazos de recurso informados na própria decisão."
+      "Peça a decisão por escrito e leia o motivo. A carta costuma dizer até quando você pode recorrer.",
+      "Recorra pelos canais oficiais do INSS, dentro do prazo informado. O recurso é julgado pelo Conselho de Recursos da Previdência Social.",
+      "Procure a Defensoria Pública, um sindicato ou um advogado. Se o prazo estiver correndo, não espere."
     ]
   },
   "legalReferences": [
@@ -48,12 +59,14 @@
       "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
       "sphere": "federal",
       "provisions": [
-        "art. 59"
+        "art. 25, I",
+        "art. 26, II",
+        "art. 59, caput e §1º",
+        "art. 60, caput e §3º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
@@ -62,7 +75,12 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "59"
+          "25",
+          "26",
+          "59",
+          "1",
+          "60",
+          "3"
         ],
         "provisionsMissing": []
       }
@@ -72,8 +90,8 @@
     "PRE-006",
     "TRA-009"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/03-previdencia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

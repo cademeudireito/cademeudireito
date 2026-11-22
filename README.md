@@ -6,8 +6,9 @@ Site estático e gratuito que explica direitos brasileiros do dia a dia em lingu
 
 ## Estado atual
 
-- 13 categorias, **93 assuntos em rascunho** e **13 guias (orientadores) em rascunho**.
-- **Nenhum conteúdo jurídico foi validado.** Por decisão do responsável, o site exibe os rascunhos com faixa e etiqueta de "em revisão" e `noindex`. Para exibir só o que for validado, use `draftVisibility: "hide"` em `src/data/site.json` ou `npm run build:strict`. Veja [`docs/CHANGELOG-DECISOES.md`](docs/CHANGELOG-DECISOES.md).
+- 13 categorias, **93 assuntos publicados** e **13 guias (orientadores) publicados**.
+- O texto de cada assunto foi revisado a partir dos roteiros em [`docs/validacao/`](docs/validacao/), com os dispositivos conferidos no texto das normas (acervo `ctresb/leis` e páginas oficiais). Veja [`docs/CHANGELOG-DECISOES.md`](docs/CHANGELOG-DECISOES.md).
+- Por padrão o site mostra só conteúdo `published` (`draftVisibility: "hide"` em `src/data/site.json`). Rascunhos novos ficam escondidos até serem aprovados.
 
 ## Requisitos
 

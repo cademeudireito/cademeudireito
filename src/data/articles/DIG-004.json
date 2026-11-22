@@ -3,42 +3,46 @@
   "slug": "foto-ou-video-intimo-divulgado",
   "title": "Divulgaram uma foto ou vídeo íntimo meu sem autorização",
   "category": "direitos-digitais",
-  "summary": "O que o Marco Civil da Internet prevê para pedir a retirada de imagens íntimas e outros caminhos.",
+  "summary": "Como pedir a retirada de imagens íntimas divulgadas sem autorização, e quais crimes podem estar envolvidos.",
   "keywords": [
     "imagens íntimas",
     "vazamento de fotos",
     "remoção de conteúdo",
     "Marco Civil",
-    "pornografia de vingança"
+    "pornografia de vingança",
+    "nudes vazados"
   ],
   "synonyms": [
     "nudes vazados",
-    "vídeo íntimo na internet"
+    "vídeo íntimo na internet",
+    "foto íntima na internet",
+    "divulgaram minhas fotos íntimas"
   ],
-  "quickAnswer": "O Marco Civil da Internet prevê que o provedor que disponibiliza conteúdo gerado por terceiros pode ser responsabilizado subsidiariamente pela divulgação, sem autorização, de imagens, vídeos ou outros materiais com cenas de nudez ou de atos sexuais privados, se, após notificação, não retirar o conteúdo. Procure ajuda e guarde provas.",
+  "quickAnswer": "Divulgar foto ou vídeo íntimo de alguém sem autorização é crime. Guarde provas e notifique a plataforma com o link exato do conteúdo, pedindo a retirada. Se ela não tirar o conteúdo depois da notificação, pode ser responsabilizada.",
   "sections": {
-    "explanation": "Notifique a plataforma pelo canal indicado e preserve provas antes. Também podem existir crimes envolvidos.",
+    "explanation": "Divulgar cena de nudez ou de sexo sem autorização é crime (Código Penal, arts. 216-B e 218-C). Antes de tudo, guarde as provas. Depois, notifique a plataforma. Pelo Marco Civil da Internet (art. 21), a plataforma responde se, depois de notificada, não retirar o conteúdo de forma diligente. Por isso, a notificação precisa ser específica.",
     "whenApplies": [
-      "Seu conteúdo íntimo foi divulgado sem o seu consentimento."
+      "Seu conteúdo íntimo foi publicado ou enviado a outras pessoas sem o seu consentimento."
     ],
     "exceptions": [
-      "O caminho depende da plataforma e do caso concreto."
+      "O caminho depende da plataforma e de cada caso.",
+      "A plataforma só responde depois de notificada, e se não tirar o conteúdo de forma diligente."
     ],
     "steps": [
-      "Guarde prints com endereço (link), data e perfil responsável.",
-      "Notifique a plataforma e peça a retirada.",
-      "Procure a delegacia e a Defensoria Pública para orientação."
+      "Guarde provas antes de denunciar: prints com o link, a data e o perfil de quem publicou.",
+      "Notifique a plataforma pelo canal dela, com o link exato do conteúdo e dados que mostrem que é você (ou seu representante legal). A lei diz que a notificação sem esses elementos é nula.",
+      "Registre a ocorrência na polícia. Leve as provas e a cópia da notificação.",
+      "Procure a Defensoria Pública ou um advogado para orientação."
     ],
     "documentsToKeep": [
-      "Prints de telas, mensagens e e-mails",
-      "Comprovantes de pagamentos e transferências",
-      "Endereços de sites, perfis ou contas envolvidos (links)",
-      "Protocolos das plataformas e instituições"
+      "Prints com o link, a data e o perfil de quem publicou",
+      "Cópia da notificação enviada à plataforma e o protocolo de resposta",
+      "Número da ocorrência na polícia, se houver"
     ],
     "ifDenied": [
-      "Para questões de proteção de dados, verifique os canais da ANPD (confira o canal atual).",
-      "Em caso de indício de crime, verifique como registrar ocorrência na polícia do seu estado.",
-      "Se houver prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Se a plataforma não retirar o conteúdo, leve as provas e a cópia da notificação à delegacia.",
+      "Procure a Defensoria Pública ou um advogado, principalmente se o conteúdo continuar circulando.",
+      "Mantenha os prints e as notificações de cada site ou perfil onde o conteúdo aparecer."
     ]
   },
   "legalReferences": [
@@ -46,12 +50,12 @@
       "name": "Lei nº 12.965/2014 — Marco Civil da Internet",
       "sphere": "federal",
       "provisions": [
-        "art. 21"
+        "art. 21, caput",
+        "art. 21, parágrafo único"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2014-04-23;12965",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2014/lei-12965-2014-04-23.md",
@@ -69,12 +73,12 @@
       "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 216-B",
+        "art. 218-C"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1940/del-2848-1940-12-07.md",
@@ -82,7 +86,10 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "216-B",
+          "218-C"
+        ],
         "provisionsMissing": []
       }
     }
@@ -91,8 +98,8 @@
     "DIG-002",
     "MUL-003"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/06-direitos-digitais.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

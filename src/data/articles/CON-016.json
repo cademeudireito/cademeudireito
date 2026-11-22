@@ -3,42 +3,52 @@
   "slug": "produto-perigoso-ou-recall",
   "title": "O produto que comprei pode ser perigoso ou sofreu recall",
   "category": "consumidor",
-  "summary": "Direitos de segurança do consumidor e o que fazer ao saber de um recall ou de risco.",
+  "summary": "Produto ou serviço não pode colocar sua saúde ou segurança em risco. Se descobrirem o perigo depois da venda, a empresa precisa avisar você.",
   "keywords": [
     "recall",
     "produto perigoso",
-    "segurança",
-    "defeito de segurança",
-    "fornecedor"
+    "risco à saúde",
+    "produto com risco",
+    "chamado do fabricante",
+    "segurança do produto",
+    "convocação"
   ],
   "synonyms": [
-    "chamado de recall",
-    "produto que pega fogo"
+    "recolhimento de produto",
+    "produto pegou fogo",
+    "produto machucou",
+    "produto defeituoso perigoso",
+    "aviso de risco",
+    "fabricante chamou para troca"
   ],
-  "quickAnswer": "O Código de Defesa do Consumidor estabelece que produtos e serviços não podem trazer riscos à saúde ou segurança, exceto os normais e previsíveis, e proíbe colocar no mercado produto com alto grau de nocividade ou periculosidade. Se há risco, pare de usar e procure o canal do fornecedor.",
+  "quickAnswer": "Loja e fabricante não podem vender produto que sabem (ou deveriam saber) ser muito perigoso para a saúde ou a segurança. Se descobrirem o perigo depois da venda, devem avisar as autoridades e os consumidores por anúncios, por conta própria. Se seu produto tiver recall, pare de usar e procure o fabricante.",
   "sections": {
-    "explanation": "O fornecedor deve informar sobre riscos conhecidos após a venda. O recall é um dos mecanismos para corrigir.",
+    "explanation": "Produtos e serviços não podem trazer riscos à saúde ou à segurança, além dos riscos normais e previsíveis, e a empresa deve sempre dar as informações necessárias sobre eles. O fornecedor não pode vender produto que sabe ou deveria saber ser muito perigoso. Se descobrir o perigo depois de vender, deve avisar na hora as autoridades e os consumidores, com anúncios na imprensa, rádio e TV, pagos por ele. O fabricante responde pelos danos causados por defeito do produto, mesmo sem culpa.",
     "whenApplies": [
-      "Você soube de recall do produto ou notou perigo no uso."
+      "Você ouviu falar de risco no produto que comprou ou recebeu um aviso do fabricante (recall).",
+      "O produto causou ou pode causar dano à sua saúde ou segurança."
     ],
     "exceptions": [
-      "O enquadramento exato e as obrigações do fornecedor dependem do caso."
+      "Riscos normais e previsíveis do produto, como o corte de uma faca, não são defeito, desde que haja informação adequada.",
+      "Cada caso é diferente: guarde o produto e as provas."
     ],
     "steps": [
-      "Interrompa o uso, se houver risco.",
-      "Guarde nota fiscal, embalagem e registros do problema.",
-      "Procure o fornecedor e o órgão de defesa do consumidor."
+      "Pare de usar o produto se houver risco e siga as instruções do aviso.",
+      "Procure o fabricante pelo canal oficial indicado no aviso e anote o protocolo.",
+      "Guarde o produto, a embalagem e a nota fiscal.",
+      "Se houve dano à saúde, procure atendimento médico e guarde laudos e recibos."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Nota fiscal e embalagem",
+      "Aviso ou notícia do recall",
+      "Fotos do produto e do dano",
+      "Laudos e recibos de gastos"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Denuncie ao Procon e ao Ministério Público um produto que continue sendo vendido com risco.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -46,13 +56,14 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
+        "art. 6º, I",
         "art. 8º",
-        "art. 10"
+        "art. 10",
+        "art. 12"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -61,8 +72,10 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
+          "6",
           "8",
-          "10"
+          "10",
+          "12"
         ],
         "provisionsMissing": []
       }
@@ -72,8 +85,8 @@
     "CON-002",
     "CON-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -3,43 +3,49 @@
   "slug": "importunacao-e-assedio-sexual",
   "title": "Sofri importunação ou assédio sexual: quais são meus direitos?",
   "category": "mulheres",
-  "summary": "Panorama geral de como a lei trata a importunação sexual e o assédio sexual, sem substituir orientação individual.",
+  "summary": "Fazer ato sexual contra a vontade de alguém é crime. Constranger alguém por favor sexual, usando posição de chefia, também é crime.",
   "keywords": [
     "assédio sexual",
     "importunação sexual",
     "Código Penal",
     "denúncia",
-    "trabalho"
+    "trabalho",
+    "importunação sexual pena",
+    "assédio sexual chefe",
+    "artigo 215-A",
+    "artigo 216-A"
   ],
   "synonyms": [
     "passaram a mão em mim",
     "chefe me assedia",
-    "cantada insistente"
+    "cantada insistente",
+    "chefe pede favor sexual"
   ],
-  "quickAnswer": "O Código Penal trata da importunação sexual e do assédio sexual como condutas distintas, com requisitos próprios. Se você sofreu isso, o ocorrido merece ser levado a sério, e há canais para registrar. O enquadramento de cada caso precisa de análise individual.",
+  "quickAnswer": "Praticar ato sexual contra alguém sem a sua concordância é importunação sexual, com pena de 1 a 5 anos de reclusão (Código Penal, art. 215-A). Constranger alguém para obter favor sexual, usando posição de chefia, é assédio sexual (art. 216-A), com pena de detenção de 1 a 2 anos.",
   "sections": {
-    "explanation": "A importunação sexual ocorre sem violência, em geral em locais públicos. O assédio sexual, na lei, envolve constrangimento com prevalimento de posição de superioridade, como em relações de trabalho.",
+    "explanation": "O Código Penal tem dois crimes diferentes. A importunação sexual (art. 215-A) é praticar ato libidinoso, ou seja, de natureza sexual, contra alguém sem a sua concordância. A lei não exige violência nem fala de local. A pena é de reclusão de 1 a 5 anos, se o ato não for crime mais grave. O assédio sexual (art. 216-A) é constranger alguém para obter vantagem ou favor sexual, usando a posição de superior hierárquico ou de quem tem ascendência sobre a pessoa no trabalho, emprego, cargo ou função. A pena é de detenção de 1 a 2 anos.",
     "whenApplies": [
-      "Alguém praticou ato de natureza sexual sem seu consentimento ou a constrangeu para obter favor sexual."
+      "Alguém praticou ato sexual contra a sua vontade ou pediu favor sexual, usando posição de chefia ou de poder."
     ],
     "exceptions": [
-      "O enquadramento exato depende dos fatos; esta página não classifica o seu caso."
+      "O enquadramento exato depende dos fatos; esta página não classifica o seu caso.",
+      "Cada caso é diferente: guarde provas de tudo."
     ],
     "steps": [
-      "Se estiver em perigo, procure um lugar seguro e o serviço de emergência.",
-      "Anote data, local, o que aconteceu e testemunhas, e guarde provas.",
-      "Procure a delegacia, a Defensoria Pública ou a rede de atendimento à mulher."
+      "Se estiver em perigo, procure um lugar seguro e acione a polícia ou o serviço de emergência.",
+      "Anote data, local, o que aconteceu e os nomes de testemunhas.",
+      "Procure a delegacia, a Defensoria Pública ou o serviço de atendimento à mulher da sua cidade."
     ],
     "documentsToKeep": [
-      "Registros de mensagens, ligações e áudios",
-      "Fotos de lesões ou danos, laudos e atendimentos",
+      "Mensagens, e-mails e prints de conversas",
       "Nomes de testemunhas e datas dos fatos",
+      "Comunicados ou mensagens do trabalho, se o caso envolver chefia",
       "Número do registro de ocorrência, se houver"
     ],
     "ifDenied": [
-      "Se houver risco imediato, procure a polícia ou o serviço de emergência pelo canal oficial.",
-      "Procure a rede oficial de atendimento à mulher da sua cidade ou estado (confira os canais atuais), a Defensoria Pública ou o Ministério Público.",
-      "Você não precisa enfrentar isso sozinha: peça ajuda a alguém de confiança."
+      "Se houver risco imediato, procure a polícia ou o serviço de emergência.",
+      "Procure a Defensoria Pública ou um advogado para orientação.",
+      "Procure o serviço de atendimento à mulher da sua cidade, pelo canal oficial."
     ]
   },
   "legalReferences": [
@@ -51,9 +57,8 @@
         "art. 216-A"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1940/del-2848-1940-12-07.md",
@@ -73,8 +78,8 @@
     "MUL-001",
     "TRA-011"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/11-mulheres.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

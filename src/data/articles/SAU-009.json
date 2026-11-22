@@ -3,7 +3,7 @@
   "slug": "urgencia-e-emergencia-no-plano",
   "title": "O plano negou atendimento de urgência ou emergência",
   "category": "saude",
-  "summary": "A cobertura obrigatória para casos de urgência e emergência segundo a lei dos planos de saúde.",
+  "summary": "Cobertura obrigatória de urgência e emergência pelo plano e o prazo máximo de carência.",
   "keywords": [
     "urgência",
     "emergência",
@@ -13,31 +13,37 @@
   ],
   "synonyms": [
     "carência em urgência",
-    "plano não cobre pronto-socorro"
+    "plano não cobre pronto-socorro",
+    "plano negou emergência"
   ],
-  "quickAnswer": "A Lei 9.656/1998 torna obrigatória a cobertura do atendimento nos casos que ela lista, como emergência e urgência, nos termos da lei. As condições, como carência e limites, precisam ser conferidas na redação vigente e na norma da ANS.",
+  "quickAnswer": "Em risco de vida, procure atendimento imediato, sem esperar o plano. Pela Lei 9.656/1998, o plano deve cobrir urgência e emergência, e a carência para esses casos é de no máximo 24 horas. Guarde laudos e peça a negativa por escrito.",
   "sections": {
-    "explanation": "Em risco à vida, o atendimento deve ser buscado imediatamente. Depois, peça por escrito a negativa e registre reclamação.",
+    "explanation": "A lei obriga o plano a cobrir emergência, que é o caso de risco imediato de vida ou de lesão irreparável, e urgência, que é o caso de acidente pessoal ou complicação na gravidez. Para emergência, o médico assistente precisa declarar o risco. Para esses casos, a carência não pode passar de 24 horas.",
     "whenApplies": [
-      "O plano recusou ou limitou o atendimento em urgência ou emergência."
+      "Você precisou de atendimento de urgência ou emergência e o plano recusou ou atrasou.",
+      "O plano cobrou carência para atendimento de urgência."
     ],
     "exceptions": [
-      "Condições do contrato e da norma da ANS influenciam a cobertura."
+      "Para emergência, a cobertura depende da declaração do médico sobre o risco de vida ou de lesão irreparável.",
+      "Cada caso é diferente. Se o atendimento foi fora da rede do plano, guarde os recibos."
     ],
     "steps": [
       "Busque atendimento imediato se houver risco.",
+      "Peça ao médico uma declaração escrita sobre o risco.",
       "Guarde laudos, receitas e comprovantes de despesas.",
-      "Peça a negativa por escrito e registre reclamação na ANS."
+      "Se pagou do próprio bolso porque não foi possível usar a rede do plano, a lei prevê reembolso, nos limites do contrato (art. 12, VI).",
+      "Peça a negativa por escrito, com o motivo, e registre reclamação na ANS."
     ],
     "documentsToKeep": [
-      "Documento do plano ou cartão do SUS",
-      "Pedido médico, laudos e receitas",
-      "Protocolos e comunicados do plano ou da unidade de saúde"
+      "Carteirinha e contrato do plano",
+      "Declaração ou laudo do médico sobre o risco",
+      "Receitas, prontuário e comprovantes de despesas",
+      "Negativa por escrito do plano"
     ],
     "ifDenied": [
-      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
-      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
-      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+      "Registre reclamação no Consumidor.gov.br, se a operadora participar da plataforma.",
+      "Registre reclamação na ANS, pelo canal oficial da agência.",
+      "Se houver prejuízo ou prazo urgente, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -45,12 +51,13 @@
       "name": "Lei nº 9.656/1998 (planos privados de assistência à saúde)",
       "sphere": "federal",
       "provisions": [
-        "art. 35-C"
+        "art. 12, V, c",
+        "art. 12, VI",
+        "art. 35-C, I e II"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1998/lei-9656-1998-06-03.md",
@@ -59,29 +66,19 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
+          "12",
           "35-C"
         ],
         "provisionsMissing": []
       }
-    },
-    {
-      "name": "Normas vigentes da ANS (a identificar)",
-      "sphere": "federal",
-      "provisions": [
-        "a identificar"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
     }
   ],
   "relatedArticles": [
     "SAU-001",
-    "SAU-007"
+    "SAU-008"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/04-saude.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

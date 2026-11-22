@@ -3,7 +3,7 @@
   "slug": "demora-ou-negativa-no-sus",
   "title": "Como reclamar de demora ou negativa no SUS",
   "category": "saude",
-  "summary": "Canais gerais para reclamar de demora, falta de atendimento ou negativa no SUS.",
+  "summary": "Como registrar reclamação na ouvidoria quando o SUS demora ou nega um atendimento.",
   "keywords": [
     "SUS",
     "demora no atendimento",
@@ -17,31 +17,32 @@
     "fila de exames",
     "negaram remédio"
   ],
-  "quickAnswer": "A Constituição e a legislação do SUS tratam da saúde como direito, mas os canais e as regras locais variam. Procure a ouvidoria da unidade e da secretaria de saúde da sua localidade. Em urgência, busque atendimento imediato.",
+  "quickAnswer": "A saúde é direito de todos e dever do Estado. Quando o SUS demora ou nega um atendimento, registre reclamação na ouvidoria da unidade ou da secretaria de saúde. A ouvidoria deve dar a resposta final em até 30 dias.",
   "sections": {
-    "explanation": "O SUS tem gestão federal, estadual e municipal. Muitas vezes o caminho começa na ouvidoria da própria unidade ou da secretaria de saúde.",
+    "explanation": "O SUS é organizado pela União, pelos estados e pelos municípios. A reclamação é feita na ouvidoria, que é o canal oficial de cada órgão de saúde. A ouvidoria não pode recusar sua reclamação e tem 30 dias para responder, prazo que pode ser prorrogado uma vez, por mais 30 dias, com justificativa.",
     "whenApplies": [
-      "Você teve demora ou negativa de atendimento, exame ou medicamento no sistema público."
+      "Você esperou demais por consulta, exame ou tratamento no SUS.",
+      "Um atendimento foi negado no posto, na UPA ou no hospital público, sem explicação."
     ],
     "exceptions": [
-      "Regras e canais variam por localidade; confirme os canais oficiais da sua cidade ou estado.",
-      "Em urgência, não espere resposta de reclamação."
+      "Em urgência, não espere a resposta da ouvidoria: procure atendimento imediato.",
+      "Os canais e as regras variam entre cidades e estados."
     ],
     "steps": [
-      "Anote datas, locais e nomes de quem atendeu.",
-      "Registre reclamação na ouvidoria da unidade ou secretaria.",
-      "Guarde protocolo e documentos médicos."
+      "Anote datas, locais, nomes de quem atendeu e o que foi dito.",
+      "Registre a reclamação na ouvidoria da unidade ou da secretaria de saúde. Informe seu nome. A ouvidoria não pode exigir o motivo da sua reclamação.",
+      "Guarde o número do protocolo e acompanhe o prazo de 30 dias."
     ],
     "documentsToKeep": [
-      "Documento do plano ou cartão do SUS",
+      "Cartão do SUS e documento com foto",
       "Pedido médico, laudos e receitas",
-      "Protocolos e comunicados do plano ou da unidade de saúde",
-      "Datas e nomes de quem atendeu"
+      "Comprovantes de agendamento ou de tentativa de atendimento",
+      "Número de protocolo da reclamação"
     ],
     "ifDenied": [
-      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
-      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
-      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+      "Se a ouvidoria não responder no prazo, procure a Defensoria Pública da sua região.",
+      "Procure o Ministério Público da sua cidade ou estado, se o problema se repetir.",
+      "Se houver risco à saúde, procure atendimento imediato."
     ]
   },
   "legalReferences": [
@@ -49,12 +50,11 @@
       "name": "Constituição Federal de 1988",
       "sphere": "federal",
       "provisions": [
-        "arts. 6º e 196 a 200"
+        "art. 196"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "constituicao.md",
@@ -63,12 +63,7 @@
         "revogada": false,
         "baixadoEm": null,
         "provisionsFound": [
-          "196",
-          "197",
-          "198",
-          "199",
-          "200",
-          "6"
+          "196"
         ],
         "provisionsMissing": []
       }
@@ -77,12 +72,11 @@
       "name": "Lei nº 8.080/1990 (SUS)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 2º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-19;8080",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8080-1990-09-19.md",
@@ -90,38 +84,47 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "2"
+        ],
         "provisionsMissing": []
       }
     },
     {
-      "name": "Lei nº 8.142/1990 (participação social no SUS)",
+      "name": "Lei nº 13.460/2017 (defesa dos usuários de serviços públicos)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 9º",
+        "art. 10",
+        "art. 11",
+        "art. 16"
       ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-28;8142",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-06-26;13460",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/1990/lei-8142-1990-12-28.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-12-28;8142",
-        "versaoTexto": "original",
+        "file": "federal/leis-ordinarias/2017/lei-13460-2017-06-26.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-06-26;13460",
+        "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "9",
+          "10",
+          "11",
+          "16"
+        ],
         "provisionsMissing": []
       }
     }
   ],
   "relatedArticles": [
     "SAU-001",
-    "SAU-003"
+    "SAU-005"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/04-saude.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

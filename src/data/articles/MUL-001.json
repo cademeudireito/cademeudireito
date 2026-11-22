@@ -3,43 +3,48 @@
   "slug": "violencia-domestica-o-que-e",
   "title": "O que a lei considera violência doméstica contra a mulher?",
   "category": "mulheres",
-  "summary": "As formas de violência doméstica e familiar previstas na Lei Maria da Penha, em linguagem simples.",
+  "summary": "A Lei Maria da Penha reconhece seis formas de violência doméstica, e não só a física.",
   "keywords": [
     "violência doméstica",
     "Lei Maria da Penha",
     "violência psicológica",
     "violência patrimonial",
-    "agressão"
+    "agressão",
+    "violência vicária",
+    "violência moral"
   ],
   "synonyms": [
     "meu marido me agride",
     "ameaça em casa",
-    "controle e humilhação"
+    "controle e humilhação",
+    "ameaça do marido",
+    "ele controla meu dinheiro"
   ],
-  "quickAnswer": "A Lei Maria da Penha considera violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial. Violência não é só física: pode ser psicológica, sexual, patrimonial e moral.",
+  "quickAnswer": "A Lei Maria da Penha considera violência doméstica e familiar qualquer ação ou omissão, baseada no gênero, que cause morte, lesão, sofrimento, dano moral ou patrimonial. Ela lista seis formas de violência, entre outras: física, psicológica, sexual, patrimonial, moral e vicária.",
   "sections": {
-    "explanation": "A lei lista, entre outras, as formas de violência (art. 7º). A proteção vale em âmbito doméstico, familiar ou em relação íntima de afeto.",
+    "explanation": "A lei protege a mulher contra violência no âmbito da casa, da família ou em qualquer relação íntima de afeto, mesmo sem morar junto (art. 5º). As formas de violência estão no art. 7º. A violência física ofende o corpo ou a saúde. A psicológica causa dano emocional, como ameaça, humilhação, isolamento e controle. A sexual obriga a manter relação não desejada ou impede o uso de contraceptivo. A patrimonial é pegar, esconder ou destruir bens, documentos ou dinheiro. A moral é calúnia, difamação ou injúria. A vicária é atingir a mulher por meio de pessoas ligadas a ela, como filhos, parentes ou quem está sob sua guarda.",
     "whenApplies": [
-      "Você sofre ou conhece alguém que sofre ofensas, ameaças, controle, agressões ou limitações ao uso do seu dinheiro e bens."
+      "Você sofre ou conhece alguém que sofre ofensas, ameaças, controle, agressões ou limitações ao uso do dinheiro e dos bens."
     ],
     "exceptions": [
+      "A lista do art. 7º não é fechada: a lei diz \"entre outras\" formas de violência.",
       "Se houver risco imediato, a prioridade é a segurança: procure a polícia ou o serviço de emergência."
     ],
     "steps": [
-      "Se estiver em perigo, procure um lugar seguro e acione a polícia ou o serviço de emergência.",
-      "Guarde registros (mensagens, fotos, laudos) em local seguro.",
-      "Procure a rede oficial de atendimento à mulher para orientação."
+      "Se estiver em perigo, vá para um lugar seguro e acione a polícia ou o serviço de emergência.",
+      "Guarde provas em local seguro: mensagens, áudios, fotos, laudos e nomes de testemunhas.",
+      "Procure a delegacia ou o serviço de atendimento à mulher da sua cidade."
     ],
     "documentsToKeep": [
-      "Registros de mensagens, ligações e áudios",
+      "Mensagens, ligações e áudios",
       "Fotos de lesões ou danos, laudos e atendimentos",
       "Nomes de testemunhas e datas dos fatos",
       "Número do registro de ocorrência, se houver"
     ],
     "ifDenied": [
-      "Se houver risco imediato, procure a polícia ou o serviço de emergência pelo canal oficial.",
-      "Procure a rede oficial de atendimento à mulher da sua cidade ou estado (confira os canais atuais), a Defensoria Pública ou o Ministério Público.",
-      "Você não precisa enfrentar isso sozinha: peça ajuda a alguém de confiança."
+      "Se houver risco imediato, procure a polícia ou o serviço de emergência.",
+      "Procure o serviço de atendimento à mulher da sua cidade, pelo canal oficial.",
+      "A Defensoria Pública e o Ministério Público também atuam nesses casos."
     ]
   },
   "legalReferences": [
@@ -51,9 +56,8 @@
         "art. 7º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2006/lei-11340-2006-08-07.md",
@@ -73,8 +77,8 @@
     "MUL-002",
     "MUL-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/11-mulheres.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -3,45 +3,52 @@
   "slug": "contestar-cobranca-indevida",
   "title": "Como contestar uma cobrança indevida",
   "category": "consumidor",
-  "summary": "Passo a passo geral para contestar uma cobrança e entender a devolução de valores pagos.",
+  "summary": "Se você pagou uma cobrança que não devia, pode pedir de volta o dobro do que pagou a mais, salvo engano justificável da empresa.",
   "keywords": [
     "cobrança indevida",
-    "contestar cobrança",
     "devolução em dobro",
+    "pagamento a mais",
     "repetição do indébito",
-    "estorno"
+    "cobrança errada",
+    "pedir dinheiro de volta"
   ],
   "synonyms": [
-    "pagamento indevido",
+    "paguei a mais",
+    "cobraram duas vezes",
     "cobrança duplicada",
-    "estorno de cobrança"
+    "quero meu dinheiro em dobro",
+    "pagamento indevido",
+    "estorno"
   ],
-  "quickAnswer": "É possível contestar cobranças que você considera indevidas, guardando provas e protocolos. A devolução de valores pagos (inclusive a chamada “devolução em dobro”) tem requisitos e interpretação jurídica própria; não é automática.",
+  "quickAnswer": "Se você pagou uma quantia que não devia, pode pedir de volta o dobro do que pagou a mais, com correção e juros. A empresa só fica livre do dobro se provar que o erro foi justificável. Peça por escrito e guarde o comprovante.",
   "sections": {
-    "explanation": "Contestar por escrito ajuda a registrar o caso. Se você já pagou o que considera indevido, a possibilidade de recuperar o valor depende de requisitos legais e do entendimento dos tribunais.",
+    "explanation": "Quem foi cobrado e pagou uma quantia que não devia tem direito de receber de volta o dobro do que pagou a mais, com correção e juros. Isso se chama devolução em dobro. A empresa só não precisa devolver em dobro se provar que cometeu um engano justificável. Pelo entendimento do STJ, o dobro costuma ser aceito quando a cobrança foi contrária à boa-fé, mesmo sem intenção de enganar.",
     "whenApplies": [
-      "Você foi cobrado duas vezes ou por valor diferente do combinado.",
-      "Você pagou algo que considera indevido."
+      "Você pagou uma cobrança que não devia ou que estava com valor maior que o certo.",
+      "Você foi cobrado duas vezes pelo mesmo serviço ou produto."
     ],
     "exceptions": [
-      "A devolução em dobro depende de requisitos legais e da jurisprudência, a conferir.",
-      "Cada caso pode exigir análise individual."
+      "Se a empresa provar que o erro foi justificável, ela devolve só o valor pago a mais, sem o dobro.",
+      "O dobro vale para o que você pagou a mais. Se você ainda não pagou, conteste a cobrança antes de pagar.",
+      "Cada caso é diferente: guarde as provas."
     ],
     "steps": [
-      "Separe a fatura ou o comprovante e marque o que considera indevido.",
-      "Envie a contestação por escrito e guarde o protocolo.",
-      "Acompanhe a resposta e registre prazos informados."
+      "Junte o comprovante do pagamento e a prova de que a cobrança era indevida.",
+      "Peça por escrito a devolução em dobro e guarde o protocolo.",
+      "Dê um prazo curto para a resposta.",
+      "Se a empresa recusar, peça a negativa por escrito."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Comprovante de pagamento",
+      "Fatura ou boleto cobrado",
+      "Contrato ou oferta com o valor correto",
+      "Protocolos e mensagens"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Se for cobrança de banco ou cartão, reclame também na ouvidoria da instituição e depois no Banco Central.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -52,9 +59,8 @@
         "art. 42, parágrafo único"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir requisitos da repetição do indébito.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -67,26 +73,16 @@
         ],
         "provisionsMissing": []
       }
-    },
-    {
-      "name": "Jurisprudência relevante (STJ/tribunais) — a pesquisar",
-      "sphere": "federal",
-      "provisions": [
-        "a pesquisar"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "STJ — interpretação aplicável."
     }
   ],
   "relatedArticles": [
     "CON-005",
     "CON-009",
-    "CON-012"
+    "CON-012",
+    "CON-020"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -3,42 +3,53 @@
   "slug": "seguro-desemprego",
   "title": "Quem tem direito ao seguro-desemprego?",
   "category": "trabalho",
-  "summary": "Condições gerais do seguro-desemprego para trabalhador dispensado sem justa causa.",
+  "summary": "Quem foi dispensado sem justa causa pode pedir o seguro-desemprego, de 3 a 5 parcelas, se cumprir os requisitos da lei.",
   "keywords": [
     "seguro-desemprego",
     "demissão sem justa causa",
     "benefício",
     "desemprego",
-    "requisitos"
+    "requisitos",
+    "parcelas do seguro"
   ],
   "synonyms": [
-    "quando posso pedir seguro-desemprego"
+    "quando posso pedir seguro-desemprego",
+    "dar entrada no seguro-desemprego",
+    "fui mandado embora e quero o seguro",
+    "quantas parcelas do seguro-desemprego"
   ],
-  "quickAnswer": "A Lei 7.998/1990 prevê o seguro-desemprego ao trabalhador dispensado sem justa causa que comprove os requisitos que a lei lista, como tempo de trabalho e não ter outra renda suficiente. O prazo para pedir e o número de parcelas precisam ser conferidos nas regras vigentes.",
+  "quickAnswer": "Quem foi dispensado sem justa causa pode pedir o seguro-desemprego, se tiver recebido salários por tempo suficiente (na primeira vez, 12 dos últimos 18 meses), não receber outro benefício do INSS e não ter renda própria suficiente para o sustento da família. São de 3 a 5 parcelas.",
   "sections": {
-    "explanation": "Os requisitos mudam conforme a quantidade de solicitações anteriores. O pedido é feito pelos canais oficiais.",
+    "explanation": "O seguro-desemprego é uma ajuda em dinheiro, por tempo limitado, para quem perdeu o emprego sem justa causa. Você pode pedir a partir do 7º dia depois do fim do contrato. O número de parcelas vai de 3 a 5 e depende do tempo de trabalho e de quantas vezes você já pediu o benefício. Na primeira vez, são 4 parcelas para quem trabalhou de 12 a 23 meses e 5 parcelas para quem trabalhou 24 meses ou mais. O valor não pode ser menor que o salário mínimo.",
     "whenApplies": [
-      "Você foi dispensado sem justa causa e quer saber se pode pedir o benefício."
+      "Você foi dispensado sem justa causa (a lei inclui também a dispensa indireta).",
+      "Você recebeu salários de empresa em pelo menos 12 dos últimos 18 meses antes da dispensa, na primeira vez; 9 dos últimos 12 meses, na segunda; e cada um dos 6 últimos meses, nas demais.",
+      "Você não está recebendo benefício do INSS de prestação continuada (auxílio-acidente e abono de permanência são exceções), nem outro auxílio-desemprego.",
+      "Você não tem renda própria de qualquer natureza que seja suficiente para o seu sustento e o de sua família."
     ],
     "exceptions": [
-      "Pedido de demissão e justa causa, em regra, não dão direito.",
-      "Há regras para outras categorias."
+      "Pedido de demissão e dispensa por justa causa não se enquadram: a lei fala em trabalhador dispensado sem justa causa.",
+      "O fim do contrato por acordo (art. 484-A da CLT) não dá direito ao seguro-desemprego.",
+      "O governo pode exigir matrícula e frequência em curso de qualificação para pagar o benefício, quando for o caso.",
+      "O pagamento é suspenso se você arrumar novo emprego ou começar a receber benefício do INSS, e é cancelado se você recusar emprego compatível com a sua qualificação ou prestar informação falsa.",
+      "Empregados domésticos têm regras próprias (veja “Trabalho em casa de família”)."
     ],
     "steps": [
-      "Guarde o termo de rescisão e os documentos de saída.",
-      "Confira os requisitos e o prazo no canal oficial.",
-      "Peça o benefício dentro do prazo indicado."
+      "Separe a carteira de trabalho, o termo de rescisão e os comprovantes dos últimos salários.",
+      "Peça o benefício pelo canal oficial do Ministério do Trabalho e Emprego, a partir do 7º dia depois do fim do contrato.",
+      "Faça o pedido assim que puder, sem deixar para depois.",
+      "Guarde o comprovante do pedido e acompanhe as parcelas."
     ],
     "documentsToKeep": [
       "Carteira de trabalho (física ou digital)",
-      "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa"
+      "Termo de rescisão do contrato",
+      "Comprovantes dos últimos salários",
+      "Comprovante do pedido do seguro-desemprego"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Peça o motivo da negativa e confira se algum dado está errado, como datas ou salários.",
+      "Procure o canal oficial do Ministério do Trabalho e Emprego e pergunte como contestar a decisão.",
+      "Procure o sindicato, a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -46,12 +57,23 @@
       "name": "Lei nº 7.998/1990 (seguro-desemprego)",
       "sphere": "federal",
       "provisions": [
-        "art. 3º"
+        "art. 2º, I",
+        "art. 3º, caput",
+        "art. 3º, I",
+        "art. 3º, III",
+        "art. 3º, IV",
+        "art. 3º, V",
+        "art. 3º, VI",
+        "art. 3º, §1º",
+        "art. 4º",
+        "art. 5º, §2º",
+        "art. 6º",
+        "art. 7º",
+        "art. 8º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-01-11;7998",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-7998-1990-01-11.md",
@@ -60,7 +82,35 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "3"
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 484-A, §2º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "484-A"
         ],
         "provisionsMissing": []
       }
@@ -68,10 +118,11 @@
   ],
   "relatedArticles": [
     "TRA-004",
-    "TRA-014"
+    "TRA-014",
+    "TRA-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas. Divergência com o roteiro: o roteiro dizia que \"não ter renda suficiente\" não consta do art. 3º, mas o inciso V do art. 3º da Lei 7.998 traz essa condição (conferido no acervo e no Planalto); o texto a mantém.",
+  "status": "published"
 }

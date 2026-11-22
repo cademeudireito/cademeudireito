@@ -3,41 +3,45 @@
   "slug": "reajuste-da-mensalidade-escolar",
   "title": "A escola aumentou a mensalidade: o que conferir?",
   "category": "educacao",
-  "summary": "Regras gerais sobre o valor das anuidades e das semestralidades escolares.",
+  "summary": "Regras da lei de mensalidades sobre o valor, a divulgação prévia e os reajustes.",
   "keywords": [
     "mensalidade escolar",
     "reajuste",
     "anuidade",
     "escola particular",
-    "contrato"
+    "contrato",
+    "planilha de custos"
   ],
   "synonyms": [
     "aumento da mensalidade",
-    "planilha de custos"
+    "planilha de custos",
+    "reajuste da faculdade",
+    "escola aumentou mensalidade"
   ],
-  "quickAnswer": "A Lei 9.870/1999 prevê que o valor das anuidades ou das semestralidades escolares seja contratado no ato da matrícula ou da sua renovação, entre o estabelecimento e o aluno ou responsável, nos termos da lei. Confira o contrato e peça a justificativa dos valores.",
+  "quickAnswer": "O valor da mensalidade é o que foi contratado na matrícula. A escola deve divulgar o valor pelo menos 45 dias antes do fim da matrícula. Cláusula de reajuste com prazo menor que um ano é nula, salvo se a lei previr.",
   "sections": {
-    "explanation": "A lei também trata da divulgação prévia de informações sobre os valores. Há mais detalhes a conferir.",
+    "explanation": "A Lei 9.870/1999 vale para a educação pré-escolar, fundamental, média e superior (art. 1º). O valor do ano ou do semestre é contratado na matrícula ou na renovação. A escola deve divulgar a proposta de contrato e o valor com pelo menos 45 dias de antecedência da data final da matrícula (art. 2º). Aumento para cobrir custos só pode ser acrescido se comprovado por planilha de custos (art. 1º, §3º).",
     "whenApplies": [
-      "A escola ou faculdade reajustou ou cobrou valor que você não esperava."
+      "A escola ou faculdade reajustou a mensalidade ou cobrou um valor que você não esperava."
     ],
     "exceptions": [
-      "Regras para ensino superior e outras modalidades podem ter diferenças."
+      "Um aumento só vale se estiver de acordo com o contrato e com a proposta divulgada.",
+      "Cláusula de reajuste com prazo menor que um ano, contado da fixação do valor, é nula, salvo se a lei previr (art. 1º, §6º)."
     ],
     "steps": [
-      "Leia o contrato e o comunicado de reajuste.",
-      "Peça a justificativa por escrito.",
-      "Procure o Procon se não houver esclarecimento."
+      "Compare o valor com o contrato assinado e com a proposta divulgada antes da matrícula.",
+      "Peça por escrito a justificativa do aumento e, se o aumento for por custos, a planilha de custos (art. 1º, §3º).",
+      "Se não houver explicação, procure o Procon."
     ],
     "documentsToKeep": [
       "Contrato de prestação de serviços educacionais",
+      "Proposta ou comunicado de valores divulgado antes da matrícula",
       "Boletos e comprovantes de pagamento",
-      "Comunicados e regulamento da instituição"
+      "Pedido por escrito de justificativa e a resposta da escola"
     ],
     "ifDenied": [
-      "Verifique o Procon da sua localidade, se for instituição privada.",
-      "Para rede pública, procure a secretaria de educação ou a ouvidoria competente.",
-      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Procure o Procon da sua cidade ou do seu estado e leve o contrato e os comunicados.",
+      "Se precisar de orientação sobre o contrato, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -45,12 +49,12 @@
       "name": "Lei nº 9.870/1999 (mensalidades escolares)",
       "sphere": "federal",
       "provisions": [
-        "art. 1º"
+        "art. 1º, §§ 3º e 6º",
+        "art. 2º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-11-23;9870",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1999/lei-9870-1999-11-23.md",
@@ -59,7 +63,8 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "1"
+          "1",
+          "2"
         ],
         "provisionsMissing": []
       }
@@ -69,8 +74,8 @@
     "EDU-001",
     "EDU-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/07-educacao.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

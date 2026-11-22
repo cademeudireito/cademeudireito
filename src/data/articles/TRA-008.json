@@ -3,43 +3,54 @@
   "slug": "licenca-maternidade-estabilidade",
   "title": "Estou grávida: quais direitos tenho no trabalho?",
   "category": "trabalho",
-  "summary": "Licença-maternidade e proteção da gestante no emprego, em linhas gerais.",
+  "summary": "Gestante empregada tem 120 dias de licença-maternidade e estabilidade no emprego até 5 meses depois do parto.",
   "keywords": [
     "licença-maternidade",
     "gestante",
     "estabilidade",
     "gravidez",
-    "empregada"
+    "empregada",
+    "licença-paternidade"
   ],
   "synonyms": [
     "fui demitida grávida",
-    "afastamento por parto"
+    "afastamento por parto",
+    "estabilidade da gestante",
+    "grávida demitida",
+    "licença maternidade 120 dias",
+    "atestado de gravidez"
   ],
-  "quickAnswer": "A CLT prevê que a empregada gestante tem direito à licença-maternidade de 120 dias, sem prejuízo do emprego e do salário, e leis mais recentes podem ter alterado detalhes. A Constituição também protege contra dispensa arbitrária ou sem justa causa. Confira o texto vigente.",
+  "quickAnswer": "A empregada gestante tem direito a 120 dias de licença-maternidade, sem perder o emprego e o salário. Da confirmação da gravidez até 5 meses depois do parto, a empresa não pode demitir sem justa causa. Avise a empresa e entregue o atestado médico.",
   "sections": {
-    "explanation": "A proteção começa com a confirmação da gravidez e tem regras sobre estabilidade. Informe o empregador por escrito.",
+    "explanation": "A licença-maternidade dura 120 dias, com salário e sem perder o emprego. O afastamento pode começar até 28 dias antes do parto, e você avisa a empresa com um atestado médico. Se o parto for antes do previsto, você tem os 120 dias do mesmo jeito. Desde a confirmação da gravidez até 5 meses depois do parto, é proibida a dispensa arbitrária ou sem justa causa, mesmo que a gravidez seja confirmada durante o aviso prévio. Durante a gravidez, você pode mudar de função se a saúde exigir e faltar para fazer pelo menos 6 consultas e os exames, sem perder o salário.",
     "whenApplies": [
-      "Você está grávida, adotou ou teve filho recentemente e trabalha com vínculo de emprego."
+      "Você é empregada, está grávida ou acabou de ter o bebê.",
+      "Você adotou, ou recebeu a guarda judicial para adoção, de uma criança ou adolescente.",
+      "A empresa pediu atestado ou teste de gravidez, ou tratou você de forma diferente por estar grávida."
     ],
     "exceptions": [
-      "Tipos de contrato e exceções podem alterar a estabilidade.",
-      "Normas recentes podem ter mudado o período; confira."
+      "A proteção contra demissão é para dispensa arbitrária ou sem justa causa.",
+      "Com atestado médico, os períodos de repouso antes e depois do parto podem ser aumentados em 2 semanas cada um.",
+      "O pagamento da licença é o salário-maternidade, pago pela Previdência Social (veja “Como funciona o salário-maternidade?”).",
+      "A Lei 15.371/2026, que vale a partir de 1º de janeiro de 2027, cria a licença-paternidade para o pai empregado: 10 dias em 2027 e 15 dias a partir de 2028. A etapa de 20 dias, a partir de 2029, depende do cumprimento de uma meta fiscal. A lei não muda os 120 dias da licença-maternidade."
     ],
     "steps": [
-      "Informe a empresa por escrito e entregue o atestado.",
-      "Guarde cópia de tudo o que entregou.",
-      "Se houver dispensa ou pressão, procure o sindicato, a Defensoria Pública ou advogado."
+      "Avise a empresa por escrito e entregue o atestado médico com a data de início do afastamento.",
+      "Guarde cópia de tudo o que entregou, com a data.",
+      "Use o direito de faltar para as consultas e exames, e guarde os comprovantes.",
+      "Se a empresa pressionar ou demitir, guarde mensagens e procure ajuda."
     ],
     "documentsToKeep": [
       "Carteira de trabalho (física ou digital)",
-      "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa"
+      "Atestado médico de gravidez e comprovantes de consultas",
+      "Comprovante de que você avisou a empresa",
+      "Contracheques",
+      "Mensagens e e-mails da empresa"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Se foi demitida durante a gravidez ou até 5 meses depois do parto, procure logo o sindicato, a Defensoria Pública ou um advogado.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se a empresa exigir atestado de gravidez ou tratar você de forma diferente por causa dela.",
+      "Se houver problema com o pagamento do salário-maternidade, veja o assunto sobre salário-maternidade e procure o canal oficial do INSS."
     ]
   },
   "legalReferences": [
@@ -49,10 +60,9 @@
       "provisions": [
         "art. 7º, XVIII"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "constituicao.md",
@@ -67,15 +77,31 @@
       }
     },
     {
+      "name": "Constituição Federal de 1988 — Ato das Disposições Constitucionais Transitórias (ADCT)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 10, II, b"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20"
+    },
+    {
       "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
       "sphere": "federal",
       "provisions": [
-        "art. 392"
+        "art. 373-A, II e IV",
+        "art. 391-A",
+        "art. 392, caput",
+        "art. 392, §1º",
+        "art. 392, §2º",
+        "art. 392, §3º",
+        "art. 392, §4º",
+        "art. 392-A"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
@@ -84,7 +110,35 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "392"
+          "373-A",
+          "391-A",
+          "392",
+          "392-A"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 15.371/2026 — licença-paternidade e salário-paternidade",
+      "sphere": "federal",
+      "provisions": [
+        "art. 11",
+        "art. 14"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-31;15371",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "notes": "Em vigor a partir de 1º de janeiro de 2027.",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2026/lei-15371-2026-03-31.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-31;15371",
+        "versaoTexto": "original",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "11",
+          "14"
         ],
         "provisionsMissing": []
       }
@@ -94,8 +148,8 @@
     "PRE-005",
     "TRA-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas. Lei 15.371/2026 (vigência em 2027-01-01) lida: não altera os 120 dias da licença-maternidade.",
+  "status": "published"
 }

@@ -2,8 +2,8 @@
   "id": "GUI-001",
   "slug": "compra-online-desistencia",
   "title": "Quero desistir de uma compra pela internet",
-  "description": "Responda algumas perguntas para encontrar informações sobre desistência e arrependimento.",
-  "status": "draft",
+  "description": "Responda algumas perguntas para saber se você ainda pode desistir de uma compra e como pedir.",
+  "status": "published",
   "startQuestion": "q1",
   "questions": {
     "q1": {
@@ -31,15 +31,15 @@
     },
     "q2": {
       "id": "q2",
-      "text": "Faz pouco tempo desde que você contratou ou recebeu?",
-      "helpText": "Não vamos calcular prazos aqui. Só precisamos saber se o tempo é curto ou já passou bastante.",
+      "text": "Faz menos de 7 dias desde a compra ou desde que você recebeu o produto ou serviço?",
+      "helpText": "Conte da data da compra ou da data em que você recebeu o produto ou serviço.",
       "options": [
         {
-          "label": "Sim, faz pouco tempo",
+          "label": "Sim, faz menos de 7 dias",
           "next": "q3"
         },
         {
-          "label": "Já passou bastante tempo",
+          "label": "Não, já passaram mais de 7 dias",
           "next": "r_prazo"
         },
         {
@@ -99,13 +99,14 @@
   "results": {
     "r_arrepende": {
       "id": "r_arrepende",
-      "title": "Pode existir direito de arrependimento",
-      "indicates": "Suas respostas indicam que pode valer a pena verificar se o direito de arrependimento previsto no Código de Defesa do Consumidor se aplica à sua contratação.",
-      "rule": "A regra geral pode permitir desistir de certas contratações feitas fora do estabelecimento. A aplicação depende do enquadramento, da forma de contagem e de exceções, que precisam ser conferidas.",
+      "title": "Você pode desistir da compra",
+      "indicates": "Suas respostas indicam que você está dentro dos 7 dias que a lei dá para desistir de compra feita fora da loja.",
+      "rule": "Você tem 7 dias para desistir de compra feita pela internet, pelo telefone ou em casa, contados da compra ou do recebimento. Se desistir, a loja deve devolver tudo o que você pagou, de uma vez.",
       "steps": [
-        "Confirme as datas da contratação e do recebimento.",
-        "Comunique a desistência por escrito, por canal que gere protocolo.",
-        "Peça instruções de devolução e guarde as respostas."
+        "Veja as datas da compra e do recebimento.",
+        "Peça a desistência já, pelo mesmo site ou aplicativo da compra ou por outro canal que dê protocolo.",
+        "A loja deve confirmar na hora que recebeu seu pedido. Guarde a confirmação.",
+        "Se pagou no cartão, confira se a compra saiu da fatura ou foi estornada."
       ],
       "documents": [
         "Comprovante de compra",
@@ -114,19 +115,21 @@
       ],
       "articleId": "CON-001",
       "relatedArticleIds": [
+        "CON-006",
         "CON-012"
       ],
-      "caution": "A aplicação depende das circunstâncias e da conferência dos requisitos legais."
+      "caution": "Cada caso é diferente. Se a loja recusar, guarde a recusa por escrito."
     },
     "r_uso": {
       "id": "r_uso",
-      "title": "O uso do produto pode mudar a situação",
-      "indicates": "Suas respostas indicam que há detalhes que podem mudar a resposta, como o estado do produto. Também pode valer a pena verificar se há defeito.",
-      "rule": "O direito de arrependimento tem condições a conferir. Se houver defeito ou descumprimento da oferta, outras regras podem ser relevantes.",
+      "title": "Produto já usado: peça a desistência e guarde provas",
+      "indicates": "Suas respostas indicam que você já usou o produto. Isso pode gerar discussão com a loja sobre o estado dele.",
+      "rule": "A lei dá 7 dias para desistir de compra feita fora da loja. Se o produto tiver defeito ou a loja não cumpriu o que anunciou, outras regras também valem.",
       "steps": [
-        "Releia o conteúdo sobre desistência.",
-        "Se houver defeito, registre com fotos e veja o conteúdo sobre defeitos.",
-        "Comunique a empresa por escrito."
+        "Tire fotos do produto e da embalagem.",
+        "Peça a desistência por escrito, dentro dos 7 dias, e guarde o protocolo.",
+        "Se houver defeito, descreva o problema e veja o conteúdo sobre defeitos.",
+        "Guarde o anúncio, se a loja não cumpriu o que prometeu."
       ],
       "documents": [
         "Comprovante de compra",
@@ -137,17 +140,19 @@
       "relatedArticleIds": [
         "CON-002",
         "CON-007"
-      ]
+      ],
+      "caution": "Cada caso é diferente."
     },
     "r_servico_iniciado": {
       "id": "r_servico_iniciado",
-      "title": "Serviço já iniciado: veja contrato e cancelamento",
-      "indicates": "Suas respostas indicam que o serviço já começou, o que pode influenciar o que é possível pedir. Vale conferir o contrato.",
-      "rule": "As condições de desistência e cancelamento dependem do tipo de serviço, do contrato e de normas aplicáveis.",
+      "title": "Serviço já iniciado: veja o contrato e o cancelamento",
+      "indicates": "Suas respostas indicam que o serviço já começou. Isso pode influenciar o que você consegue pedir.",
+      "rule": "Contratos não podem ter cláusulas abusivas, como multa ou exigência que coloque você em desvantagem exagerada. Se a contratação foi fora da loja e faz menos de 7 dias, você também pode ter direito de desistir.",
       "steps": [
-        "Releia as cláusulas de cancelamento.",
+        "Releia as cláusulas de cancelamento e multa.",
         "Peça o cancelamento por escrito e anote o protocolo.",
-        "Verifique cobranças posteriores."
+        "Peça a confirmação e a data em que as cobranças terminam.",
+        "Confira as próximas faturas."
       ],
       "documents": [
         "Contrato",
@@ -162,12 +167,12 @@
     },
     "r_fisica": {
       "id": "r_fisica",
-      "title": "Em loja física a regra pode ser diferente",
-      "indicates": "Suas respostas indicam que compra presencial não segue automaticamente a mesma regra de arrependimento.",
-      "rule": "Em compras presenciais, a troca costuma depender de defeito, da oferta ou da política divulgada pela loja.",
+      "title": "Em loja física a regra é diferente",
+      "indicates": "Suas respostas indicam que a compra foi feita dentro da loja, onde os 7 dias de desistência não valem automaticamente.",
+      "rule": "Em compra na loja física, a troca sem defeito depende do que a loja prometeu ao vender. Se o produto tem defeito, a loja tem de resolver.",
       "steps": [
-        "Procure a política de troca informada pela loja.",
-        "Se houver defeito, veja o conteúdo sobre defeitos.",
+        "Veja a política de troca que a loja informou (cartaz, nota, site).",
+        "Se houver defeito, veja o conteúdo sobre produto com defeito.",
         "Peça por escrito e guarde a nota."
       ],
       "documents": [
@@ -177,18 +182,19 @@
       ],
       "articleId": "CON-003",
       "relatedArticleIds": [
-        "CON-002"
+        "CON-002",
+        "CON-007"
       ]
     },
     "r_prazo": {
       "id": "r_prazo",
-      "title": "Se já passou tempo, veja outras possibilidades",
-      "indicates": "Suas respostas indicam que o tempo pode ser um obstáculo para o arrependimento, mas outras situações podem ser relevantes, como defeito ou oferta não cumprida.",
-      "rule": "Não calculamos prazos aqui. Outras bases possíveis devem ser conferidas nos conteúdos indicados.",
+      "title": "Passaram mais de 7 dias: veja outras possibilidades",
+      "indicates": "Suas respostas indicam que o prazo de 7 dias para desistir já passou. Mesmo assim, outras situações podem valer.",
+      "rule": "O direito de desistir sem motivo é de 7 dias. Depois disso, você ainda pode reclamar de defeito (30 dias para produto que dura pouco e 90 dias para produto durável) ou de oferta que a loja não cumpriu.",
       "steps": [
-        "Verifique se há defeito ou descumprimento da oferta.",
+        "Veja se o produto tem defeito ou se a loja não cumpriu o anúncio.",
         "Releia o contrato.",
-        "Procure orientação se houver prejuízo relevante."
+        "Reclame por escrito e guarde o protocolo."
       ],
       "documents": [
         "Contrato",
@@ -199,17 +205,19 @@
       "relatedArticleIds": [
         "CON-007",
         "CON-012"
-      ]
+      ],
+      "caution": "Se tiver prazo correndo ou prejuízo grande, procure a Defensoria Pública ou um advogado."
     },
     "r_incerto": {
       "id": "r_incerto",
       "title": "Precisamos de mais informações",
-      "indicates": "Com as respostas dadas, não é possível apontar um caminho claro. Há detalhes que podem mudar a resposta.",
-      "rule": "Confira o contrato e a forma como a compra foi feita antes de decidir os próximos passos.",
+      "indicates": "Com as respostas dadas, não dá para apontar um caminho claro. Alguns detalhes mudam a resposta.",
+      "rule": "Descubra onde a compra foi feita e a data. Para compra fora da loja, o prazo de desistir é de 7 dias.",
       "steps": [
-        "Localize contrato, pedido e comprovantes.",
-        "Leia o conteúdo geral sobre desistência.",
-        "Procure Procon ou Defensoria Pública se houver prazo ou prejuízo."
+        "Localize o contrato, o pedido e os comprovantes.",
+        "Veja a data da compra e a data do recebimento.",
+        "Leia o conteúdo sobre desistir de compra pela internet.",
+        "Se não conseguir resolver, procure o Procon ou a Defensoria Pública."
       ],
       "documents": [
         "Comprovante de compra",
@@ -223,7 +231,8 @@
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "category": "consumidor"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "category": "consumidor",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; conteúdo alinhado aos artigos CON-001 a CON-020, já conferidos no texto das normas."
 }

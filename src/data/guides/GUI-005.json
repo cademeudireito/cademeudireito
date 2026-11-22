@@ -4,7 +4,7 @@
   "category": "previdencia",
   "title": "O INSS negou, cancelou ou demora a responder meu benefício",
   "description": "Encontre os próximos passos gerais depois de uma decisão do INSS ou de uma demora.",
-  "status": "draft",
+  "status": "published",
   "startQuestion": "q1",
   "questions": {
     "q1": {
@@ -50,7 +50,7 @@
       "id": "r_neg_motivo",
       "title": "Com o motivo em mãos, verifique prazo e documentos",
       "indicates": "Suas respostas indicam que o próximo passo geral é comparar o motivo da negativa com seus documentos e conferir o prazo para recurso.",
-      "rule": "Antes de tudo, leia o motivo da negativa. Em geral é possível recorrer pelos canais do próprio INSS, dentro de um prazo informado na decisão, e depois buscar orientação individual. Não há garantia de que o recurso será aceito.",
+      "rule": "Leia o motivo da negativa. Em geral, você pode recorrer pelos canais do próprio INSS, dentro do prazo informado na decisão. O recurso é julgado pelo Conselho de Recursos da Previdência Social (Lei 8.213, art. 126, I). Não há garantia de que o recurso será aceito.",
       "steps": [
         "Peça a decisão por escrito e anote o prazo de recurso.",
         "Reúna documentos que respondam ao motivo da negativa.",
@@ -72,7 +72,7 @@
       "id": "r_neg",
       "title": "Primeiro, descubra o motivo da negativa",
       "indicates": "Suas respostas indicam que o primeiro passo é obter a decisão por escrito e entender o motivo.",
-      "rule": "Antes de tudo, leia o motivo da negativa. Em geral é possível recorrer pelos canais do próprio INSS, dentro de um prazo informado na decisão, e depois buscar orientação individual. Não há garantia de que o recurso será aceito.",
+      "rule": "Leia o motivo da negativa. Em geral, você pode recorrer pelos canais do próprio INSS, dentro do prazo informado na decisão. O recurso é julgado pelo Conselho de Recursos da Previdência Social (Lei 8.213, art. 126, I). Não há garantia de que o recurso será aceito.",
       "steps": [
         "Peça a decisão por escrito e anote o prazo de recurso.",
         "Reúna documentos que respondam ao motivo da negativa.",
@@ -93,10 +93,10 @@
       "id": "r_cancel",
       "title": "Cancelamento ou suspensão: peça a justificativa",
       "indicates": "Suas respostas indicam que pode valer a pena pedir a justificativa por escrito e conferir os canais de defesa e recurso.",
-      "rule": "Antes de tudo, leia o motivo da negativa. Em geral é possível recorrer pelos canais do próprio INSS, dentro de um prazo informado na decisão, e depois buscar orientação individual. Não há garantia de que o recurso será aceito.",
+      "rule": "Se o benefício foi cancelado ou suspenso, peça o motivo por escrito. A comunicação costuma trazer o prazo para defesa ou recurso. Se não concordar, apresente a defesa ou o recurso dentro desse prazo e busque orientação.",
       "steps": [
-        "Peça a decisão por escrito e anote o prazo de recurso.",
-        "Reúna documentos que respondam ao motivo da negativa.",
+        "Peça a comunicação por escrito e anote o motivo e o prazo para defesa ou recurso.",
+        "Reúna documentos que mostrem que você tem direito ao benefício.",
         "Procure orientação (sindicato, Defensoria Pública, advogado) antes de o prazo terminar."
       ],
       "documents": [
@@ -115,7 +115,7 @@
       "id": "r_demora",
       "title": "Demora: registre e cobre pelos canais oficiais",
       "indicates": "Suas respostas indicam que o caminho geral é consultar o andamento, registrar reclamação e guardar protocolos.",
-      "rule": "A Lei 9.784/1999 regula o processo administrativo na administração pública federal, e leis estaduais e municipais podem ter regras próprias. Prazos e consequências variam por órgão e por tipo de pedido; peça informações e registre reclamação.",
+      "rule": "Pela Lei 9.784 (art. 49), a administração tem até 30 dias para decidir, depois de concluída a instrução do processo, podendo prorrogar por igual período com motivo expresso. Se o prazo passar, peça por escrito uma explicação e registre reclamação. Estados e municípios podem ter regras próprias.",
       "steps": [
         "Consulte o andamento pelo canal oficial.",
         "Peça uma resposta por escrito sobre o prazo.",
@@ -134,7 +134,7 @@
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/03-previdencia.md; dispositivos conferidos no texto das normas."
 }

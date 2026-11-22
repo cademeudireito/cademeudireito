@@ -4,7 +4,7 @@
   "category": "previdencia",
   "title": "Preciso de um benefício do INSS: por onde começar?",
   "description": "Responda algumas perguntas para encontrar o conteúdo sobre o benefício que mais se parece com a sua situação.",
-  "status": "draft",
+  "status": "published",
   "startQuestion": "q1",
   "questions": {
     "q1": {
@@ -17,8 +17,12 @@
           "next": "q2"
         },
         {
-          "label": "Tive um filho ou adotei",
+          "label": "Tive um filho ou estou grávida",
           "next": "r_mat"
+        },
+        {
+          "label": "Adotei uma criança ou tenho guarda para adoção",
+          "next": "r_adot"
         },
         {
           "label": "Faleceu alguém da família que me sustentava",
@@ -62,11 +66,11 @@
       "id": "r_mat",
       "title": "Pode ser o salário-maternidade",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer o salário-maternidade e a licença-maternidade.",
-      "rule": "O salário-maternidade é devido à segurada da Previdência Social, em regra por 120 dias, com início no período entre 28 dias antes do parto e a data dele. Há situações e condições específicas, e normas mais recentes podem alterar detalhes: confira a regra vigente.",
+      "rule": "O salário-maternidade é devido à segurada da Previdência por 120 dias, com início entre 28 dias antes do parto e a data dele (Lei 8.213, art. 71). Para a empregada, a empresa paga e depois desconta do INSS. Há regras para internação e outras situações: veja o artigo completo.",
       "steps": [
-        "Informe a empresa sobre a gestação e o afastamento, por escrito.",
+        "Avise a empresa sobre a gravidez e o afastamento, por escrito.",
         "Reúna atestado médico e, depois, a certidão de nascimento.",
-        "Se não for empregada, confira como pedir ao INSS."
+        "Se não for empregada, peça o benefício ao INSS."
       ],
       "documents": [
         "Documentos pessoais e número do benefício ou protocolo",
@@ -79,14 +83,33 @@
         "TRA-008"
       ]
     },
+    "r_adot": {
+      "id": "r_adot",
+      "title": "Pode ser o salário-maternidade na adoção",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer o salário-maternidade na adoção, que tem regras próprias.",
+      "rule": "Na adoção ou guarda judicial para fins de adoção, o benefício é de 120 dias e é pago diretamente pelo INSS (Lei 8.213, art. 71-A). Pelo mesmo processo de adoção, em regra, só um segurado recebe o benefício.",
+      "steps": [
+        "Reúna o documento da adoção ou da guarda judicial.",
+        "Peça o benefício ao INSS pelos canais oficiais.",
+        "Guarde o protocolo e os comprovantes."
+      ],
+      "documents": [
+        "Documentos pessoais e número do benefício ou protocolo",
+        "Carteira de trabalho e comprovantes de contribuição",
+        "Laudos, atestados e exames, quando houver incapacidade",
+        "Comunicados e decisões do INSS"
+      ],
+      "articleId": "PRE-005",
+      "relatedArticleIds": []
+    },
     "r_pensao": {
       "id": "r_pensao",
       "title": "Pode ser a pensão por morte",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer a pensão por morte e quem pode ser dependente.",
-      "rule": "A pensão por morte é devida ao conjunto dos dependentes do segurado que falecer, aposentado ou não. Quem é dependente, a duração e o valor variam conforme a legislação vigente e o caso.",
+      "rule": "A pensão por morte é paga aos dependentes de quem contribuía ao INSS, aposentado ou não. Peça em até 90 dias da morte para receber desde a data do óbito; para filhos menores de 16 anos, o prazo é de 180 dias. Depois desse prazo, a pensão começa na data do pedido (Lei 8.213, art. 74).",
       "steps": [
-        "Reúna certidão de óbito e documentos que comprovem a relação com o falecido.",
-        "Confira o prazo e a forma de pedido nos canais oficiais.",
+        "Reúna a certidão de óbito e os documentos que comprovem a relação com a pessoa falecida.",
+        "Peça a pensão em até 90 dias da morte (180 dias, se houver filhos menores de 16 anos).",
         "Guarde o protocolo do pedido."
       ],
       "documents": [
@@ -125,9 +148,9 @@
       "id": "r_bpc",
       "title": "Pode ser o BPC (benefício assistencial)",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer o BPC, que não exige contribuição ao INSS, mas tem critérios de renda.",
-      "rule": "O BPC é a garantia de um salário-mínimo mensal à pessoa com deficiência e ao idoso com 65 anos ou mais que comprovem não ter meios de se manter nem de ser mantidos pela família. Não exige contribuição ao INSS, mas há critérios de renda e avaliação que precisam ser conferidos.",
+      "rule": "O BPC paga um salário mínimo por mês à pessoa com deficiência, ou ao idoso de 65 anos ou mais, que não tem como se manter nem é mantido pela família. Não exige contribuição ao INSS. A renda por pessoa da família deve ser de até 1/4 do salário mínimo, e a deficiência precisa durar pelo menos 2 anos (Lei 8.742, art. 20).",
       "steps": [
-        "Verifique se a família está inscrita no Cadastro Único e se os dados estão atualizados.",
+        "Veja se a família está inscrita no CPF e no Cadastro Único e se os dados estão atualizados.",
         "Reúna documentos pessoais, comprovantes de renda e, se for o caso, laudos.",
         "Peça o benefício pelos canais oficiais do INSS."
       ],
@@ -146,7 +169,7 @@
       "id": "r_inc_clt",
       "title": "Pode ser o benefício por incapacidade (com vínculo de emprego)",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer o benefício por incapacidade e como o afastamento se relaciona ao emprego.",
-      "rule": "A lei prevê benefício para o segurado da Previdência que fica incapacitado para o trabalho por mais de 15 dias consecutivos, observada a carência quando exigida. Se você tem direito depende da sua condição de segurado, do tempo de contribuição e de avaliação do INSS.",
+      "rule": "A lei prevê benefício para o segurado que fica incapaz para o trabalho por mais de 15 dias seguidos. Em regra, são necessárias 12 contribuições mensais, exceto em caso de acidente ou de certas doenças da lista oficial. Nos primeiros 15 dias, a empresa paga o salário (Lei 8.213, arts. 25, I, 26, II, 59 e 60, §3º).",
       "steps": [
         "Guarde atestados, laudos e exames com datas.",
         "Confira sua situação de contribuição pelos canais oficiais do INSS.",
@@ -166,8 +189,8 @@
     "r_inc_aut": {
       "id": "r_inc_aut",
       "title": "Pode ser o benefício por incapacidade (sem carteira assinada)",
-      "indicates": "Suas respostas indicam que pode valer a pena conferir sua condição de segurado e a carência para o benefício por incapacidade.",
-      "rule": "A lei prevê benefício para o segurado da Previdência que fica incapacitado para o trabalho por mais de 15 dias consecutivos, observada a carência quando exigida. Se você tem direito depende da sua condição de segurado, do tempo de contribuição e de avaliação do INSS.",
+      "indicates": "Suas respostas indicam que pode valer a pena conferir se você tem as 12 contribuições mensais exigidas para o benefício por incapacidade.",
+      "rule": "Sem carteira assinada, o benefício por incapacidade exige, em regra, 12 contribuições mensais ao INSS, com exceção de acidente e de certas doenças da lista oficial. O afastamento precisa ser por mais de 15 dias seguidos, e a perícia do INSS decide (Lei 8.213, arts. 25, I, 26, II e 59).",
       "steps": [
         "Guarde atestados, laudos e exames com datas.",
         "Confira sua situação de contribuição pelos canais oficiais do INSS.",
@@ -207,7 +230,7 @@
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/03-previdencia.md; dispositivos conferidos no texto das normas."
 }

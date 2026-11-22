@@ -3,7 +3,7 @@
   "slug": "processo-administrativo-demorado",
   "title": "Meu processo no órgão público está demorando muito",
   "category": "servicos-publicos",
-  "summary": "Noções sobre prazos e dever de decidir no processo administrativo federal.",
+  "summary": "Prazo de decisão em processos administrativos federais e o que fazer quando ele passa.",
   "keywords": [
     "processo administrativo",
     "demora",
@@ -13,31 +13,35 @@
   ],
   "synonyms": [
     "processo parado",
-    "sem resposta do órgão"
+    "sem resposta do órgão",
+    "processo demorado"
   ],
-  "quickAnswer": "A Lei 9.784/1999 regula o processo administrativo na administração pública federal, e leis estaduais e municipais podem ter regras próprias. Prazos e consequências variam por órgão e por tipo de pedido; peça informações e registre reclamação.",
+  "quickAnswer": "Na administração federal, depois que a análise do processo termina, o órgão tem 30 dias para decidir. Esse prazo pode ser prorrogado por igual período, com motivo. Se passar o prazo, peça por escrito uma resposta e a data prevista.",
   "sections": {
-    "explanation": "Guarde o número do processo e as datas de movimentação. Procure a ouvidoria do órgão.",
+    "explanation": "A Lei 9.784/1999 regula o processo administrativo na administração federal. O órgão tem o dever de decidir os processos e os pedidos (art. 48). Concluída a análise do processo, a decisão deve sair em até 30 dias, que podem ser prorrogados por igual período, com justificativa expressa (art. 49). A Constituição garante a razoável duração dos processos (art. 5º, LXXVIII).",
     "whenApplies": [
-      "Você aguarda decisão de um órgão público há muito tempo."
+      "Você aguarda uma decisão de um órgão federal há muito tempo."
     ],
     "exceptions": [
-      "Regras de órgãos estaduais e municipais podem diferir."
+      "O prazo de 30 dias é da lei federal. Estados e municípios têm leis próprias, e os prazos podem ser diferentes.",
+      "O prazo começa depois que a análise do processo termina. Antes disso, a contagem não começa."
     ],
     "steps": [
-      "Consulte o andamento pelo canal oficial.",
-      "Peça uma resposta por escrito sobre o prazo.",
-      "Registre reclamação na ouvidoria e procure a Defensoria Pública, se necessário."
+      "Consulte o andamento do processo pelo canal oficial.",
+      "Peça por escrito uma resposta e a data prevista para a decisão.",
+      "Se passar de 30 dias depois da análise, registre reclamação na ouvidoria do órgão.",
+      "Guarde o número do processo e as datas de cada movimentação."
     ],
     "documentsToKeep": [
-      "Número de protocolo do pedido",
-      "Cópia de requerimentos e documentos enviados",
-      "Datas, nomes e setores consultados"
+      "Número do processo",
+      "Cópia do pedido e dos documentos enviados",
+      "Datas de cada andamento",
+      "Pedidos de resposta feitos por escrito"
     ],
     "ifDenied": [
       "Procure a ouvidoria do órgão responsável.",
-      "Se for pedido de acesso à informação, verifique o canal indicado para recurso.",
-      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Se o prazo estiver muito atrasado, procure a Defensoria Pública ou um advogado.",
+      "Para processos estaduais ou municipais, veja a lei de processo administrativo da sua cidade ou do seu estado."
     ]
   },
   "legalReferences": [
@@ -45,12 +49,12 @@
       "name": "Lei nº 9.784/1999 (processo administrativo federal)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 48",
+        "art. 49"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-01-29;9784",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1999/lei-9784-1999-01-29.md",
@@ -58,28 +62,42 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "48",
+          "49"
+        ],
         "provisionsMissing": []
       }
     },
     {
-      "name": "Normas estaduais ou municipais aplicáveis à sua localidade (a identificar)",
-      "sphere": "municipal",
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
       "provisions": [
-        "a identificar"
+        "art. 5º, LXXVIII"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "5"
+        ],
+        "provisionsMissing": []
+      }
     }
   ],
   "relatedArticles": [
     "PUB-001",
     "PUB-003"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/08-servicos-publicos.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

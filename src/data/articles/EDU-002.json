@@ -3,41 +3,46 @@
   "slug": "vaga-na-escola-publica",
   "title": "Não consigo vaga na escola pública para meu filho",
   "category": "educacao",
-  "summary": "O direito à educação e os caminhos para buscar vaga e atendimento.",
+  "summary": "O direito à vaga na escola pública e o que fazer quando a vaga não aparece.",
   "keywords": [
     "vaga na escola",
     "matrícula",
     "escola pública",
     "creche",
-    "educação básica"
+    "educação básica",
+    "4 a 17 anos"
   ],
   "synonyms": [
     "sem vaga na creche",
-    "escola recusou matrícula"
+    "escola recusou matrícula",
+    "não tem vaga na escola",
+    "criança sem escola"
   ],
-  "quickAnswer": "A Constituição garante a educação como direito, e o Estado deve assegurar educação básica obrigatória e gratuita dos 4 aos 17 anos, entre outros deveres. Se não há vaga, há canais para reclamar. Os procedimentos variam por rede e localidade.",
+  "quickAnswer": "A escola pública é obrigatória e gratuita dos 4 aos 17 anos, e a vaga é um direito. Se não houver vaga, peça a recusa por escrito. Se o direito não for atendido, procure a secretaria de educação, o Ministério Público ou a Defensoria Pública.",
   "sections": {
-    "explanation": "Procure a secretaria de educação do município ou do estado. Registre a recusa por escrito.",
+    "explanation": "A Constituição diz que a educação básica obrigatória e gratuita vai dos 4 aos 17 anos (art. 208, I). Esse acesso é um direito que pode ser exigido na Justiça (art. 208, §1º). A LDB garante vaga na escola pública mais próxima da casa a partir dos 4 anos (art. 4º, X), e os pais devem fazer a matrícula a partir dos 4 anos (art. 6º).",
     "whenApplies": [
-      "Você não conseguiu vaga ou matrícula para criança ou adolescente."
+      "Você não conseguiu vaga ou matrícula em escola pública para criança ou adolescente dos 4 aos 17 anos."
     ],
     "exceptions": [
-      "Os critérios de matrícula e de zoneamento variam por rede."
+      "Os critérios de matrícula e de distância variam de cidade para cidade e entre redes de ensino.",
+      "Se o poder público não oferece o ensino obrigatório, a autoridade responsável responde por isso (art. 208, §2º)."
     ],
     "steps": [
-      "Peça por escrito o motivo da recusa e a previsão de vaga.",
-      "Reúna documentos da criança e o comprovante de residência.",
-      "Procure a Defensoria Pública, o Conselho Tutelar ou o Ministério Público."
+      "Peça por escrito à escola ou à secretaria de educação a recusa, com o motivo e a previsão de vaga. Guarde o protocolo.",
+      "Reúna a certidão de nascimento da criança e o comprovante de residência.",
+      "Se não houver resposta ou a vaga não aparecer, procure a secretaria de educação do município ou do estado.",
+      "Procure a Defensoria Pública ou o Ministério Público, que podem ser acionados para exigir a vaga (LDB, art. 5º)."
     ],
     "documentsToKeep": [
-      "Contrato de prestação de serviços educacionais",
-      "Boletos e comprovantes de pagamento",
-      "Comunicados e regulamento da instituição"
+      "Certidão de nascimento da criança ou do adolescente",
+      "Comprovante de residência",
+      "Protocolo do pedido de vaga e a resposta por escrito da escola ou da secretaria"
     ],
     "ifDenied": [
-      "Verifique o Procon da sua localidade, se for instituição privada.",
-      "Para rede pública, procure a secretaria de educação ou a ouvidoria competente.",
-      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Procure o Ministério Público da sua cidade ou do seu estado. Ele pode ser acionado para exigir a vaga (LDB, art. 5º).",
+      "Procure a Defensoria Pública, que pode orientar e entrar com pedido na Justiça se for preciso.",
+      "Procure o Conselho Tutelar do seu município para registrar a situação."
     ]
   },
   "legalReferences": [
@@ -45,13 +50,11 @@
       "name": "Constituição Federal de 1988",
       "sphere": "federal",
       "provisions": [
-        "art. 205",
-        "art. 208"
+        "art. 208, I e §§ 1º e 2º"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "constituicao.md",
@@ -60,30 +63,8 @@
         "revogada": false,
         "baixadoEm": null,
         "provisionsFound": [
-          "205",
           "208"
         ],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Lei nº 8.069/1990 — Estatuto da Criança e do Adolescente (ECA)",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-07-13;8069",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/1990/lei-8069-1990-07-13.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-07-13;8069",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
         "provisionsMissing": []
       }
     },
@@ -91,12 +72,13 @@
       "name": "Lei nº 9.394/1996 — Lei de Diretrizes e Bases da Educação (LDB)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 4º, X",
+        "art. 5º",
+        "art. 6º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1996-12-20;9394",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1996/lei-9394-1996-12-20.md",
@@ -104,7 +86,11 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "4",
+          "5",
+          "6"
+        ],
         "provisionsMissing": []
       }
     }
@@ -113,8 +99,8 @@
     "EDU-005",
     "PUB-001"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/07-educacao.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

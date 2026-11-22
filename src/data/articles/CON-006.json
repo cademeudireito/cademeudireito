@@ -3,45 +3,51 @@
   "slug": "paguei-e-nao-recebi",
   "title": "Paguei e não recebi o produto ou serviço",
   "category": "consumidor",
-  "summary": "Como agir quando o pagamento foi feito e o produto ou o serviço não chegou.",
+  "summary": "Se você pagou e a loja não entregou, pode escolher entre exigir a entrega, aceitar outro produto parecido ou cancelar e receber o dinheiro de volta.",
   "keywords": [
     "não recebi",
-    "produto não entregue",
-    "atraso na entrega",
-    "serviço não prestado",
-    "entrega"
+    "paguei e não entregou",
+    "pedido não chegou",
+    "entrega atrasada",
+    "cancelar compra não entregue",
+    "reembolso"
   ],
   "synonyms": [
     "comprei e não chegou",
-    "pedido não entregue",
-    "pagamento sem entrega"
+    "loja não entregou",
+    "atraso na entrega",
+    "serviço pago e não feito",
+    "quero meu dinheiro de volta",
+    "entrega não veio"
   ],
-  "quickAnswer": "Se você pagou e não recebeu, a oferta, o prazo de entrega informado e o contrato são pontos centrais. As possibilidades variam (cumprimento, devolução ou outra solução) e dependem das circunstâncias e do que foi anunciado.",
+  "quickAnswer": "Se você pagou e não recebeu, a escolha é sua: exigir a entrega, aceitar outro produto ou serviço equivalente, ou cancelar e receber de volta o que pagou, com correção. Se tiver tido prejuízo, também pode pedir indenização.",
   "sections": {
-    "explanation": "A empresa deve cumprir o que ofereceu e informou. Cabe conferir o prazo prometido, o canal de compra e as provas do pagamento.",
+    "explanation": "Quando a loja anuncia, vende e recebe, ela tem de cumprir. Se não entregar, a lei dá a você três caminhos, e quem escolhe é você: exigir que a loja entregue como combinado, aceitar outro produto ou serviço equivalente, ou cancelar o contrato e receber de volta o que pagou, com correção. Se tiver tido prejuízo, pode pedir indenização. Em compra pela internet, a loja também deve respeitar prazo, quantidade e qualidade da oferta.",
     "whenApplies": [
-      "O prazo de entrega informado passou e o produto não chegou.",
-      "O serviço pago não foi realizado."
+      "Você pagou e o produto não chegou no prazo combinado.",
+      "O serviço foi pago e não foi feito, ou foi feito de forma diferente do prometido."
     ],
     "exceptions": [
-      "Se tiver sido um golpe (site falso, vendedor que sumiu), veja o assunto sobre golpes.",
-      "O que você pode exigir depende da oferta e do contrato."
+      "Se o prazo de entrega ainda não venceu, a loja ainda está dentro do combinado.",
+      "Se o problema foi um golpe (site falso, por exemplo), veja o artigo sobre golpes."
     ],
     "steps": [
-      "Confira o prazo prometido e o rastreamento do pedido.",
-      "Cobre a empresa por escrito indicando o que você quer (entrega ou devolução).",
-      "Guarde comprovante de pagamento, anúncio e protocolos."
+      "Veja o prazo de entrega prometido e compare com a data de hoje.",
+      "Reclame por escrito, por canal que dê protocolo, e diga qual caminho você escolhe: entrega, produto equivalente ou dinheiro de volta.",
+      "Dê um prazo curto para a resposta e guarde as mensagens.",
+      "Se pagou no cartão, avise também o banco ou a administradora do cartão."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Comprovante de pagamento",
+      "Anúncio ou página da oferta, com preço e prazo",
+      "Código de rastreio e e-mails de confirmação",
+      "Protocolos e conversas"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Se a empresa nem responde, guarde os prints dos seus pedidos: eles provam que você tentou resolver.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -50,13 +56,11 @@
       "sphere": "federal",
       "provisions": [
         "art. 30",
-        "art. 35",
-        "arts. 14 e 20 conforme o caso"
+        "art. 35"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir dispositivos aplicáveis.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -66,21 +70,42 @@
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
           "30",
-          "35",
-          "14",
-          "20"
+          "35"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Decreto nº 7.962/2013 (comércio eletrônico)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/decretos/2013/dec-7962-2013-03-15.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2013-03-15;7962",
+        "versaoTexto": "original",
+        "revogada": false,
+        "baixadoEm": "2026-10-16",
+        "provisionsFound": [
+          "6"
         ],
         "provisionsMissing": []
       }
     }
   ],
   "relatedArticles": [
+    "CON-001",
     "CON-007",
     "CON-011",
     "CON-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

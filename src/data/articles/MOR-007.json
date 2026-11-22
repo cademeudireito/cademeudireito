@@ -3,41 +3,53 @@
   "slug": "locador-vai-vender-imovel-alugado",
   "title": "O dono vai vender o imóvel onde moro de aluguel",
   "category": "moradia",
-  "summary": "O direito de preferência do locatário na venda do imóvel alugado, segundo a lei de locação.",
+  "summary": "Se o dono quiser vender o imóvel alugado, você tem preferência para comprar, mas precisa aceitar a proposta completa em 30 dias.",
   "keywords": [
     "direito de preferência",
     "venda do imóvel",
     "locatário",
     "aluguel",
-    "comprar o imóvel"
+    "comprar o imóvel",
+    "venda do imóvel alugado",
+    "comprar o imóvel onde moro",
+    "prazo de 30 dias"
   ],
   "synonyms": [
     "proprietário vendeu",
-    "preferência na compra"
+    "preferência na compra",
+    "dono quer vender a casa",
+    "vender imóvel alugado",
+    "preferência para comprar o aluguel",
+    "inquilino tem direito de comprar"
   ],
-  "quickAnswer": "A lei de locação dá ao locatário preferência para adquirir o imóvel locado, em igualdade de condições com terceiros, e exige que o locador lhe dê conhecimento do negócio. Detalhes de forma, prazo e exceções precisam ser conferidos.",
+  "quickAnswer": "Se o dono quiser vender o imóvel onde você mora, você tem preferência para comprar, em igualdade de condições com terceiros. Ele deve avisar por escrito, com preço e forma de pagamento. Você tem 30 dias para aceitar a proposta por completo. Se não aceitar nesse prazo, perde a preferência.",
   "sections": {
-    "explanation": "A comunicação deve trazer as condições da venda. A situação do contrato (vigência e registro) pode influenciar.",
+    "explanation": "Na venda do imóvel alugado, você tem preferência para comprar, em igualdade de condições com terceiros (Lei 8.245, art. 27). O dono deve comunicar o negócio por notificação judicial, extrajudicial ou outro meio que prove que você ficou sabendo. A comunicação precisa informar preço, forma de pagamento, ônus sobre o imóvel e o local e horário em que os documentos podem ser examinados (art. 27, parágrafo único). Sua aceitação precisa ser integral e clara, no prazo de 30 dias, sob pena de perder a preferência (art. 28).",
     "whenApplies": [
-      "O locador anunciou ou comunicou a venda do imóvel que você aluga."
+      "O dono quer vender, ou já prometeu vender, o imóvel onde você mora de aluguel.",
+      "Você recebeu a comunicação do negócio."
     ],
     "exceptions": [
-      "Há exceções previstas em lei."
+      "Aceitar só uma parte da proposta não conta: a aceitação precisa ser integral (art. 28).",
+      "Se a comunicação não trouxer preço e condições, peça por escrito o que falta.",
+      "Cada caso é diferente: o tipo de venda e as datas mudam a análise."
     ],
     "steps": [
-      "Peça a comunicação por escrito com as condições da venda.",
-      "Guarde seu contrato e comprovantes de pagamento.",
-      "Procure orientação antes que o prazo para responder termine."
+      "Peça a comunicação por escrito, com preço e forma de pagamento.",
+      "Anote a data em que recebeu a comunicação, pois o prazo de 30 dias é curto.",
+      "Se quiser comprar, aceite a proposta completa por escrito dentro do prazo.",
+      "Se não quiser ou não puder comprar, responda por escrito e guarde a resposta."
     ],
     "documentsToKeep": [
-      "Contrato de locação e aditivos",
-      "Comprovantes de pagamento de aluguel e encargos",
-      "Vistoria de entrada, fotos e orçamentos",
-      "Notificações, mensagens e e-mails trocados"
+      "Contrato de locação",
+      "Comunicação da venda, com a data de recebimento",
+      "Resposta por escrito, com comprovante de envio",
+      "Documentos que mostrem sua condição de compra, se for comprar"
     ],
     "ifDenied": [
-      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
-      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+      "Se o dono não comunicou o negócio ou faltou informação, peça por escrito.",
+      "Procure a Defensoria Pública ou um advogado antes do fim dos 30 dias.",
+      "Se perder o prazo, peça orientação jurídica sobre os próximos passos."
     ]
   },
   "legalReferences": [
@@ -45,12 +57,13 @@
       "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
       "sphere": "federal",
       "provisions": [
-        "art. 27"
+        "art. 27, caput",
+        "art. 27, parágrafo único",
+        "art. 28"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
@@ -59,7 +72,8 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "27"
+          "27",
+          "28"
         ],
         "provisionsMissing": []
       }
@@ -69,8 +83,8 @@
     "MOR-003",
     "MOR-005"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/05-moradia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

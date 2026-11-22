@@ -3,46 +3,54 @@
   "slug": "cancelar-servico-ou-assinatura",
   "title": "Quero cancelar um serviço ou assinatura",
   "category": "consumidor",
-  "summary": "Como pedir o cancelamento e o que verificar em contratos, assinaturas e serviços regulados.",
+  "summary": "Você pode pedir o cancelamento de serviço ou assinatura. Multas e regras que colocam você em desvantagem exagerada podem não valer.",
   "keywords": [
-    "cancelar",
-    "assinatura",
-    "cancelamento",
-    "contrato",
-    "multa"
+    "cancelar assinatura",
+    "cancelar serviço",
+    "multa de cancelamento",
+    "fidelidade",
+    "cancelar plano",
+    "cancelar contrato",
+    "cláusula abusiva"
   ],
   "synonyms": [
-    "cancelar plano",
+    "quero cancelar e não deixam",
     "cancelar internet",
     "cancelar academia",
-    "fidelidade"
+    "cancelar streaming",
+    "multa de fidelidade",
+    "empresa não cancela",
+    "continuam cobrando depois de cancelar"
   ],
-  "quickAnswer": "Cancelamentos dependem do contrato, do tipo de serviço e, em alguns setores, de normas específicas (telecomunicações, bancos, saúde etc.). Peça o cancelamento por escrito, anote o protocolo e verifique cláusulas como fidelidade e multa.",
+  "quickAnswer": "Você pode pedir o cancelamento por escrito e guardar o protocolo. Cláusula que deixa a empresa cancelar quando quiser, mas não deixa você, não vale. Multa ou exigência exagerada também pode ser contestada. Em telefonia, internet e TV, a operadora deve oferecer o cancelamento sem precisar de atendente.",
   "sections": {
-    "explanation": "Mesmo quando você quer sair, é importante entender o que o contrato prevê. Algumas cláusulas podem ser questionadas, e alguns setores têm regras próprias.",
+    "explanation": "Contratos de consumo não podem ter cláusulas abusivas, isto é, regras que colocam você em desvantagem exagerada. Essas cláusulas são nulas, ou seja, não valem. É nula, por exemplo, a cláusula que deixa a empresa cancelar o contrato quando quiser sem dar o mesmo direito a você. Também não vale regra que tire seu direito de receber de volta o que já pagou nos casos previstos no Código de Defesa do Consumidor. Cada setor (telefonia, banco, plano de saúde, escola) tem ainda regras próprias.",
     "whenApplies": [
-      "Você contratou serviço contínuo ou assinatura e quer encerrar.",
-      "A empresa dificulta o cancelamento ou cobra após o pedido."
+      "Você quer encerrar uma assinatura, plano ou contrato de serviço.",
+      "A empresa dificulta o cancelamento ou cobra multa ou taxa que parece exagerada."
     ],
     "exceptions": [
-      "Setores regulados podem ter regras próprias, a conferir.",
-      "Cláusulas de fidelidade e multas precisam ser lidas no contrato."
+      "Pode haver multa prevista no contrato, por exemplo em fidelidade com desconto. Ela pode ser contestada se for exagerada.",
+      "Em serviços como plano de saúde, escola e banco, também valem regras próprias do setor.",
+      "Se a compra foi fora da loja e faz menos de 7 dias, você pode desistir sem multa (veja o artigo sobre compra pela internet)."
     ],
     "steps": [
-      "Releia o contrato e anote prazos e condições de cancelamento.",
-      "Peça o cancelamento por canal que gere protocolo.",
-      "Acompanhe se as cobranças cessam e guarde os comprovantes."
+      "Leia o contrato e veja o que ele diz sobre cancelamento.",
+      "Peça o cancelamento por escrito, em canal que dê protocolo (aplicativo, e-mail, chat). Anote o número do protocolo.",
+      "Peça a confirmação do cancelamento e a data em que as cobranças terminam.",
+      "Confira as próximas faturas. Se continuarem cobrando, conteste por escrito."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Contrato ou termo de adesão",
+      "Protocolo e confirmação do cancelamento",
+      "Faturas antes e depois do pedido",
+      "Prints de conversas com a empresa"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Se for serviço regulado (telefonia, banco, plano de saúde), reclame também no órgão do setor: Anatel, Banco Central ou ANS.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -50,12 +58,14 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 6º, IV",
+        "art. 51, II",
+        "art. 51, IV",
+        "art. 51, XI"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Identificar cláusulas abusivas e informação adequada.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -63,28 +73,32 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "6",
+          "51"
+        ],
         "provisionsMissing": []
       }
     },
     {
-      "name": "Norma do regulador do setor (telecom, banco, saúde etc.) — conferir o aplicável",
+      "name": "Resolução Anatel nº 765/2023 — Regulamento Geral de Direitos do Consumidor de Serviços de Telecomunicações (RGC)",
       "sphere": "federal",
       "provisions": [
-        "a identificar"
+        "art. 13, § 3º",
+        "art. 18, I"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Depende do setor do serviço."
+      "officialUrl": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/462fd3ce384263570966a0f01970e89d",
+      "status": "verified",
+      "checkedAt": "2026-11-20"
     }
   ],
   "relatedArticles": [
     "CON-005",
-    "CON-012"
+    "CON-012",
+    "CON-014"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -3,45 +3,51 @@
   "slug": "empresa-nao-cumpriu-oferta",
   "title": "A empresa não cumpriu a oferta",
   "category": "consumidor",
-  "summary": "O que pode acontecer quando o preço, a condição ou a promessa anunciados não são respeitados.",
+  "summary": "O que a loja anuncia vale: se ela não cumprir o preço ou a condição que divulgou, você pode exigir o que foi prometido ou cancelar.",
   "keywords": [
     "oferta",
-    "propaganda",
-    "publicidade",
+    "propaganda enganosa",
     "preço anunciado",
-    "promoção"
+    "promoção",
+    "anúncio",
+    "oferta não cumprida"
   ],
   "synonyms": [
-    "promoção não valeu",
-    "anúncio enganoso",
-    "preço diferente do anunciado"
+    "preço errado no site",
+    "anunciou e não vendeu",
+    "promoção cancelada",
+    "loja não respeita o anúncio",
+    "propaganda diferente do produto",
+    "erro de preço"
   ],
-  "quickAnswer": "O Código de Defesa do Consumidor trata da oferta e da publicidade. Em geral, o que foi anunciado de forma suficientemente precisa pode vincular o fornecedor, mas isso depende do caso, da precisão do anúncio e de eventuais exceções.",
+  "quickAnswer": "O que a loja anuncia obriga a loja e faz parte do contrato. Se ela não cumprir, você escolhe: exigir o que foi prometido, aceitar outro produto ou serviço equivalente, ou cancelar e receber de volta o que pagou, com correção.",
   "sections": {
-    "explanation": "Guardar o anúncio é essencial. Prints, folhetos e mensagens ajudam a mostrar o que foi prometido.",
+    "explanation": "Toda informação ou propaganda suficientemente clara que a loja divulga obriga a loja. O anúncio passa a fazer parte do contrato. Se a loja anunciou um preço ou uma condição e depois não respeita, você pode escolher: exigir o cumprimento do que foi anunciado, aceitar outro produto ou serviço equivalente, ou cancelar e receber de volta o que pagou, com correção, mais indenização se tiver prejuízo.",
     "whenApplies": [
-      "A empresa anunciou um preço, brinde ou condição e depois não honrou.",
-      "A propaganda diz uma coisa e o contrato outra."
+      "A loja anunciou preço, prazo, brinde ou condição e depois recusou cumprir.",
+      "O produto ou serviço entregue é diferente do que foi anunciado."
     ],
     "exceptions": [
-      "Erros evidentes ou anúncios genéricos podem exigir análise específica.",
-      "Se houver dúvida sobre o enquadramento, procure orientação individual."
+      "O anúncio precisa ser claro o bastante sobre o que foi oferecido. Propaganda vaga é analisada caso a caso.",
+      "Se o preço estava claramente errado, a situação pode ser discutida: cada caso é diferente. Guarde as provas."
     ],
     "steps": [
-      "Salve prints ou fotos do anúncio, com data.",
-      "Peça à empresa, por escrito, o cumprimento do que foi anunciado.",
-      "Guarde protocolos e respostas."
+      "Tire print ou foto do anúncio, com data e preço, antes que ele saia do ar.",
+      "Peça à loja, por escrito, que cumpra a oferta.",
+      "Se ela recusar, escolha entre outro produto equivalente ou cancelar e receber o dinheiro.",
+      "Guarde protocolo e respostas."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Print ou foto do anúncio, com data",
+      "Comprovante de compra ou pedido",
+      "Mensagens com a loja",
+      "Protocolos"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Leve o print do anúncio ao Procon: é a principal prova.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -53,9 +59,8 @@
         "art. 35"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir redação vigente e opções do consumidor.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -76,8 +81,8 @@
     "CON-006",
     "CON-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

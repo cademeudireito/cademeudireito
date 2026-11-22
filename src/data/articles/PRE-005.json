@@ -3,43 +3,55 @@
   "slug": "salario-maternidade",
   "title": "Como funciona o salário-maternidade?",
   "category": "previdencia",
-  "summary": "Quem pode receber salário-maternidade e como ele se relaciona com a licença-maternidade.",
+  "summary": "Quem tem filho ou adota uma criança pode ter direito a 120 dias de salário-maternidade, pago pela empresa ou pelo INSS.",
   "keywords": [
     "salário-maternidade",
     "licença-maternidade",
     "gestante",
     "parto",
-    "adoção"
+    "adoção",
+    "120 dias",
+    "guarda para adoção",
+    "empregada"
   ],
   "synonyms": [
     "benefício da gestante",
-    "afastamento por gravidez"
+    "afastamento por gravidez",
+    "licença maternidade",
+    "quero licença maternidade",
+    "adotei uma criança",
+    "pagamento da licença maternidade",
+    "tive bebê e quero salário"
   ],
-  "quickAnswer": "O salário-maternidade é devido à segurada da Previdência Social, em regra por 120 dias, com início no período entre 28 dias antes do parto e a data dele. Há situações e condições específicas, e normas mais recentes podem alterar detalhes: confira a regra vigente.",
+  "quickAnswer": "A segurada tem direito a 120 dias de salário-maternidade. Se for empregada, recebe a remuneração integral: a empresa paga e depois desconta do INSS. O afastamento pode começar até 28 dias antes do parto. Na adoção, também são 120 dias, pagos pelo INSS.",
   "sections": {
-    "explanation": "Para empregadas, o pagamento costuma ser feito pelo empregador, que depois compensa com a Previdência. Para outras categorias de seguradas, o pedido é feito ao INSS.",
+    "explanation": "O salário-maternidade é devido à segurada da Previdência por 120 dias, com início entre 28 dias antes do parto e a data dele (Lei 8.213, art. 71). Para a empregada, a renda mensal é igual à remuneração integral, e a empresa paga e depois desconta esse valor das contribuições ao INSS (art. 72). Nos demais casos, como autônoma, desempregada ou empregada doméstica, o INSS paga diretamente (art. 73). Na adoção ou guarda judicial para adoção, o benefício também é de 120 dias e é pago pelo INSS (art. 71-A).",
     "whenApplies": [
-      "Você está grávida, teve filho há pouco tempo ou adotou e quer entender o benefício."
+      "Você teve um filho ou está prestes a ter, e é segurada da Previdência.",
+      "Você adotou uma criança ou obteve guarda judicial para fins de adoção."
     ],
     "exceptions": [
-      "O tipo de vínculo (empregada, contribuinte individual, desempregada) muda a forma de pedido.",
-      "Leis recentes podem ter alterado o prazo da licença; confirme."
+      "Se a internação da mãe ou do bebê passar de 2 semanas por complicação do parto, o benefício continua durante a internação e por mais 120 dias após a alta (art. 71, §3º).",
+      "Na adoção, o benefício não pode ser pago a mais de um segurado pelo mesmo processo (art. 71-A, §2º).",
+      "Para autônomas e outras seguradas que não são empregadas, o valor segue outra regra de cálculo (art. 73).",
+      "Cada caso é diferente: a data de início e o valor dependem da sua situação de trabalho."
     ],
     "steps": [
-      "Informe a empresa sobre a gestação e o afastamento, por escrito.",
-      "Reúna atestado médico e, depois, a certidão de nascimento.",
-      "Se não for empregada, confira como pedir ao INSS."
+      "Se for empregada, avise a empresa por escrito e leve o atestado médico.",
+      "Se não for empregada, peça o benefício ao INSS pelos canais oficiais.",
+      "Leve a certidão de nascimento da criança, ou o documento da adoção ou da guarda judicial.",
+      "Guarde o protocolo, os comprovantes de pagamento e as cópias dos documentos."
     ],
     "documentsToKeep": [
-      "Documentos pessoais e número do benefício ou protocolo",
-      "Carteira de trabalho e comprovantes de contribuição",
-      "Laudos, atestados e exames, quando houver incapacidade",
-      "Comunicados e decisões do INSS"
+      "Atestado médico e exames da gravidez",
+      "Certidão de nascimento da criança, ou documento da adoção ou da guarda",
+      "Carteira de trabalho e contracheques",
+      "Protocolo do pedido e comprovantes de pagamento"
     ],
     "ifDenied": [
-      "Confira o motivo da decisão por escrito e os canais oficiais de recurso do INSS (confira o canal atual).",
-      "Sindicatos, Defensoria Pública e advogados podem orientar sobre o seu caso.",
-      "Atenção a prazos de recurso informados na própria decisão."
+      "Peça a decisão por escrito e leia o motivo.",
+      "Recorra pelos canais oficiais do INSS, dentro do prazo informado.",
+      "Se a empresa não pagar, procure a Defensoria Pública ou o sindicato da sua categoria."
     ]
   },
   "legalReferences": [
@@ -47,12 +59,14 @@
       "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
       "sphere": "federal",
       "provisions": [
-        "art. 71"
+        "art. 71, caput e §3º",
+        "art. 71-A, caput, §§1º e 2º",
+        "art. 72, caput e §1º",
+        "art. 73, caput"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
@@ -61,30 +75,12 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "71"
-        ],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
-      "sphere": "federal",
-      "provisions": [
-        "art. 392"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [
-          "392"
+          "71",
+          "3",
+          "71-A",
+          "72",
+          "1",
+          "73"
         ],
         "provisionsMissing": []
       }
@@ -94,8 +90,8 @@
     "TRA-008",
     "PRE-002"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/03-previdencia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

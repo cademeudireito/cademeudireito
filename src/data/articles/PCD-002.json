@@ -3,41 +3,47 @@
   "slug": "cotas-de-emprego-pessoa-com-deficiencia",
   "title": "Empresas precisam contratar pessoas com deficiência?",
   "category": "pessoa-com-deficiencia",
-  "summary": "A regra de reserva de vagas em empresas com 100 ou mais empregados, segundo a lei previdenciária.",
+  "summary": "Empresas com 100 ou mais empregados devem preencher de 2% a 5% das vagas com pessoas com deficiência ou reabilitados pelo INSS.",
   "keywords": [
     "cota de deficiência",
     "vagas para PcD",
     "emprego",
     "reabilitados",
-    "empresa"
+    "empresa",
+    "cota para deficiente",
+    "vaga PCD",
+    "2% a 5%"
   ],
   "synonyms": [
     "lei de cotas",
-    "contratação de pessoa com deficiência"
+    "contratação de pessoa com deficiência",
+    "empresa é obrigada a contratar deficiente",
+    "cota de emprego"
   ],
-  "quickAnswer": "A Lei 8.213/1991 obriga a empresa com 100 ou mais empregados a preencher de 2% a 5% dos cargos com beneficiários reabilitados ou pessoas com deficiência habilitadas, na proporção que a lei define. As condições e a fiscalização devem ser conferidas.",
+  "quickAnswer": "Empresa com 100 ou mais empregados deve reservar de 2% a 5% dos cargos para pessoas com deficiência habilitadas ou beneficiários reabilitados pelo INSS. Quanto maior a empresa, maior a porcentagem: 2% até 200 empregados, 3% de 201 a 500, 4% de 501 a 1.000 e 5% acima de 1.000.",
   "sections": {
-    "explanation": "A proporção depende do número total de empregados. A empresa pode ser fiscalizada pelos órgãos do trabalho.",
+    "explanation": "A Lei 8.213/1991 (art. 93) obriga a empresa com 100 ou mais empregados a preencher os cargos com beneficiários reabilitados ou pessoas com deficiência habilitadas. A porcentagem depende do número de empregados: 2% (até 200), 3% (de 201 a 500), 4% (de 501 a 1.000) e 5% (acima de 1.000). A empresa não pode demitir sem motivo uma pessoa com deficiência sem antes contratar outra (art. 93, §1º). Beneficiário reabilitado é quem voltou ao trabalho pelo INSS, após afastamento.",
     "whenApplies": [
       "Você procura emprego e quer saber como a lei trata a reserva de vagas."
     ],
     "exceptions": [
-      "Empresas com menos de 100 empregados não estão nessa regra.",
-      "Conferir como a deficiência deve ser comprovada."
+      "Empresas com menos de 100 empregados não têm essa obrigação.",
+      "A forma de comprovar a deficiência segue regras específicas; leve laudos e documentos médicos."
     ],
     "steps": [
-      "Reúna laudos e documentos de comprovação.",
-      "Procure vagas indicadas como afirmativas ou serviços de apoio ao emprego da sua cidade.",
-      "Em caso de discriminação, registre a situação e procure órgãos de proteção."
+      "Reúna laudos e documentos que comprovem a deficiência.",
+      "Procure vagas em empresas grandes e os serviços de apoio ao emprego da sua cidade.",
+      "Se for recusado por causa da deficiência, peça a resposta por escrito e registre a situação."
     ],
     "documentsToKeep": [
-      "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
-      "Protocolos, comunicados e respostas recebidas",
-      "Fotos ou registros da barreira ou da recusa"
+      "Laudo ou documento que comprove a deficiência",
+      "Documento de identificação",
+      "Protocolos, comunicados e respostas recebidas"
     ],
     "ifDenied": [
-      "Procure a ouvidoria do órgão ou empresa responsável.",
-      "Verifique os canais oficiais de defesa da pessoa com deficiência na sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+      "Peça a recusa por escrito, com o motivo, e guarde a resposta.",
+      "Procure o Ministério Público do Trabalho ou a Defensoria Pública.",
+      "Procure a ouvidoria da empresa ou o órgão de proteção da pessoa com deficiência da sua cidade."
     ]
   },
   "legalReferences": [
@@ -45,12 +51,12 @@
       "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
       "sphere": "federal",
       "provisions": [
-        "art. 93"
+        "art. 93",
+        "art. 93, §1º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
@@ -69,8 +75,8 @@
     "PCD-001",
     "PCD-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/12-pessoa-com-deficiencia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

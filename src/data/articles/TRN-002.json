@@ -3,42 +3,48 @@
   "slug": "acidente-de-transito-o-que-fazer",
   "title": "Me envolvi em um acidente de trânsito: o que fazer?",
   "category": "transito",
-  "summary": "Cuidados gerais após um acidente: socorro, registro e provas. Responsabilidade depende do caso.",
+  "summary": "Em acidente com vítima, o socorro vem primeiro. Deixar de prestar socorro quando é possível é infração gravíssima.",
   "keywords": [
     "acidente de trânsito",
     "colisão",
     "boletim de ocorrência",
     "socorro",
-    "seguro"
+    "seguro",
+    "acidente com vítima",
+    "acidente sem vítima",
+    "infração gravíssima"
   ],
   "synonyms": [
     "bati o carro",
     "fui atingido",
-    "acidente com vítima"
+    "acidente com vítima",
+    "batida de carro o que fazer"
   ],
-  "quickAnswer": "Se houver vítima, o socorro é prioridade, e a lei trata como infração deixar de prestar socorro quando possível fazê-lo. Depois, registre o acidente e guarde provas. Quem responde pelos danos depende de análise do caso.",
+  "quickAnswer": "Se há vítima, o socorro vem primeiro. Deixar de prestar ou providenciar socorro, quando é possível, é infração gravíssima: multa cinco vezes maior e suspensão do direito de dirigir (CTB, art. 176). Sem vítima, fotografe, troque dados e avise a seguradora.",
   "sections": {
-    "explanation": "Fotos, dados dos envolvidos e testemunhas ajudam a esclarecer o ocorrido. O registro de ocorrência segue as regras locais.",
+    "explanation": "Quando há vítima, o condutor deve prestar ou providenciar socorro, se puder; evitar perigo no trânsito; preservar o local para a polícia e a perícia; se identificar ao policial; e remover o veículo só se o agente de trânsito determinar (art. 176). Deixar de fazer isso é infração gravíssima, com multa cinco vezes maior e suspensão do direito de dirigir, além do recolhimento da CNH. As regras do art. 176 valem para acidente com vítima. Se houve só danos materiais, o caminho é registrar o acidente com fotos e trocar dados com o outro condutor.",
     "whenApplies": [
-      "Você participou de um acidente com danos ou vítimas."
+      "Você se envolveu em acidente de trânsito."
     ],
     "exceptions": [
-      "Acidentes com vítimas têm consequências específicas.",
-      "O seguro do veículo e outros seguros têm regras próprias."
+      "Quem responde pelos danos depende da análise do caso.",
+      "O seguro do veículo tem regras próprias; avise a seguradora e guarde o protocolo."
     ],
     "steps": [
-      "Se houver feridos, chame socorro pelos canais de emergência.",
-      "Fotografe a cena, os veículos e anote dados das pessoas e testemunhas.",
-      "Registre a ocorrência e avise a seguradora, se houver."
+      "Se alguém estiver ferido, chame socorro pelos canais de emergência e preste ou providencie o socorro, se puder.",
+      "Preserve o local para a polícia e a perícia. Só mova o veículo se o policial ou o agente de trânsito mandar.",
+      "Fotografe a cena e os veículos, anote os dados das pessoas e das testemunhas e registre a ocorrência."
     ],
     "documentsToKeep": [
-      "Notificação, auto de infração ou boletim de ocorrência",
+      "Boletim de ocorrência, se registrado",
       "Documento do veículo e CNH",
-      "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+      "Fotos e vídeos da cena",
+      "Dados das pessoas e testemunhas"
     ],
     "ifDenied": [
-      "Siga as instruções e os prazos da própria notificação e do órgão de trânsito competente.",
-      "Para dúvidas sobre o caso, procure a Defensoria Pública ou um advogado."
+      "Procure a seguradora e registre a reclamação por escrito.",
+      "Para dúvidas sobre responsabilidade ou multa, procure a Defensoria Pública ou um advogado.",
+      "Guarde protocolos e provas de tudo."
     ]
   },
   "legalReferences": [
@@ -49,9 +55,8 @@
         "art. 176"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1997/lei-9503-1997-09-23.md",
@@ -70,8 +75,8 @@
     "TRN-001",
     "TRN-003"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/13-transito.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

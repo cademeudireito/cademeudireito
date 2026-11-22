@@ -3,42 +3,53 @@
   "slug": "aumento-do-aluguel",
   "title": "O proprietário quer aumentar meu aluguel",
   "category": "moradia",
-  "summary": "Como entender reajuste de aluguel: contrato, índice, periodicidade e limites.",
+  "summary": "O aumento do aluguel só vale se seguir o que o contrato prevê ou o que vocês combinaram, e a lei proíbe reajuste com prazo menor que um ano.",
   "keywords": [
     "aluguel",
     "reajuste",
     "aumento do aluguel",
     "índice",
-    "locação"
+    "locação",
+    "contrato de aluguel",
+    "periodicidade anual"
   ],
   "synonyms": [
     "aluguel vai subir",
     "IGP-M",
-    "renovação de contrato"
+    "renovação de contrato",
+    "aumento de aluguel",
+    "reajuste do aluguel",
+    "aluguel subiu",
+    "dono quer aumentar o aluguel"
   ],
-  "quickAnswer": "O reajuste do aluguel depende do contrato e da legislação de locação. Confira a cláusula de reajuste e a periodicidade e peça a memória de cálculo por escrito antes de concordar.",
+  "quickAnswer": "O aluguel só pode aumentar como o contrato prevê ou como vocês combinarem. A lei proíbe cláusula de reajuste com periodicidade menor que um ano. Antes de aceitar, peça por escrito a conta do aumento e veja o índice combinado no contrato.",
   "sections": {
-    "explanation": "Contratos costumam trazer índice e data de reajuste. Alterações fora do previsto precisam de acordo.",
+    "explanation": "Pela Lei 8.245, o valor do aluguel é combinado entre as partes e pode ser mudado de comum acordo (arts. 17 e 18). Para locação residencial, valem os critérios de reajuste da legislação específica (art. 17, parágrafo único), e a Lei 10.192 admite reajuste por índice de preços em contratos de um ano ou mais (art. 2º). Cláusula que prevê reajuste em prazo menor que um ano é nula (art. 2º, §1º).",
     "whenApplies": [
-      "Você é locatário e recebeu aviso de aumento."
+      "Você mora em imóvel alugado e o dono pediu um novo valor para o aluguel.",
+      "O aumento veio menos de um ano depois do último reajuste."
     ],
     "exceptions": [
-      "Regras específicas podem depender do contrato e de normas aplicáveis."
+      "Se você e o dono concordarem por escrito com um novo valor, esse acordo vale (art. 18).",
+      "O índice de reajuste depende do que está no contrato. Veja qual foi combinado.",
+      "Cada caso é diferente: a data de início do aluguel e o contrato fazem diferença."
     ],
     "steps": [
-      "Releia a cláusula de reajuste.",
-      "Peça a memória de cálculo por escrito.",
-      "Registre a resposta e as datas."
+      "Leia o contrato e veja a cláusula de reajuste: data, índice e forma de cálculo.",
+      "Peça ao dono a conta do aumento por escrito.",
+      "Guarde a comunicação e as datas dos reajustes anteriores.",
+      "Se não concordar, responda por escrito antes de aceitar o novo valor."
     ],
     "documentsToKeep": [
       "Contrato de locação e aditivos",
-      "Comprovantes de pagamento de aluguel e encargos",
-      "Vistoria de entrada, fotos e orçamentos",
-      "Notificações, mensagens e e-mails trocados"
+      "Comprovantes de pagamento do aluguel",
+      "Mensagens ou cartas com o pedido de aumento",
+      "Conta do reajuste por escrito, se o dono enviar"
     ],
     "ifDenied": [
-      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
-      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+      "Procure a Defensoria Pública ou um advogado se houver discussão sobre o valor.",
+      "Guarde os comprovantes do que pagou a mais, pois eles ajudam a provar o valor.",
+      "Se o reajuste estiver fora da lei, a cobrança pode ser contestada na Justiça."
     ]
   },
   "legalReferences": [
@@ -46,12 +57,12 @@
       "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 17, parágrafo único",
+        "art. 18"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
@@ -59,7 +70,10 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "17",
+          "18"
+        ],
         "provisionsMissing": []
       }
     },
@@ -67,12 +81,12 @@
       "name": "Lei nº 10.192/2001",
       "sphere": "federal",
       "provisions": [
-        "a conferir quando pertinente"
+        "art. 2º, caput",
+        "art. 2º, §1º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-02-14;10192",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2001/lei-10192-2001-02-14.md",
@@ -80,7 +94,9 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "2"
+        ],
         "provisionsMissing": []
       }
     }
@@ -89,8 +105,8 @@
     "MOR-002",
     "MOR-003"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/05-moradia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

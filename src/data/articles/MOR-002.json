@@ -3,43 +3,56 @@
   "slug": "reparos-no-imovel-alugado",
   "title": "Quem deve pagar um reparo no imóvel alugado?",
   "category": "moradia",
-  "summary": "Como pensar sobre responsabilidade por reparos entre locador e locatário.",
+  "summary": "Quem paga o conserto depende de quem causou o problema: em geral, o dono paga o que é dele e você paga os danos que causou.",
   "keywords": [
     "reparo",
     "conserto",
     "manutenção",
     "locador",
-    "locatário"
+    "locatário",
+    "vazamento",
+    "defeito no imóvel",
+    "desconto no aluguel",
+    "despesas de condomínio"
   ],
   "synonyms": [
     "vazamento",
     "infiltração",
     "quem paga conserto",
-    "imóvel alugado com defeito"
+    "imóvel alugado com defeito",
+    "quem paga o conserto do aluguel",
+    "vazamento na casa alugada",
+    "quebrou no imóvel alugado",
+    "reparo do proprietário"
   ],
-  "quickAnswer": "A lei de locação e o contrato dividem responsabilidades entre locador e locatário. Quem arca com o reparo depende da natureza do problema e do que foi combinado.",
+  "quickAnswer": "Em geral, o dono paga os reparos do imóvel, e você paga os danos que causou ou que foram causados por sua família e visitas. Avise o dono logo, por escrito e com fotos. Se for reparo urgente do dono, você deve deixar fazer. Se durar mais de 10 dias, você tem desconto no aluguel.",
   "sections": {
-    "explanation": "Fotos, laudos e a vistoria de entrada ajudam a demonstrar a situação do imóvel.",
+    "explanation": "A Lei 8.245 divide as obrigações. O dono deve entregar o imóvel em condições de uso, responder por defeitos anteriores à locação e manter a forma e a finalidade combinadas (art. 22). Você deve avisar logo o dono sobre defeitos que cabem a ele consertar, e reparar os danos que causou ou que foram causados por sua família e visitas (art. 23, IV e V). Se o reparo urgente durar mais de 10 dias, você tem desconto proporcional no aluguel; se passar de 30 dias, pode encerrar o contrato (art. 26, parágrafo único).",
     "whenApplies": [
-      "O imóvel alugado precisa de conserto e há dúvida sobre quem paga."
+      "Algo quebrou ou apresentou defeito no imóvel durante o aluguel, como vazamento, instalação elétrica ou parede.",
+      "Você precisa decidir quem deve pagar o conserto."
     ],
     "exceptions": [
-      "Cláusulas do contrato e a causa do problema são decisivas."
+      "O contrato pode mudar algumas dessas regras, como a de pagamento de impostos (art. 22, VIII).",
+      "Despesas de condomínio: as extraordinárias (obras grandes, como reforma da estrutura) são do dono, e as ordinárias (limpeza e luz das áreas comuns) são suas (art. 22, X; art. 23, XII e §1º).",
+      "Cada caso é diferente: quem causou o problema e o que o contrato diz fazem diferença."
     ],
     "steps": [
-      "Compare o estado atual com a vistoria de entrada.",
-      "Comunique o proprietário ou a imobiliária por escrito, com fotos.",
-      "Peça orçamento antes de gastar e guarde comprovantes."
+      "Tire fotos e vídeos do defeito, com data.",
+      "Avise o dono ou a imobiliária por escrito, logo que perceber o problema.",
+      "Peça orçamento e não faça mudanças no imóvel sem autorização por escrito (art. 23, VI).",
+      "Guarde os comprovantes do conserto e as respostas do dono."
     ],
     "documentsToKeep": [
-      "Contrato de locação e aditivos",
-      "Comprovantes de pagamento de aluguel e encargos",
-      "Vistoria de entrada, fotos e orçamentos",
-      "Notificações, mensagens e e-mails trocados"
+      "Contrato de locação e vistoria de entrada",
+      "Fotos e vídeos com data",
+      "Mensagens, cartas ou e-mails enviados ao dono",
+      "Orçamentos e recibos dos consertos"
     ],
     "ifDenied": [
-      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
-      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+      "Se o dono não quiser consertar o que é dele, envie uma notificação por escrito com prazo para resposta.",
+      "Se o reparo durar muito, guarde a prova do tempo em que o imóvel ficou sem uso, pois isso pode gerar desconto no aluguel (art. 26, parágrafo único).",
+      "Procure a Defensoria Pública ou um advogado se houver discussão sobre quem paga."
     ]
   },
   "legalReferences": [
@@ -47,12 +60,13 @@
       "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
       "sphere": "federal",
       "provisions": [
-        "a conferir deveres de locador e locatário"
+        "art. 22, VIII e X",
+        "art. 23, IV, V, VI, XII e §1º",
+        "art. 26, caput e parágrafo único"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
@@ -60,38 +74,21 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Lei nº 10.406/2002 — Código Civil",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/2002/lei-10406-2002-01-10.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "22",
+          "23",
+          "26"
+        ],
         "provisionsMissing": []
       }
     }
   ],
   "relatedArticles": [
-    "MOR-001",
-    "MOR-003"
+    "MOR-005",
+    "MOR-006"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/05-moradia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -3,43 +3,47 @@
   "slug": "medidas-protetivas-de-urgencia",
   "title": "Como funcionam as medidas protetivas de urgência?",
   "category": "mulheres",
-  "summary": "O que são as medidas protetivas, quem pode pedir e o papel do juiz, segundo a Lei Maria da Penha.",
+  "summary": "Medidas protetivas são ordens do juiz para proteger a mulher do agressor, como o afastamento do lar e a proibição de aproximação.",
   "keywords": [
     "medida protetiva",
     "afastamento do agressor",
     "Lei Maria da Penha",
     "proteção",
-    "juiz"
+    "juiz",
+    "48 horas",
+    "pena descumprir medida protetiva"
   ],
   "synonyms": [
     "ordem de afastamento",
-    "proibir aproximação"
+    "proibir aproximação",
+    "juiz tem quantos dias",
+    "medida protetiva descumprida"
   ],
-  "quickAnswer": "A Lei Maria da Penha prevê que o juiz pode aplicar de imediato ao agressor medidas protetivas de urgência, a pedido da ofendida ou do Ministério Público. Recebido o pedido, o juiz deve decidir no prazo previsto na lei. Quais medidas serão aplicadas depende do caso.",
+  "quickAnswer": "O juiz tem 48 horas para decidir o pedido de medidas protetivas. Ele pode mandar o agressor sair de casa e não se aproximar da mulher. Descumprir essa ordem é crime, com pena de 2 a 5 anos de reclusão e multa.",
   "sections": {
-    "explanation": "As medidas podem incluir, entre outras, o afastamento do lar e a proibição de aproximação. O pedido costuma ser feito junto ao registro da ocorrência, com apoio da rede de atendimento.",
+    "explanation": "A mulher, ou o Ministério Público em seu nome, pode pedir ao juiz medidas protetivas de urgência (art. 19). Recebido o pedido, o juiz tem 48 horas para decidir (art. 18). As medidas podem ser aplicadas juntas ou separadas, como o afastamento do lar, a proibição de aproximação e de contato com a mulher e com familiares, e a proibição de frequentar certos lugares (art. 22). Elas podem ser concedidas mesmo sem boletim de ocorrência (art. 19, §5º).",
     "whenApplies": [
       "Você precisa de proteção contra um agressor em contexto doméstico, familiar ou de relação íntima."
     ],
     "exceptions": [
-      "A decisão é judicial e depende das circunstâncias.",
-      "Descumprir medida protetiva tem consequências legais, que devem ser conferidas."
+      "Quem decide é o juiz, caso a caso. Se entender que não há risco, o pedido pode ser negado (art. 19, §4º).",
+      "Descumprir a medida protetiva é crime, com reclusão de 2 a 5 anos e multa (art. 24-A). Em caso de prisão em flagrante, só o juiz pode dar fiança (art. 24-A, §2º)."
     ],
     "steps": [
-      "Procure a delegacia ou serviço de atendimento à mulher da sua cidade.",
-      "Informe o que ocorreu e leve os registros que tiver.",
-      "Peça orientação sobre o pedido de medidas protetivas."
+      "Se estiver em perigo, vá para um lugar seguro e acione a polícia ou o serviço de emergência.",
+      "Procure a delegacia ou o serviço de atendimento à mulher da sua cidade e conte o que aconteceu.",
+      "Peça as medidas protetivas e leve as provas que tiver, como mensagens, fotos e laudos."
     ],
     "documentsToKeep": [
-      "Registros de mensagens, ligações e áudios",
+      "Mensagens, ligações e áudios",
       "Fotos de lesões ou danos, laudos e atendimentos",
       "Nomes de testemunhas e datas dos fatos",
       "Número do registro de ocorrência, se houver"
     ],
     "ifDenied": [
-      "Se houver risco imediato, procure a polícia ou o serviço de emergência pelo canal oficial.",
-      "Procure a rede oficial de atendimento à mulher da sua cidade ou estado (confira os canais atuais), a Defensoria Pública ou o Ministério Público.",
-      "Você não precisa enfrentar isso sozinha: peça ajuda a alguém de confiança."
+      "Se houver risco imediato, procure a polícia ou o serviço de emergência.",
+      "O Ministério Público pode pedir as medidas em seu nome (art. 19). A Defensoria Pública pode orientar você.",
+      "Peça ajuda a alguém de confiança para acompanhar você."
     ]
   },
   "legalReferences": [
@@ -47,13 +51,14 @@
       "name": "Lei nº 11.340/2006 — Lei Maria da Penha",
       "sphere": "federal",
       "provisions": [
-        "arts. 18 e 19",
-        "art. 22"
+        "art. 18",
+        "art. 19",
+        "art. 22",
+        "art. 24-A"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2006/lei-11340-2006-08-07.md",
@@ -64,7 +69,8 @@
         "provisionsFound": [
           "18",
           "19",
-          "22"
+          "22",
+          "24-A"
         ],
         "provisionsMissing": []
       }
@@ -74,8 +80,8 @@
     "MUL-001",
     "MUL-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/11-mulheres.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

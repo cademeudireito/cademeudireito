@@ -3,59 +3,98 @@
   "slug": "demitido-quais-verbas",
   "title": "Fui demitido: quais verbas podem ser devidas?",
   "category": "trabalho",
-  "summary": "Visão geral de verbas que podem ser discutidas na saída do emprego e por que dependem do tipo de rescisão.",
+  "summary": "Na demissão, a empresa deve pagar em até 10 dias o que você tem direito; o que entra depende do motivo da saída.",
   "keywords": [
     "demissão",
     "rescisão",
     "verbas rescisórias",
     "FGTS",
-    "aviso prévio"
+    "aviso prévio",
+    "multa de 40%",
+    "acerto"
   ],
   "synonyms": [
     "fui mandado embora",
     "acerto",
     "demissão sem justa causa",
-    "multa do FGTS"
+    "multa do FGTS",
+    "demissão por acordo",
+    "pedi demissão",
+    "justa causa"
   ],
-  "quickAnswer": "Quais verbas podem ser devidas depende da modalidade de rescisão, do contrato e do tempo de serviço. A CLT e a legislação do FGTS são ponto de partida; confira os requisitos e peça orientação para o seu caso.",
+  "quickAnswer": "A empresa deve pagar o que você tem direito em até 10 dias depois do fim do contrato. O que entra depende do motivo da saída. Na demissão sem justa causa, em geral: saldo de salário, férias com 1/3, 13º proporcional, aviso prévio e multa de 40% do FGTS.",
   "sections": {
-    "explanation": "Entenda como foi a saída (pedido de demissão, dispensa com ou sem justa causa, acordo, término de contrato). Cada situação tem consequências diferentes.",
+    "explanation": "Quando o contrato termina, a empresa deve anotar a saída na carteira, comunicar a dispensa aos órgãos competentes e pagar o que você tem direito. O recibo precisa mostrar cada parcela e o valor, e a quitação só vale para o que está escrito nele. Na demissão sem justa causa, o aviso prévio é de no mínimo 30 dias e cresce 3 dias por ano de serviço na mesma empresa, até 90 dias. A empresa também deposita no seu FGTS uma multa de 40% sobre todos os depósitos feitos durante o contrato.",
     "whenApplies": [
-      "Seu contrato de trabalho foi encerrado e você quer entender o que pode ser devido."
+      "A empresa dispensou você sem justa causa.",
+      "Você e a empresa combinaram o fim do contrato por acordo.",
+      "Você pediu demissão, ou foi dispensado por justa causa, e quer saber o que recebe."
     ],
     "exceptions": [
-      "Modalidade da rescisão e tipo de contrato mudam o resultado.",
-      "Não presuma que todas as verbas valem para todos os casos."
+      "Acordo (art. 484-A da CLT): você recebe metade do aviso prévio, se indenizado, e metade da multa do FGTS (20%); as outras verbas vêm por inteiro. Pode sacar até 80% do FGTS, mas não tem direito ao seguro-desemprego.",
+      "Pedido de demissão: se você não cumprir o aviso prévio, a empresa pode descontar o valor do seu salário. Você recebe as férias vencidas e, depois de 12 meses de serviço, as férias proporcionais.",
+      "Justa causa: não há férias proporcionais nem a multa de 40% do FGTS.",
+      "Culpa recíproca ou força maior, reconhecida pela Justiça do Trabalho: a multa do FGTS é de 20%."
     ],
     "steps": [
-      "Guarde o termo de rescisão e comprovantes de pagamento.",
-      "Confira extrato do FGTS pelos canais oficiais.",
-      "Procure orientação antes de assinar documentos que não compreenda."
+      "Confira o termo de rescisão: cada parcela precisa aparecer com o valor.",
+      "Veja se o pagamento saiu em até 10 dias depois do fim do contrato.",
+      "Peça o extrato do FGTS e confira os depósitos e a multa de 40%.",
+      "Só assine depois de ler e entender, e peça uma cópia. A quitação vale só para as parcelas escritas no recibo."
     ],
     "documentsToKeep": [
-      "Carteira de trabalho (física ou digital)",
-      "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa",
-      "Convenção ou acordo coletivo da categoria, se conhecer"
+      "Termo de rescisão do contrato e comprovantes de pagamento",
+      "Carteira de trabalho com a saída anotada",
+      "Aviso prévio ou comunicação da dispensa",
+      "Extrato do FGTS",
+      "Últimos contracheques"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Se a empresa atrasar o pagamento além de 10 dias, ela pode ter de pagar uma multa de valor igual ao seu salário, a não ser que o atraso tenha sido culpa sua.",
+      "Procure o sindicato da sua categoria para conferir os valores.",
+      "Para cobrar na Justiça do Trabalho há prazo: até 2 anos depois do fim do contrato. Procure a Defensoria Pública ou um advogado antes disso."
     ]
   },
   "legalReferences": [
     {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XXI",
+        "art. 7º, XXIX"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "7"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
       "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 146",
+        "art. 147",
+        "art. 477, caput",
+        "art. 477, §2º",
+        "art. 477, §6º",
+        "art. 477, §8º",
+        "art. 484-A",
+        "art. 487"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
@@ -63,7 +102,59 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "146",
+          "147",
+          "477",
+          "484-A",
+          "487"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 12.506/2011 — aviso prévio proporcional",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2011-10-11;12506",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2011/lei-12506-2011-10-11.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2011-10-11;12506",
+        "versaoTexto": "original",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "1"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 4.090/1962 (13º salário)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º, §1º",
+        "art. 3º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1962-07-13;4090",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1962/lei-4090-1962-07-13.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1962-07-13;4090",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "1",
+          "3"
+        ],
         "provisionsMissing": []
       }
     },
@@ -71,12 +162,12 @@
       "name": "Lei nº 8.036/1990 (FGTS)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 18, §1º",
+        "art. 18, §2º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-05-11;8036",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8036-1990-05-11.md",
@@ -84,18 +175,21 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "18"
+        ],
         "provisionsMissing": []
       }
     }
   ],
   "relatedArticles": [
-    "TRA-001",
+    "TRA-010",
+    "TRA-014",
     "TRA-002",
     "TRA-006"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

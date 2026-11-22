@@ -3,42 +3,48 @@
   "slug": "vale-transporte-direito",
   "title": "O que é vale-transporte e quem tem direito?",
   "category": "trabalho",
-  "summary": "Noções sobre o vale-transporte, instituído por lei, para deslocamento casa-trabalho.",
+  "summary": "O vale-transporte é antecipado pela empresa para ir e voltar do trabalho; você participa com até 6% do salário básico.",
   "keywords": [
     "vale-transporte",
     "transporte",
     "desconto no salário",
     "deslocamento",
-    "empregador"
+    "empregador",
+    "6% do salário"
   ],
   "synonyms": [
     "VT",
-    "passagem do trabalho"
+    "passagem do trabalho",
+    "empresa não dá vale transporte",
+    "desconto de 6%"
   ],
-  "quickAnswer": "A Lei 7.418/1985 instituiu o vale-transporte, que o empregador antecipa ao empregado para despesas de deslocamento residência-trabalho e vice-versa, no transporte coletivo público. Detalhes de desconto e de solicitação precisam ser conferidos.",
+  "quickAnswer": "O vale-transporte é antecipado pela empresa para você ir de casa ao trabalho e voltar, em transporte coletivo público. Você participa com até 6% do seu salário básico; o que passar disso é por conta da empresa. Se ela não fornece, peça por escrito.",
   "sections": {
-    "explanation": "O empregado costuma precisar informar por escrito o endereço e os meios de transporte que usa. Há regra sobre a participação do empregado no custo.",
+    "explanation": "O vale-transporte cobre os gastos de ida e volta entre sua casa e o trabalho no transporte coletivo público, urbano ou intermunicipal e interestadual com características parecidas com o urbano, com tarifa fixada pela autoridade. Serviços seletivos e especiais ficam de fora. A empresa compra os vales de que você precisa. Você participa com até 6% do seu salário básico, e a empresa paga a parte que passar disso. O vale não é salário: não entra na conta do FGTS nem da contribuição previdenciária.",
     "whenApplies": [
-      "Você usa transporte coletivo para ir e voltar do trabalho."
+      "Você é empregado e usa transporte coletivo público para ir e voltar do trabalho.",
+      "A empresa não fornece o vale, ou fornece menos do que você precisa.",
+      "Você acha que o desconto no seu salário passa de 6% do salário básico."
     ],
     "exceptions": [
-      "Cada categoria pode ter acordos próprios, a conferir."
+      "Transportes seletivos e especiais não entram na regra do vale-transporte.",
+      "Se o seu trajeto não é feito por transporte coletivo público, a lei do vale-transporte não se aplica."
     ],
     "steps": [
-      "Informe ao empregador o endereço e o meio de transporte, por escrito.",
-      "Guarde recibos e a cópia da comunicação.",
-      "Confira se há desconto no contracheque."
+      "Peça o vale-transporte por escrito (mensagem ou e-mail) e guarde a resposta.",
+      "Anote o seu trajeto e o valor das passagens.",
+      "Confira no contracheque quanto foi descontado e compare com 6% do seu salário básico."
     ],
     "documentsToKeep": [
       "Carteira de trabalho (física ou digital)",
-      "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa"
+      "Contracheques com o desconto do vale-transporte",
+      "Pedido do vale-transporte e resposta da empresa",
+      "Anotação do trajeto e das tarifas"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Procure o sindicato da sua categoria para orientação.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Se você pagou as passagens do próprio bolso, procure a Defensoria Pública ou um advogado para cobrar a diferença."
     ]
   },
   "legalReferences": [
@@ -46,12 +52,14 @@
       "name": "Lei nº 7.418/1985 (vale-transporte)",
       "sphere": "federal",
       "provisions": [
-        "art. 1º"
+        "art. 1º",
+        "art. 2º",
+        "art. 4º",
+        "art. 4º, parágrafo único"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-16;7418",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1985/lei-7418-1985-12-16.md",
@@ -60,7 +68,9 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "1"
+          "1",
+          "2",
+          "4"
         ],
         "provisionsMissing": []
       }
@@ -68,10 +78,10 @@
   ],
   "relatedArticles": [
     "TRA-001",
-    "TRA-013"
+    "TRA-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

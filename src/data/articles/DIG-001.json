@@ -3,44 +3,47 @@
   "slug": "dados-pessoais-sem-autorizacao",
   "title": "Usaram meus dados pessoais sem autorização",
   "category": "direitos-digitais",
-  "summary": "O que a LGPD diz de forma geral e por que nem todo uso sem consentimento é ilegal.",
+  "summary": "O que a LGPD prevê e por que nem todo uso sem a sua autorização é ilegal.",
   "keywords": [
     "LGPD",
     "dados pessoais",
     "privacidade",
     "vazamento",
-    "consentimento"
+    "consentimento",
+    "ANPD"
   ],
   "synonyms": [
     "usaram meu CPF",
     "compartilharam meus dados",
     "proteção de dados",
-    "minhas informações"
+    "minhas informações",
+    "empresa vendeu meus dados"
   ],
-  "quickAnswer": "A LGPD prevê direitos do titular dos dados e várias bases legais para o tratamento. Por isso, nem todo uso sem consentimento é necessariamente ilegal. Você pode pedir informações ao responsável pelos dados e, se for o caso, buscar a ANPD.",
+  "quickAnswer": "A LGPD só permite usar seus dados em casos previstos na lei. Sua autorização é um deles, mas não é o único, por isso nem todo uso sem autorização é ilegal. Você pode pedir informações à empresa e, se não houver resposta, procurar a ANPD.",
   "sections": {
-    "explanation": "Comece identificando quem usou os dados e para quê. Você pode solicitar informações pelo canal de privacidade da empresa.",
+    "explanation": "Primeiro, descubra quem usou seus dados e para quê. A LGPD diz que uma empresa só pode usar dados pessoais em certos casos, como com a sua autorização, para cumprir uma obrigação legal ou para executar um contrato com você (art. 7º). Peça explicações por escrito ao canal de privacidade da empresa.",
     "whenApplies": [
-      "Você recebeu contatos inesperados ou descobriu uso dos seus dados que não esperava."
+      "Você recebeu contatos ou ofertas e não sabe de onde saíram os seus dados.",
+      "Você descobriu que seus dados foram usados de um jeito que não esperava."
     ],
     "exceptions": [
-      "O tratamento pode ter outras bases legais além do consentimento."
+      "A empresa pode usar seus dados sem a sua autorização em outros casos previstos na lei, como para cumprir uma obrigação legal (art. 7º, II).",
+      "Cada caso é diferente: guarde provas de tudo."
     ],
     "steps": [
-      "Guarde provas do uso (mensagens, e-mails, prints).",
-      "Peça informações ao responsável pelo canal de privacidade.",
-      "Se não houver solução, verifique os canais da ANPD."
+      "Guarde provas do uso: mensagens, e-mails e prints.",
+      "Peça por escrito à empresa, pelo canal de privacidade, que confirme se tem seus dados e para qual finalidade (art. 18, I e II).",
+      "Se a empresa não responder ou não resolver, procure o canal oficial da ANPD, órgão que zela pela proteção dos dados pessoais (art. 55-J, I)."
     ],
     "documentsToKeep": [
-      "Prints de telas, mensagens e e-mails",
-      "Comprovantes de pagamentos e transferências",
-      "Endereços de sites, perfis ou contas envolvidos (links)",
-      "Protocolos das plataformas e instituições"
+      "Prints de mensagens, e-mails e anúncios que mostram o uso dos seus dados",
+      "Cópia do pedido enviado à empresa e o protocolo da resposta",
+      "Aviso de vazamento, se a empresa tiver comunicado"
     ],
     "ifDenied": [
-      "Para questões de proteção de dados, verifique os canais da ANPD (confira o canal atual).",
-      "Em caso de indício de crime, verifique como registrar ocorrência na polícia do seu estado.",
-      "Se houver prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Procure o canal oficial da ANPD (Autoridade Nacional de Proteção de Dados) e leve o protocolo do seu pedido.",
+      "Se houver consumo envolvido, registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma.",
+      "Se houver prejuízo ou prazo correndo, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -48,12 +51,13 @@
       "name": "Lei nº 13.709/2018 — Lei Geral de Proteção de Dados (LGPD)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 7º",
+        "art. 18, I e II",
+        "art. 55-J, I"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2018/lei-13709-2018-08-14.md",
@@ -61,28 +65,11 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Lei nº 12.965/2014 — Marco Civil da Internet",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir conforme o caso"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2014-04-23;12965",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/2014/lei-12965-2014-04-23.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2014-04-23;12965",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "7",
+          "18",
+          "55-J"
+        ],
         "provisionsMissing": []
       }
     }
@@ -91,8 +78,8 @@
     "DIG-002",
     "SAU-003"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/06-direitos-digitais.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

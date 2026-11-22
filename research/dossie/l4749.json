@@ -12,5 +12,8 @@
   "urn": "urn:lex:br:federal:lei:1965-08-12;4749",
   "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1965-08-12;4749",
   "baixado_em": "2026-10-13",
-  "artigosCitados": {}
+  "artigosCitados": {
+    "1": "**Art**. 1º A gratificação salarial instituída pela Lei nº 4.090, de 13 de julho de 1962, será paga pelo empregador até o dia 20 de dezembro de cada ano, compensada a importância que, a título de adiantamento, o empregado houver recebido na forma do artigo seguinte.\n\n**Parágrafo único.** VETADO.",
+    "2": "**Art**. 2º Entre os meses de fevereiro e novembro de cada ano, o empregador pagará, como adiantamento da gratificação referida no artigo precedente, de uma só vez, metade do salário recebido pelo respectivo empregado no mês anterior.\n\n**§ 1º** O empregador não estará obrigado a pagar o adiantamento, no mesmo mês, a todos os seus empregados.\n\n**§ 2º** O adiantamento será pago ao ensejo das férias do empregado, sempre que êste o requerer no mês de janeiro do correspondente ano."
+  }
 }

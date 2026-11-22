@@ -3,41 +3,47 @@
   "slug": "reajuste-plano-de-saude-por-idade",
   "title": "O plano de saúde aumentou por causa da minha idade",
   "category": "idosos",
-  "summary": "Limites gerais ao reajuste de planos de saúde por mudança de faixa etária.",
+  "summary": "O plano só pode aumentar por faixa de idade se isso estiver no contrato. Quem tem 60 anos ou mais e está no plano há mais de 10 anos não pode sofrer esse reajuste.",
   "keywords": [
     "plano de saúde",
     "reajuste por idade",
     "faixa etária",
     "mensalidade",
-    "ANS"
+    "ANS",
+    "plano 60 anos"
   ],
   "synonyms": [
     "aumento por idade",
-    "plano caro para idoso"
+    "plano caro para idoso",
+    "plano aumentou para idoso",
+    "mensalidade subiu com a idade"
   ],
-  "quickAnswer": "A lei dos planos de saúde prevê que a variação por faixa etária só pode ocorrer se estiver prevista no contrato inicial, com as faixas e percentuais claros, e há restrições para quem completa certa idade. O Estatuto da Pessoa Idosa também trata do tema. Confira o seu contrato e as regras da ANS.",
+  "quickAnswer": "O reajuste por faixa de idade só vale se as faixas e os percentuais estiverem no contrato inicial. Quem tem 60 anos ou mais e está no plano há mais de 10 anos não pode sofrer esse reajuste. Peça o cálculo por escrito e compare com o contrato.",
   "sections": {
-    "explanation": "Reajuste por faixa etária é diferente de reajuste anual. Cada um tem regras próprias.",
+    "explanation": "Reajuste por mudança de faixa de idade é diferente do reajuste anual. A lei dos planos de saúde (art. 15) só permite a variação por idade se as faixas etárias e os percentuais estiverem no contrato inicial. A mesma regra proíbe a variação para quem tem 60 anos ou mais e participa do plano há mais de 10 anos. O Estatuto da Pessoa Idosa (art. 15, §3º) proíbe a discriminação por idade na cobrança dos planos.",
     "whenApplies": [
-      "A mensalidade do plano subiu quando você mudou de faixa etária."
+      "A mensalidade do plano subiu quando você mudou de faixa de idade."
     ],
     "exceptions": [
-      "Planos coletivos e individuais têm regras diferentes em alguns pontos.",
-      "Contratos antigos podem seguir outras normas."
+      "Se as faixas e os percentuais não estiverem no contrato, o aumento por idade pode ser questionado.",
+      "Quem tem 60 anos ou mais e está no plano há mais de 10 anos não pode sofrer esse reajuste por idade.",
+      "Cada caso é diferente: guarde o contrato e os boletos."
     ],
     "steps": [
-      "Leia no contrato as faixas etárias e os percentuais previstos.",
-      "Peça à operadora, por escrito, o demonstrativo do cálculo.",
-      "Registre reclamação na operadora e, se não resolver, na ANS."
+      "Leia no contrato se há faixas de idade e os percentuais de reajuste.",
+      "Peça à operadora, por escrito, o cálculo do aumento.",
+      "Se o percentual não estiver no contrato ou o cálculo estiver errado, reclame na operadora e, se não resolver, na ANS."
     ],
     "documentsToKeep": [
-      "Documento de identificação e comprovante de idade",
-      "Contratos, boletos e comunicados relacionados",
-      "Protocolos e registros de atendimento"
+      "Contrato do plano, com as faixas de idade",
+      "Boletos e comunicados de reajuste",
+      "Protocolo da reclamação na operadora",
+      "Documento que comprove a idade"
     ],
     "ifDenied": [
-      "Procure a ouvidoria da empresa ou do órgão responsável.",
-      "Verifique os canais oficiais de proteção à pessoa idosa da sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+      "Peça a resposta por escrito e guarde o protocolo.",
+      "Registre reclamação na ANS, a agência que regula os planos de saúde.",
+      "Se não resolver, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -45,12 +51,12 @@
       "name": "Lei nº 9.656/1998 (planos privados de assistência à saúde)",
       "sphere": "federal",
       "provisions": [
-        "art. 15"
+        "art. 15",
+        "art. 15, parágrafo único"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1998/lei-9656-1998-06-03.md",
@@ -68,12 +74,11 @@
       "name": "Lei nº 10.741/2003 — Estatuto da Pessoa Idosa",
       "sphere": "federal",
       "provisions": [
-        "art. 15"
+        "art. 15, §3º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2003/lei-10741-2003-10-01.md",
@@ -86,25 +91,14 @@
         ],
         "provisionsMissing": []
       }
-    },
-    {
-      "name": "Normas vigentes da ANS (a identificar)",
-      "sphere": "federal",
-      "provisions": [
-        "a identificar"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
     }
   ],
   "relatedArticles": [
     "SAU-007",
     "SAU-001"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/10-pessoa-idosa.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -3,57 +3,92 @@
   "slug": "empregador-nao-registrou-contrato",
   "title": "Meu empregador não registrou meu contrato",
   "category": "trabalho",
-  "summary": "O que entender sobre falta de registro na carteira e por que o vínculo depende dos fatos.",
+  "summary": "A empresa tem 5 dias úteis para anotar sua carteira; veja o que fazer se você trabalha sem registro.",
   "keywords": [
     "carteira assinada",
     "registro",
     "sem carteira",
-    "vínculo de emprego"
+    "vínculo de emprego",
+    "trabalho informal"
   ],
   "synonyms": [
     "trabalho sem registro",
     "informal",
-    "sem contrato"
+    "sem contrato",
+    "patrão não assina carteira",
+    "trabalho sem carteira assinada",
+    "vínculo"
   ],
-  "quickAnswer": "A CLT trata do registro do empregado, mas a existência de vínculo de emprego depende dos fatos e dos requisitos legais. Não é possível afirmar automaticamente que há vínculo; reúna provas da relação e busque orientação.",
+  "quickAnswer": "A empresa tem 5 dias úteis para anotar sua carteira de trabalho, com a data de admissão e o salário. Se você trabalha de forma contínua, recebe ordens e é pago, pode haver vínculo de emprego mesmo sem registro. Guarde mensagens, pagamentos e registros de horário.",
   "sections": {
-    "explanation": "Documentos, mensagens, horários e pagamentos ajudam a mostrar como o trabalho era realizado.",
+    "explanation": "Empregado é quem presta serviço, de forma não eventual, a um empregador, sob as ordens dele e mediante salário. Empregador é a empresa que assalaria e dirige o trabalho. A empresa deve registrar todos os trabalhadores e tem 5 dias úteis para anotar na carteira a data de admissão e a remuneração. A lei considera nulos os atos feitos para fraudar as regras da CLT, então a falta de registro não tira os seus direitos se o vínculo existe.",
     "whenApplies": [
-      "Você trabalha para alguém sem registro formal e quer entender seus direitos."
+      "Você trabalha com regularidade para a mesma empresa ou pessoa.",
+      "Você recebe ordens, tem horário ou metas definidos por quem contrata.",
+      "Você recebe pagamento pelo trabalho, mas não tem a carteira anotada."
     ],
     "exceptions": [
-      "Prestação de serviço autônomo não é necessariamente emprego.",
-      "A caracterização depende de requisitos legais e das circunstâncias."
+      "Se há vínculo de emprego ou não depende dos fatos de cada caso, e ninguém pode garantir o resultado antes.",
+      "Quem trabalha só de vez em quando (de forma eventual) não se enquadra na definição de empregado.",
+      "A contratação de autônomo, com todas as formalidades legais, afasta a condição de empregado."
     ],
     "steps": [
-      "Guarde prova de pagamentos e mensagens de trabalho.",
-      "Anote dias, horários e tarefas.",
-      "Procure orientação do sindicato, da Defensoria ou de advogado."
+      "Guarde provas: mensagens de trabalho, comprovantes de pagamento (Pix, extratos), fotos, crachá ou uniforme.",
+      "Anote dias, horários, tarefas e quem dava as ordens.",
+      "Peça por escrito (mensagem ou e-mail) que a empresa anote sua carteira.",
+      "Procure o sindicato ou a fiscalização do trabalho."
     ],
     "documentsToKeep": [
       "Carteira de trabalho (física ou digital)",
-      "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa",
-      "Convenção ou acordo coletivo da categoria, se conhecer"
+      "Comprovantes de pagamento (Pix, extratos, recibos)",
+      "Mensagens e e-mails sobre o trabalho",
+      "Fotos, crachá, uniforme ou escalas",
+      "Nomes e contatos de colegas que viram o trabalho"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Denuncie a falta de registro à fiscalização do trabalho: quando a empresa não anota a carteira, a lei prevê auto de infração.",
+      "Procure o sindicato da sua categoria, a Defensoria Pública ou um advogado para pedir o reconhecimento do vínculo na Justiça do Trabalho.",
+      "Há prazo para cobrar na Justiça: até 2 anos depois do fim do contrato."
     ]
   },
   "legalReferences": [
     {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XXIX"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "7"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
       "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
       "sphere": "federal",
       "provisions": [
-        "arts. 2º, 3º, 9º, 29 e correlatos"
+        "art. 2º",
+        "art. 3º",
+        "art. 9º",
+        "art. 29",
+        "art. 29, §3º",
+        "art. 41",
+        "art. 442-B"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
@@ -65,7 +100,9 @@
           "2",
           "3",
           "9",
-          "29"
+          "29",
+          "41",
+          "442-B"
         ],
         "provisionsMissing": []
       }
@@ -73,10 +110,11 @@
   ],
   "relatedArticles": [
     "TRA-001",
+    "TRA-012",
     "TRA-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

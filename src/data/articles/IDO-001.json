@@ -3,40 +3,46 @@
   "slug": "prioridade-no-atendimento-idosos",
   "title": "Pessoa idosa tem prioridade no atendimento?",
   "category": "idosos",
-  "summary": "A prioridade de atendimento e a atenção prioritária assegurada pela lei a pessoas idosas.",
+  "summary": "Quem tem 60 anos ou mais tem direito a atendimento prioritário em órgãos públicos, bancos e empresas de serviços.",
   "keywords": [
     "prioridade",
     "atendimento prioritário",
     "fila",
     "Estatuto da Pessoa Idosa",
-    "idoso"
+    "idoso",
+    "60 anos",
+    "atendimento preferencial"
   ],
   "synonyms": [
     "fila preferencial",
-    "preferência para idosos"
+    "preferência para idosos",
+    "fila para idoso",
+    "idoso tem prioridade no banco"
   ],
-  "quickAnswer": "O Estatuto da Pessoa Idosa fala em absoluta prioridade na efetivação de direitos como vida, saúde e dignidade, e a lei de prioridade de atendimento assegura atendimento prioritário a pessoas idosas, entre outras. A idade mínima e os detalhes devem ser conferidos nas normas vigentes.",
+  "quickAnswer": "Quem tem 60 anos ou mais tem atendimento prioritário em órgãos públicos, bancos e empresas de serviços. Se não houver fila separada, a pessoa deve ser atendida logo após o atendimento em andamento. Se houver recusa, peça a justificativa por escrito.",
   "sections": {
-    "explanation": "A prioridade se aplica em órgãos públicos e empresas prestadoras de serviço, como bancos e comércio. Existem prioridades diferentes dentro do próprio grupo, por idade.",
+    "explanation": "A Lei 10.048/2000 dá atendimento prioritário a pessoas idosas com 60 anos ou mais, e também a pessoas com deficiência, gestantes e outros grupos listados na lei. O Estatuto da Pessoa Idosa garante à pessoa idosa absoluta prioridade na efetivação de direitos, como saúde e dignidade, com atendimento preferencial e imediato. Essa prioridade vale para órgãos públicos, empresas que prestam serviços e instituições financeiras.",
     "whenApplies": [
-      "Você quer saber se tem direito a atendimento prioritário."
+      "Você tem 60 anos ou mais e quer atendimento prioritário em órgão público, banco ou empresa de serviços."
     ],
     "exceptions": [
-      "A idade mínima para a prioridade pode variar conforme a lei aplicável; confira."
+      "Se não houver guichê, caixa ou fila separada, a lei manda atender a pessoa idosa logo após o atendimento que já está em andamento.",
+      "Pessoas com deficiência, gestantes e outros grupos listados na lei também têm essa prioridade."
     ],
     "steps": [
-      "Mostre um documento oficial com foto, se solicitado.",
-      "Se houver recusa, peça justificativa e registre.",
-      "Registre reclamação na ouvidoria da empresa ou do órgão."
+      "Mostre um documento que prove sua idade, se pedirem.",
+      "Se a prioridade for negada, peça a recusa por escrito, com o motivo.",
+      "Registre a reclamação na ouvidoria da empresa ou do órgão."
     ],
     "documentsToKeep": [
-      "Documento de identificação e comprovante de idade",
-      "Contratos, boletos e comunicados relacionados",
-      "Protocolos e registros de atendimento"
+      "Documento que comprove a idade",
+      "Recusa por escrito ou protocolo do atendimento",
+      "Nome de quem atendeu, data e hora"
     ],
     "ifDenied": [
-      "Procure a ouvidoria da empresa ou do órgão responsável.",
-      "Verifique os canais oficiais de proteção à pessoa idosa da sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+      "Peça a justificativa por escrito e guarde a resposta.",
+      "Procure a ouvidoria da empresa ou do órgão público.",
+      "Se não resolver, procure o Ministério Público ou a Defensoria Pública. Em caso de empresa privada, procure também o Procon da sua cidade ou do seu estado."
     ]
   },
   "legalReferences": [
@@ -44,12 +50,13 @@
       "name": "Lei nº 10.741/2003 — Estatuto da Pessoa Idosa",
       "sphere": "federal",
       "provisions": [
-        "art. 3º"
+        "art. 3º, §1º, I",
+        "art. 71"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "notes": "O art. 71 trata da prioridade em processos judiciais, com a mesma idade de 60 anos.",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2003/lei-10741-2003-10-01.md",
@@ -58,7 +65,8 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "3"
+          "3",
+          "71"
         ],
         "provisionsMissing": []
       }
@@ -67,12 +75,12 @@
       "name": "Lei nº 10.048/2000 (prioridade de atendimento)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 1º",
+        "art. 2º, parágrafo único"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2000-11-08;10048",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2000/lei-10048-2000-11-08.md",
@@ -80,7 +88,10 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "1",
+          "2"
+        ],
         "provisionsMissing": []
       }
     }
@@ -89,8 +100,8 @@
     "IDO-002",
     "IDO-005"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/10-pessoa-idosa.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

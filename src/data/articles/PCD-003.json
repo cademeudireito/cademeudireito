@@ -3,39 +3,46 @@
   "slug": "passe-livre-transporte-interestadual",
   "title": "Tenho direito a passe livre em viagens interestaduais?",
   "category": "pessoa-com-deficiencia",
-  "summary": "Noções sobre a Lei 8.899/1994, que cria o passe livre no transporte coletivo interestadual.",
+  "summary": "Pessoa com deficiência de baixa renda tem direito ao passe livre no transporte coletivo entre estados.",
   "keywords": [
     "passe livre",
     "transporte interestadual",
     "deficiência",
     "ônibus",
-    "gratuidade"
+    "gratuidade",
+    "viagem entre estados PCD",
+    "passe livre interestadual"
   ],
   "synonyms": [
-    "viagem gratuita pessoa com deficiência"
+    "viagem gratuita pessoa com deficiência",
+    "deficiente viajar de graça",
+    "ônibus interestadual gratuito"
   ],
-  "quickAnswer": "A Lei 8.899/1994 concede passe livre às pessoas portadoras de deficiência, comprovadamente carentes, no sistema de transporte coletivo interestadual. Os requisitos e o procedimento de cadastro estão em regulamento e precisam ser conferidos.",
+  "quickAnswer": "Pessoas com deficiência comprovadamente carentes têm direito a passe livre, ou seja, viagem gratuita, no transporte coletivo entre estados (Lei 8.899/1994, art. 1º). É preciso comprovar a deficiência e a situação de baixa renda. O pedido segue o procedimento do órgão de transporte.",
   "sections": {
-    "explanation": "O direito depende de comprovação de deficiência e de condição de carência, e há procedimento de solicitação do documento.",
+    "explanation": "A Lei 8.899/1994 garante passe livre às pessoas com deficiência comprovadamente carentes, no transporte coletivo entre estados. Ser carente é requisito legal: a pessoa precisa comprovar que tem pouca renda. O passo a passo do pedido e os documentos exigidos ficam em regras específicas, que podem mudar.",
     "whenApplies": [
-      "Você precisa viajar entre estados e quer saber se tem direito à gratuidade."
+      "Você tem deficiência, tem baixa renda e precisa viajar entre estados."
     ],
     "exceptions": [
-      "Regras de regulamentação e de cadastro mudam; confira o procedimento atual."
+      "Quem não comprova a deficiência ou a baixa renda não tem direito ao passe livre.",
+      "Para saber onde e como pedir, procure o órgão responsável pelo transporte interestadual."
     ],
     "steps": [
-      "Reúna documento de identidade e laudos exigidos.",
-      "Confira o procedimento oficial de solicitação do documento.",
+      "Reúna documento de identidade e laudos que comprovem a deficiência.",
+      "Pergunte ao órgão responsável pelo transporte interestadual como fazer o pedido e quais documentos levar.",
       "Guarde o protocolo do pedido."
     ],
     "documentsToKeep": [
-      "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
-      "Protocolos, comunicados e respostas recebidas",
-      "Fotos ou registros da barreira ou da recusa"
+      "Documento de identidade",
+      "Laudos que comprovem a deficiência",
+      "Documentos que comprovem a baixa renda",
+      "Protocolo do pedido"
     ],
     "ifDenied": [
-      "Procure a ouvidoria do órgão ou empresa responsável.",
-      "Verifique os canais oficiais de defesa da pessoa com deficiência na sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+      "Peça a resposta por escrito, com o motivo, e guarde o protocolo.",
+      "Procure a ouvidoria do órgão responsável pelo transporte.",
+      "Se não resolver, procure a Defensoria Pública ou o Ministério Público."
     ]
   },
   "legalReferences": [
@@ -43,12 +50,11 @@
       "name": "Lei nº 8.899/1994 (passe livre da pessoa com deficiência)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 1º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1994-06-29;8899",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1994/lei-8899-1994-06-29.md",
@@ -56,7 +62,9 @@
         "versaoTexto": "original",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "1"
+        ],
         "provisionsMissing": []
       }
     }
@@ -65,8 +73,8 @@
     "PCD-001",
     "PCD-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/12-pessoa-com-deficiencia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

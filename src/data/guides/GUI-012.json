@@ -4,7 +4,7 @@
   "category": "idosos",
   "title": "Direitos da pessoa idosa: por onde começar?",
   "description": "Encontre conteúdos sobre atendimento, transporte, plano de saúde e proteção contra maus-tratos.",
-  "status": "draft",
+  "status": "published",
   "startQuestion": "q1",
   "questions": {
     "q1": {
@@ -59,7 +59,7 @@
       "id": "r_plano",
       "title": "Plano de saúde e idade",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer os limites ao reajuste por faixa etária.",
-      "rule": "A lei dos planos de saúde prevê que a variação por faixa etária só pode ocorrer se estiver prevista no contrato inicial, com as faixas e percentuais claros, e há restrições para quem completa certa idade. O Estatuto da Pessoa Idosa também trata do tema. Confira o seu contrato e as regras da ANS.",
+      "rule": "A lei dos planos de saúde só permite reajuste por faixa etária se as faixas e os percentuais estiverem no contrato inicial. Quem tem 60 anos ou mais e está no plano há mais de 10 anos não pode sofrer esse reajuste. O Estatuto da Pessoa Idosa também proíbe a discriminação por idade nos planos.",
       "steps": [
         "Leia no contrato as faixas etárias e os percentuais previstos.",
         "Peça à operadora, por escrito, o demonstrativo do cálculo.",
@@ -79,16 +79,16 @@
       "id": "r_prio",
       "title": "Atendimento prioritário",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer a prioridade de atendimento.",
-      "rule": "O Estatuto da Pessoa Idosa fala em absoluta prioridade na efetivação de direitos como vida, saúde e dignidade, e a lei de prioridade de atendimento assegura atendimento prioritário a pessoas idosas, entre outras. A idade mínima e os detalhes devem ser conferidos nas normas vigentes.",
+      "rule": "A pessoa com 60 anos ou mais tem atendimento prioritário em órgãos públicos, empresas de serviços e bancos. O Estatuto da Pessoa Idosa garante a ela absoluta prioridade na efetivação de direitos, como saúde e dignidade.",
       "steps": [
         "Mostre um documento oficial com foto, se solicitado.",
         "Se houver recusa, peça justificativa e registre.",
         "Registre reclamação na ouvidoria da empresa ou do órgão."
       ],
       "documents": [
-        "Documento de identificação e comprovante de idade",
-        "Contratos, boletos e comunicados relacionados",
-        "Protocolos e registros de atendimento"
+        "Documento que comprove a idade",
+        "Recusa por escrito ou protocolo do atendimento",
+        "Nome de quem atendeu, data e hora"
       ],
       "articleId": "IDO-001",
       "relatedArticleIds": [
@@ -99,57 +99,55 @@
       "id": "r_transp",
       "title": "Transporte gratuito",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer a gratuidade no transporte coletivo.",
-      "rule": "O Estatuto assegura aos maiores de 65 anos a gratuidade dos transportes coletivos públicos urbanos e semi-urbanos, exceto nos serviços seletivos e especiais prestados paralelamente aos regulares. Regras locais sobre cadastro e documento podem variar.",
+      "rule": "O Estatuto garante gratuidade no transporte coletivo público urbano e semiurbano a partir de 65 anos. Basta um documento pessoal que prove a idade. Entre 60 e 65 anos, vale a lei da sua cidade ou do seu estado.",
       "steps": [
         "Verifique no órgão de transporte da sua cidade como obter o cartão ou o registro.",
         "Leve documento oficial com foto.",
         "Em caso de recusa, registre reclamação na ouvidoria da empresa ou do órgão."
       ],
       "documents": [
-        "Documento de identificação e comprovante de idade",
-        "Contratos, boletos e comunicados relacionados",
-        "Protocolos e registros de atendimento"
+        "Documento que comprove a idade",
+        "Cartão ou registro de gratuidade, se a sua cidade emitir",
+        "Protocolo ou resposta por escrito, se houver recusa"
       ],
       "articleId": "IDO-002",
-      "relatedArticleIds": [
-        "IDO-001"
-      ]
+      "relatedArticleIds": []
     },
     "r_maus": {
       "id": "r_maus",
       "title": "Maus-tratos e abandono",
       "indicates": "Suas respostas indicam que a prioridade é a segurança da pessoa idosa e conhecer os canais de proteção.",
-      "rule": "O Estatuto da Pessoa Idosa prevê crimes como o abandono em hospitais ou instituições e a falta de provisão das necessidades básicas quando há obrigação. Se há risco, procure a polícia ou o serviço de emergência. Para denunciar e buscar proteção, use os canais oficiais atuais.",
+      "rule": "Se houver risco agora, chame a polícia ou o serviço de emergência. O Estatuto da Pessoa Idosa pune o abandono em hospital ou instituição e deixar de dar o que a pessoa precisa, quando há obrigação legal. Qualquer pessoa pode levar o caso ao Ministério Público.",
       "steps": [
         "Se houver risco imediato, acione a polícia ou a emergência.",
         "Anote datas, locais e fatos e guarde provas.",
         "Procure o Ministério Público, a Defensoria Pública ou os canais oficiais de proteção à pessoa idosa."
       ],
       "documents": [
-        "Documento de identificação e comprovante de idade",
-        "Contratos, boletos e comunicados relacionados",
-        "Protocolos e registros de atendimento"
+        "Fotos, mensagens e áudios que mostrem o problema",
+        "Laudos, receitas e atendimentos de saúde",
+        "Nomes e contatos de testemunhas",
+        "Datas e locais dos fatos"
       ],
       "articleId": "IDO-004",
-      "relatedArticleIds": [
-        "IDO-005"
-      ],
+      "relatedArticleIds": [],
       "caution": "Se houver risco imediato, acione a polícia ou o serviço de emergência."
     },
     "r_disc": {
       "id": "r_disc",
       "title": "Discriminação por idade",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer o que a lei diz sobre discriminação por idade.",
-      "rule": "O Estatuto da Pessoa Idosa prevê crime para quem discrimina a pessoa idosa, impedindo ou dificultando seu acesso a operações bancárias, a meios de transporte, ao direito de contratar ou a outros meios necessários ao exercício da cidadania, por motivo de idade.",
+      "rule": "O Estatuto da Pessoa Idosa considera crime discriminar a pessoa idosa por causa da idade, impedindo ou dificultando seu acesso a operações bancárias, meios de transporte ou o direito de contratar. A pena é de reclusão de 6 meses a 1 ano, e multa.",
       "steps": [
         "Peça a recusa por escrito, com o motivo.",
         "Guarde protocolos, e-mails e nomes de quem atendeu.",
         "Registre reclamação e, se necessário, procure o Ministério Público ou a Defensoria Pública."
       ],
       "documents": [
-        "Documento de identificação e comprovante de idade",
-        "Contratos, boletos e comunicados relacionados",
-        "Protocolos e registros de atendimento"
+        "Recusa por escrito ou protocolo do atendimento",
+        "E-mails, mensagens e prints das conversas",
+        "Nome de quem atendeu",
+        "Documento que comprove a idade"
       ],
       "articleId": "IDO-005",
       "relatedArticleIds": [
@@ -158,7 +156,7 @@
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/10-pessoa-idosa.md; dispositivos conferidos no texto das normas."
 }

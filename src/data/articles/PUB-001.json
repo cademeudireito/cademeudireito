@@ -3,7 +3,7 @@
   "slug": "sem-resposta-de-orgao-publico",
   "title": "Não consigo atendimento ou resposta de um órgão público",
   "category": "servicos-publicos",
-  "summary": "Como registrar solicitações e cobrar resposta de órgãos públicos de forma organizada.",
+  "summary": "Direito de fazer pedidos ao poder público e de receber resposta, e o que fazer se ela não vem.",
   "keywords": [
     "órgão público",
     "ouvidoria",
@@ -16,29 +16,32 @@
     "serviço público demorado",
     "pedido sem resposta"
   ],
-  "quickAnswer": "Existem normas sobre os direitos de usuários de serviços públicos e sobre acesso à informação. Comece protocolando o pedido e guardando o número; se não houver resposta, procure a ouvidoria competente. Os canais variam por órgão.",
+  "quickAnswer": "Todo órgão público deve responder aos pedidos e reclamações, e fazer um pedido não exige pagamento de taxa. Faça o pedido por escrito e guarde o número do protocolo. Se não houver resposta, procure a ouvidoria do órgão.",
   "sections": {
-    "explanation": "Identifique qual órgão é responsável (federal, estadual ou municipal) e use o canal oficial desse órgão.",
+    "explanation": "A Constituição garante a qualquer pessoa o direito de fazer pedidos e reclamações aos órgãos públicos, sem pagar taxas (art. 5º, XXXIV, a), e garante a razoável duração dos processos (art. 5º, LXXVIII). A lei federal de processo administrativo manda a administração decidir e responder os pedidos e reclamações (art. 48). A Lei 13.460/2017 permite que você registre manifestações na ouvidoria, com sua identificação (arts. 9º e 10). Identifique se o órgão é federal, estadual ou municipal.",
     "whenApplies": [
-      "Você fez um pedido ou reclamação e não obteve resposta."
+      "Você fez um pedido ou reclamação a um órgão público e não teve resposta.",
+      "Você foi mal atendido ou não conseguiu ser atendido em um serviço público."
     ],
     "exceptions": [
-      "Competência e canais variam por esfera de governo.",
-      "Pedidos de acesso à informação seguem regras próprias."
+      "Cada esfera de governo (federal, estadual ou municipal) tem seus próprios canais.",
+      "O prazo exato depende do tipo de pedido e da lei aplicável. Para processos federais, veja o artigo sobre processo parado."
     ],
     "steps": [
-      "Registre o pedido e anote o protocolo.",
-      "Acompanhe o andamento pelo canal oficial.",
-      "Se não houver resposta, procure a ouvidoria do órgão."
+      "Faça o pedido por escrito, pelo canal oficial do órgão, e anote o número do protocolo.",
+      "Acompanhe o andamento pelo mesmo canal.",
+      "Se não houver resposta, procure a ouvidoria do órgão.",
+      "Guarde cópias de tudo que enviou e das respostas recebidas."
     ],
     "documentsToKeep": [
       "Número de protocolo do pedido",
-      "Cópia de requerimentos e documentos enviados",
-      "Datas, nomes e setores consultados"
+      "Cópia do pedido ou da reclamação enviada",
+      "Datas, nomes e setores consultados",
+      "Respostas recebidas por escrito"
     ],
     "ifDenied": [
       "Procure a ouvidoria do órgão responsável.",
-      "Se for pedido de acesso à informação, verifique o canal indicado para recurso.",
+      "Se o caso for de acesso à informação, veja o artigo sobre pedido de informação pública, que tem prazo de recurso.",
       "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
     ]
   },
@@ -47,12 +50,12 @@
       "name": "Constituição Federal de 1988",
       "sphere": "federal",
       "provisions": [
-        "art. 37"
+        "art. 5º, XXXIV, a",
+        "art. 5º, LXXVIII"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "constituicao.md",
@@ -61,7 +64,29 @@
         "revogada": false,
         "baixadoEm": null,
         "provisionsFound": [
-          "37"
+          "5"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 9.784/1999 (processo administrativo federal)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 48"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-01-29;9784",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1999/lei-9784-1999-01-29.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-01-29;9784",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "48"
         ],
         "provisionsMissing": []
       }
@@ -70,12 +95,12 @@
       "name": "Lei nº 13.460/2017 (defesa dos usuários de serviços públicos)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 9º",
+        "art. 10"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-06-26;13460",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2017/lei-13460-2017-06-26.md",
@@ -83,38 +108,21 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Lei nº 12.527/2011 (Lei de Acesso à Informação)",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir quando acesso à informação"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2011-11-18;12527",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/2011/lei-12527-2011-11-18.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2011-11-18;12527",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "9",
+          "10"
+        ],
         "provisionsMissing": []
       }
     }
   ],
   "relatedArticles": [
-    "SAU-002",
-    "EDU-001"
+    "PUB-003",
+    "PUB-004",
+    "SAU-002"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/08-servicos-publicos.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

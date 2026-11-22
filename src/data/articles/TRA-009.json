@@ -3,42 +3,54 @@
   "slug": "afastamento-por-doenca-ou-acidente-de-trabalho",
   "title": "Me afastei por doença ou acidente: o que acontece com meu emprego?",
   "category": "trabalho",
-  "summary": "Panorama sobre afastamento por doença ou acidente, a relação com o INSS e o que guardar.",
+  "summary": "Nos 15 primeiros dias de afastamento a empresa paga o salário; do 16º dia em diante, o benefício é do INSS.",
   "keywords": [
     "afastamento",
     "acidente de trabalho",
     "atestado",
     "INSS",
-    "CAT"
+    "CAT",
+    "auxílio-doença"
   ],
   "synonyms": [
     "me machuquei no trabalho",
-    "doença do trabalho"
+    "doença do trabalho",
+    "benefício do INSS",
+    "estabilidade depois de acidente",
+    "afastado por doença",
+    "comunicação de acidente de trabalho"
   ],
-  "quickAnswer": "O afastamento por doença ou acidente pode envolver o empregador e o INSS. Os efeitos no contrato, na estabilidade e no benefício dependem do tempo de afastamento e da natureza do caso. Guarde atestados e peça orientação.",
+  "quickAnswer": "Nos 15 primeiros dias de afastamento, a empresa paga seu salário. A partir do 16º dia, o INSS paga o auxílio-doença, se você cumprir os requisitos. Se foi acidente de trabalho, a empresa deve avisar o INSS (CAT), e você tem pelo menos 12 meses de garantia no emprego depois do benefício.",
   "sections": {
-    "explanation": "Acidente de trabalho tem tratamento específico na lei previdenciária. A empresa pode ter obrigação de comunicar o acidente.",
+    "explanation": "Quando você fica incapacitado para o trabalho por mais de 15 dias seguidos, pode ter direito ao auxílio-doença do INSS. Para o empregado, o benefício é pago a partir do 16º dia de afastamento. Nos 15 primeiros dias, a empresa paga o salário integral. Em acidente de trabalho, a empresa deve comunicar o acidente à Previdência Social até o primeiro dia útil seguinte. Depois que o auxílio-doença acidentário termina, você tem garantida a manutenção do contrato de trabalho por no mínimo 12 meses.",
     "whenApplies": [
-      "Você precisou se afastar do trabalho por motivo de saúde."
+      "Você ficou doente ou se acidentou e não consegue trabalhar.",
+      "O afastamento passa de 15 dias seguidos.",
+      "O acidente aconteceu por causa do trabalho, e você quer saber sobre a CAT e a garantia no emprego."
     ],
     "exceptions": [
-      "Os direitos variam conforme a causa e o tempo de afastamento."
+      "Em alguns casos é preciso ter contribuído por um tempo mínimo para o INSS (carência).",
+      "Quem entrou na Previdência já com a doença ou lesão, em regra, não recebe o auxílio-doença, a não ser que ela tenha piorado.",
+      "Se o INSS não marcar uma data para o fim do benefício, ele acaba em 120 dias, a não ser que você peça a prorrogação.",
+      "Se você discordar do resultado de uma reavaliação do INSS, pode recorrer em até 30 dias ao Conselho de Recursos do Seguro Social."
     ],
     "steps": [
-      "Guarde atestados, laudos e exames com datas.",
-      "Peça à empresa orientação por escrito sobre o afastamento.",
-      "Confira a possibilidade de benefício junto ao INSS."
+      "Entregue o atestado à empresa e guarde atestados, laudos e receitas, com as datas.",
+      "Se o afastamento passar de 15 dias, peça o auxílio-doença ao INSS pelo canal oficial do órgão.",
+      "Se foi acidente de trabalho, confira se a empresa fez a comunicação (CAT) e peça uma cópia.",
+      "Anote a data do fim do benefício: a garantia de 12 meses no emprego conta a partir dela."
     ],
     "documentsToKeep": [
+      "Atestados, laudos e receitas médicas, com datas",
+      "Cópia da CAT (comunicação de acidente de trabalho), se houver",
       "Carteira de trabalho (física ou digital)",
-      "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa"
+      "Comprovantes de pagamento dos 15 primeiros dias",
+      "Carta de concessão ou de negativa do benefício do INSS"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Se a empresa não fizer a CAT, você, seus dependentes, o sindicato, o médico que atendeu você ou qualquer autoridade pública podem comunicar o acidente à Previdência.",
+      "Se o INSS negar o benefício, procure a Defensoria Pública ou um advogado.",
+      "Se a empresa demitir você durante a garantia de 12 meses depois do acidente, procure o sindicato, a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -46,12 +58,18 @@
       "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
       "sphere": "federal",
       "provisions": [
-        "art. 59"
+        "art. 22",
+        "art. 59",
+        "art. 59, §1º",
+        "art. 60",
+        "art. 60, §3º",
+        "art. 60, §9º",
+        "art. 60, §11",
+        "art. 118"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
@@ -60,29 +78,11 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "59"
+          "22",
+          "59",
+          "60",
+          "118"
         ],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
         "provisionsMissing": []
       }
     }
@@ -91,8 +91,8 @@
     "PRE-001",
     "TRA-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

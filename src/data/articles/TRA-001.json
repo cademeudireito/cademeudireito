@@ -3,44 +3,53 @@
   "slug": "salario-atrasado",
   "title": "Meu salário está atrasado",
   "category": "trabalho",
-  "summary": "Entenda o básico sobre atraso de salário e o que reunir antes de buscar ajuda.",
+  "summary": "O salário mensal deve ser pago até o 5º dia útil do mês seguinte; veja o que fazer se atrasou.",
   "keywords": [
     "salário atrasado",
     "pagamento",
     "atraso",
-    "empregador"
+    "empregador",
+    "quinto dia útil",
+    "salário em atraso"
   ],
   "synonyms": [
     "não recebi salário",
     "patrão não paga",
-    "salário não caiu"
+    "salário não caiu",
+    "empresa atrasou meu pagamento",
+    "dia do pagamento",
+    "retenção de salário"
   ],
-  "quickAnswer": "A Constituição e a CLT tratam do pagamento de salário, e o que cabe fazer depende do seu tipo de vínculo, das datas e de normas coletivas. Reúna comprovantes e procure os canais oficiais; não é possível prometer resultado.",
+  "quickAnswer": "Quando o salário é mensal, a empresa deve pagar até o 5º dia útil do mês seguinte ao trabalhado. Passou disso, o salário está atrasado. Guarde contracheques e mensagens, cobre por escrito e procure o sindicato ou a fiscalização do trabalho.",
   "sections": {
-    "explanation": "Para entender o atraso, é importante saber a data combinada de pagamento, o tipo de contrato e se há norma coletiva da categoria. A regra geral precisa ser conferida na lei vigente.",
+    "explanation": "A lei não permite combinar o pagamento do salário por período maior que 1 mês (comissões, percentagens e gratificações são exceção). Se o salário é por mês, ele deve ser pago, no máximo, até o 5º dia útil do mês seguinte. A Constituição protege o salário e diz que reter o salário de propósito é crime. A empresa que não cumpre o contrato, inclusive atrasando o pagamento, pode dar a você o direito de considerar o contrato encerrado e pedir indenização, podendo até continuar trabalhando enquanto o caso é decidido.",
     "whenApplies": [
-      "Você trabalha com vínculo de emprego e o salário não foi pago na data devida."
+      "Você tem carteira assinada (ou vínculo de emprego) e o salário não saiu até o 5º dia útil do mês seguinte.",
+      "O pagamento vem sempre com atraso, ou vem só uma parte."
     ],
     "exceptions": [
-      "Não presuma que toda prestação de serviço é emprego com carteira assinada; isso depende dos fatos.",
-      "Regras podem variar para domésticos, temporários, aprendizes, servidores e autônomos."
+      "Comissões, percentagens e gratificações têm uma exceção na regra do prazo de 1 mês.",
+      "Quem trabalha por conta própria, sem vínculo de emprego, não é coberto por essas regras de empregado.",
+      "Domésticos, temporários e servidores públicos podem ter regras próprias.",
+      "Acordo ou convenção coletiva da sua categoria pode trazer regras a mais."
     ],
     "steps": [
-      "Confira o contrato e as datas de pagamento.",
-      "Reúna contracheques, extratos e mensagens sobre o atraso.",
-      "Procure o sindicato ou os canais oficiais para orientação."
+      "Veja no contrato, no contracheque ou no combinado qual é a data de pagamento.",
+      "Reúna contracheques, extratos do banco e mensagens sobre o atraso.",
+      "Cobre a empresa por escrito (mensagem ou e-mail) e guarde a resposta.",
+      "Se não resolver, procure o sindicato da sua categoria."
     ],
     "documentsToKeep": [
       "Carteira de trabalho (física ou digital)",
       "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
       "Mensagens, e-mails e documentos da empresa",
+      "Extratos do banco com os depósitos recebidos",
       "Convenção ou acordo coletivo da categoria, se conhecer"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Procure o sindicato da sua categoria: ele pode orientar você sobre as regras que valem para o seu trabalho.",
+      "Denuncie o atraso à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Se o atraso continua ou há valores altos a receber, procure a Defensoria Pública ou um advogado para entrar com ação na Justiça do Trabalho."
     ]
   },
   "legalReferences": [
@@ -48,12 +57,11 @@
       "name": "Constituição Federal de 1988",
       "sphere": "federal",
       "provisions": [
-        "art. 7º"
+        "art. 7º, X"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "constituicao.md",
@@ -71,12 +79,14 @@
       "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
       "sphere": "federal",
       "provisions": [
-        "regras de pagamento — a conferir"
+        "art. 459",
+        "art. 459, §1º",
+        "art. 483, d",
+        "art. 483, §3º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
@@ -84,28 +94,21 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "459",
+          "483"
+        ],
         "provisionsMissing": []
       }
-    },
-    {
-      "name": "Instrumentos coletivos (acordo/convenção) da categoria — conferir o seu",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
     }
   ],
   "relatedArticles": [
     "TRA-004",
-    "TRA-005"
+    "TRA-005",
+    "TRA-006"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

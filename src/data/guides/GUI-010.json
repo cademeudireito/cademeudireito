@@ -4,7 +4,7 @@
   "category": "transito",
   "title": "Tenho um problema de trânsito",
   "description": "Encontre o conteúdo sobre multa, acidente, pontos na CNH ou transferência de veículo.",
-  "status": "draft",
+  "status": "published",
   "startQuestion": "q1",
   "questions": {
     "q1": {
@@ -50,7 +50,7 @@
       "id": "r_multa",
       "title": "Multa de trânsito",
       "indicates": "Suas respostas indicam que pode valer a pena entender as etapas de defesa e os prazos da notificação.",
-      "rule": "O Código de Trânsito Brasileiro prevê auto de infração, defesa prévia e, depois, notificação da penalidade e recursos. Os prazos e os canais constam na própria notificação, e perder o prazo pode prejudicar a defesa.",
+      "rule": "A defesa prévia contra a multa tem prazo de no mínimo 30 dias, contado da notificação. Se a defesa for negada, cabe recurso, também com prazo de no mínimo 30 dias. Anote as datas da notificação e não deixe o prazo passar.",
       "steps": [
         "Leia a notificação e anote os prazos.",
         "Reúna documento do veículo, CNH e provas (fotos, vídeos).",
@@ -70,11 +70,11 @@
       "id": "r_pontos",
       "title": "Pontos na CNH",
       "indicates": "Suas respostas indicam que pode valer a pena entender a contagem de pontos e a suspensão.",
-      "rule": "O Código de Trânsito Brasileiro prevê números de pontos para cada infração, e a soma pode levar a penalidades como suspensão do direito de dirigir. Os limites e prazos mudam por lei, então confira a regra vigente e a sua situação no órgão de trânsito.",
+      "rule": "Cada infração dá de 3 a 7 pontos, conforme a gravidade. Se a soma chegar a 20, 30 ou 40 pontos em 12 meses, a suspensão do direito de dirigir é aplicada. O limite é 20 com duas ou mais infrações gravíssimas, 30 com uma e 40 sem nenhuma.",
       "steps": [
         "Consulte sua pontuação pelo canal oficial do órgão de trânsito.",
-        "Confira os prazos para defesa na notificação.",
-        "Em caso de suspensão, siga as instruções oficiais."
+        "Quando for notificado de uma multa, anote o prazo de defesa e de recurso.",
+        "Se a suspensão for aplicada, cumpra o prazo e faça o curso de reciclagem exigido."
       ],
       "documents": [
         "Notificação, auto de infração ou boletim de ocorrência",
@@ -90,7 +90,7 @@
       "id": "r_venda",
       "title": "Transferência de veículo",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer os cuidados na venda e na compra.",
-      "rule": "O Código de Trânsito prevê prazo e procedimento para a transferência de propriedade e para o antigo proprietário comunicar a venda ao órgão de trânsito. Quando isso não é feito, pode haver consequências, como responsabilidade por débitos.",
+      "rule": "Quem vendeu o veículo tem 60 dias para enviar ao órgão de trânsito o comprovante de transferência, assinado e datado. Se não enviar, responde junto com o comprador pelas multas até a comunicação. O novo dono tem 30 dias para fazer o novo registro.",
       "steps": [
         "Assine e guarde o comprovante da negociação.",
         "Comunique a venda ao órgão de trânsito pelo canal oficial.",
@@ -110,7 +110,7 @@
       "id": "r_vitima",
       "title": "Acidente com vítima",
       "indicates": "Suas respostas indicam que a prioridade é o socorro; depois, conhecer os cuidados de registro e provas.",
-      "rule": "Se houver vítima, o socorro é prioridade, e a lei trata como infração deixar de prestar socorro quando possível fazê-lo. Depois, registre o acidente e guarde provas. Quem responde pelos danos depende de análise do caso.",
+      "rule": "Se há vítima, o socorro vem primeiro. Deixar de prestar ou providenciar socorro, quando é possível, é infração gravíssima, com multa cinco vezes maior e suspensão do direito de dirigir (CTB, art. 176). Depois, preserve o local, registre a ocorrência e guarde provas.",
       "steps": [
         "Se houver feridos, chame socorro pelos canais de emergência.",
         "Fotografe a cena, os veículos e anote dados das pessoas e testemunhas.",
@@ -131,11 +131,11 @@
       "id": "r_acid",
       "title": "Acidente sem vítima",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer os cuidados de registro e provas.",
-      "rule": "Se houver vítima, o socorro é prioridade, e a lei trata como infração deixar de prestar socorro quando possível fazê-lo. Depois, registre o acidente e guarde provas. Quem responde pelos danos depende de análise do caso.",
+      "rule": "A regra de socorro do art. 176 vale para acidente com vítima. Se houve só danos materiais, fotografe os veículos e o local, troque nome, documento e contato com o outro condutor e anote a placa. Avise a seguradora e registre boletim de ocorrência, se preciso.",
       "steps": [
-        "Se houver feridos, chame socorro pelos canais de emergência.",
-        "Fotografe a cena, os veículos e anote dados das pessoas e testemunhas.",
-        "Registre a ocorrência e avise a seguradora, se houver."
+        "Fotografe os veículos, a cena e o local.",
+        "Troque nome, documento e contato com o outro condutor, e anote a placa.",
+        "Avise a seguradora e registre boletim de ocorrência, se preciso."
       ],
       "documents": [
         "Notificação, auto de infração ou boletim de ocorrência",
@@ -149,7 +149,7 @@
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/13-transito.md; dispositivos conferidos no texto das normas."
 }

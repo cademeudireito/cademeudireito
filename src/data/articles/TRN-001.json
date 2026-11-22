@@ -3,41 +3,48 @@
   "slug": "multa-de-transito-como-recorrer",
   "title": "Recebi uma multa de trânsito: posso recorrer?",
   "category": "transito",
-  "summary": "Como a multa é aplicada e por que a notificação traz os prazos e canais de defesa.",
+  "summary": "Você pode apresentar defesa e recurso contra a multa. O prazo de defesa prévia nunca é menor que 30 dias.",
   "keywords": [
     "multa",
     "recurso de multa",
     "defesa prévia",
     "auto de infração",
-    "DETRAN"
+    "DETRAN",
+    "recurso multa",
+    "JARI",
+    "prazo para recorrer multa"
   ],
   "synonyms": [
     "multa injusta",
     "contestar multa",
-    "notificação de penalidade"
+    "notificação de penalidade",
+    "quero recorrer da multa",
+    "multa sem notificação"
   ],
-  "quickAnswer": "O Código de Trânsito Brasileiro prevê auto de infração, defesa prévia e, depois, notificação da penalidade e recursos. Os prazos e os canais constam na própria notificação, e perder o prazo pode prejudicar a defesa.",
+  "quickAnswer": "A defesa prévia contra a multa tem prazo de no mínimo 30 dias, contado da notificação. Se a defesa for negada, cabe recurso, também com prazo de no mínimo 30 dias. Se a notificação foi devolvida por endereço desatualizado, ela vale do mesmo jeito.",
   "sections": {
-    "explanation": "O auto de infração deve conter dados mínimos. Erros nele podem ser alegados na defesa, mas isso depende do caso.",
+    "explanation": "Primeiro vem o auto de infração, que deve ter os dados da infração, como local, data, hora e placa (art. 280). A notificação de autuação informa o prazo de defesa prévia, que não pode ser menor que 30 dias (art. 281-A). Se a defesa for negada ou não for enviada no prazo, a multa é aplicada e uma nova notificação é enviada (art. 282). Dessa decisão cabe recurso, com prazo de no mínimo 30 dias contados da notificação (art. 282, §4º). O recurso tem efeito suspensivo: a multa fica suspensa enquanto é analisado, e vai para a JARI (art. 285).",
     "whenApplies": [
-      "Você recebeu auto de infração ou notificação de penalidade."
+      "Você recebeu auto de infração ou notificação de multa."
     ],
     "exceptions": [
-      "Os procedimentos variam conforme o órgão autuador (estadual, municipal ou federal).",
-      "Nem toda multa tem fundamento para cancelamento."
+      "Se o endereço do cadastro do veículo estiver desatualizado e você não receber a notificação, ela vale do mesmo jeito (art. 282, §1º). Atualize seu endereço.",
+      "Recurso enviado fora do prazo não tem efeito suspensivo e é arquivado (art. 285, §§ 1º e 5º)."
     ],
     "steps": [
-      "Leia a notificação e anote os prazos.",
-      "Reúna documento do veículo, CNH e provas (fotos, vídeos).",
-      "Apresente a defesa pelo canal oficial do órgão autuador."
+      "Leia a notificação e anote a data final da defesa prévia e do recurso.",
+      "Reúna documento do veículo, CNH e provas, como fotos e vídeos.",
+      "Apresente a defesa pelo canal oficial do órgão que autuou."
     ],
     "documentsToKeep": [
-      "Notificação, auto de infração ou boletim de ocorrência",
+      "Notificação ou auto de infração",
       "Documento do veículo e CNH",
-      "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+      "Fotos, vídeos e provas da situação",
+      "Protocolo da defesa e do recurso"
     ],
     "ifDenied": [
-      "Siga as instruções e os prazos da própria notificação e do órgão de trânsito competente.",
+      "Se a defesa for negada, cabe recurso dentro do prazo da notificação.",
+      "Guarde o protocolo: ele prova que você recorreu no prazo.",
       "Para dúvidas sobre o caso, procure a Defensoria Pública ou um advogado."
     ]
   },
@@ -46,12 +53,14 @@
       "name": "Lei nº 9.503/1997 — Código de Trânsito Brasileiro (CTB)",
       "sphere": "federal",
       "provisions": [
-        "arts. 280 a 290"
+        "art. 280",
+        "art. 281-A",
+        "art. 282",
+        "art. 285"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1997/lei-9503-1997-09-23.md",
@@ -61,16 +70,9 @@
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
           "280",
-          "281",
+          "281-A",
           "282",
-          "283",
-          "284",
-          "285",
-          "286",
-          "287",
-          "288",
-          "289",
-          "290"
+          "285"
         ],
         "provisionsMissing": []
       }
@@ -80,8 +82,8 @@
     "TRN-003",
     "TRN-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/13-transito.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -1,43 +1,48 @@
 {
   "id": "IDO-002",
   "slug": "gratuidade-transporte-coletivo-idosos",
-  "title": "Tenho direito a transporte coletivo gratuito?",
+  "title": "Transporte gratuito a partir de 65 anos",
   "category": "idosos",
-  "summary": "O que o Estatuto da Pessoa Idosa diz sobre a gratuidade nos transportes coletivos públicos.",
+  "summary": "A partir de 65 anos, a lei garante gratuidade nos transportes coletivos públicos urbanos e semiurbanos.",
   "keywords": [
     "transporte gratuito",
     "ônibus",
     "65 anos",
     "passe livre",
-    "gratuidade"
+    "gratuidade",
+    "gratuidade ônibus idoso"
   ],
   "synonyms": [
     "idoso ônibus de graça",
-    "carteira do idoso"
+    "carteira do idoso",
+    "idoso não paga ônibus",
+    "passagem grátis idoso"
   ],
-  "quickAnswer": "O Estatuto assegura aos maiores de 65 anos a gratuidade dos transportes coletivos públicos urbanos e semi-urbanos, exceto nos serviços seletivos e especiais prestados paralelamente aos regulares. Regras locais sobre cadastro e documento podem variar.",
+  "quickAnswer": "A partir de 65 anos, a lei garante transporte coletivo público gratuito nas cidades e nas regiões urbanas e semiurbanas. Basta um documento pessoal que prove a idade. Entre 60 e 65 anos, a regra depende da lei da sua cidade ou do seu estado.",
   "sections": {
-    "explanation": "A gratuidade é prevista na lei federal, mas a forma de comprovar a idade e de obter cartão ou identificação é definida em cada localidade.",
+    "explanation": "O Estatuto da Pessoa Idosa (art. 39) garante gratuidade aos maiores de 65 anos nos transportes coletivos públicos urbanos e semiurbanos. Para ter o benefício, basta apresentar qualquer documento pessoal que prove a idade. Nos ônibus, 10% dos assentos são reservados para pessoas idosas. No transporte entre estados, a lei prevê vagas gratuitas e desconto para pessoas idosas de baixa renda (art. 40).",
     "whenApplies": [
-      "Você tem mais de 65 anos e usa transporte coletivo urbano ou semi-urbano."
+      "Você tem 65 anos ou mais e usa transporte coletivo público urbano ou semiurbano."
     ],
     "exceptions": [
-      "Serviços seletivos e especiais ficam fora da regra geral.",
-      "Transporte interestadual tem regras próprias; confira."
+      "Serviços seletivos e especiais, prestados ao lado dos serviços regulares, não entram na gratuidade.",
+      "Entre 60 e 65 anos, a gratuidade depende da lei da sua cidade ou do seu estado.",
+      "No transporte entre estados, a lei prevê 2 vagas gratuitas por veículo e desconto de pelo menos 50% para pessoas idosas com renda de até 2 salários mínimos."
     ],
     "steps": [
-      "Verifique no órgão de transporte da sua cidade como obter o cartão ou o registro.",
-      "Leve documento oficial com foto.",
-      "Em caso de recusa, registre reclamação na ouvidoria da empresa ou do órgão."
+      "Pergunte no órgão de transporte da sua cidade como obter o cartão ou o registro da gratuidade.",
+      "Leve um documento pessoal que prove sua idade.",
+      "Se recusarem a gratuidade, peça a recusa por escrito e registre na ouvidoria da empresa ou do órgão."
     ],
     "documentsToKeep": [
-      "Documento de identificação e comprovante de idade",
-      "Contratos, boletos e comunicados relacionados",
-      "Protocolos e registros de atendimento"
+      "Documento pessoal que prove a idade",
+      "Cartão ou registro de gratuidade, se a sua cidade emitir",
+      "Protocolo ou resposta por escrito, se houver recusa"
     ],
     "ifDenied": [
-      "Procure a ouvidoria da empresa ou do órgão responsável.",
-      "Verifique os canais oficiais de proteção à pessoa idosa da sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+      "Peça a recusa por escrito, com o motivo, e registre na ouvidoria da empresa ou do órgão.",
+      "Procure o órgão de transporte da sua cidade ou do seu estado.",
+      "Se não resolver, procure o Ministério Público ou a Defensoria Pública."
     ]
   },
   "legalReferences": [
@@ -45,12 +50,12 @@
       "name": "Lei nº 10.741/2003 — Estatuto da Pessoa Idosa",
       "sphere": "federal",
       "provisions": [
-        "art. 39"
+        "art. 39",
+        "art. 40"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2003/lei-10741-2003-10-01.md",
@@ -59,7 +64,8 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "39"
+          "39",
+          "40"
         ],
         "provisionsMissing": []
       }
@@ -68,8 +74,8 @@
   "relatedArticles": [
     "IDO-001"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/10-pessoa-idosa.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

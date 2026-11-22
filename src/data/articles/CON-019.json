@@ -3,43 +3,53 @@
   "slug": "ligacoes-insistentes-de-cobranca-ou-vendas",
   "title": "Recebo ligações insistentes de cobrança ou vendas",
   "category": "consumidor",
-  "summary": "Quando a cobrança ou a oferta passa dos limites e como reclamar.",
+  "summary": "Empresas não podem cobrar ou vender de forma abusiva. Você pode pedir para parar de receber ofertas e reclamar se continuarem ligando.",
   "keywords": [
+    "ligações de cobrança",
     "telemarketing",
     "ligações insistentes",
-    "cobrança",
-    "spam",
-    "assédio de consumo"
+    "spam telefônico",
+    "parar de receber ligações",
+    "cobrança abusiva",
+    "ofertas por telefone"
   ],
   "synonyms": [
-    "muitas ligações",
-    "mensagens de cobrança",
-    "bloquear ligações"
+    "ligam toda hora",
+    "robô de cobrança",
+    "ligações de vendas",
+    "não me perturbe",
+    "parar telemarketing",
+    "cobrança no trabalho",
+    "mensagens de cobrança"
   ],
-  "quickAnswer": "O Código de Defesa do Consumidor proíbe expor o consumidor ao ridículo ou constrangimento na cobrança, e normas do setor de telecomunicações tratam de ligações de oferta. Se a insistência persistir, registre e reclame nos canais oficiais.",
+  "quickAnswer": "Empresas não podem usar ameaça, constrangimento ou cobrança que atrapalhe seu trabalho, descanso ou lazer. Em ligações de venda de telefonia, se você disser que não quer, a operadora deve encerrar a ligação e não ligar de novo para oferecer. Anote números, datas e horários e reclame no Procon e na Anatel.",
   "sections": {
-    "explanation": "Salve o número, a data e o horário de cada contato. Existem mecanismos oficiais para pedir bloqueio de ofertas de telemarketing.",
+    "explanation": "Na cobrança de dívidas, ninguém pode ser exposto a ridículo nem ameaçado. A lei também proíbe, e trata como crime, cobrar com ameaça, coação, constrangimento ou de forma que atrapalhe seu trabalho, descanso ou lazer. Todo documento de cobrança deve trazer o nome, o endereço e o CPF ou CNPJ de quem cobra. Para ofertas de telefonia, o regulamento da Anatel prevê que, se você disser que não quer, a ligação deve ser encerrada e a operadora deve respeitar sua escolha.",
     "whenApplies": [
-      "Você recebe contatos repetidos de uma mesma empresa."
+      "Você recebe ligações ou mensagens repetidas, de cobrança ou de venda, que atrapalham seu dia.",
+      "A cobrança é feita com ameaça, em horário abusivo ou perto de outras pessoas."
     ],
     "exceptions": [
-      "Se a dívida é real, o direito de cobrar existe, mas a forma não pode ser abusiva."
+      "A empresa pode cobrar uma dívida de forma educada, por meios e horários razoáveis.",
+      "Se a dívida não é sua, peça a origem dela por escrito (veja o artigo sobre cobrança que você não contratou)."
     ],
     "steps": [
-      "Registre números, datas e horários.",
-      "Peça por escrito que cessem os contatos indevidos.",
-      "Reclame no Procon e na Anatel, conforme o caso."
+      "Anote o número, a data, o horário e o que foi dito. Guarde prints e gravações.",
+      "Diga claramente à empresa, por escrito, que não quer mais receber ligações ou ofertas.",
+      "Peça o protocolo do pedido.",
+      "Se continuarem, reclame no Procon e na Anatel, levando suas anotações."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Registro de chamadas, com datas e horários",
+      "Prints de mensagens",
+      "Gravações, se houver",
+      "Protocolo do pedido para parar"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Reclame na Anatel se for operadora de telefonia, e no Procon para qualquer empresa.",
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Se a cobrança envolver ameaça ou constrangimento, procure a Defensoria Pública ou um advogado e leve as provas.",
+      "Registre ocorrência na polícia em caso de ameaça."
     ]
   },
   "legalReferences": [
@@ -47,12 +57,13 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "art. 42"
+        "art. 42",
+        "art. 42-A",
+        "art. 71"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -61,29 +72,31 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "42"
+          "42",
+          "42-A",
+          "71"
         ],
         "provisionsMissing": []
       }
     },
     {
-      "name": "Normas da Anatel sobre serviços de telecomunicações (a identificar)",
+      "name": "Resolução Anatel nº 765/2023 — Regulamento Geral de Direitos do Consumidor de Serviços de Telecomunicações (RGC)",
       "sphere": "federal",
       "provisions": [
-        "a identificar"
+        "art. 43"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
+      "officialUrl": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/462fd3ce384263570966a0f01970e89d",
+      "status": "verified",
+      "checkedAt": "2026-11-20"
     }
   ],
   "relatedArticles": [
-    "CON-020",
-    "CON-005"
+    "CON-005",
+    "CON-012",
+    "CON-020"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

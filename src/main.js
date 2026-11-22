@@ -51,9 +51,8 @@ async function renderPage(handler, ctx) {
     result = await NotFound({ ctx, content });
   }
   applyHead(result, content.site);
-  const banner = content.includeDrafts ? h('div', { class: 'review-banner', role: 'note' }, 'Site em construção: os conteúdos estão em revisão e ainda não foram validados juridicamente. ', h('a', { href: '/fontes-e-metodologia/' }, 'Saiba como conferimos as fontes'), '.') : null;
   const main = h('main', { id: 'conteudo', tabindex: '-1' }, result.main);
-  app.replaceChildren(banner, Header(content.site, location.pathname), main, Footer(content.site, content.categories));
+  app.replaceChildren(Header(content.site, location.pathname), main, Footer(content.site, content.categories));
   window.scrollTo(0, 0);
   if (!location.hash) {
     const heading = main.querySelector('h1');

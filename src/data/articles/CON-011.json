@@ -3,45 +3,54 @@
   "slug": "golpe-em-compra-ou-pagamento",
   "title": "Sofri um golpe em uma compra ou pagamento",
   "category": "consumidor",
-  "summary": "Primeiros cuidados e caminhos gerais quando uma compra ou um pagamento foi fruto de golpe.",
+  "summary": "Se você caiu em golpe em compra ou pagamento, avise o banco logo, guarde as provas e registre a ocorrência. A culpa não é sua.",
   "keywords": [
     "golpe",
     "fraude",
-    "pix",
-    "boleto falso",
-    "site falso"
+    "pix errado",
+    "site falso",
+    "compra falsa",
+    "estelionato",
+    "golpe no pix",
+    "cartão clonado"
   ],
   "synonyms": [
-    "fui enganado",
     "caí em golpe",
-    "transferi para golpista"
+    "fui enganado",
+    "paguei para golpista",
+    "loja falsa",
+    "compra não autorizada no cartão",
+    "golpe do falso vendedor",
+    "perdi dinheiro em golpe"
   ],
-  "quickAnswer": "Quem sofre golpe não tem culpa. Aja rápido: reúna provas, avise a instituição de pagamento e verifique como registrar ocorrência. Se algum fornecedor ou instituição terá responsabilidade, e se haverá ressarcimento, depende dos fatos e não pode ser prometido.",
+  "quickAnswer": "Avise o banco ou o cartão na hora, peça o bloqueio e a contestação, guarde as provas e registre ocorrência na polícia. Enganar alguém para ficar com o dinheiro é crime (estelionato). Nem sempre dá para recuperar o dinheiro, mas quanto antes você agir, melhor.",
   "sections": {
-    "explanation": "Cada golpe tem características diferentes. Se houve relação de consumo, o Código de Defesa do Consumidor pode ser relevante; regras bancárias e de pagamento também podem ser. Registrar tudo logo ajuda.",
+    "explanation": "Cair em golpe pode acontecer com qualquer pessoa e a culpa é de quem enganou. Enganar alguém para ficar com seu dinheiro é crime (estelionato), e golpe feito com informações obtidas por internet, telefone ou rede social é tratado como fraude eletrônica. Se o golpe envolveu uma empresa de verdade, como uma loja ou um banco, ela pode ter de responder pelo dano causado por falha no serviço. No cartão, a lei proíbe a empresa de dificultar que você peça o bloqueio ou a anulação do pagamento em caso de uso fraudulento.",
     "whenApplies": [
-      "Você pagou por produto ou serviço inexistente ou fraudulento.",
-      "Você transferiu valores a alguém que se passou por outra pessoa ou empresa."
+      "Você pagou por produto ou serviço de loja falsa ou de golpista.",
+      "Uma compra ou transferência foi feita sem sua autorização, ou com seus dados roubados."
     ],
     "exceptions": [
-      "Responsabilidade de empresas e bancos depende do caso concreto.",
-      "Não há garantia de recuperação de valores."
+      "Nem sempre o dinheiro volta. Depende de como o pagamento foi feito e de quanto tempo passou.",
+      "Se a empresa de verdade falhou, como o banco ou a loja, pode haver responsabilidade dela. Cada caso é diferente."
     ],
     "steps": [
-      "Guarde prints, comprovantes, links e dados da conta que recebeu o valor.",
-      "Avise rapidamente seu banco ou a instituição de pagamento pelos canais oficiais.",
-      "Verifique como registrar ocorrência no seu estado."
+      "Avise o banco ou o cartão imediatamente, pelo canal oficial, e peça bloqueio e contestação. Anote o protocolo.",
+      "Guarde provas: prints, comprovantes, conversas, anúncio, número e nome da conta que recebeu.",
+      "Registre a ocorrência na polícia.",
+      "Troque senhas e fique atento a novas cobranças."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Comprovantes de pagamento ou transferência",
+      "Prints de conversas, anúncio e perfil do golpista",
+      "Protocolos do banco ou do cartão",
+      "Boletim de ocorrência"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Se o banco ou o cartão negar a contestação, peça a negativa por escrito e reclame na ouvidoria da instituição e no Banco Central.",
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -49,12 +58,12 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 14",
+        "art. 54-G, III"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -62,31 +71,23 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "14",
+          "54-G"
+        ],
         "provisionsMissing": []
       }
-    },
-    {
-      "name": "Normas do Banco Central sobre pagamentos e instituições financeiras (a identificar)",
-      "sphere": "federal",
-      "provisions": [
-        "a identificar"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
     },
     {
       "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 171",
+        "art. 171, § 2º-A"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1940/del-2848-1940-12-07.md",
@@ -94,18 +95,21 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "171"
+        ],
         "provisionsMissing": []
       }
     }
   ],
   "relatedArticles": [
     "DIG-003",
+    "CON-005",
     "CON-006",
     "CON-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

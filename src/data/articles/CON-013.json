@@ -3,44 +3,54 @@
   "slug": "voo-atrasado-ou-cancelado",
   "title": "Meu voo foi atrasado ou cancelado",
   "category": "consumidor",
-  "summary": "O que considerar quando o voo atrasa, é cancelado ou há preterição de embarque.",
+  "summary": "Se o voo atrasou muito ou foi cancelado, a companhia deve informar, dar assistência (como alimentação e hospedagem) e oferecer alternativas.",
   "keywords": [
     "voo atrasado",
     "voo cancelado",
-    "overbooking",
-    "passagem aérea",
-    "companhia aérea"
+    "companhia aérea",
+    "ANAC",
+    "direitos do passageiro",
+    "reembolso passagem",
+    "overbooking"
   ],
   "synonyms": [
-    "perdi o voo",
-    "bagagem extraviada",
-    "reembolso de passagem"
+    "avião atrasou",
+    "perdi a conexão",
+    "companhia cancelou meu voo",
+    "não quiseram me embarcar",
+    "hospedagem por atraso de voo",
+    "remarcação de voo",
+    "devolução de passagem"
   ],
-  "quickAnswer": "O transporte aéreo envolve o Código de Defesa do Consumidor e regras da ANAC sobre assistência material, reacomodação e reembolso. O que você pode pedir depende do tempo de atraso, do motivo e do que a companhia ofereceu. Guarde tudo.",
+  "quickAnswer": "A companhia aérea deve informar você sobre o atraso ou cancelamento e oferecer assistência gratuita: alimentação depois de 2 horas de espera e hospedagem com transporte se for preciso pernoitar (depois de 4 horas). Em atraso longo ou cancelamento, você também pode pedir reacomodação, reembolso ou outro meio de transporte.",
   "sections": {
-    "explanation": "Em geral, a empresa deve prestar informação e assistência conforme o tempo de espera. As regras exatas estão em norma da agência reguladora e precisam ser conferidas.",
+    "explanation": "Quando o voo atrasa, é cancelado ou interrompido, a companhia deve informar você logo, com a nova previsão, e manter você atualizado. A assistência material é gratuita e depende do tempo de espera: depois de 2 horas, alimentação (refeição, vale ou equivalente); depois de 4 horas, hospedagem, se for preciso pernoitar, e transporte de ida e volta. Em atraso longo ou cancelamento, você pode escolher entre reacomodação em outro voo, reembolso ou outro meio de transporte. Além disso, a empresa responde pelo dano causado por falha no serviço.",
     "whenApplies": [
-      "O voo atrasou, foi cancelado ou você foi impedido de embarcar."
+      "O voo atrasou por muito tempo, foi cancelado ou interrompido.",
+      "Você foi impedido de embarcar mesmo tendo se apresentado a tempo, ou perdeu a conexão por culpa da companhia."
     ],
     "exceptions": [
-      "Motivos de segurança e clima podem alterar a análise da responsabilidade.",
-      "Voos internacionais podem seguir outras regras."
+      "A hospedagem pode ser dispensada se você mora na cidade do aeroporto de origem e a companhia oferece transporte de ida e volta.",
+      "A assistência pode ser dispensada se você escolher ser reacomodado em outro voo em data de sua conveniência ou pedir o reembolso total.",
+      "Cada caso é diferente: as regras da ANAC podem ser atualizadas."
     ],
     "steps": [
-      "Peça por escrito o motivo e a solução oferecida.",
-      "Guarde bilhete, cartão de embarque e comprovantes de gastos.",
-      "Registre reclamação na companhia e nos canais oficiais de defesa do consumidor."
+      "Peça informações no balcão da companhia e anote a nova previsão do voo.",
+      "Peça a assistência a que você tem direito, como alimentação e hospedagem.",
+      "Guarde cartão de embarque, e-mails, mensagens e notas dos gastos.",
+      "Escolha o que prefere: reacomodação, reembolso ou outro meio de transporte, e peça por escrito."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Passagem e cartão de embarque",
+      "Mensagens da companhia sobre o atraso ou cancelamento",
+      "Notas e recibos dos gastos extras",
+      "Prints do painel de voos e fotos, se houver"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Reclame primeiro com a companhia e guarde o protocolo. Se não resolver, use a plataforma Anac Passageiro, da ANAC.",
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -48,13 +58,12 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "art. 6º",
+        "art. 6º, III",
         "art. 14"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -70,23 +79,22 @@
       }
     },
     {
-      "name": "Normas da ANAC sobre direitos do passageiro (a identificar)",
+      "name": "Resolução ANAC nº 400/2016 — Condições Gerais de Transporte Aéreo (direitos do passageiro)",
       "sphere": "federal",
       "provisions": [
-        "a identificar"
+        "arts. 20 a 27"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
+      "officialUrl": "https://www.anac.gov.br/acesso-a-informacao/reunioes-da-diretoria-colegiada/reunioes-deliberativas-da-diretoria/2016/26a-reuniao-deliberativa-da-diretoria/00058-054992-2014-33/ra2016-0400-retificada.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-20"
     }
   ],
   "relatedArticles": [
-    "CON-012",
-    "CON-006"
+    "CON-006",
+    "CON-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

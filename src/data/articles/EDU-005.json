@@ -3,41 +3,46 @@
   "slug": "inclusao-de-aluno-com-deficiencia",
   "title": "A escola recusou ou dificultou a matrícula de aluno com deficiência",
   "category": "educacao",
-  "summary": "O direito à educação inclusiva previsto na Lei Brasileira de Inclusão.",
+  "summary": "Recusar, cobrar a mais ou cancelar a matrícula por causa da deficiência é crime.",
   "keywords": [
     "educação inclusiva",
     "matrícula",
     "deficiência",
     "adaptação",
-    "escola"
+    "escola",
+    "aluno com deficiência"
   ],
   "synonyms": [
     "escola não aceita aluno com deficiência",
-    "cobrança por acompanhante"
+    "cobrança por acompanhante",
+    "recusou matrícula deficiência",
+    "escola cobrou mais por aluno com deficiência"
   ],
-  "quickAnswer": "A Lei Brasileira de Inclusão afirma que a educação é direito da pessoa com deficiência, assegurado sistema educacional inclusivo em todos os níveis e aprendizado ao longo da vida. A lei lista também o que incumbe ao poder público assegurar.",
+  "quickAnswer": "Nenhuma escola pode recusar, cobrar valor extra, suspender ou cancelar a matrícula de aluno por causa da deficiência. Isso é crime, com pena de 2 a 5 anos de reclusão e multa. Peça a recusa por escrito e guarde as provas.",
   "sections": {
-    "explanation": "Recusa de matrícula por causa da deficiência merece atenção e pode ter consequências legais. Peça a recusa por escrito.",
+    "explanation": "A educação é direito da pessoa com deficiência, com sistema educacional inclusivo em todos os níveis (Lei 13.146/2015, art. 27). Recusar a matrícula, cobrar valor extra, suspender ou cancelar a inscrição por causa da deficiência é crime (Lei 7.853/1989, art. 8º, I), com pena de reclusão de 2 a 5 anos e multa. A regra vale para escolas públicas e privadas.",
     "whenApplies": [
-      "A escola recusou, dificultou ou cobrou valor extra pela condição do aluno."
+      "A escola recusou, atrasou, dificultou ou cobrou valor extra para matricular aluno com deficiência."
     ],
     "exceptions": [
-      "O enquadramento e as medidas dependem do caso."
+      "O crime exige que a recusa ou a cobrança seja por causa da deficiência. Cada caso precisa ser analisado com calma.",
+      "Se a escola der outro motivo, peça a explicação por escrito."
     ],
     "steps": [
-      "Registre o pedido de matrícula e a resposta por escrito.",
-      "Reúna laudos e documentos do aluno.",
+      "Peça a matrícula por escrito. Se houver recusa, peça também a recusa por escrito, com o motivo.",
+      "Reúna laudos, relatórios e documentos do aluno, e o comprovante do pedido.",
       "Procure a secretaria de educação, o Ministério Público ou a Defensoria Pública."
     ],
     "documentsToKeep": [
-      "Contrato de prestação de serviços educacionais",
-      "Boletos e comprovantes de pagamento",
-      "Comunicados e regulamento da instituição"
+      "Pedido de matrícula e a resposta por escrito da escola",
+      "Laudos, relatórios e documentos do aluno",
+      "Comprovantes de cobrança extra, se houver",
+      "Mensagens e e-mails trocados com a escola"
     ],
     "ifDenied": [
-      "Verifique o Procon da sua localidade, se for instituição privada.",
-      "Para rede pública, procure a secretaria de educação ou a ouvidoria competente.",
-      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a ocorrência na polícia. A recusa por causa da deficiência é crime (Lei 7.853/1989, art. 8º, I).",
+      "Procure o Ministério Público, que pode atuar no caso.",
+      "Procure a Defensoria Pública ou um advogado para orientação."
     ]
   },
   "legalReferences": [
@@ -45,13 +50,11 @@
       "name": "Lei nº 13.146/2015 — Lei Brasileira de Inclusão da Pessoa com Deficiência",
       "sphere": "federal",
       "provisions": [
-        "art. 27",
-        "art. 28"
+        "art. 27"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-07-06;13146",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2015/lei-13146-2015-07-06.md",
@@ -60,8 +63,29 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "27",
-          "28"
+          "27"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 7.853/1989 (apoio às pessoas com deficiência)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 8º, I"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1989-10-24;7853",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1989/lei-7853-1989-10-24.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1989-10-24;7853",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "8"
         ],
         "provisionsMissing": []
       }
@@ -71,8 +95,8 @@
     "PCD-001",
     "EDU-002"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/07-educacao.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

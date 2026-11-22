@@ -3,47 +3,57 @@
   "slug": "produto-com-defeito",
   "title": "Recebi um produto com defeito",
   "category": "consumidor",
-  "summary": "O que considerar quando um produto apresenta defeito: tipo de defeito, tempo, comunicação à empresa e provas.",
+  "summary": "Produto com defeito: você pode pedir conserto, troca, dinheiro de volta ou desconto, e o prazo para reclamar é de 30 ou 90 dias.",
   "keywords": [
+    "produto com defeito",
     "defeito",
-    "produto estragou",
-    "vício do produto",
-    "assistência técnica",
-    "conserto"
+    "conserto",
+    "troca",
+    "devolução",
+    "garantia",
+    "30 dias",
+    "90 dias",
+    "assistência técnica"
   ],
   "synonyms": [
     "produto quebrou",
-    "veio com problema",
+    "veio estragado",
     "não funciona",
-    "estragou"
+    "celular com defeito",
+    "geladeira com defeito",
+    "eletrodoméstico estragou",
+    "vício do produto",
+    "mandar para a assistência"
   ],
-  "quickAnswer": "O Código de Defesa do Consumidor trata dos vícios (defeitos) de produtos em artigos específicos. A solução possível e os prazos variam conforme o tipo de produto (durável ou não), se o defeito era aparente ou oculto e as circunstâncias. Não é correto afirmar que todo defeito dá direito imediato a dinheiro de volta.",
+  "quickAnswer": "Se o produto tem defeito, a loja ou o fabricante tem 30 dias para consertar. Passado esse prazo, você escolhe: trocar, receber o dinheiro de volta ou ter desconto. Para reclamar de defeito que você vê logo, o prazo é de 30 dias (produto que dura pouco) ou 90 dias (produto durável).",
   "sections": {
-    "explanation": "A lei prevê responsabilidade do fornecedor por defeitos que tornam o produto impróprio ao uso ou diminuem seu valor. As alternativas e os prazos dependem de detalhes que precisam ser conferidos nos artigos citados.",
+    "explanation": "A loja e o fabricante respondem juntos pelo defeito do produto. Eles têm até 30 dias para consertar. Se não consertarem, você escolhe: um produto novo, o dinheiro de volta ou um desconto no preço. Para defeito que dá para ver logo, você tem 30 dias (produtos que duram pouco, como comida) ou 90 dias (produtos duráveis, como geladeira, celular e móveis) para reclamar. O prazo conta da entrega do produto.",
     "whenApplies": [
-      "O produto não funciona como deveria ou veio diferente do anunciado.",
-      "Você quer entender o que pedir à empresa e o que guardar como prova."
+      "O produto não funciona direito, estraga com facilidade ou é diferente do que foi anunciado.",
+      "Você percebeu o problema e avisou a loja ou o fabricante dentro do prazo."
     ],
     "exceptions": [
-      "Prazos e alternativas dependem de o produto ser durável ou não, e de o defeito ser aparente ou oculto.",
-      "Mau uso pode afastar a responsabilidade do fornecedor.",
-      "Se o defeito colocar sua segurança em risco, pare de usar o produto e procure o canal competente."
+      "Se o defeito só aparece depois de um tempo (defeito escondido), o prazo de 30 ou 90 dias conta a partir do dia em que o defeito aparece.",
+      "Você pode exigir a troca, o dinheiro ou o desconto na hora, sem esperar os 30 dias, se o conserto puder piorar o produto, diminuir o valor dele ou se ele for essencial.",
+      "Defeito causado por mau uso é uma situação diferente: cada caso é analisado com as provas."
     ],
     "steps": [
-      "Anote quando percebeu o defeito e registre com fotos ou vídeos.",
-      "Comunique o fornecedor por escrito, descrevendo o defeito e o que você pede.",
-      "Guarde nota fiscal, protocolo e todas as respostas recebidas."
+      "Reclame com a loja ou o fabricante o quanto antes, por um canal que dê protocolo. Fazer a reclamação dentro do prazo evita perder o direito até a resposta da empresa.",
+      "Diga o que você quer: conserto, troca, dinheiro de volta ou desconto.",
+      "Se a empresa mandar o produto para conserto, peça o comprovante de entrega e anote a data.",
+      "Se passarem 30 dias sem conserto, escolha entre troca, dinheiro de volta ou desconto."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Nota fiscal ou comprovante de compra",
+      "Fotos e vídeos do defeito",
+      "Protocolos, e-mails e mensagens",
+      "Ordem de serviço da assistência técnica"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Peça a negativa por escrito. Ela serve de prova e mostra que você reclamou dentro do prazo.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -51,12 +61,12 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "arts. 18 a 26"
+        "art. 18",
+        "art. 26"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir vício do produto, prazos e distinção entre durável/não durável e aparente/oculto.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -66,13 +76,6 @@
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
           "18",
-          "19",
-          "20",
-          "21",
-          "22",
-          "23",
-          "24",
-          "25",
           "26"
         ],
         "provisionsMissing": []
@@ -82,10 +85,11 @@
   "relatedArticles": [
     "CON-003",
     "CON-004",
-    "CON-012"
+    "CON-012",
+    "CON-016"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

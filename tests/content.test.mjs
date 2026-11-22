@@ -6,14 +6,21 @@ import { validateContent, buildPublicContent, filterPublic } from '../src/servic
 const data = load();
 
 test('conteúdo atual é válido', () => assert.deepEqual(validateContent(data).errors, []));
-test('assuntos cadastrados estão todos em rascunho', () => {
+test('assuntos cadastrados estão todos publicados e revisados', () => {
   assert.ok(data.articles.length >= 30);
-  assert.ok(data.articles.every((a) => a.status === 'draft' && a.reviewStatus === 'pending_review' && a.lastReviewed === null));
+  assert.ok(data.articles.every((a) => a.status === 'published' && a.reviewStatus === 'approved' && a.lastReviewed));
+  assert.ok(data.guides.every((g) => g.status === 'published' && g.reviewStatus === 'approved'));
 });
-test('modo estrito não contém rascunhos', () => {
+test('modo estrito mostra todo o conteúdo publicado', () => {
   const pub = buildPublicContent(data);
-  assert.equal(pub.articles.length, 0);
-  assert.equal(pub.guides.length, 0);
+  assert.equal(pub.articles.length, data.articles.length);
+  assert.equal(pub.guides.length, data.guides.length);
+});
+test('modo estrito esconde rascunhos', () => {
+  const d = structuredClone(data);
+  d.articles[0].status = 'draft';
+  const pub = buildPublicContent(d);
+  assert.ok(!pub.articles.some((a) => a.id === d.articles[0].id));
 });
 test('com rascunhos visíveis, mostra draft/pending/outdated/published e nunca archived', () => {
   const d = structuredClone(data);
@@ -38,7 +45,9 @@ test('apenas published é público', () => {
 });
 test('publicar sem verificação é bloqueado pelo validador', () => {
   const bad = structuredClone(data);
-  bad.articles[0].status = 'published';
+  bad.articles[0].reviewStatus = 'pending_review';
+  bad.articles[0].legalReferences[0].status = 'pending_verification';
+  bad.articles[0].legalReferences[0].officialUrl = null;
   const { errors } = validateContent(bad);
   assert.ok(errors.some((e) => /reviewStatus "approved"/.test(e)));
   assert.ok(errors.some((e) => /não verificada|sem URL oficial/.test(e)));
@@ -55,7 +64,7 @@ test('detecta slug duplicado, categoria inexistente e relacionado inexistente', 
 });
 test('guia publicado com artigo não publicado é barrado', () => {
   const bad = structuredClone(data);
-  bad.guides[0].status = 'published';
-  bad.guides[0].reviewStatus = 'approved';
+  const target = bad.guides[0].results[Object.keys(bad.guides[0].results)[0]].articleId;
+  bad.articles.find((a) => a.id === target).status = 'draft';
   assert.ok(validateContent(bad).errors.some((e) => /artigo não publicado/.test(e)));
 });

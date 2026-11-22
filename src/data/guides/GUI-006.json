@@ -4,7 +4,7 @@
   "category": "trabalho",
   "title": "Tenho um problema no trabalho",
   "description": "Responda perguntas simples para encontrar o conteúdo sobre o seu problema de trabalho.",
-  "status": "draft",
+  "status": "published",
   "startQuestion": "q1",
   "questions": {
     "q1": {
@@ -88,85 +88,91 @@
     "r_sal": {
       "id": "r_sal",
       "title": "Salário atrasado",
-      "indicates": "Suas respostas indicam que pode valer a pena conhecer o conteúdo sobre atraso de salário e o que reunir antes de buscar ajuda.",
-      "rule": "A Constituição e a CLT tratam do pagamento de salário, e o que cabe fazer depende do seu tipo de vínculo, das datas e de normas coletivas. Reúna comprovantes e procure os canais oficiais; não é possível prometer resultado.",
+      "indicates": "Suas respostas indicam que o conteúdo sobre salário atrasado pode ajudar você a entender o prazo de pagamento e o que fazer.",
+      "rule": "Quando o salário é mensal, a empresa deve pagar até o 5º dia útil do mês seguinte ao trabalhado. Passou disso, o salário está atrasado. Guarde contracheques e mensagens, cobre por escrito e procure o sindicato ou a fiscalização do trabalho.",
       "steps": [
-        "Confira o contrato e as datas de pagamento.",
-        "Reúna contracheques, extratos e mensagens sobre o atraso.",
-        "Procure o sindicato ou os canais oficiais para orientação."
+        "Veja no contrato, no contracheque ou no combinado qual é a data de pagamento.",
+        "Reúna contracheques, extratos do banco e mensagens sobre o atraso.",
+        "Cobre a empresa por escrito (mensagem ou e-mail) e guarde a resposta.",
+        "Se não resolver, procure o sindicato da sua categoria."
       ],
       "documents": [
         "Carteira de trabalho (física ou digital)",
         "Contracheques e comprovantes de pagamento",
-        "Controle de jornada, quando houver",
         "Mensagens, e-mails e documentos da empresa",
+        "Extratos do banco com os depósitos recebidos",
         "Convenção ou acordo coletivo da categoria, se conhecer"
       ],
       "articleId": "TRA-001",
       "relatedArticleIds": [
-        "TRA-005"
+        "TRA-006",
+        "TRA-004"
       ]
     },
     "r_13": {
       "id": "r_13",
       "title": "13º salário",
-      "indicates": "Suas respostas indicam que pode valer a pena conferir as regras do 13º salário.",
-      "rule": "O 13º salário é previsto em lei específica e em sua regulamentação. Regras de cálculo e de pagamento precisam ser conferidas na norma vigente; o seu caso pode depender do tempo de serviço e do tipo de contrato.",
+      "indicates": "Suas respostas indicam que o conteúdo sobre o 13º salário pode ajudar você a conferir prazo e valor.",
+      "rule": "O 13º salário vale 1/12 da remuneração de dezembro para cada mês trabalhado no ano (15 dias ou mais contam como mês inteiro). A empresa deve pagar até 20 de dezembro, descontando o adiantamento, que é metade do salário e pode ser pago entre fevereiro e novembro.",
       "steps": [
-        "Reúna contracheques do ano.",
-        "Anote datas de admissão e eventuais afastamentos.",
-        "Procure o sindicato ou canais oficiais para orientação."
+        "Reúna os contracheques do ano e veja se o adiantamento e a parcela final aparecem.",
+        "Anote a data em que você começou a trabalhar e eventuais afastamentos.",
+        "Cobre a empresa por escrito e guarde a resposta.",
+        "Se não resolver, procure o sindicato da sua categoria."
       ],
       "documents": [
         "Carteira de trabalho (física ou digital)",
-        "Contracheques e comprovantes de pagamento",
-        "Controle de jornada, quando houver",
-        "Mensagens, e-mails e documentos da empresa",
-        "Convenção ou acordo coletivo da categoria, se conhecer"
+        "Contracheques do ano",
+        "Comprovantes de depósito do adiantamento e da parcela final",
+        "Mensagens e e-mails sobre o pagamento"
       ],
       "articleId": "TRA-006",
       "relatedArticleIds": [
-        "TRA-001"
+        "TRA-001",
+        "TRA-004"
       ]
     },
     "r_fer": {
       "id": "r_fer",
       "title": "Férias e adicional",
-      "indicates": "Suas respostas indicam que pode valer a pena conferir as regras de férias.",
-      "rule": "A Constituição prevê férias com um adicional, e a CLT detalha regras (período, concessão, pagamento). Os detalhes — como prazos, fracionamento e exceções — precisam ser conferidos na norma vigente e no seu caso.",
+      "indicates": "Suas respostas indicam que o conteúdo sobre férias e adicional de um terço pode ajudar você.",
+      "rule": "Depois de cada 12 meses de trabalho, você tem direito a férias, em geral de 30 dias, pagas com um terço a mais. O pagamento deve sair até 2 dias antes de as férias começarem. Se a empresa der as férias depois do prazo, tem de pagar em dobro.",
       "steps": [
-        "Liste períodos de trabalho e férias já gozadas.",
-        "Guarde recibos de férias e contracheques.",
-        "Procure orientação do sindicato ou dos canais oficiais."
+        "Confira a data em que você completou 12 meses de trabalho.",
+        "Peça as férias, ou cobre o pagamento, por escrito (mensagem ou e-mail).",
+        "Veja no recibo se veio o um terço a mais e se o pagamento saiu até 2 dias antes das férias.",
+        "Guarde os recibos de férias para comparar depois."
       ],
       "documents": [
         "Carteira de trabalho (física ou digital)",
-        "Contracheques e comprovantes de pagamento",
-        "Controle de jornada, quando houver",
-        "Mensagens, e-mails e documentos da empresa",
+        "Recibos de férias",
+        "Contracheques",
+        "Avisos ou mensagens sobre as datas de férias",
         "Convenção ou acordo coletivo da categoria, se conhecer"
       ],
       "articleId": "TRA-002",
       "relatedArticleIds": [
-        "TRA-001"
+        "TRA-001",
+        "TRA-004"
       ]
     },
     "r_dem": {
       "id": "r_dem",
       "title": "Demissão: verbas e documentos",
-      "indicates": "Suas respostas indicam que pode valer a pena entender quais verbas podem ser discutidas e o que guardar.",
-      "rule": "Quais verbas podem ser devidas depende da modalidade de rescisão, do contrato e do tempo de serviço. A CLT e a legislação do FGTS são ponto de partida; confira os requisitos e peça orientação para o seu caso.",
+      "indicates": "Suas respostas indicam que o conteúdo sobre demissão pode ajudar você a entender o que a empresa deve pagar e o que guardar.",
+      "rule": "A empresa deve pagar o que você tem direito em até 10 dias depois do fim do contrato. O que entra depende do motivo da saída. Na demissão sem justa causa, em geral: saldo de salário, férias com 1/3, 13º proporcional, aviso prévio e multa de 40% do FGTS.",
       "steps": [
-        "Guarde o termo de rescisão e comprovantes de pagamento.",
-        "Confira extrato do FGTS pelos canais oficiais.",
-        "Procure orientação antes de assinar documentos que não compreenda."
+        "Confira o termo de rescisão: cada parcela precisa aparecer com o valor.",
+        "Veja se o pagamento saiu em até 10 dias depois do fim do contrato.",
+        "Peça o extrato do FGTS e confira os depósitos e a multa de 40%.",
+        "Só assine depois de ler e entender, e peça uma cópia. A quitação vale só para as parcelas escritas no recibo."
       ],
       "documents": [
-        "Carteira de trabalho (física ou digital)",
-        "Contracheques e comprovantes de pagamento",
-        "Controle de jornada, quando houver",
-        "Mensagens, e-mails e documentos da empresa",
-        "Convenção ou acordo coletivo da categoria, se conhecer"
+        "Termo de rescisão do contrato e comprovantes de pagamento",
+        "Carteira de trabalho com a saída anotada",
+        "Aviso prévio ou comunicação da dispensa",
+        "Extrato do FGTS",
+        "Últimos contracheques"
       ],
       "articleId": "TRA-004",
       "relatedArticleIds": [
@@ -177,54 +183,61 @@
     "r_grav": {
       "id": "r_grav",
       "title": "Gravidez: licença e proteção",
-      "indicates": "Suas respostas indicam que pode valer a pena conhecer a licença-maternidade e a proteção da gestante no emprego.",
-      "rule": "A CLT prevê que a empregada gestante tem direito à licença-maternidade de 120 dias, sem prejuízo do emprego e do salário, e leis mais recentes podem ter alterado detalhes. A Constituição também protege contra dispensa arbitrária ou sem justa causa. Confira o texto vigente.",
+      "indicates": "Suas respostas indicam que o conteúdo sobre licença-maternidade e estabilidade da gestante pode ajudar você.",
+      "rule": "A empregada gestante tem direito a 120 dias de licença-maternidade, sem perder o emprego e o salário. Da confirmação da gravidez até 5 meses depois do parto, a empresa não pode demitir sem justa causa. Avise a empresa e entregue o atestado médico.",
       "steps": [
-        "Informe a empresa por escrito e entregue o atestado.",
-        "Guarde cópia de tudo o que entregou.",
-        "Se houver dispensa ou pressão, procure o sindicato, a Defensoria Pública ou advogado."
+        "Avise a empresa por escrito e entregue o atestado médico com a data de início do afastamento.",
+        "Guarde cópia de tudo o que entregou, com a data.",
+        "Use o direito de faltar para as consultas e exames, e guarde os comprovantes.",
+        "Se a empresa pressionar ou demitir, guarde mensagens e procure ajuda."
       ],
       "documents": [
         "Carteira de trabalho (física ou digital)",
-        "Contracheques e comprovantes de pagamento",
-        "Controle de jornada, quando houver",
-        "Mensagens, e-mails e documentos da empresa"
+        "Atestado médico de gravidez e comprovantes de consultas",
+        "Comprovante de que você avisou a empresa",
+        "Contracheques",
+        "Mensagens e e-mails da empresa"
       ],
       "articleId": "TRA-008",
       "relatedArticleIds": [
-        "PRE-005"
+        "PRE-005",
+        "TRA-004"
       ]
     },
     "r_moral": {
       "id": "r_moral",
       "title": "Possível assédio moral",
-      "indicates": "Suas respostas indicam que pode valer a pena conhecer o que se discute como assédio moral e como registrar o que acontece. O enquadramento do seu caso não é feito aqui.",
-      "rule": "A dignidade da pessoa humana é fundamento da Constituição, e a CLT prevê hipóteses em que o empregado pode considerar rescindido o contrato por falta grave do empregador. Se o seu caso é assédio moral depende de fatos, repetição e provas.",
+      "indicates": "Suas respostas indicam que o conteúdo sobre humilhação e assédio moral pode ajudar você a entender o que a lei diz e como registrar o que acontece. O enquadramento do seu caso não é feito aqui.",
+      "rule": "A lei não tem um artigo só sobre assédio moral, mas humilhar, gritar ou perseguir pode ferir sua honra e dignidade. A CLT lista faltas graves da empresa que permitem encerrar o contrato e pedir indenização. Anote datas e falas, guarde provas e procure ajuda.",
       "steps": [
-        "Anote datas, locais e o que foi dito, e guarde mensagens.",
-        "Verifique se há canal interno de denúncia.",
-        "Procure o sindicato, a Defensoria Pública ou advogado."
+        "Anote datas, horários, locais e o que foi dito ou feito, com o nome de quem viu.",
+        "Guarde mensagens, e-mails, áudios e prints. Não apague nada.",
+        "Veja se a empresa tem canal de denúncia, ouvidoria, RH ou Cipa (comissão de prevenção de acidentes e de assédio) e registre o caso por escrito.",
+        "Procure o sindicato, a Defensoria Pública ou um advogado antes de tomar uma decisão grande."
       ],
       "documents": [
-        "Carteira de trabalho (física ou digital)",
-        "Contracheques e comprovantes de pagamento",
-        "Controle de jornada, quando houver",
-        "Mensagens, e-mails e documentos da empresa"
+        "Anotações com datas, horários e falas",
+        "Mensagens, e-mails, áudios e prints",
+        "Nomes e contatos de testemunhas",
+        "Atestados e laudos médicos, se a situação afetou sua saúde",
+        "Carteira de trabalho (física ou digital) e contracheques"
       ],
       "articleId": "TRA-011",
       "relatedArticleIds": [
-        "TRA-004"
-      ]
+        "TRA-004",
+        "MUL-003"
+      ],
+      "caution": "Se houver ameaça ou agressão, procure um lugar seguro e a polícia."
     },
     "r_sex": {
       "id": "r_sex",
       "title": "Possível assédio sexual",
-      "indicates": "Suas respostas indicam que pode valer a pena conhecer como a lei trata assédio e importunação sexual. O enquadramento do seu caso não é feito aqui.",
-      "rule": "O Código Penal trata da importunação sexual e do assédio sexual como condutas distintas, com requisitos próprios. Se você sofreu isso, o ocorrido merece ser levado a sério, e há canais para registrar. O enquadramento de cada caso precisa de análise individual.",
+      "indicates": "Suas respostas indicam que pode valer a pena conhecer como a lei trata a importunação sexual e o assédio sexual. O enquadramento do seu caso não é feito aqui.",
+      "rule": "A lei penal trata como crime a importunação sexual (ato libidinoso contra alguém, sem a sua concordância) e o assédio sexual (constranger alguém para conseguir vantagem ou favorecimento sexual, usando a posição de chefe ou de superior no trabalho). O que aconteceu não é culpa sua. Cada caso é diferente e precisa de análise individual.",
       "steps": [
-        "Se estiver em perigo, procure um lugar seguro e o serviço de emergência.",
-        "Anote data, local, o que aconteceu e testemunhas, e guarde provas.",
-        "Procure a delegacia, a Defensoria Pública ou a rede de atendimento à mulher."
+        "Se estiver em perigo, procure um lugar seguro e a polícia.",
+        "Anote data, local, o que aconteceu e quem viu, e guarde mensagens, áudios e outras provas.",
+        "Procure a delegacia, a Defensoria Pública ou a rede de atendimento à mulher da sua região."
       ],
       "documents": [
         "Registros de mensagens, ligações e áudios",
@@ -241,72 +254,80 @@
     "r_semreg": {
       "id": "r_semreg",
       "title": "Trabalho sem registro",
-      "indicates": "Suas respostas indicam que pode valer a pena entender como o vínculo de emprego é analisado e que provas guardar.",
-      "rule": "A CLT trata do registro do empregado, mas a existência de vínculo de emprego depende dos fatos e dos requisitos legais. Não é possível afirmar automaticamente que há vínculo; reúna provas da relação e busque orientação.",
+      "indicates": "Suas respostas indicam que o conteúdo sobre trabalho sem registro pode ajudar você a entender o prazo para anotar a carteira e que provas guardar.",
+      "rule": "A empresa tem 5 dias úteis para anotar sua carteira de trabalho, com a data de admissão e o salário. Se você trabalha de forma contínua, recebe ordens e é pago, pode haver vínculo de emprego mesmo sem registro. Guarde mensagens, pagamentos e registros de horário.",
       "steps": [
-        "Guarde prova de pagamentos e mensagens de trabalho.",
-        "Anote dias, horários e tarefas.",
-        "Procure orientação do sindicato, da Defensoria ou de advogado."
+        "Guarde provas: mensagens de trabalho, comprovantes de pagamento (Pix, extratos), fotos, crachá ou uniforme.",
+        "Anote dias, horários, tarefas e quem dava as ordens.",
+        "Peça por escrito (mensagem ou e-mail) que a empresa anote sua carteira.",
+        "Procure o sindicato ou a fiscalização do trabalho."
       ],
       "documents": [
         "Carteira de trabalho (física ou digital)",
-        "Contracheques e comprovantes de pagamento",
-        "Controle de jornada, quando houver",
-        "Mensagens, e-mails e documentos da empresa",
-        "Convenção ou acordo coletivo da categoria, se conhecer"
+        "Comprovantes de pagamento (Pix, extratos, recibos)",
+        "Mensagens e e-mails sobre o trabalho",
+        "Fotos, crachá, uniforme ou escalas",
+        "Nomes e contatos de colegas que viram o trabalho"
       ],
       "articleId": "TRA-005",
       "relatedArticleIds": [
+        "TRA-012",
         "TRA-001",
-        "TRA-012"
-      ]
+        "TRA-004"
+      ],
+      "caution": "Se você trabalha em casa de família, veja também o assunto sobre trabalho doméstico."
     },
     "r_he": {
       "id": "r_he",
       "title": "Horas extras e jornada",
-      "indicates": "Suas respostas indicam que pode valer a pena entender como jornada e horas extras são analisadas.",
-      "rule": "Jornada e horas extras dependem da jornada contratada, do regime, da categoria, de acordos ou convenções e de exceções. A Constituição e a CLT são pontos de partida; o seu caso pode exigir análise individual.",
+      "indicates": "Suas respostas indicam que o conteúdo sobre horas extras e jornada pode ajudar você, inclusive com as novas regras de jornada semanal.",
+      "rule": "Hora extra é o tempo trabalhado além da jornada. Deve ser paga com pelo menos 50% a mais, ou compensada quando a lei permite. O limite semanal está diminuindo, sem corte de salário: 42 horas a partir de dezembro de 2026 e 40 horas um ano depois.",
       "steps": [
-        "Anote horários de entrada e saída.",
-        "Guarde controle de ponto e mensagens sobre horários.",
-        "Confira a convenção ou o acordo coletivo da categoria."
+        "Anote todo dia o horário de entrada, de saída e do intervalo.",
+        "Guarde cartão ou espelho de ponto, mensagens e e-mails com ordens fora do horário.",
+        "Compare com o contracheque: as horas extras aparecem, com o adicional de pelo menos 50%?",
+        "Veja no acordo ou convenção coletiva da sua categoria se há regra de banco de horas ou de compensação."
       ],
       "documents": [
         "Carteira de trabalho (física ou digital)",
         "Contracheques e comprovantes de pagamento",
-        "Controle de jornada, quando houver",
-        "Mensagens, e-mails e documentos da empresa",
+        "Controle de jornada (ponto, espelho de ponto, anotações próprias)",
+        "Mensagens e e-mails com ordens de horário",
         "Convenção ou acordo coletivo da categoria, se conhecer"
       ],
       "articleId": "TRA-003",
       "relatedArticleIds": [
-        "TRA-013"
+        "TRA-013",
+        "TRA-001"
       ]
     },
     "r_int": {
       "id": "r_int",
       "title": "Intervalo e descanso",
-      "indicates": "Suas respostas indicam que pode valer a pena conferir as regras de intervalo e de descanso entre jornadas.",
-      "rule": "A CLT prevê, em trabalho contínuo de mais de 6 horas, intervalo para repouso ou alimentação de no mínimo 1 hora (com exceções por acordo ou contrato coletivo) e um período mínimo de 11 horas de descanso entre duas jornadas. Confira as exceções vigentes.",
+      "indicates": "Suas respostas indicam que o conteúdo sobre intervalo e descanso pode ajudar você a conferir seus horários.",
+      "rule": "Se você trabalha mais de 6 horas seguidas, tem direito a pelo menos 1 hora de intervalo para descansar ou comer. Entre um dia de trabalho e o outro, deve haver pelo menos 11 horas de descanso. A partir de dezembro de 2026, o descanso semanal passa a ser de 2 dias, um deles preferencialmente no domingo.",
       "steps": [
-        "Anote seus horários de entrada, saída e intervalo.",
-        "Guarde espelhos de ponto.",
-        "Procure o sindicato para conferir a convenção da categoria."
+        "Anote os horários de entrada, saída e intervalo de cada dia.",
+        "Guarde espelhos de ponto e mensagens sobre escalas e horários.",
+        "Confira no acordo ou convenção coletiva da sua categoria se há regra própria.",
+        "Se o intervalo ou o descanso não é respeitado, peça por escrito o cumprimento da regra e guarde a resposta."
       ],
       "documents": [
         "Carteira de trabalho (física ou digital)",
-        "Contracheques e comprovantes de pagamento",
-        "Controle de jornada, quando houver",
-        "Mensagens, e-mails e documentos da empresa"
+        "Espelhos de ponto ou anotações próprias de horário",
+        "Escalas de trabalho e mensagens sobre horários",
+        "Contracheques",
+        "Convenção ou acordo coletivo da categoria, se conhecer"
       ],
       "articleId": "TRA-013",
       "relatedArticleIds": [
-        "TRA-003"
+        "TRA-003",
+        "TRA-012"
       ]
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; resultados alinhados aos assuntos TRA-001 a TRA-014 já revisados. Texto do resultado de assédio sexual escrito a partir dos arts. 215-A e 216-A do Código Penal, conferidos no acervo."
 }

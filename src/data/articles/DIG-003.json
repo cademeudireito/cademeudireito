@@ -3,89 +3,59 @@
   "slug": "golpe-pela-internet",
   "title": "Sofri um golpe pela internet: quais providências considerar?",
   "category": "direitos-digitais",
-  "summary": "Providências gerais após golpe online, sem culpar a vítima e sem prometer reembolso.",
+  "summary": "Providências práticas depois de um golpe online. Quem sofre golpe não tem culpa.",
   "keywords": [
     "golpe online",
     "fraude digital",
     "phishing",
     "pix",
-    "estelionato"
+    "estelionato",
+    "fraude eletrônica"
   ],
   "synonyms": [
     "caí num golpe",
     "link falso",
     "perfil falso",
-    "golpe no WhatsApp"
+    "golpe no WhatsApp",
+    "golpe do pix"
   ],
-  "quickAnswer": "Quem sofre golpe não tem culpa. Reúna provas, avise sua instituição financeira, verifique como registrar ocorrência e proteja suas contas. A responsabilidade de terceiros e a recuperação de valores dependem dos fatos e não podem ser prometidas.",
+  "quickAnswer": "Quem sofre golpe não tem culpa. Guarde as provas, avise o banco ou a instituição de pagamento o quanto antes e registre a ocorrência na polícia. Não é possível prometer a devolução do dinheiro.",
   "sections": {
-    "explanation": "Há golpes de vários tipos. Se ocorreu em compra ou pagamento, veja também o assunto de consumo.",
+    "explanation": "Golpe pela internet pode ser crime de fraude eletrônica. Isso acontece quando a pessoa é enganada por rede social, ligação, e-mail falso, site ou aplicativo falso, ou por cópia de aparelho. A pena prevista é de 4 a 8 anos de reclusão (Código Penal, art. 171, §2º-A).",
     "whenApplies": [
-      "Você foi enganado por link, perfil, mensagem ou site falso."
+      "Você foi enganado por link, perfil, mensagem, ligação ou site falso, e perdeu dinheiro ou dados."
     ],
     "exceptions": [
-      "Responsabilidade de empresas ou bancos depende do caso."
+      "Quem deve devolver o valor depende do caso. Banco, loja ou plataforma nem sempre são responsáveis.",
+      "Se o golpe aconteceu em uma compra ou pagamento, veja também o assunto sobre golpe em compra."
     ],
     "steps": [
-      "Guarde provas e dados de quem recebeu o dinheiro.",
-      "Avise banco ou instituição de pagamento pelos canais oficiais.",
-      "Verifique como registrar ocorrência no seu estado."
+      "Guarde provas e dados de quem recebeu o dinheiro: chave Pix, conta, nome, mensagens e prints.",
+      "Avise o banco ou a instituição de pagamento o quanto antes, pelos canais oficiais dela, e peça o número do protocolo.",
+      "Registre a ocorrência na polícia, na delegacia ou pela delegacia virtual do seu estado.",
+      "Troque as senhas e ative a verificação em duas etapas nas suas contas."
     ],
     "documentsToKeep": [
-      "Prints de telas, mensagens e e-mails",
-      "Comprovantes de pagamentos e transferências",
-      "Endereços de sites, perfis ou contas envolvidos (links)",
-      "Protocolos das plataformas e instituições"
+      "Prints de conversas, anúncios, links e perfis falsos",
+      "Comprovantes de pagamentos e transferências, com data e horário",
+      "Dados de quem recebeu o dinheiro (chave Pix, conta, nome)",
+      "Protocolo do banco e número da ocorrência na polícia"
     ],
     "ifDenied": [
-      "Para questões de proteção de dados, verifique os canais da ANPD (confira o canal atual).",
-      "Em caso de indício de crime, verifique como registrar ocorrência na polícia do seu estado.",
-      "Se houver prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Se o banco não resolver, procure o Procon ou a ouvidoria do Banco Central, pelos canais oficiais, e guarde os protocolos.",
+      "Se houver prejuízo grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
     {
-      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir quando relação de consumo"
-      ],
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-11;8078",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Normas do Banco Central sobre pagamentos e instituições financeiras (a identificar)",
-      "sphere": "federal",
-      "provisions": [
-        "a identificar"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
-    },
-    {
       "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 171, §2º-A"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1940/del-2848-1940-12-07.md",
@@ -93,7 +63,9 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "171"
+        ],
         "provisionsMissing": []
       }
     }
@@ -102,8 +74,8 @@
     "CON-011",
     "DIG-002"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/06-direitos-digitais.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

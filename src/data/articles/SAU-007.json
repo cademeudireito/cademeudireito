@@ -3,41 +3,46 @@
   "slug": "reajuste-anual-do-plano-de-saude",
   "title": "O plano de saúde reajustou a mensalidade: é permitido?",
   "category": "saude",
-  "summary": "Como conferir reajuste de plano de saúde e a diferença entre reajuste anual e por faixa etária.",
+  "summary": "A diferença entre reajuste anual e reajuste por idade, e o que pedir ao plano.",
   "keywords": [
     "reajuste do plano",
     "mensalidade do plano",
     "ANS",
     "aumento",
-    "plano coletivo"
+    "faixa etária"
   ],
   "synonyms": [
     "plano de saúde aumentou",
+    "aumento por idade",
     "aumento abusivo"
   ],
-  "quickAnswer": "Os contratos de plano de saúde têm regras de reajuste, que dependem do tipo de plano (individual ou coletivo) e das normas da ANS. Peça à operadora o demonstrativo do cálculo e confira o seu contrato.",
+  "quickAnswer": "O reajuste por idade só pode ocorrer se as faixas de idade e os percentuais estiverem no contrato. Para quem tem 60 anos ou mais e está no plano há mais de 10 anos, a lei proíbe esse aumento por idade. Peça o cálculo por escrito.",
   "sections": {
-    "explanation": "Reajuste anual e reajuste por faixa etária são coisas diferentes. Planos coletivos podem ter regras distintas.",
+    "explanation": "Há dois tipos de aumento. O reajuste anual acontece todo ano, dentro das regras da ANS. O reajuste por faixa etária acontece quando você muda de faixa de idade. Esse segundo só pode ocorrer se as faixas e os percentuais estiverem escritos no contrato. Para quem tem 60 anos ou mais e está no plano há mais de 10 anos, a lei veda a variação por idade.",
     "whenApplies": [
-      "A mensalidade do plano subiu e você quer entender o motivo."
+      "A mensalidade do plano subiu e você quer entender o motivo.",
+      "Você mudou de faixa de idade e a mensalidade aumentou."
     ],
     "exceptions": [
-      "Regras da ANS mudam; confira os índices e as normas vigentes."
+      "Se o contrato não previu faixas e percentuais por idade, o aumento por idade não pode ser cobrado.",
+      "As regras da ANS mudam. Veja o índice vigente no site da ANS."
     ],
     "steps": [
-      "Guarde o comunicado de reajuste e o contrato.",
-      "Peça o demonstrativo por escrito.",
-      "Reclame na operadora e, se não resolver, na ANS."
+      "Peça por escrito o cálculo, separando reajuste anual e reajuste por idade.",
+      "Veja no contrato se as faixas de idade e os percentuais estão previstos.",
+      "Se você tem 60 anos ou mais e está no plano há mais de 10 anos, conteste por escrito o aumento por idade.",
+      "Guarde o comunicado de reajuste e reclame na operadora e, se não resolver, na ANS."
     ],
     "documentsToKeep": [
-      "Documento do plano ou cartão do SUS",
-      "Pedido médico, laudos e receitas",
-      "Protocolos e comunicados do plano ou da unidade de saúde"
+      "Contrato do plano e aditivos",
+      "Comunicados de reajuste e boletos",
+      "Documento com data de nascimento e data de entrada no plano",
+      "Resposta por escrito da operadora"
     ],
     "ifDenied": [
-      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
-      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
-      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+      "Registre reclamação no Consumidor.gov.br, se a operadora participar da plataforma.",
+      "Registre reclamação na ANS, pelo canal oficial da agência.",
+      "Se houver cobrança indevida, procure o Procon da sua cidade ou a Defensoria Pública."
     ]
   },
   "legalReferences": [
@@ -45,12 +50,12 @@
       "name": "Lei nº 9.656/1998 (planos privados de assistência à saúde)",
       "sphere": "federal",
       "provisions": [
-        "art. 15"
+        "art. 15, caput",
+        "art. 15, parágrafo único"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1998/lei-9656-1998-06-03.md",
@@ -65,23 +70,34 @@
       }
     },
     {
-      "name": "Normas vigentes da ANS (a identificar)",
+      "name": "Lei nº 10.741/2003 — Estatuto da Pessoa Idosa",
       "sphere": "federal",
       "provisions": [
-        "a identificar"
+        "art. 15, § 3º"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2003/lei-10741-2003-10-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "15"
+        ],
+        "provisionsMissing": []
+      }
     }
   ],
   "relatedArticles": [
     "IDO-003",
     "SAU-008"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/04-saude.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

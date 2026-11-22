@@ -3,7 +3,7 @@
   "slug": "pedido-de-acesso-a-informacao",
   "title": "Como pedir uma informação pública?",
   "category": "servicos-publicos",
-  "summary": "Como fazer um pedido de acesso à informação com base na Lei de Acesso à Informação.",
+  "summary": "Como pedir informação a órgãos públicos pela Lei de Acesso à Informação, com prazos e recurso.",
   "keywords": [
     "acesso à informação",
     "LAI",
@@ -13,31 +13,35 @@
   ],
   "synonyms": [
     "pedir documentos públicos",
-    "transparência pública"
+    "transparência pública",
+    "pedido de dados do governo"
   ],
-  "quickAnswer": "Qualquer interessado pode apresentar pedido de acesso a informações aos órgãos e entidades públicos, por qualquer meio legítimo, com identificação do requerente e especificação da informação solicitada. O órgão deve conceder o acesso imediato ao que estiver disponível.",
+  "quickAnswer": "Qualquer pessoa pode pedir informação a órgãos públicos, sem explicar o motivo. O órgão deve dar acesso na hora ou responder em até 20 dias. Se negar, você tem 10 dias para recorrer.",
   "sections": {
-    "explanation": "Não é preciso explicar o motivo do pedido. Informações sigilosas têm regras próprias.",
+    "explanation": "A Lei de Acesso à Informação (Lei 12.527/2011) garante a qualquer pessoa o direito de pedir informações de órgãos públicos. O pedido precisa ter sua identificação e dizer claramente o que você quer. O serviço de busca e envio da informação é gratuito. Não é preciso explicar por que você quer a informação.",
     "whenApplies": [
-      "Você quer obter informação de um órgão público."
+      "Você quer um documento, um dado ou uma informação que um órgão público tem."
     ],
     "exceptions": [
-      "Informações classificadas ou pessoais têm restrições legais."
+      "Informações classificadas como sigilosas (art. 23) e dados pessoais (art. 31) têm regras próprias, e o órgão pode justificar a recusa.",
+      "Se não for possível dar acesso na hora, o órgão pode prorrogar o prazo de 20 dias por mais 10 dias, com justificativa (art. 11, § 2º)."
     ],
     "steps": [
-      "Procure o canal oficial do órgão para pedidos de informação.",
-      "Descreva com clareza o que precisa.",
-      "Guarde o número do protocolo e acompanhe o prazo informado."
+      "Procure o canal oficial de pedido de informação do órgão, como o site ou o sistema próprio.",
+      "Diga claramente o que precisa e informe seu nome.",
+      "Guarde o número do protocolo e anote a data.",
+      "Se a resposta não vier em 20 dias, ou vier negada, peça recurso em até 10 dias."
     ],
     "documentsToKeep": [
       "Número de protocolo do pedido",
-      "Cópia de requerimentos e documentos enviados",
-      "Datas, nomes e setores consultados"
+      "Cópia do pedido enviado",
+      "Resposta ou negativa por escrito",
+      "Data em que você recebeu a resposta"
     ],
     "ifDenied": [
-      "Procure a ouvidoria do órgão responsável.",
-      "Se for pedido de acesso à informação, verifique o canal indicado para recurso.",
-      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Recurso: em até 10 dias, para a autoridade superior do próprio órgão (art. 15).",
+      "No governo federal, se o recurso não resolver, a negativa pode ser levada à Controladoria-Geral da União (CGU), depois do recurso à autoridade superior (art. 16, § 1º).",
+      "Se precisar de ajuda, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -45,13 +49,17 @@
       "name": "Lei nº 12.527/2011 (Lei de Acesso à Informação)",
       "sphere": "federal",
       "provisions": [
-        "art. 10",
-        "art. 11"
+        "art. 10, caput e § 3º",
+        "art. 11, caput, § 1º e § 2º",
+        "art. 12",
+        "art. 15",
+        "art. 16, caput e § 1º",
+        "art. 23",
+        "art. 31"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2011-11-18;12527",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2011/lei-12527-2011-11-18.md",
@@ -61,7 +69,14 @@
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
           "10",
-          "11"
+          "3",
+          "11",
+          "12",
+          "15",
+          "16",
+          "1",
+          "23",
+          "31"
         ],
         "provisionsMissing": []
       }
@@ -71,8 +86,8 @@
     "PUB-001",
     "PUB-003"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/08-servicos-publicos.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

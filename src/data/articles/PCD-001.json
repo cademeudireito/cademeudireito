@@ -3,41 +3,47 @@
   "slug": "acessibilidade-direitos-basicos",
   "title": "O que a lei diz sobre acessibilidade?",
   "category": "pessoa-com-deficiencia",
-  "summary": "Panorama sobre acessibilidade em espaços, transportes e serviços e onde reclamar de barreiras.",
+  "summary": "Barreira é o que impede a pessoa com deficiência de participar. A lei manda eliminar essas barreiras em prédios, transportes e serviços.",
   "keywords": [
     "acessibilidade",
     "barreiras",
     "rampa",
     "inclusão",
-    "Lei Brasileira de Inclusão"
+    "Lei Brasileira de Inclusão",
+    "barreira"
   ],
   "synonyms": [
     "prédio sem rampa",
     "barreira de acesso",
-    "sem acessibilidade"
+    "sem acessibilidade",
+    "sem rampa",
+    "ônibus sem elevador"
   ],
-  "quickAnswer": "A legislação brasileira estabelece normas gerais e critérios para a promoção da acessibilidade e a Lei Brasileira de Inclusão assegura direitos à pessoa com deficiência. As obrigações variam conforme o tipo de espaço, serviço e a data de construção ou reforma.",
+  "quickAnswer": "A Lei 10.098/2000 traz normas gerais para tirar barreiras em vias, prédios, transportes e comunicação. A Lei Brasileira de Inclusão define barreira como qualquer entrave, obstáculo, atitude ou comportamento que limite a participação da pessoa com deficiência.",
   "sections": {
-    "explanation": "Barreiras podem ser arquitetônicas, de comunicação, de transporte ou de atitude. Há normas técnicas que detalham as medidas.",
+    "explanation": "Barreira é qualquer entrave, obstáculo, atitude ou comportamento que limite ou impeça a participação social da pessoa com deficiência (LBI, art. 3º, IV). Pode ser urbanística (nas ruas e espaços abertos ao público), arquitetônica (nos prédios), de transporte, de comunicação e informação, ou atitudinal, que é a atitude ou o comportamento que prejudica a participação. A Lei 10.098 é a lei geral de acessibilidade e manda seguir normas técnicas (art. 5º).",
     "whenApplies": [
       "Você enfrentou uma barreira em local público, serviço ou transporte."
     ],
     "exceptions": [
-      "Prazos de adaptação e exceções dependem do tipo de edificação e da norma aplicável."
+      "Os prazos e as regras para adaptar um prédio ou um veículo dependem do tipo de construção e das normas técnicas aplicáveis.",
+      "Cada caso é diferente: reúna provas antes de reclamar."
     ],
     "steps": [
-      "Registre a barreira com fotos e descreva o problema.",
-      "Comunique o responsável pelo local ou serviço por escrito.",
-      "Se não resolver, procure a ouvidoria, o Ministério Público ou a Defensoria Pública."
+      "Registre a barreira com fotos e descreva o problema e o local.",
+      "Comunique por escrito o responsável pelo local ou serviço e guarde a resposta.",
+      "Se não resolver, procure a ouvidoria do órgão ou da empresa e, depois, o Ministério Público ou a Defensoria Pública."
     ],
     "documentsToKeep": [
-      "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
-      "Protocolos, comunicados e respostas recebidas",
-      "Fotos ou registros da barreira ou da recusa"
+      "Fotos e vídeos da barreira",
+      "Cópia do comunicado enviado e da resposta",
+      "Protocolos da ouvidoria",
+      "Documento que comprove a deficiência, se for pedido"
     ],
     "ifDenied": [
-      "Procure a ouvidoria do órgão ou empresa responsável.",
-      "Verifique os canais oficiais de defesa da pessoa com deficiência na sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+      "Procure a ouvidoria do órgão ou da empresa responsável.",
+      "Procure o Ministério Público ou a Defensoria Pública.",
+      "Guarde todas as provas e protocolos, e registre por escrito o que aconteceu."
     ]
   },
   "legalReferences": [
@@ -45,12 +51,12 @@
       "name": "Lei nº 10.098/2000 (acessibilidade)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 1º",
+        "art. 2º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2000-12-19;10098",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2000/lei-10098-2000-12-19.md",
@@ -58,7 +64,10 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "1",
+          "2"
+        ],
         "provisionsMissing": []
       }
     },
@@ -66,12 +75,11 @@
       "name": "Lei nº 13.146/2015 — Lei Brasileira de Inclusão da Pessoa com Deficiência",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 3º, IV"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-07-06;13146",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2015/lei-13146-2015-07-06.md",
@@ -79,7 +87,9 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "3"
+        ],
         "provisionsMissing": []
       }
     }
@@ -88,8 +98,8 @@
     "PCD-002",
     "PCD-003"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/12-pessoa-com-deficiencia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

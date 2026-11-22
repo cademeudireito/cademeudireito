@@ -3,41 +3,52 @@
   "slug": "caucao-fiador-garantia-do-aluguel",
   "title": "O que posso ser obrigado a oferecer como garantia no aluguel?",
   "category": "moradia",
-  "summary": "Modalidades de garantia previstas na lei de locação e cuidados ao oferecê-las.",
+  "summary": "A lei proíbe exigir mais de uma garantia no mesmo contrato de aluguel.",
   "keywords": [
     "fiador",
     "caução",
     "seguro-fiança",
     "garantia de aluguel",
-    "locação"
+    "locação",
+    "fiança",
+    "garantia do aluguel"
   ],
   "synonyms": [
     "preciso de fiador",
-    "depósito caução"
+    "depósito caução",
+    "dono pediu duas garantias",
+    "caução do aluguel",
+    "pedir fiador",
+    "seguro fiança locatícia"
   ],
-  "quickAnswer": "A lei de locação permite que o locador exija modalidades de garantia, como caução, fiança, seguro de fiança locatícia ou cessão fiduciária de quotas de fundo de investimento. A lei também limita a exigência de mais de uma modalidade ao mesmo tempo.",
+  "quickAnswer": "O dono pode exigir apenas uma garantia no contrato: caução (depósito), fiador, seguro-fiança ou cotas de fundo de investimento. Exigir mais de uma é proibido, e essa exigência é nula. Se a caução for em dinheiro, não pode passar de três meses de aluguel.",
   "sections": {
-    "explanation": "Antes de assinar, leia as obrigações de quem dá a garantia, especialmente do fiador.",
+    "explanation": "A Lei 8.245 (art. 37) lista as garantias que o dono pode pedir: caução, fiança, seguro de fiança locatícia e cessão de cotas de fundo de investimento. O parágrafo único proíbe, sob pena de nulidade, mais de uma dessas modalidades no mesmo contrato. A caução é um depósito em dinheiro ou um bem dado como garantia, e, em dinheiro, não pode passar de três meses de aluguel (art. 38, §2º).",
     "whenApplies": [
-      "Você vai alugar um imóvel e foi pedida uma garantia."
+      "Você vai assinar um contrato de aluguel e o dono pede garantia.",
+      "O contrato já tem uma garantia e o dono pede outra."
     ],
     "exceptions": [
-      "Detalhes e limites precisam ser conferidos na lei vigente e no contrato."
+      "Se a caução for em bem móvel ou imóvel, ela precisa ser registrada em cartório ou averbada na matrícula do imóvel (art. 38, §1º).",
+      "Se você for fiador de alguém, leia suas obrigações antes de assinar: o fiador pode responder pela dívida.",
+      "Cada caso é diferente: confira o contrato e a cláusula de garantia."
     ],
     "steps": [
-      "Compare as opções de garantia.",
-      "Leia as cláusulas sobre responsabilidade do fiador.",
-      "Guarde cópia do contrato e dos recibos."
+      "Leia a cláusula de garantia e veja qual modalidade está escrita.",
+      "Se o dono pedir uma segunda garantia, responda por escrito que a lei proíbe mais de uma no mesmo contrato.",
+      "Antes de assinar como fiador, pergunte o que acontece se o inquilino não pagar.",
+      "Guarde a cópia assinada do contrato e os recibos da caução ou do seguro."
     ],
     "documentsToKeep": [
-      "Contrato de locação e aditivos",
-      "Comprovantes de pagamento de aluguel e encargos",
-      "Vistoria de entrada, fotos e orçamentos",
-      "Notificações, mensagens e e-mails trocados"
+      "Contrato de locação assinado",
+      "Recibo da caução ou comprovante do seguro-fiança",
+      "Documentos do fiador, se houver",
+      "Mensagens com o dono sobre a garantia"
     ],
     "ifDenied": [
-      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
-      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+      "Se o dono insistir em mais de uma garantia, procure a Defensoria Pública ou um advogado.",
+      "Se já pagou uma garantia extra, guarde os comprovantes e peça o valor de volta por escrito.",
+      "Se o contrato foi assinado com duas garantias, a cláusula é nula (art. 37, parágrafo único)."
     ]
   },
   "legalReferences": [
@@ -45,12 +56,13 @@
       "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
       "sphere": "federal",
       "provisions": [
-        "art. 37"
+        "art. 37, I a IV",
+        "art. 37, parágrafo único",
+        "art. 38, caput, §1º e §2º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
@@ -59,7 +71,8 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "37"
+          "37",
+          "38"
         ],
         "provisionsMissing": []
       }
@@ -69,8 +82,8 @@
     "MOR-001",
     "MOR-005"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/05-moradia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

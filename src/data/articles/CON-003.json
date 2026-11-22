@@ -3,47 +3,51 @@
   "slug": "loja-nao-quer-trocar",
   "title": "A loja não quer trocar o produto",
   "category": "consumidor",
-  "summary": "Quando a troca é obrigatória e quando depende de política da loja: defeito, oferta e tipo de compra.",
+  "summary": "Se o produto tem defeito, a loja tem de resolver. Se não tem, a troca depende do que a loja prometeu ao vender.",
   "keywords": [
-    "troca",
-    "trocar produto",
-    "devolução",
+    "loja não troca",
+    "troca de produto",
     "política de troca",
-    "loja física"
+    "devolver produto",
+    "trocar roupa",
+    "não quer trocar"
   ],
   "synonyms": [
-    "loja não troca",
-    "não aceitam troca",
+    "a loja se recusa a trocar",
+    "troca de presente",
+    "não gostei do produto",
     "tamanho errado",
-    "mudei de ideia"
+    "etiqueta de troca",
+    "só aceita vale"
   ],
-  "quickAnswer": "Se a loja é obrigada a trocar depende do motivo: defeito, oferta anunciada, política divulgada pela própria loja ou compra feita fora do estabelecimento. A simples troca por gosto em loja física, em geral, depende da política do fornecedor — mas é preciso conferir o caso.",
+  "quickAnswer": "Se o produto tem defeito, a loja é obrigada a resolver: conserto, troca, dinheiro de volta ou desconto. Se não tem defeito, a troca depende do que a loja informou ao vender. O que a loja anuncia ou promete vale como parte do contrato.",
   "sections": {
-    "explanation": "Em compras presenciais, a troca sem defeito costuma depender do que a loja anunciou ou combinou. Se há defeito, valem as regras de vício do produto. Em compras fora da loja, pode existir direito de arrependimento.",
+    "explanation": "Existem dois casos. Se o produto tem defeito, a loja é obrigada a resolver (conserto, troca, dinheiro de volta ou desconto). Se não tem defeito, a lei não prevê troca automática em compra feita na loja física, mas tudo o que a loja prometeu vale: cartaz, propaganda, mensagem ou nota. Se ela disse que troca em 30 dias, tem de cumprir. A loja também precisa informar com clareza o preço, a garantia e o que o produto é.",
     "whenApplies": [
-      "Você quer trocar um produto sem defeito comprado em loja física.",
-      "A loja prometeu troca (cartaz, nota, propaganda) e não cumpre."
+      "O produto tem defeito e a loja nega o conserto, a troca ou o dinheiro.",
+      "A loja prometeu a troca (em cartaz, propaganda ou conversa) e agora não cumpre."
     ],
     "exceptions": [
-      "Havendo defeito, o caminho é outro (veja “Recebi um produto com defeito”).",
-      "Compra online ou por telefone pode seguir outra regra (veja “Comprei pela internet e quero desistir”).",
-      "O contrato e a oferta da loja precisam ser conferidos."
+      "Se o produto não tem defeito e a loja não prometeu a troca, ela pode recusar.",
+      "Se a compra foi pela internet ou por telefone, você pode ter 7 dias para desistir (veja o artigo sobre compra pela internet)."
     ],
     "steps": [
-      "Verifique se a nota, o cartaz ou o anúncio informa a política de troca.",
-      "Peça a troca por escrito e anote o motivo informado pela loja.",
-      "Guarde o produto na embalagem e a nota fiscal."
+      "Pergunte à loja, por escrito, qual é a política de troca e guarde a resposta.",
+      "Tire foto de cartazes, propagandas ou mensagens em que a loja promete a troca.",
+      "Se há defeito, siga os passos do artigo sobre produto com defeito.",
+      "Se a loja se recusar, peça a recusa por escrito."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Nota fiscal ou comprovante",
+      "Fotos de cartazes, anúncios e etiquetas",
+      "Prints de conversas com a loja",
+      "Fotos do produto"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Leve ao Procon as provas do que a loja prometeu. Prometeu e não cumpriu é a base da reclamação.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -51,12 +55,13 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 18",
+        "art. 30",
+        "art. 31"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Identificar dispositivos aplicáveis a oferta, informação e vício.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -64,7 +69,11 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "18",
+          "30",
+          "31"
+        ],
         "provisionsMissing": []
       }
     }
@@ -74,8 +83,8 @@
     "CON-002",
     "CON-007"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

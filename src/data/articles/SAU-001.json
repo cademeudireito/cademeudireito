@@ -3,45 +3,46 @@
   "slug": "plano-de-saude-negou-procedimento",
   "title": "Meu plano de saúde negou um procedimento",
   "category": "saude",
-  "summary": "Como pensar sobre negativa de cobertura: contrato, tipo de plano, regulação vigente e urgência.",
+  "summary": "Como funciona a cobertura de procedimentos pelo plano e o que fazer quando ele recusa.",
   "keywords": [
     "plano de saúde",
     "negativa de cobertura",
     "ANS",
     "procedimento negado",
-    "cirurgia"
+    "cirurgia",
+    "rol da ANS"
   ],
   "synonyms": [
     "plano negou exame",
     "plano não cobre",
     "negativa do convênio",
-    "rol da ANS"
+    "plano não autorizou tratamento"
   ],
-  "quickAnswer": "A cobertura depende do tipo de contrato, da segmentação, da data, do procedimento e das normas vigentes da ANS e da lei. Peça a negativa por escrito e procure os canais da ANS. Se houver urgência, procure atendimento de saúde.",
+  "quickAnswer": "O plano deve cobrir os procedimentos da lista da ANS. Se o que você precisa não está nela, ainda pode ter direito, desde que o médico comprove a eficácia do tratamento com estudos científicos e apresente um plano terapêutico. Peça a negativa por escrito, com o motivo.",
   "sections": {
-    "explanation": "Plano privado e SUS têm regras diferentes. Para o plano, o ponto de partida é o contrato e a regulação vigente.",
+    "explanation": "O plano deve cobrir os procedimentos de uma lista chamada rol, definida pela ANS (agência que regula os planos). Não é obrigado a cobrir tudo o que o médico pede. Mas, se o tratamento não estiver no rol, a operadora deve autorizar quando houver comprovação de eficácia com base em evidências científicas e um plano terapêutico, ou quando houver recomendação da Conitec (comissão do SUS que avalia tratamentos) ou de órgão internacional de avaliação.",
     "whenApplies": [
-      "Um plano de saúde privado recusou exame, tratamento ou cirurgia."
+      "O plano recusou um exame, tratamento, remédio ou cirurgia que o médico pediu."
     ],
     "exceptions": [
-      "Cada contrato e procedimento precisa ser analisado.",
-      "A regulação pode ter mudado; confirme a norma vigente."
+      "Se o procedimento não está no rol, a cobertura depende das condições acima. O médico precisa explicar por que o tratamento é necessário.",
+      "Tipo de contrato e data de contratação podem mudar a regra. Cada caso é diferente."
     ],
     "steps": [
       "Peça a negativa por escrito, com o motivo.",
-      "Reúna pedido médico, laudos e protocolos.",
-      "Registre reclamação nos canais da operadora e da ANS."
+      "Peça ao médico um plano terapêutico e os estudos que mostram que o tratamento funciona.",
+      "Registre reclamação na operadora e na ANS, com cópia da negativa."
     ],
     "documentsToKeep": [
-      "Documento do plano ou cartão do SUS",
-      "Pedido médico, laudos e receitas",
-      "Protocolos e comunicados do plano ou da unidade de saúde",
+      "Carteirinha ou contrato do plano",
+      "Pedido médico, laudos e exames",
+      "Negativa por escrito do plano",
       "Datas e nomes de quem atendeu"
     ],
     "ifDenied": [
-      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
-      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
-      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+      "Registre reclamação no Consumidor.gov.br, se a operadora participar da plataforma.",
+      "Registre reclamação na ANS, pelo canal oficial da agência.",
+      "Se houver risco à saúde, procure atendimento imediato. Se o prazo for urgente, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -49,12 +50,14 @@
       "name": "Lei nº 9.656/1998 (planos privados de assistência à saúde)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 10, § 4º",
+        "art. 10, § 12",
+        "art. 10, § 13, I e II"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "notes": "Os §§ 4º, 12 e 13 foram incluídos ou alterados pela Lei nº 14.454/2022.",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1998/lei-9656-1998-06-03.md",
@@ -62,49 +65,19 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "10"
+        ],
         "provisionsMissing": []
       }
-    },
-    {
-      "name": "Lei nº 14.454/2022",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-09-21;14454",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/2022/lei-14454-2022-09-21.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-09-21;14454",
-        "versaoTexto": "original",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Normas vigentes da ANS (a identificar)",
-      "sphere": "federal",
-      "provisions": [
-        "a identificar"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
     }
   ],
   "relatedArticles": [
     "SAU-002",
     "SAU-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/04-saude.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

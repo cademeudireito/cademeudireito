@@ -3,42 +3,46 @@
   "slug": "guarda-dos-filhos",
   "title": "Como funciona a guarda dos filhos após a separação?",
   "category": "familia",
-  "summary": "Diferença geral entre guarda unilateral e compartilhada e o que não muda com a separação.",
+  "summary": "Guarda unilateral e compartilhada, e o que continua igual depois da separação.",
   "keywords": [
     "guarda",
     "guarda compartilhada",
+    "guarda unilateral",
     "visitas",
     "filhos",
-    "separação"
+    "separação",
+    "convivência"
   ],
   "synonyms": [
     "guarda unilateral",
-    "convivência com filhos"
+    "convivência com filhos",
+    "guarda dos filhos",
+    "guarda após separação"
   ],
-  "quickAnswer": "O Código Civil prevê guarda unilateral ou compartilhada. A separação, o divórcio ou o fim da união estável não alteram as relações entre pais e filhos, apenas o direito de terem os filhos em sua companhia. O interesse da criança é o ponto central.",
+  "quickAnswer": "Depois da separação, os dois pais continuam responsáveis pelos filhos. A guarda pode ser unilateral (de um só) ou compartilhada. Sem acordo, a regra é a compartilhada, salvo se um dos pais não quiser ou houver risco de violência. O que vale é o interesse dos filhos.",
   "sections": {
-    "explanation": "Detalhes de convivência, residência e responsabilidades são definidos por acordo ou decisão judicial, considerando o caso.",
+    "explanation": "A guarda é unilateral, quando fica com um só dos pais, ou compartilhada, quando os dois dividem as decisões e o tempo de convivência (Código Civil, art. 1.583). Na guarda compartilhada, o tempo com os filhos deve ser dividido de forma equilibrada, pensando sempre nos interesses dos filhos (art. 1.583, §2º). Os dois pais continuam com o poder familiar, seja qual for a situação entre eles (art. 1.634). A separação não muda a relação dos pais com os filhos, só quem fica com eles no dia a dia (art. 1.632).",
     "whenApplies": [
-      "Os pais estão separados ou vão se separar e precisam organizar a convivência com os filhos."
+      "Os pais estão separados ou vão se separar e precisam combinar a convivência com os filhos."
     ],
     "exceptions": [
-      "Situações de risco para a criança têm tratamento próprio.",
-      "Acordos podem ser homologados na Justiça, com ajuda da Defensoria ou de advogado."
+      "Se houver violência doméstica ou risco para a criança, procure ajuda logo. Nesses casos, a guarda compartilhada pode não ser a regra (art. 1.584, §2º).",
+      "Quando não há acordo, quem decide é o juiz, pensando no que é melhor para a criança (art. 1.584, II)."
     ],
     "steps": [
-      "Converse e, se possível, registre um acordo por escrito.",
-      "Reúna documentos dos filhos e comprovantes de convivência.",
-      "Procure a Defensoria Pública ou advogado para formalizar."
+      "Converse com o outro pai ou mãe e combine por escrito a guarda, a casa de referência e a convivência.",
+      "Se não houver acordo, procure a Defensoria Pública ou um advogado para pedir a guarda na Justiça.",
+      "Guarde mensagens e comprovantes de como a convivência tem sido feita."
     ],
     "documentsToKeep": [
-      "Certidões de nascimento, casamento ou outras do caso",
-      "Documentos de identificação das partes",
-      "Comprovantes de renda e despesas, quando houver pedido de valores",
-      "Mensagens e provas relacionadas"
+      "Certidões de nascimento dos filhos",
+      "Documentos de identificação dos pais",
+      "Acordo por escrito, se houver",
+      "Mensagens e registros da convivência e das despesas"
     ],
     "ifDenied": [
-      "Procure a Defensoria Pública do seu estado ou um advogado: questões de família costumam exigir orientação individual.",
-      "Verifique no tribunal ou cartório da sua cidade os procedimentos e documentos exigidos."
+      "Procure a Defensoria Pública do seu estado ou um advogado: questões de guarda costumam exigir orientação individual.",
+      "Se houver risco para a criança ou violência, procure a polícia ou o Conselho Tutelar do seu município."
     ]
   },
   "legalReferences": [
@@ -46,13 +50,14 @@
       "name": "Lei nº 10.406/2002 — Código Civil",
       "sphere": "federal",
       "provisions": [
-        "art. 1.583",
-        "art. 1.632"
+        "art. 1.583, caput e §§ 1º e 2º",
+        "art. 1.584, caput, I e II, e §2º",
+        "art. 1.632",
+        "art. 1.634, I e II"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2002/lei-10406-2002-01-10.md",
@@ -62,29 +67,12 @@
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
           "1583",
-          "1632"
+          "1",
+          "2",
+          "1584",
+          "1632",
+          "1634"
         ],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Lei nº 8.069/1990 — Estatuto da Criança e do Adolescente (ECA)",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-07-13;8069",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/1990/lei-8069-1990-07-13.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-07-13;8069",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
         "provisionsMissing": []
       }
     }
@@ -93,8 +81,8 @@
     "FAM-001",
     "FAM-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/09-familia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

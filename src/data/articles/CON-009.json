@@ -3,45 +3,52 @@
   "slug": "nome-negativado-divida-nao-reconheco",
   "title": "Meu nome foi negativado por dívida que não reconheço",
   "category": "consumidor",
-  "summary": "O que entender e o que fazer quando seu nome aparece em cadastro de inadimplentes por uma dívida desconhecida.",
+  "summary": "Se seu nome foi negativado por dívida que você não reconhece, você pode ver o que consta contra você e exigir a correção na hora.",
   "keywords": [
-    "negativação",
     "nome sujo",
+    "negativado",
     "SPC",
     "Serasa",
-    "cadastro de inadimplentes"
+    "dívida que não reconheço",
+    "cadastro de inadimplentes",
+    "limpar nome"
   ],
   "synonyms": [
-    "nome negativado",
-    "inclusão indevida",
-    "dívida que não é minha"
+    "meu nome está sujo por dívida que não é minha",
+    "negativação indevida",
+    "restrição no CPF",
+    "tirar nome do Serasa",
+    "nome no SPC",
+    "cobrança de dívida que não devo"
   ],
-  "quickAnswer": "A inclusão do nome em cadastro de inadimplentes pode ser questionada quando a dívida é desconhecida. O caminho costuma envolver contestar com o credor, guardar protocolos e, dependendo do caso, buscar os órgãos de defesa do consumidor ou orientação jurídica. Não há garantia de resultado.",
+  "quickAnswer": "Você tem direito de saber o que consta sobre você nos cadastros de devedores. Se algo estiver errado, pode exigir a correção imediata, e quem mantém o cadastro tem 5 dias úteis para avisar quem recebeu a informação errada. Informação negativa não pode ficar por mais de 5 anos.",
   "sections": {
-    "explanation": "Antes de qualquer providência, vale identificar quem negativou, qual a origem da dívida e se houve comunicação prévia. As regras de cadastro de crédito e a jurisprudência precisam ser conferidas.",
+    "explanation": "Você tem direito de ver todas as informações sobre você nos cadastros de devedores, como SPC e Serasa, e de saber de onde elas vieram. Os dados têm de ser claros e verdadeiros, e informação negativa não pode ficar por mais de 5 anos. Quando o cadastro é aberto sem você ter pedido, ele deve avisar você por escrito. Se encontrar um erro, você pode exigir a correção imediata, e quem mantém o cadastro tem 5 dias úteis para avisar quem recebeu a informação errada. Se a negativação indevida causou dano, você pode pedir reparação.",
     "whenApplies": [
-      "Você descobriu uma restrição em seu nome e não reconhece a dívida.",
-      "Você acredita que já pagou ou que houve fraude."
+      "Seu nome foi para o cadastro de devedores por uma dívida que você não reconhece.",
+      "Você não recebeu aviso por escrito antes da negativação ou a dívida já foi paga."
     ],
     "exceptions": [
-      "Se houve fraude de identidade, pode haver outros passos, inclusive registro de ocorrência.",
-      "Os efeitos e eventuais indenizações dependem do caso concreto."
+      "Se a dívida é sua e está em aberto, a negativação pode ser correta. Por isso, peça a origem da dívida.",
+      "Se a dívida for de contrato feito por golpe com seus dados, veja também o artigo sobre golpes."
     ],
     "steps": [
-      "Descubra quem negativou, o valor e a origem informada.",
-      "Conteste formalmente com o credor e peça a retirada, guardando o protocolo.",
-      "Reúna comprovantes de pagamento ou provas de que não contratou."
+      "Consulte o que consta no seu nome no cadastro (SPC, Serasa ou outro) e anote quem inscreveu a dívida.",
+      "Peça à empresa, por escrito, a origem da dívida e a prova do contrato.",
+      "Se estiver errado, exija a correção imediata. Guarde os protocolos.",
+      "Se a empresa não corrigir, procure o Procon ou a Justiça. O STJ entende que o órgão do cadastro deve avisar você antes de incluir o nome (Súmula 359)."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Consulta ao cadastro, com data",
+      "Comprovantes de pagamento, se houver",
+      "Protocolos e e-mails",
+      "Documentos que provem que você não contratou"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Se não corrigirem, um advogado ou a Defensoria Pública pode pedir a retirada do nome e a reparação do dano na Justiça.",
+      "Peça a negativa por escrito."
     ]
   },
   "legalReferences": [
@@ -49,12 +56,12 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 43",
+        "art. 6º, VI"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Identificar dispositivos sobre cadastros e cobrança.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -62,50 +69,22 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "43",
+          "6"
+        ],
         "provisionsMissing": []
       }
-    },
-    {
-      "name": "Lei nº 10.406/2002 — Código Civil",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/2002/lei-10406-2002-01-10.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Jurisprudência relevante (STJ/tribunais) — a pesquisar",
-      "sphere": "federal",
-      "provisions": [
-        "a pesquisar"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Verificar entendimentos relevantes."
     }
   ],
   "relatedArticles": [
     "CON-005",
     "CON-010",
-    "CON-012"
+    "CON-012",
+    "CON-015"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

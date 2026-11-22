@@ -3,45 +3,52 @@
   "slug": "como-registrar-reclamacao-de-consumo",
   "title": "Como registrar uma reclamação de consumo",
   "category": "consumidor",
-  "summary": "Quais canais existem para reclamar de uma empresa e como organizar as informações.",
+  "summary": "Para reclamar de uma empresa, comece pelo atendimento dela, guarde o protocolo e, se não resolver, procure o Procon ou o Consumidor.gov.br.",
   "keywords": [
     "reclamar",
     "reclamação",
     "Procon",
     "Consumidor.gov.br",
-    "SAC"
-  ],
-  "synonyms": [
     "onde reclamar",
-    "como reclamar de empresa",
+    "protocolo",
     "órgão de defesa do consumidor"
   ],
-  "quickAnswer": "Você pode começar pelo atendimento da própria empresa, usando canal que gere protocolo, e depois buscar canais como Consumidor.gov.br (se a empresa participar) e o Procon da sua localidade. Esses canais não garantem resultado.",
+  "synonyms": [
+    "como reclamar de empresa",
+    "onde faço reclamação",
+    "reclamar no procon",
+    "reclame aqui",
+    "juizado especial",
+    "processar empresa"
+  ],
+  "quickAnswer": "Primeiro, reclame com a empresa e guarde o protocolo. Se não resolver, procure o Procon da sua cidade ou use o Consumidor.gov.br. Em causas de até 20 salários mínimos, você pode ir ao Juizado Especial Cível sem advogado.",
   "sections": {
-    "explanation": "Reclamar com informações organizadas aumenta as chances de entendimento. Anote datas, protocolos e o que você pediu.",
+    "explanation": "Você tem direito de procurar os órgãos públicos para evitar ou reparar um prejuízo, e a lei diz que quem não tem dinheiro deve receber orientação jurídica de graça. Os órgãos públicos de defesa do consumidor (federais, estaduais e municipais) formam o Sistema Nacional de Defesa do Consumidor. O caminho comum é: reclamar com a empresa, depois procurar o Procon ou o Consumidor.gov.br e, se for preciso, a Justiça.",
     "whenApplies": [
-      "Você tentou resolver com a empresa e não teve sucesso.",
-      "Você quer saber onde reclamar oficialmente."
+      "Você tem um problema de consumo e a empresa não resolveu.",
+      "Você quer saber onde registrar a reclamação e que provas levar."
     ],
     "exceptions": [
-      "O Procon competente depende da sua localidade.",
-      "Nem toda empresa participa do Consumidor.gov.br."
+      "O Consumidor.gov.br só funciona com empresas que participam da plataforma. Ele ajuda a conversar com a empresa, mas não decide como um juiz.",
+      "Para serviços regulados (telefonia, banco, plano de saúde, aviação), há também o órgão do setor."
     ],
     "steps": [
-      "Faça um resumo curto: o que aconteceu, quando e o que você pede.",
-      "Abra a reclamação em canal que gere protocolo.",
-      "Se não resolver, registre em um canal oficial de defesa do consumidor."
+      "Reclame com a empresa por canal que dê protocolo e guarde tudo.",
+      "Se não resolver, registre a reclamação no Consumidor.gov.br ou procure o Procon da sua cidade ou do seu estado.",
+      "Leve nota fiscal, contrato, prints, fotos e protocolos.",
+      "Se ainda não resolver, procure o Juizado Especial Cível. Em causas de até 20 salários mínimos, você pode ir sem advogado."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Nota fiscal, contrato ou comprovante",
+      "Protocolos, e-mails e prints",
+      "Fotos e vídeos do problema",
+      "Lista das tentativas de resolver, com datas"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Se a empresa não responder, registre isso na reclamação: a falta de resposta também conta.",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Se o prazo estiver correndo ou o valor for alto, procure a Defensoria Pública ou um advogado.",
+      "Para telefonia, banco, plano de saúde ou voo, reclame também na Anatel, no Banco Central, na ANS ou na ANAC."
     ]
   },
   "legalReferences": [
@@ -49,12 +56,11 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 6º, VII"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -62,7 +68,9 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "6"
+        ],
         "provisionsMissing": []
       }
     },
@@ -70,12 +78,11 @@
       "name": "Decreto nº 2.181/1997 (Sistema Nacional de Defesa do Consumidor)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 2º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1997-03-20;2181",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir canais administrativos vigentes.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos/1997/dec-2181-1997-03-20.md",
@@ -83,7 +90,31 @@
         "versaoTexto": "original",
         "revogada": false,
         "baixadoEm": "2026-10-16",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "2"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 9.099/1995 — Juizados Especiais Cíveis e Criminais",
+      "sphere": "federal",
+      "provisions": [
+        "art. 9º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1995-09-26;9099",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1995/lei-9099-1995-09-26.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1995-09-26;9099",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "9"
+        ],
         "provisionsMissing": []
       }
     }
@@ -93,8 +124,8 @@
     "CON-006",
     "CON-010"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

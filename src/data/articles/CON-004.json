@@ -3,45 +3,50 @@
   "slug": "garantia-acabou-posso-reclamar",
   "title": "A garantia acabou: ainda posso reclamar?",
   "category": "consumidor",
-  "summary": "Diferença entre garantia legal e garantia contratual e o que pode ser possível mesmo depois do prazo da garantia do fabricante.",
+  "summary": "A garantia da loja ou do fabricante soma-se à garantia da lei: mesmo depois de acabar a primeira, você ainda pode reclamar de defeito dentro dos prazos legais.",
   "keywords": [
     "garantia",
+    "garantia acabou",
     "garantia legal",
     "garantia contratual",
-    "garantia estendida",
-    "prazo"
+    "fim da garantia",
+    "defeito depois da garantia"
   ],
   "synonyms": [
-    "garantia vencida",
-    "fim da garantia",
+    "acabou a garantia",
+    "garantia de 1 ano",
+    "garantia estendida",
+    "produto estragou depois da garantia",
     "garantia do fabricante"
   ],
-  "quickAnswer": "Existem a garantia legal (prevista em lei) e a garantia contratual (oferecida pela empresa). O fim da garantia do fabricante não significa necessariamente que não há mais nada a reclamar, mas isso depende do tipo de produto, do defeito e de quando ele foi percebido.",
+  "quickAnswer": "A garantia da loja ou do fabricante é um extra: ela se soma à garantia que a lei dá. Mesmo se a garantia deles acabou, você ainda pode reclamar de defeito dentro dos prazos da lei: 30 dias (produto que dura pouco) ou 90 dias (produto durável).",
   "sections": {
-    "explanation": "A garantia legal e a garantia contratual são coisas diferentes e podem ser somadas. Prazos para reclamar dependem do tipo de produto ou serviço e do tipo de defeito, e precisam ser conferidos nos artigos indicados.",
+    "explanation": "A garantia legal é a que a lei dá. Ela existe mesmo que ninguém escreva nada e a loja não pode tirá-la do contrato. A garantia contratual é a que a loja ou o fabricante oferece por conta própria, por escrito (por exemplo, 1 ano). Ela se soma à legal, não a substitui. Por isso, quando a garantia da loja acaba, você ainda pode ter direito de reclamar, dentro dos prazos da lei: 30 ou 90 dias.",
     "whenApplies": [
-      "O produto estragou depois do prazo de garantia informado pelo fabricante.",
-      "Você não sabe se a garantia que recebeu é legal ou contratual."
+      "O produto estragou e a garantia da loja ou do fabricante já terminou.",
+      "A loja diz que “a garantia acabou” e por isso não atende você."
     ],
     "exceptions": [
-      "O prazo e o início da contagem dependem do tipo de defeito e do produto.",
-      "Termos da garantia contratual precisam ser lidos no documento fornecido."
+      "O prazo da lei é de 30 dias (produto que dura pouco) ou 90 dias (produto durável). Para defeito que só aparece depois, ele conta do dia em que o defeito aparece.",
+      "A garantia da lei é para defeitos do produto. Cada caso é diferente: guarde as provas."
     ],
     "steps": [
-      "Leia o termo de garantia e anote datas de compra, recebimento e do problema.",
-      "Registre o defeito com fotos e comunique a empresa por escrito.",
-      "Guarde nota fiscal, termo de garantia e protocolos."
+      "Leia o termo de garantia e veja a data de início.",
+      "Procure a data em que o produto chegou e o dia em que o defeito apareceu.",
+      "Reclame por escrito e anote o protocolo.",
+      "Se tiver passado da garantia da loja, diga que está reclamando com base na garantia da lei."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Termo de garantia",
+      "Nota fiscal",
+      "Fotos e vídeos do defeito",
+      "Protocolos e ordens de serviço"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Peça a negativa por escrito, dizendo o motivo.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -49,13 +54,13 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "arts. 24 a 26",
+        "art. 24",
+        "art. 26",
         "art. 50"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir prazos e início de contagem.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -65,7 +70,6 @@
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
           "24",
-          "25",
           "26",
           "50"
         ],
@@ -75,10 +79,11 @@
   ],
   "relatedArticles": [
     "CON-002",
-    "CON-003"
+    "CON-003",
+    "CON-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

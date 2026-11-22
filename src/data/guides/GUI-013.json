@@ -4,7 +4,7 @@
   "category": "pessoa-com-deficiencia",
   "title": "Direitos da pessoa com deficiência: por onde começar?",
   "description": "Encontre conteúdos sobre acessibilidade, transporte, trabalho, escola e benefício.",
-  "status": "draft",
+  "status": "published",
   "startQuestion": "q1",
   "questions": {
     "q1": {
@@ -59,11 +59,11 @@
       "id": "r_bpc",
       "title": "Benefício assistencial (BPC)",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer o BPC e seus critérios.",
-      "rule": "A LOAS garante um salário-mínimo mensal à pessoa com deficiência que comprove não ter meios de prover a própria manutenção nem de tê-la provida por sua família. Há avaliação da deficiência e critérios de renda a conferir.",
+      "rule": "A LOAS garante um salário mínimo por mês à pessoa com deficiência de longo prazo, ou seja, que dura pelo menos 2 anos, e que não tem meios de se sustentar nem é sustentada pela família. A renda por pessoa da família deve ser de até 1/4 do salário mínimo. Há avaliação médica e social feita pelo INSS.",
       "steps": [
-        "Atualize o Cadastro Único.",
-        "Reúna laudos, receitas e exames.",
-        "Peça o benefício pelos canais oficiais do INSS."
+        "Reúna laudos, receitas e exames que mostrem a deficiência e o tempo dela.",
+        "Peça o benefício pelos canais oficiais do INSS.",
+        "Guarde o protocolo e as respostas do INSS."
       ],
       "documents": [
         "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
@@ -79,7 +79,7 @@
       "id": "r_acess",
       "title": "Acessibilidade",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer as normas de acessibilidade e como registrar uma barreira.",
-      "rule": "A legislação brasileira estabelece normas gerais e critérios para a promoção da acessibilidade e a Lei Brasileira de Inclusão assegura direitos à pessoa com deficiência. As obrigações variam conforme o tipo de espaço, serviço e a data de construção ou reforma.",
+      "rule": "Barreira é qualquer entrave, obstáculo, atitude ou comportamento que limite a participação da pessoa com deficiência. A Lei Brasileira de Inclusão e a Lei 10.098/2000 tratam do tema. Registre a barreira e comunique o responsável por escrito.",
       "steps": [
         "Registre a barreira com fotos e descreva o problema.",
         "Comunique o responsável pelo local ou serviço por escrito.",
@@ -91,18 +91,16 @@
         "Fotos ou registros da barreira ou da recusa"
       ],
       "articleId": "PCD-001",
-      "relatedArticleIds": [
-        "PCD-003"
-      ]
+      "relatedArticleIds": []
     },
     "r_passe": {
       "id": "r_passe",
       "title": "Passe livre interestadual",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer a lei do passe livre.",
-      "rule": "A Lei 8.899/1994 concede passe livre às pessoas portadoras de deficiência, comprovadamente carentes, no sistema de transporte coletivo interestadual. Os requisitos e o procedimento de cadastro estão em regulamento e precisam ser conferidos.",
+      "rule": "A Lei 8.899/1994 garante passe livre no transporte coletivo entre estados às pessoas com deficiência comprovadamente carentes. É preciso comprovar a deficiência e a baixa renda.",
       "steps": [
-        "Reúna documento de identidade e laudos exigidos.",
-        "Confira o procedimento oficial de solicitação do documento.",
+        "Reúna documento de identidade e laudos que comprovem a deficiência.",
+        "Pergunte ao órgão responsável pelo transporte interestadual como fazer o pedido.",
         "Guarde o protocolo do pedido."
       ],
       "documents": [
@@ -119,7 +117,7 @@
       "id": "r_emp",
       "title": "Cota de empregos",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer a reserva de vagas em empresas de maior porte.",
-      "rule": "A Lei 8.213/1991 obriga a empresa com 100 ou mais empregados a preencher de 2% a 5% dos cargos com beneficiários reabilitados ou pessoas com deficiência habilitadas, na proporção que a lei define. As condições e a fiscalização devem ser conferidas.",
+      "rule": "A Lei 8.213/1991 obriga a empresa com 100 ou mais empregados a preencher de 2% a 5% dos cargos com pessoas com deficiência habilitadas ou beneficiários reabilitados pelo INSS. Quanto maior a empresa, maior a porcentagem: 2% até 200 empregados e 5% acima de 1.000.",
       "steps": [
         "Reúna laudos e documentos de comprovação.",
         "Procure vagas indicadas como afirmativas ou serviços de apoio ao emprego da sua cidade.",
@@ -131,15 +129,13 @@
         "Fotos ou registros da barreira ou da recusa"
       ],
       "articleId": "PCD-002",
-      "relatedArticleIds": [
-        "PCD-004"
-      ]
+      "relatedArticleIds": []
     },
     "r_esc": {
       "id": "r_esc",
       "title": "Educação inclusiva",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer o direito à educação inclusiva.",
-      "rule": "A Lei Brasileira de Inclusão afirma que a educação é direito da pessoa com deficiência, assegurado sistema educacional inclusivo em todos os níveis e aprendizado ao longo da vida. A lei lista também o que incumbe ao poder público assegurar.",
+      "rule": "A Lei Brasileira de Inclusão diz que a educação é direito da pessoa com deficiência, com sistema educacional inclusivo em todos os níveis e aprendizado ao longo da vida.",
       "steps": [
         "Registre o pedido de matrícula e a resposta por escrito.",
         "Reúna laudos e documentos do aluno.",
@@ -158,7 +154,7 @@
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/12-pessoa-com-deficiencia.md; dispositivos conferidos no texto das normas."
 }

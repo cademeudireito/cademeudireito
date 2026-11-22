@@ -3,41 +3,53 @@
   "slug": "notificacao-de-despejo",
   "title": "Recebi uma notificação de despejo: o que devo entender?",
   "category": "moradia",
-  "summary": "Despejo não é expulsão imediata: entenda de forma geral que há requisitos e procedimento.",
+  "summary": "A notificação de despejo não é decisão do juiz, mas o processo pode ser rápido e tem prazos curtos.",
   "keywords": [
     "despejo",
     "notificação",
     "ação de despejo",
-    "desocupação"
+    "desocupação",
+    "citação",
+    "liminar",
+    "prazo para sair"
   ],
   "synonyms": [
     "fui notificado",
     "vão me tirar do imóvel",
-    "prazo para sair"
+    "prazo para sair",
+    "recebi notificação para sair",
+    "dono quer que eu saia",
+    "ação de despejo",
+    "prazo para desocupar o imóvel"
   ],
-  "quickAnswer": "Despejo não é expulsão imediata. A lei de locação e o Código de Processo Civil preveem requisitos e procedimento. A situação depende dos fatos, do contrato e da modalidade. Se houver prazo correndo, procure rapidamente a Defensoria Pública ou um advogado.",
+  "quickAnswer": "Uma notificação de despejo ainda não é decisão do juiz, mas pode ser o começo de um processo. Em alguns casos, o juiz pode dar só 15 dias para você sair, mesmo sem ouvir você antes, se houver caução de três meses de aluguel. Depois da sentença, em regra, o prazo é de 30 dias. Leia todas as datas e procure a Defensoria Pública ou um advogado logo.",
   "sections": {
-    "explanation": "Uma notificação extrajudicial não é o mesmo que uma decisão ou citação judicial. Diferenciar isso é essencial e pode exigir ajuda profissional.",
+    "explanation": "A notificação é um aviso enviado pelo dono, antes de qualquer processo. A citação é a comunicação de um processo judicial, feita pela Justiça. Em ações de despejo, a liminar (decisão rápida do juiz) para desocupação em 15 dias pode ser dada sem ouvir você, nos casos listados em lei, como falta de pagamento quando o contrato não tem garantia (art. 59, §1º). Nesse caso específico, se você pagar tudo o que deve dentro dos 15 dias, pode evitar a rescisão e a liminar (art. 59, §3º).",
     "whenApplies": [
-      "Você recebeu comunicação de que o proprietário quer retomar o imóvel ou cobra aluguéis atrasados."
+      "Você recebeu um aviso por escrito, de cartório ou do dono, pedindo a saída do imóvel ou o pagamento de dívida.",
+      "Você recebeu citação de um processo de despejo na Justiça."
     ],
     "exceptions": [
-      "Prazos e consequências dependem do tipo de ação e do que está escrito no documento."
+      "O prazo de 15 dias só vale nos casos listados em lei, como falta de pagamento sem garantia e fim de contrato de temporada (art. 59, §1º).",
+      "Depois da sentença, o prazo para sair é de 30 dias; em alguns casos, de 15 dias (art. 63, §1º).",
+      "Cada caso é diferente: o contrato, as garantias e as datas mudam o resultado."
     ],
     "steps": [
-      "Leia todo o documento e anote datas.",
-      "Guarde comprovantes de pagamento e o contrato.",
-      "Procure a Defensoria Pública ou um advogado sem demora."
+      "Leia todo o documento e anote as datas para resposta e para saída.",
+      "Guarde o contrato, os recibos de aluguel e as mensagens com o dono.",
+      "Se for citação do juiz, procure a Defensoria Pública ou um advogado no mesmo dia.",
+      "Se houver prazo de 15 dias, não espere o último dia para agir."
     ],
     "documentsToKeep": [
+      "Notificação ou citação, com as datas",
       "Contrato de locação e aditivos",
       "Comprovantes de pagamento de aluguel e encargos",
-      "Vistoria de entrada, fotos e orçamentos",
-      "Notificações, mensagens e e-mails trocados"
+      "Mensagens e cartas trocadas com o dono"
     ],
     "ifDenied": [
-      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
-      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+      "Não ignore o documento: se você não responder no processo, o juiz pode decidir sem ouvir a sua versão.",
+      "Procure a Defensoria Pública ou um advogado. A Defensoria atende quem não tem condições de pagar.",
+      "Se a ação for por falta de pagamento e você puder pagar tudo dentro de 15 dias, o depósito judicial pode evitar a rescisão (art. 59, §3º)."
     ]
   },
   "legalReferences": [
@@ -45,12 +57,14 @@
       "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 59, §1º",
+        "art. 59, §3º",
+        "art. 63, caput",
+        "art. 63, §1º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
@@ -58,28 +72,10 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Lei nº 13.105/2015 — Código de Processo Civil",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-03-16;13105",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/2015/lei-13105-2015-03-16.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-03-16;13105",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "59",
+          "63"
+        ],
         "provisionsMissing": []
       }
     }
@@ -88,8 +84,8 @@
     "MOR-001",
     "MOR-002"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/05-moradia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

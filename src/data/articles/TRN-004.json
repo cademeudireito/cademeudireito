@@ -3,40 +3,47 @@
   "slug": "vender-ou-comprar-veiculo-transferencia",
   "title": "Vendi (ou comprei) um veículo: como fazer a transferência?",
   "category": "transito",
-  "summary": "Por que a comunicação da venda e a transferência de propriedade importam para multas e responsabilidade.",
+  "summary": "Quem vende o carro tem 60 dias para avisar o órgão de trânsito. Sem esse aviso, continua respondendo pelas multas.",
   "keywords": [
     "transferência de veículo",
     "comunicação de venda",
     "DUT",
     "DETRAN",
-    "venda de carro"
+    "venda de carro",
+    "60 dias",
+    "multas do carro vendido"
   ],
   "synonyms": [
     "vendi o carro",
-    "comprei carro usado"
+    "comprei carro usado",
+    "vendi o carro e continuam chegando multas",
+    "comprei carro usado multa"
   ],
-  "quickAnswer": "O Código de Trânsito prevê prazo e procedimento para a transferência de propriedade e para o antigo proprietário comunicar a venda ao órgão de trânsito. Quando isso não é feito, pode haver consequências, como responsabilidade por débitos.",
+  "quickAnswer": "Quem vendeu o veículo tem 60 dias para enviar ao órgão de trânsito o comprovante de transferência, assinado e datado. Se não enviar, responde junto com o comprador pelas multas até a comunicação (CTB, art. 134). O novo dono tem 30 dias para fazer o novo registro (art. 123, §1º).",
   "sections": {
-    "explanation": "Guarde o comprovante de venda e comunique pelos canais oficiais. Compradores devem providenciar o novo registro.",
+    "explanation": "Na transferência, o antigo dono deve enviar ao órgão de trânsito do estado ou do Distrito Federal, em 60 dias, cópia autenticada do comprovante de transferência, assinado e datado (art. 134). Se não fizer isso, responde solidariamente, ou seja, junto com o comprador, pelas multas e reincidências até a data da comunicação. O novo dono tem 30 dias para providenciar o novo certificado de registro (art. 123, §1º). O comprovante também pode ser eletrônico, com assinatura eletrônica válida (art. 134, parágrafo único).",
     "whenApplies": [
-      "Você vendeu ou comprou um veículo e quer evitar problemas."
+      "Você vendeu ou comprou um veículo e quer evitar problemas com multas."
     ],
     "exceptions": [
-      "Os prazos e documentos variam conforme o órgão estadual; confira."
+      "Se o comprador não fizer o novo registro, o antigo dono continua respondendo pelas multas até avisar o órgão (art. 134).",
+      "O envio é feito ao órgão de trânsito do seu estado ou do Distrito Federal."
     ],
     "steps": [
-      "Assine e guarde o comprovante da negociação.",
-      "Comunique a venda ao órgão de trânsito pelo canal oficial.",
-      "O comprador deve providenciar o novo certificado de registro."
+      "Assine e guarde o comprovante da venda, com a data.",
+      "Envie uma cópia autenticada do comprovante ao órgão de trânsito do seu estado, em até 60 dias.",
+      "Confirme se o comprador fez o novo registro no nome dele, em 30 dias."
     ],
     "documentsToKeep": [
-      "Notificação, auto de infração ou boletim de ocorrência",
-      "Documento do veículo e CNH",
-      "Fotos, vídeos e dados de testemunhas, quando houver acidente"
+      "Comprovante de transferência assinado e datado",
+      "Cópia autenticada enviada ao órgão de trânsito",
+      "Documento do comprador e do veículo",
+      "Protocolo do envio"
     ],
     "ifDenied": [
-      "Siga as instruções e os prazos da própria notificação e do órgão de trânsito competente.",
-      "Para dúvidas sobre o caso, procure a Defensoria Pública ou um advogado."
+      "Se o órgão não aceitar o envio, peça a recusa por escrito e guarde o protocolo.",
+      "Para dúvidas sobre responsabilidade por multas, procure a Defensoria Pública ou um advogado.",
+      "Procure o órgão de trânsito do seu estado pelo canal oficial."
     ]
   },
   "legalReferences": [
@@ -44,12 +51,12 @@
       "name": "Lei nº 9.503/1997 — Código de Trânsito Brasileiro (CTB)",
       "sphere": "federal",
       "provisions": [
+        "art. 123, §1º",
         "art. 134"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-09-23;9503",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1997/lei-9503-1997-09-23.md",
@@ -58,6 +65,7 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
+          "123",
           "134"
         ],
         "provisionsMissing": []
@@ -67,8 +75,8 @@
   "relatedArticles": [
     "TRN-001"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/13-transito.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

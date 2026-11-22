@@ -3,77 +3,69 @@
   "slug": "beneficio-negado-pelo-inss",
   "title": "O INSS negou meu benefício: o que posso fazer?",
   "category": "previdencia",
-  "summary": "Passos gerais depois de uma negativa do INSS: entender o motivo, reunir documentos e conferir os prazos de recurso.",
+  "summary": "Se o INSS negou seu benefício, peça o motivo por escrito e recorra dentro do prazo informado na decisão.",
   "keywords": [
     "INSS negou",
     "recurso",
     "indeferido",
     "benefício negado",
-    "perícia"
+    "perícia",
+    "CRPS",
+    "Conselho de Recursos",
+    "negativa",
+    "prazo para recorrer"
   ],
   "synonyms": [
     "pedido indeferido",
     "não aprovou aposentadoria",
-    "perícia negada"
+    "perícia negada",
+    "benefício negado",
+    "INSS recusou",
+    "como recorrer do INSS",
+    "recurso no INSS",
+    "indeferimento do INSS"
   ],
-  "quickAnswer": "Antes de tudo, leia o motivo da negativa. Em geral é possível recorrer pelos canais do próprio INSS, dentro de um prazo informado na decisão, e depois buscar orientação individual. Não há garantia de que o recurso será aceito.",
+  "quickAnswer": "Se o INSS negou seu benefício, peça a decisão por escrito e leia o motivo. A carta costuma dizer até quando você pode recorrer, e esse prazo pode ser curto. O recurso é julgado pelo Conselho de Recursos da Previdência Social (CRPS).",
   "sections": {
-    "explanation": "Negativas costumam ter motivos objetivos, como falta de documento, de carência ou de comprovação de incapacidade. Corrigir o motivo e reapresentar o pedido, ou recorrer, pode ser caminho.",
+    "explanation": "Das decisões administrativas cabe recurso (Lei 9.784, art. 56). No INSS, os recursos são julgados pelo Conselho de Recursos da Previdência Social (Lei 8.213, art. 126, I). A regra geral da lei de processo administrativo é de 10 dias para recorrer, salvo prazo específico (art. 59), por isso confira o prazo informado na sua decisão.",
     "whenApplies": [
-      "Seu pedido de benefício foi indeferido ou cessado."
+      "O INSS negou o benefício que você pediu.",
+      "Você recebeu uma carta ou comunicado com a decisão."
     ],
     "exceptions": [
-      "Os prazos e as instâncias de recurso mudam conforme o tipo de decisão."
+      "Se você entrar na Justiça com o mesmo pedido, perde o direito de continuar o recurso administrativo (art. 126, §3º).",
+      "Em alguns casos, o recurso pode ir direto ao Conselho, que pede ao INSS nova análise em até 30 dias (art. 126, §4º).",
+      "Cada caso é diferente: o recurso pode ser aceito ou negado, e não há garantia de resultado."
     ],
     "steps": [
-      "Peça a decisão por escrito e anote o prazo de recurso.",
+      "Peça a cópia da decisão e o motivo por escrito.",
+      "Anote a data em que recebeu a decisão e o prazo para recorrer.",
       "Reúna documentos que respondam ao motivo da negativa.",
-      "Procure orientação (sindicato, Defensoria Pública, advogado) antes de o prazo terminar."
+      "Faça o recurso pelos canais oficiais do INSS, dentro do prazo, e guarde o protocolo."
     ],
     "documentsToKeep": [
-      "Documentos pessoais e número do benefício ou protocolo",
-      "Carteira de trabalho e comprovantes de contribuição",
-      "Laudos, atestados e exames, quando houver incapacidade",
-      "Comunicados e decisões do INSS"
+      "Carta ou comunicado de decisão do INSS",
+      "Protocolo do pedido e do recurso",
+      "Documentos e laudos que respondam ao motivo da negativa",
+      "Carteira de trabalho e comprovantes de contribuição"
     ],
     "ifDenied": [
-      "Confira o motivo da decisão por escrito e os canais oficiais de recurso do INSS (confira o canal atual).",
-      "Sindicatos, Defensoria Pública e advogados podem orientar sobre o seu caso.",
-      "Atenção a prazos de recurso informados na própria decisão."
+      "Se o prazo acabou, procure a Defensoria Pública ou um advogado para avaliar as saídas possíveis.",
+      "A Defensoria Pública atende quem não tem condições de pagar advogado.",
+      "Guarde todas as cartas e protocolos: eles mostram a data de cada passo."
     ]
   },
   "legalReferences": [
     {
-      "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
       "name": "Lei nº 9.784/1999 (processo administrativo federal)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 56",
+        "art. 59"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-01-29;9784",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1999/lei-9784-1999-01-29.md",
@@ -81,7 +73,34 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "56",
+          "59"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 126, I",
+        "art. 126, §3º",
+        "art. 126, §4º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "126"
+        ],
         "provisionsMissing": []
       }
     }
@@ -90,8 +109,8 @@
     "PRE-001",
     "PRE-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/03-previdencia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

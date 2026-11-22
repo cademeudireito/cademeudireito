@@ -3,43 +3,54 @@
   "slug": "desistir-de-imovel-na-planta",
   "title": "Quero desistir da compra de um imóvel na planta",
   "category": "consumidor",
-  "summary": "Panorama do distrato de imóvel na planta e por que o contrato é decisivo.",
+  "summary": "Se você desistir de imóvel na planta, a construtora pode reter parte do que você pagou, mas a lei limita o desconto e fixa prazos para devolução.",
   "keywords": [
     "distrato",
     "imóvel na planta",
-    "incorporadora",
+    "desistir de apartamento",
+    "construtora",
     "devolução de valores",
-    "desistir"
+    "multa do distrato",
+    "atraso na entrega do imóvel"
   ],
   "synonyms": [
     "cancelar compra de apartamento",
-    "multa de desistência"
+    "desistir da compra do imóvel",
+    "construtora não devolve",
+    "atraso na obra",
+    "quero desfazer contrato de imóvel",
+    "multa de 25%",
+    "incorporadora"
   ],
-  "quickAnswer": "A Lei 13.786/2018 trata das consequências da desistência na compra de imóvel em incorporação e loteamento, incluindo retenção de valores e devolução. O que você pode receber depende do contrato e das regras legais.",
+  "quickAnswer": "Se você assinou fora da sede da construtora (como em estande de vendas), tem 7 dias para desistir e receber tudo de volta. Depois, no distrato, ela pode reter a corretagem e uma multa de até 25% do que você pagou (até 50% em obra com patrimônio de afetação). O restante deve ser devolvido nos prazos da lei.",
   "sections": {
-    "explanation": "Contratos costumam prever percentuais de retenção e prazos de devolução. Alguns pontos podem ser questionados, a depender do caso.",
+    "explanation": "Quem compra imóvel na planta de uma incorporadora e depois desiste (distrato) tem direito a receber de volta parte do que pagou. A construtora pode descontar a comissão de corretagem inteira e uma multa de até 25% do valor pago. Se a obra tiver patrimônio de afetação (um regime de proteção da obra), a multa pode chegar a 50% e a devolução sai até 30 dias depois do habite-se. Sem esse regime, o que sobrar é pago em parcela única depois de 180 dias. Também podem ser descontados impostos, condomínio e 0,5% ao mês do valor do contrato pelo tempo em que você teve o imóvel. Se você assinou fora da sede da construtora (como em estande de vendas), tem 7 dias para desistir e receber tudo de volta, inclusive a corretagem.",
     "whenApplies": [
-      "Você comprou imóvel na planta e quer desistir, ou a obra atrasou."
+      "Você comprou imóvel na planta (ou lote) de incorporadora e quer desfazer o negócio.",
+      "Você assinou o contrato em estande de vendas ou fora da sede da construtora e ainda está nos 7 dias."
     ],
     "exceptions": [
-      "Atraso da obra tem regras próprias.",
-      "Cada contrato precisa ser lido em detalhe."
+      "Esses limites valem para contratos celebrados com o incorporador. As partes podem combinar condições diferentes em um distrato específico: leia antes de assinar.",
+      "Se o imóvel atrasar mais de 180 dias além do prazo previsto (quando essa tolerância está clara no contrato) e a culpa não for sua, você pode desfazer o contrato e receber tudo o que pagou, mais a multa prevista no contrato, em até 60 dias.",
+      "Este é um tema de alto valor: procure orientação individual antes de assinar qualquer acordo."
     ],
     "steps": [
-      "Releia o contrato e anote cláusulas de desistência e de atraso.",
-      "Peça à incorporadora a simulação por escrito.",
-      "Procure a Defensoria Pública ou advogado antes de assinar distrato."
+      "Leia o quadro-resumo do contrato: ele deve trazer as consequências do desfazimento, em destaque.",
+      "Peça por escrito a conta do distrato: o que será descontado e quando você recebe a devolução.",
+      "Se estiver nos 7 dias do estande, mande a desistência por carta registrada com aviso de recebimento: a data da postagem conta como a data do pedido.",
+      "Não assine acordo de distrato sem ler e entender os descontos."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Contrato e quadro-resumo",
+      "Comprovantes de todos os pagamentos",
+      "Comprovante de corretagem",
+      "Cartas e e-mails com a construtora"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Se a construtora recusar a devolução ou descontar mais do que a lei permite, procure a Defensoria Pública ou um advogado. O valor costuma ser alto.",
+      "Guarde a conta dos descontos por escrito: ela será a base para contestar."
     ]
   },
   "legalReferences": [
@@ -47,12 +58,11 @@
       "name": "Lei nº 13.786/2018 (distrato de imóvel na planta)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 2º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-12-27;13786",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2018/lei-13786-2018-12-27.md",
@@ -60,7 +70,9 @@
         "versaoTexto": "original",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "2"
+        ],
         "provisionsMissing": []
       }
     },
@@ -68,12 +80,12 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 49",
+        "art. 53"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -81,17 +93,21 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "49",
+          "53"
+        ],
         "provisionsMissing": []
       }
     }
   ],
   "relatedArticles": [
+    "CON-001",
     "CON-008",
     "CON-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

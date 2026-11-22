@@ -3,87 +3,57 @@
   "slug": "acesso-ao-prontuario",
   "title": "Tenho direito de acessar meu prontuário?",
   "category": "saude",
-  "summary": "O que saber sobre acesso às informações do seu prontuário em serviços de saúde.",
+  "summary": "Como pedir cópia do seu prontuário e dos seus exames, e em que prazo a unidade deve responder.",
   "keywords": [
     "prontuário",
     "histórico médico",
     "cópia de exames",
-    "dados de saúde"
+    "dados de saúde",
+    "LGPD"
   ],
   "synonyms": [
     "pedir meu prontuário",
     "cópia do prontuário",
     "acesso a laudos"
   ],
-  "quickAnswer": "Existem normas sobre prontuário do paciente e proteção de dados. Como pedir, em que prazo e com quais limites precisa ser conferido nas normas profissionais e na legislação aplicável. Peça por escrito à unidade de saúde.",
+  "quickAnswer": "Você pode pedir cópia do seu prontuário e dos seus exames, por escrito. Pela LGPD, a unidade deve atender de forma imediata, em formato simples, ou em até 15 dias, com uma declaração completa. Guarde o protocolo do pedido.",
   "sections": {
-    "explanation": "Pedidos devem ser feitos ao serviço que guarda o prontuário. Normas profissionais e a LGPD podem ser relevantes.",
+    "explanation": "As informações do prontuário são dados pessoais sobre a sua saúde. A Lei Geral de Proteção de Dados (LGPD) garante ao titular o direito de acessar os próprios dados. A unidade pode ter regras próprias de entrega, mas precisa responder no prazo da lei.",
     "whenApplies": [
-      "Você quer cópia de prontuário ou resultados de exames feitos em um serviço."
+      "Você quer uma cópia do seu prontuário, de laudos ou de resultados de exames feitos em um serviço de saúde."
     ],
     "exceptions": [
-      "Regras sobre quem pode pedir e como variam; verifique."
+      "Se a unidade disser que não pode atender, peça a justificativa por escrito.",
+      "Cada caso é diferente, e a forma de entrega pode variar conforme o serviço."
     ],
     "steps": [
-      "Peça por escrito, informando seus dados e o período desejado.",
-      "Guarde protocolo do pedido.",
-      "Se houver recusa, peça justificativa por escrito."
+      "Faça o pedido por escrito, com seus dados e o período dos documentos que você quer.",
+      "Guarde o protocolo do pedido e a data em que entregou.",
+      "Se não houver resposta em 15 dias, ou se houver recusa, peça a justificativa por escrito e registre reclamação na ouvidoria."
     ],
     "documentsToKeep": [
-      "Documento do plano ou cartão do SUS",
-      "Pedido médico, laudos e receitas",
-      "Protocolos e comunicados do plano ou da unidade de saúde",
+      "Documento com foto",
+      "Protocolo do pedido",
+      "Cópia do pedido enviado",
       "Datas e nomes de quem atendeu"
     ],
     "ifDenied": [
-      "Registre reclamação na ouvidoria da unidade, do plano ou da secretaria de saúde competente.",
-      "Para planos de saúde, veja os canais da ANS (confira o canal atual).",
-      "Se houver urgência ou risco à saúde, procure atendimento de emergência; se houver prazo, procure a Defensoria Pública ou um advogado."
+      "Registre reclamação na ouvidoria da unidade ou da secretaria de saúde.",
+      "Procure a Autoridade Nacional de Proteção de Dados (ANPD), órgão que cuida da LGPD.",
+      "Se houver prazo urgente, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
     {
-      "name": "Lei nº 13.787/2018 (prontuário do paciente)",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-12-27;13787",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/2018/lei-13787-2018-12-27.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-12-27;13787",
-        "versaoTexto": "original",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Normas do Conselho Federal de Medicina e Código de Ética Médica (a identificar)",
-      "sphere": "federal",
-      "provisions": [
-        "a identificar"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
-    },
-    {
       "name": "Lei nº 13.709/2018 — Lei Geral de Proteção de Dados (LGPD)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 18, II",
+        "art. 19, I e II"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2018/lei-13709-2018-08-14.md",
@@ -91,17 +61,20 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "18",
+          "19"
+        ],
         "provisionsMissing": []
       }
     }
   ],
   "relatedArticles": [
     "SAU-004",
-    "DIG-001"
+    "DIG-005"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/04-saude.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

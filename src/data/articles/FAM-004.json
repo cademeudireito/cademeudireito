@@ -3,42 +3,45 @@
   "slug": "divorcio-como-funciona",
   "title": "Como funciona o divórcio?",
   "category": "familia",
-  "summary": "Visão geral das vias para o divórcio e por que filhos, bens e pensão podem exigir orientação.",
+  "summary": "As duas vias do divórcio e quando o cartório não basta.",
   "keywords": [
     "divórcio",
     "separação",
     "partilha de bens",
     "cartório",
-    "consensual"
+    "consensual",
+    "escritura de divórcio"
   ],
   "synonyms": [
     "me divorciar",
-    "fim do casamento"
+    "fim do casamento",
+    "divórcio em cartório",
+    "divórcio sem advogado"
   ],
-  "quickAnswer": "A Constituição trata da dissolução do casamento pelo divórcio, e a lei processual e civil define os procedimentos. Se há acordo e não há situações que exijam a Justiça, pode haver caminhos mais simples; com filhos menores ou conflito, a análise costuma ser mais detalhada.",
+  "quickAnswer": "O divórcio não exige mais prazo mínimo de separação. Se os dois estão de acordo e não há filho menor de 18 anos nem bebê não nascido, pode ser feito em cartório, com advogado ou defensor. Nos outros casos, é preciso ir à Justiça.",
   "sections": {
-    "explanation": "Bens, guarda, pensão e nome são temas que podem ser tratados juntos. As exigências variam por estado e por situação.",
+    "explanation": "O divórcio encerra o casamento (Código Civil, art. 1.571, IV). A Constituição diz que o casamento civil pode ser dissolvido pelo divórcio, sem exigência de prazo de separação (art. 226, §6º). Em cartório, o divórcio consensual só é possível se não houver nascituro (bebê ainda não nascido) nem filhos incapazes. Pela lei civil, menores de 18 anos são incapazes (Código Civil, arts. 3º e 4º). A escritura exige advogado ou defensor público (CPC, art. 733, §2º).",
     "whenApplies": [
       "Você está pensando em se divorciar ou quer entender as etapas."
     ],
     "exceptions": [
-      "A via em cartório depende de requisitos legais e das normas locais.",
-      "Conflitos exigem decisão judicial."
+      "Se há filho menor de 18 anos ou bebê não nascido, o divórcio em cartório não é possível. É preciso ir à Justiça.",
+      "Se não há acordo sobre bens, guarda, pensão ou nome, o caso precisa de decisão do juiz."
     ],
     "steps": [
       "Liste bens, dívidas e dados dos filhos.",
-      "Veja se há acordo sobre guarda, pensão e partilha.",
-      "Procure a Defensoria Pública ou advogado para indicar a via adequada."
+      "Veja se há acordo sobre guarda, pensão, divisão de bens e nome.",
+      "Procure a Defensoria Pública ou um advogado para indicar a via adequada."
     ],
     "documentsToKeep": [
-      "Certidões de nascimento, casamento ou outras do caso",
+      "Certidão de casamento",
       "Documentos de identificação das partes",
-      "Comprovantes de renda e despesas, quando houver pedido de valores",
-      "Mensagens e provas relacionadas"
+      "Certidões de nascimento dos filhos",
+      "Lista de bens, dívidas e comprovantes"
     ],
     "ifDenied": [
-      "Procure a Defensoria Pública do seu estado ou um advogado: questões de família costumam exigir orientação individual.",
-      "Verifique no tribunal ou cartório da sua cidade os procedimentos e documentos exigidos."
+      "Procure a Defensoria Pública do seu estado ou um advogado: divórcio costuma exigir orientação individual.",
+      "Procure um cartório da sua cidade para saber se o caso pode ser feito lá."
     ]
   },
   "legalReferences": [
@@ -46,12 +49,11 @@
       "name": "Constituição Federal de 1988",
       "sphere": "federal",
       "provisions": [
-        "art. 226"
+        "art. 226, §6º"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "constituicao.md",
@@ -69,12 +71,13 @@
       "name": "Lei nº 10.406/2002 — Código Civil",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 1.571, IV",
+        "art. 3º",
+        "art. 4º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2002/lei-10406-2002-01-10.md",
@@ -82,7 +85,11 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "1571",
+          "3",
+          "4"
+        ],
         "provisionsMissing": []
       }
     },
@@ -90,12 +97,11 @@
       "name": "Lei nº 13.105/2015 — Código de Processo Civil",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 733, caput e §2º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-03-16;13105",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2015/lei-13105-2015-03-16.md",
@@ -103,7 +109,10 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "733",
+          "2"
+        ],
         "provisionsMissing": []
       }
     }
@@ -112,8 +121,8 @@
     "FAM-001",
     "FAM-002"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/09-familia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

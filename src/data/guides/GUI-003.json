@@ -2,8 +2,8 @@
   "id": "GUI-003",
   "slug": "cobranca-nao-reconhecida",
   "title": "Recebi uma cobrança que não reconheço",
-  "description": "Responda algumas perguntas para encontrar informações sobre cobranças que você não reconhece.",
-  "status": "draft",
+  "description": "Responda algumas perguntas para saber o que fazer diante de uma cobrança que você não reconhece.",
+  "status": "published",
   "startQuestion": "q1",
   "questions": {
     "q1": {
@@ -122,17 +122,19 @@
     "r_golpe": {
       "id": "r_golpe",
       "title": "Pode ter sido golpe: aja rápido",
-      "indicates": "Suas respostas indicam que pode valer a pena tratar o caso como possível fraude, avisando logo a instituição.",
-      "rule": "As responsabilidades dependem dos fatos e das normas do setor financeiro. Não há garantia de ressarcimento.",
+      "indicates": "Suas respostas indicam que a cobrança pode vir de golpe ou fraude. Quanto antes você agir, melhor.",
+      "rule": "Avise o banco ou o cartão na hora e peça bloqueio e contestação. No cartão, a lei proíbe a empresa de dificultar que você peça o bloqueio ou a anulação do pagamento em caso de uso fraudulento. Nem sempre o dinheiro volta.",
       "steps": [
-        "Avise o banco pelo canal oficial e peça o bloqueio, se for o caso.",
+        "Avise o banco pelo canal oficial e peça o bloqueio e a contestação.",
         "Guarde comprovantes, prints e protocolos.",
-        "Verifique como registrar ocorrência."
+        "Registre ocorrência na polícia.",
+        "Troque senhas e acompanhe novas cobranças."
       ],
       "documents": [
         "Extratos",
         "Prints",
-        "Protocolos"
+        "Protocolos",
+        "Boletim de ocorrência"
       ],
       "articleId": "CON-011",
       "relatedArticleIds": [
@@ -142,13 +144,14 @@
     },
     "r_verificar": {
       "id": "r_verificar",
-      "title": "Primeiro, confirme a origem da cobrança",
-      "indicates": "Suas respostas indicam que o primeiro passo geral pode ser identificar quem cobra e a origem da contratação.",
-      "rule": "Sem saber se houve contratação, não é possível apontar o caminho. Peça esclarecimento por escrito.",
+      "title": "Primeiro, descubra a origem da cobrança",
+      "indicates": "Suas respostas indicam que o primeiro passo é saber quem está cobrando e de onde veio a contratação.",
+      "rule": "A empresa não pode cobrar por produto ou serviço que você não pediu. Peça por escrito a explicação e a prova da contratação.",
       "steps": [
-        "Anote quem cobra, valor e data.",
-        "Peça a origem da contratação por canal que gere protocolo.",
-        "Verifique contratos e e-mails antigos."
+        "Anote quem cobra, o valor e a data.",
+        "Peça a origem da contratação por canal que dê protocolo.",
+        "Procure contratos e e-mails antigos.",
+        "Peça que a cobrança fique suspensa enquanto a empresa responde."
       ],
       "documents": [
         "Fatura ou cobrança",
@@ -162,13 +165,14 @@
     },
     "r_pago": {
       "id": "r_pago",
-      "title": "Cobrança já paga: veja devolução de valores",
-      "indicates": "Suas respostas indicam que pode valer a pena verificar as regras sobre devolução de valores pagos indevidamente.",
-      "rule": "A devolução, inclusive em dobro, tem requisitos e interpretação jurídica própria. Não é automática.",
+      "title": "Cobrança já paga: peça a devolução em dobro",
+      "indicates": "Suas respostas indicam que você já pagou uma cobrança que pode ser indevida.",
+      "rule": "Quem paga o que não devia pode pedir de volta o dobro do que pagou a mais, com correção e juros. A empresa só fica livre do dobro se provar que o engano foi justificável.",
       "steps": [
         "Guarde o comprovante de pagamento.",
-        "Conteste por escrito e peça a devolução.",
-        "Acompanhe a resposta."
+        "Peça por escrito a devolução em dobro e anote o protocolo.",
+        "Acompanhe a resposta.",
+        "Se a empresa recusar, peça a recusa por escrito."
       ],
       "documents": [
         "Comprovante de pagamento",
@@ -179,17 +183,18 @@
       "relatedArticleIds": [
         "CON-005",
         "CON-012"
-      ]
+      ],
+      "caution": "Cada caso é diferente."
     },
     "r_neg_contestou": {
       "id": "r_neg_contestou",
-      "title": "Negativado e já contestou: acompanhe e escale",
-      "indicates": "Suas respostas indicam que você já contestou. Pode valer a pena acompanhar a resposta e considerar outros canais.",
-      "rule": "Regras sobre cadastros de crédito e jurisprudência precisam ser conferidas no conteúdo.",
+      "title": "Negativado e já contestou: acompanhe e reclame",
+      "indicates": "Suas respostas indicam que seu nome foi negativado e você já contestou. Agora vale acompanhar e usar os canais oficiais.",
+      "rule": "Você pode ver o que consta contra você nos cadastros e exigir a correção imediata de erros. Quem mantém o cadastro tem 5 dias úteis para avisar quem recebeu a informação errada.",
       "steps": [
-        "Acompanhe o prazo informado pelo protocolo.",
-        "Se não resolver, registre reclamação em canal oficial.",
-        "Considere orientação da Defensoria ou de advogado."
+        "Acompanhe a resposta pelo protocolo.",
+        "Se o erro continuar, reclame no Consumidor.gov.br ou no Procon.",
+        "Procure a Defensoria Pública ou um advogado para pedir a retirada do nome e a reparação do dano."
       ],
       "documents": [
         "Protocolo da contestação",
@@ -204,13 +209,14 @@
     },
     "r_neg_nao": {
       "id": "r_neg_nao",
-      "title": "Negativado: conteste formalmente",
-      "indicates": "Suas respostas indicam que o próximo passo geral pode ser contestar formalmente e reunir provas.",
-      "rule": "As regras sobre negativação precisam ser conferidas no conteúdo indicado.",
+      "title": "Negativado: conteste e exija a correção",
+      "indicates": "Suas respostas indicam que seu nome foi negativado e você ainda não contestou. Este é o próximo passo.",
+      "rule": "Você tem direito de ver o que consta sobre você nos cadastros e de exigir a correção imediata de dados errados. Quem mantém o cadastro tem 5 dias úteis para avisar quem recebeu a informação errada.",
       "steps": [
         "Identifique quem negativou e o valor.",
-        "Conteste por escrito e guarde o protocolo.",
-        "Reúna provas de pagamento ou de que não contratou."
+        "Peça por escrito a origem da dívida e a prova da contratação.",
+        "Exija a correção imediata e guarde o protocolo.",
+        "Reúna provas de pagamento ou de que você não contratou."
       ],
       "documents": [
         "Comprovante da negativação",
@@ -225,13 +231,13 @@
     },
     "r_escalar": {
       "id": "r_escalar",
-      "title": "Já contestou: veja como reclamar oficialmente",
-      "indicates": "Suas respostas indicam que, se não houver resposta adequada, pode valer a pena usar canais oficiais de reclamação.",
-      "rule": "Canais como Consumidor.gov.br e Procon não garantem resultado.",
+      "title": "Já contestou: reclame em canal oficial",
+      "indicates": "Suas respostas indicam que você já contestou. Se a resposta não resolveu, o próximo passo são os canais oficiais.",
+      "rule": "O Consumidor.gov.br e o Procon ajudam a resolver o caso, mas não garantem resultado. Para serviços regulados, procure também o órgão do setor.",
       "steps": [
-        "Anote o protocolo e as respostas.",
-        "Registre reclamação em canal oficial.",
-        "Procure o regulador do setor, se for o caso."
+        "Reúna os protocolos e as respostas da empresa.",
+        "Registre a reclamação no Consumidor.gov.br ou no Procon.",
+        "Se for banco, telefonia ou plano de saúde, reclame também no Banco Central, na Anatel ou na ANS."
       ],
       "documents": [
         "Protocolo",
@@ -246,12 +252,13 @@
     "r_contestar": {
       "id": "r_contestar",
       "title": "Conteste a cobrança e guarde o protocolo",
-      "indicates": "Suas respostas indicam que o próximo passo geral pode ser contestar formalmente a cobrança.",
-      "rule": "Em relações de consumo, cobranças sem contratação regular podem ser contestadas. Detalhes a conferir.",
+      "indicates": "Suas respostas indicam que o próximo passo é contestar a cobrança formalmente.",
+      "rule": "Cobrança de produto ou serviço que você não contratou pode ser contestada. Peça por escrito a explicação e a prova da contratação.",
       "steps": [
         "Identifique quem cobra e o valor.",
-        "Envie contestação por escrito.",
-        "Guarde protocolo e respostas."
+        "Envie a contestação por escrito.",
+        "Guarde protocolo e respostas.",
+        "Não pague o que contestou sem antes ter resposta, se tiver certeza de que não deve."
       ],
       "documents": [
         "Fatura",
@@ -266,7 +273,8 @@
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "category": "consumidor"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "category": "consumidor",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; conteúdo alinhado aos artigos CON-001 a CON-020, já conferidos no texto das normas."
 }

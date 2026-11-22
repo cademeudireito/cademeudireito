@@ -3,43 +3,54 @@
   "slug": "problemas-com-internet-ou-telefonia",
   "title": "Estou com problemas na internet, celular ou TV por assinatura",
   "category": "consumidor",
-  "summary": "Como registrar reclamações sobre telecomunicações e quando recorrer ao regulador.",
+  "summary": "A operadora deve atender, dar protocolo e corrigir o serviço que não funciona como contratado. Se não resolver, você pode reclamar na Anatel.",
   "keywords": [
     "internet lenta",
+    "internet fora do ar",
+    "celular sem sinal",
+    "TV por assinatura",
     "operadora",
     "Anatel",
-    "telefonia",
-    "TV por assinatura"
+    "fibra óptica",
+    "telefonia"
   ],
   "synonyms": [
-    "sem sinal",
-    "cobrança da operadora",
-    "cancelar internet"
+    "internet não funciona",
+    "operadora não resolve",
+    "sem sinal no celular",
+    "cobrança de internet",
+    "TV a cabo",
+    "reclamar da operadora",
+    "plano de celular"
   ],
-  "quickAnswer": "Serviços de telecomunicações são regulados pela Anatel, e o Código de Defesa do Consumidor também se aplica. O caminho comum é reclamar à operadora, anotar o protocolo e, se não resolver, procurar a Anatel e os órgãos de defesa do consumidor.",
+  "quickAnswer": "A operadora deve dar um número de protocolo em todo atendimento. Se o serviço não funciona como contratado, você pode pedir que ele seja refeito, o dinheiro de volta ou um desconto proporcional. Se a operadora não resolver, reclame na Anatel.",
   "sections": {
-    "explanation": "A operadora é obrigada a manter canais de atendimento que gerem protocolo. Cobranças indevidas e falhas de serviço podem ser contestadas.",
+    "explanation": "As operadoras de telefonia, internet e TV por assinatura têm regras próprias de atendimento. Todo atendimento deve ter protocolo, que a operadora informa a você e envia pelo meio que você escolher. Se o serviço não funciona como contratado, a lei do consumidor dá a você três opções: pedir que o serviço seja feito de novo, sem custo; receber de volta o que pagou; ou ter um desconto proporcional. Se a operadora não resolver, a Anatel recebe sua reclamação.",
     "whenApplies": [
-      "Você tem falha, lentidão, cobrança incorreta ou dificuldade para cancelar um serviço de telecomunicações."
+      "A internet, o celular ou a TV não funcionam como o contratado (velocidade, sinal, canais).",
+      "A operadora cobra errado, não resolve o problema ou dificulta o atendimento."
     ],
     "exceptions": [
-      "Regras de contrato, planos e fidelidade variam; confira a oferta e o contrato."
+      "Se o plano tem condições especiais (como fidelidade ou promoção), o que vale é o que o contrato e a oferta dizem. Guarde a oferta.",
+      "O problema pode estar dentro da sua casa (aparelho, roteador). Peça uma visita técnica para saber a causa."
     ],
     "steps": [
-      "Registre a reclamação e anote o protocolo.",
-      "Guarde faturas, prints de teste de velocidade e mensagens.",
-      "Se não resolver, registre no canal da Anatel e no Procon."
+      "Ligue ou use o aplicativo da operadora e peça o protocolo.",
+      "Descreva o problema com datas e horários. Se puder, faça testes e prints.",
+      "Diga o que você quer: conserto, desconto ou cancelamento.",
+      "Se não resolver, reclame na Anatel e guarde os números de protocolo."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Contrato ou oferta do plano",
+      "Faturas",
+      "Protocolos de atendimento",
+      "Prints de testes de velocidade e fotos de falhas"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação na Anatel, informando os protocolos da operadora.",
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -47,12 +58,11 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 20"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -60,28 +70,30 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "20"
+        ],
         "provisionsMissing": []
       }
     },
     {
-      "name": "Normas da Anatel sobre serviços de telecomunicações (a identificar)",
+      "name": "Resolução Anatel nº 765/2023 — Regulamento Geral de Direitos do Consumidor de Serviços de Telecomunicações (RGC)",
       "sphere": "federal",
       "provisions": [
-        "a identificar"
+        "art. 9º"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar."
+      "officialUrl": "https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/462fd3ce384263570966a0f01970e89d",
+      "status": "verified",
+      "checkedAt": "2026-11-20"
     }
   ],
   "relatedArticles": [
     "CON-008",
-    "CON-012"
+    "CON-012",
+    "CON-019"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -3,56 +3,105 @@
   "slug": "intervalo-e-descanso-entre-jornadas",
   "title": "Tenho direito a intervalo e descanso entre as jornadas?",
   "category": "trabalho",
-  "summary": "Noções sobre intervalo para refeição e descanso entre jornadas previstos na CLT.",
+  "summary": "Mais de 6 horas de trabalho dão direito a pelo menos 1 hora de intervalo; entre uma jornada e outra, 11 horas de descanso.",
   "keywords": [
     "intervalo",
     "descanso",
     "jornada",
     "hora de almoço",
-    "interjornada"
+    "interjornada",
+    "descanso semanal"
   ],
   "synonyms": [
     "uma hora de almoço",
-    "descanso de 11 horas"
+    "descanso de 11 horas",
+    "folga semanal",
+    "dois dias de folga",
+    "fim da escala 6x1",
+    "intervalo para almoço"
   ],
-  "quickAnswer": "A CLT prevê, em trabalho contínuo de mais de 6 horas, intervalo para repouso ou alimentação de no mínimo 1 hora (com exceções por acordo ou contrato coletivo) e um período mínimo de 11 horas de descanso entre duas jornadas. Confira as exceções vigentes.",
+  "quickAnswer": "Se você trabalha mais de 6 horas seguidas, tem direito a pelo menos 1 hora de intervalo para descansar ou comer. Entre um dia de trabalho e o outro, deve haver pelo menos 11 horas de descanso. A partir de dezembro de 2026, o descanso semanal passa a ser de 2 dias, um deles preferencialmente no domingo.",
   "sections": {
-    "explanation": "Se o intervalo não é concedido, pode haver consequências. Convenções coletivas podem ajustar detalhes dentro dos limites da lei.",
+    "explanation": "Em trabalho contínuo de mais de 6 horas, a empresa deve dar intervalo de no mínimo 1 hora para repouso ou alimentação. Esse intervalo só pode passar de 2 horas com acordo escrito ou contrato coletivo. Se a jornada tem mais de 4 e até 6 horas, o intervalo é de 15 minutos. O intervalo não conta como hora trabalhada. Entre duas jornadas, o mínimo é de 11 horas seguidas de descanso. Se a empresa não dá o intervalo, ou dá só uma parte, deve pagar o tempo que faltou com 50% a mais sobre a hora normal. Pela Emenda Constitucional 141/2026, o repouso semanal remunerado passa a ser de 2 dias, um deles preferencialmente no domingo, 2 meses depois da publicação da emenda, que foi em 16/10/2026 (ou seja, a partir de dezembro de 2026).",
     "whenApplies": [
-      "Você trabalha jornadas longas e quer conferir seu descanso."
+      "Você trabalha mais de 6 horas seguidas e não tem 1 hora de intervalo.",
+      "Você trabalha de 4 a 6 horas e não tem os 15 minutos de intervalo.",
+      "Você sai tarde e entra cedo no dia seguinte, com menos de 11 horas de descanso.",
+      "Você quer saber como fica o descanso semanal com a nova regra de 2 dias."
     ],
     "exceptions": [
-      "Exceções, acordos e categorias específicas alteram o resultado."
+      "Acordo ou convenção coletiva pode reduzir ou dividir o intervalo para motoristas, cobradores e outros trabalhadores do transporte coletivo de passageiros, mantida a remuneração.",
+      "O intervalo pode passar de 2 horas se houver acordo escrito ou contrato coletivo.",
+      "Para empregados domésticos, o intervalo é de 1 a 2 horas e pode cair para 30 minutos por acordo escrito; o descanso entre jornadas também é de 11 horas.",
+      "Em casos excepcionais, a Emenda 141/2026 permite que acordo coletivo adote outro regime de compensação do descanso semanal, dentro dos limites da emenda."
     ],
     "steps": [
-      "Anote seus horários de entrada, saída e intervalo.",
-      "Guarde espelhos de ponto.",
-      "Procure o sindicato para conferir a convenção da categoria."
+      "Anote os horários de entrada, saída e intervalo de cada dia.",
+      "Guarde espelhos de ponto e mensagens sobre escalas e horários.",
+      "Confira no acordo ou convenção coletiva da sua categoria se há regra própria.",
+      "Se o intervalo ou o descanso não é respeitado, peça por escrito o cumprimento da regra e guarde a resposta."
     ],
     "documentsToKeep": [
       "Carteira de trabalho (física ou digital)",
-      "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa"
+      "Espelhos de ponto ou anotações próprias de horário",
+      "Escalas de trabalho e mensagens sobre horários",
+      "Contracheques",
+      "Convenção ou acordo coletivo da categoria, se conhecer"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Procure o sindicato da sua categoria para conferir as regras do acordo ou convenção coletiva.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Se há valores a receber pelo intervalo não dado, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
+    {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XV"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "7"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Emenda Constitucional nº 141/2026 — jornada de trabalho e repouso semanal",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º",
+        "art. 10"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20"
+    },
     {
       "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
       "sphere": "federal",
       "provisions": [
         "art. 66",
-        "art. 71"
+        "art. 71, caput",
+        "art. 71, §1º",
+        "art. 71, §2º",
+        "art. 71, §4º",
+        "art. 71, §5º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
@@ -66,14 +115,38 @@
         ],
         "provisionsMissing": []
       }
+    },
+    {
+      "name": "Lei Complementar nº 150/2015 (trabalho doméstico)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 13",
+        "art. 15"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2015-06-01;150",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-complementares/2015/lcp-150-2015-06-01.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2015-06-01;150",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "13",
+          "15"
+        ],
+        "provisionsMissing": []
+      }
     }
   ],
   "relatedArticles": [
     "TRA-003",
-    "TRA-007"
+    "TRA-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas. Texto da EC 141/2026 conferido no Planalto (publicação no DOU de 16/10/2026).",
+  "status": "published"
 }

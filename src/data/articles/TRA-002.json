@@ -3,44 +3,55 @@
   "slug": "ferias-e-adicional",
   "title": "Não recebi minhas férias ou o adicional correspondente",
   "category": "trabalho",
-  "summary": "O que verificar sobre férias e o adicional previsto na Constituição e na CLT.",
+  "summary": "Depois de 12 meses de trabalho você tem direito a férias remuneradas, com um terço a mais.",
   "keywords": [
     "férias",
     "adicional de férias",
     "um terço",
+    "1/3 de férias",
+    "férias vencidas",
+    "pagamento em dobro",
     "descanso"
   ],
   "synonyms": [
     "férias não pagas",
     "férias vencidas",
-    "não tirei férias"
+    "não tirei férias",
+    "patrão não dá férias",
+    "vender férias",
+    "abono de férias"
   ],
-  "quickAnswer": "A Constituição prevê férias com um adicional, e a CLT detalha regras (período, concessão, pagamento). Os detalhes — como prazos, fracionamento e exceções — precisam ser conferidos na norma vigente e no seu caso.",
+  "quickAnswer": "Depois de cada 12 meses de trabalho, você tem direito a férias, em geral de 30 dias, pagas com um terço a mais. O pagamento deve sair até 2 dias antes de as férias começarem. Se a empresa der as férias depois do prazo, tem de pagar em dobro.",
   "sections": {
-    "explanation": "Para entender se algo está errado, anote o início do contrato, os períodos já tirados e o que foi pago a cada férias.",
+    "explanation": "A cada 12 meses de contrato você ganha o direito a férias, sem perder o salário. A Constituição garante que elas sejam pagas com pelo menos um terço a mais do que o salário normal. A empresa deve dar as férias nos 12 meses seguintes ao dia em que você ganhou o direito, e pagar até 2 dias antes de elas começarem. Se der depois desse prazo, o pagamento é em dobro.",
     "whenApplies": [
-      "Você trabalha com carteira assinada e tem dúvidas sobre férias não concedidas ou pagas."
+      "Você completou 12 meses de contrato e ainda não teve as férias.",
+      "Você saiu de férias, mas não recebeu o pagamento ou o um terço a mais.",
+      "A empresa deu as férias depois do prazo e pagou o valor simples."
     ],
     "exceptions": [
-      "Regras podem variar por tipo de contrato e categoria.",
-      "Não use prazos de memória: confira a regra vigente."
+      "Faltas ao serviço podem diminuir as férias: 24 dias (6 a 14 faltas), 18 dias (15 a 23) ou 12 dias (24 a 32). Algumas ausências não contam como falta, como doença atestada pelo INSS e faltas que a empresa justificou.",
+      "Com a sua concordância, as férias podem ser divididas em até 3 períodos: um de pelo menos 14 dias e os outros de pelo menos 5 dias cada.",
+      "Você pode trocar 1/3 das férias por dinheiro (abono), pedindo até 15 dias antes do fim do período de 12 meses.",
+      "As férias não podem começar nos 2 dias antes de feriado ou de dia de descanso semanal."
     ],
     "steps": [
-      "Liste períodos de trabalho e férias já gozadas.",
-      "Guarde recibos de férias e contracheques.",
-      "Procure orientação do sindicato ou dos canais oficiais."
+      "Confira a data em que você completou 12 meses de trabalho.",
+      "Peça as férias, ou cobre o pagamento, por escrito (mensagem ou e-mail).",
+      "Veja no recibo se veio o um terço a mais e se o pagamento saiu até 2 dias antes das férias.",
+      "Guarde os recibos de férias para comparar depois."
     ],
     "documentsToKeep": [
       "Carteira de trabalho (física ou digital)",
-      "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa",
+      "Recibos de férias",
+      "Contracheques",
+      "Avisos ou mensagens sobre as datas de férias",
       "Convenção ou acordo coletivo da categoria, se conhecer"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Se o prazo para a empresa dar as férias já passou, você pode pedir à Justiça do Trabalho que defina a data das suas férias.",
+      "Procure o sindicato da sua categoria para orientação sobre as regras que valem para você.",
+      "Se há valores a receber, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -50,10 +61,9 @@
       "provisions": [
         "art. 7º, XVII"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "constituicao.md",
@@ -71,12 +81,18 @@
       "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
       "sphere": "federal",
       "provisions": [
-        "capítulo de férias — a conferir"
+        "art. 129",
+        "art. 130",
+        "art. 131",
+        "art. 134, caput e §1º",
+        "art. 134, §3º",
+        "art. 137",
+        "art. 143, §1º",
+        "art. 145"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
@@ -84,7 +100,16 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "129",
+          "130",
+          "131",
+          "134",
+          "1",
+          "137",
+          "143",
+          "145"
+        ],
         "provisionsMissing": []
       }
     }
@@ -93,8 +118,8 @@
     "TRA-001",
     "TRA-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

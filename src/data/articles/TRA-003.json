@@ -3,44 +3,56 @@
   "slug": "horas-extras-direitos",
   "title": "Estou fazendo horas extras: como entender meus direitos?",
   "category": "trabalho",
-  "summary": "Como pensar sobre jornada e horas extras, e por que a resposta depende de vários fatores.",
+  "summary": "Hora extra é o tempo trabalhado além da jornada: veja o adicional de 50% e as novas regras de jornada semanal.",
   "keywords": [
     "horas extras",
     "jornada de trabalho",
     "banco de horas",
-    "adicional"
+    "adicional de 50%",
+    "jornada de 40 horas",
+    "compensação de horas"
   ],
   "synonyms": [
     "hora extra",
     "trabalhei além do horário",
-    "passo do horário"
+    "passo do horário",
+    "escala 6x1",
+    "fim da escala 6x1",
+    "jornada de 42 horas",
+    "redução da jornada"
   ],
-  "quickAnswer": "Jornada e horas extras dependem da jornada contratada, do regime, da categoria, de acordos ou convenções e de exceções. A Constituição e a CLT são pontos de partida; o seu caso pode exigir análise individual.",
+  "quickAnswer": "Hora extra é o tempo trabalhado além da jornada. Deve ser paga com pelo menos 50% a mais, ou compensada quando a lei permite. O limite semanal está diminuindo, sem corte de salário: 42 horas a partir de dezembro de 2026 e 40 horas um ano depois.",
   "sections": {
-    "explanation": "Registre seus horários reais, o que está no contrato e como a empresa controla a jornada.",
+    "explanation": "A jornada normal é de até 8 horas por dia. Pode haver até 2 horas extras por dia, por acordo individual, acordo coletivo ou convenção coletiva, e cada hora extra deve ser paga com pelo menos 50% a mais que a hora normal. A Emenda Constitucional 141/2026, publicada em 16/10/2026, reduz o limite semanal em duas etapas: 2 meses depois da publicação (dezembro de 2026), no máximo 42 horas por semana; um ano depois dessa etapa (dezembro de 2027), no máximo 40 horas. A emenda vale também para contratos que já existem e não permite reduzir o salário.",
     "whenApplies": [
-      "Você trabalha com frequência além da jornada combinada."
+      "Você trabalha além da jornada combinada ou além do limite da lei.",
+      "A empresa não paga as horas a mais, ou paga sem o adicional de pelo menos 50%.",
+      "Você tem banco de horas e quer saber se a compensação está certa."
     ],
     "exceptions": [
-      "Algumas funções e regimes têm regras específicas.",
-      "Acordo ou convenção coletiva pode alterar detalhes."
+      "A empresa pode dispensar o adicional de 50% se, por acordo ou convenção coletiva, as horas a mais forem compensadas com folga em outro dia, em até 1 ano e sem passar de 10 horas por dia.",
+      "Banco de horas por acordo individual escrito: a compensação tem de acontecer em até 6 meses. Para compensar dentro do mesmo mês, basta acordo individual.",
+      "Se você sair da empresa sem ter compensado todas as horas extras, tem direito a receber as que sobraram.",
+      "Cláusulas de acordo ou convenção coletiva que contrariem os novos limites da emenda perdem o efeito 2 meses depois da publicação. Empregados com curso superior e salário de pelo menos 2,5 vezes o teto do INSS ficam fora das regras de jornada e de controle de horário, salvo se a empresa optar por aplicá-las ou o acordo coletivo prever.",
+      "Domésticos têm regras próprias (veja “Trabalho em casa de família”)."
     ],
     "steps": [
-      "Anote horários de entrada e saída.",
-      "Guarde controle de ponto e mensagens sobre horários.",
-      "Confira a convenção ou o acordo coletivo da categoria."
+      "Anote todo dia o horário de entrada, de saída e do intervalo.",
+      "Guarde cartão ou espelho de ponto, mensagens e e-mails com ordens fora do horário.",
+      "Compare com o contracheque: as horas extras aparecem, com o adicional de pelo menos 50%?",
+      "Veja no acordo ou convenção coletiva da sua categoria se há regra de banco de horas ou de compensação."
     ],
     "documentsToKeep": [
       "Carteira de trabalho (física ou digital)",
       "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa",
+      "Controle de jornada (ponto, espelho de ponto, anotações próprias)",
+      "Mensagens e e-mails com ordens de horário",
       "Convenção ou acordo coletivo da categoria, se conhecer"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Procure o sindicato da sua categoria para conferir o que o acordo ou a convenção coletiva diz sobre jornada e compensação.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Se há horas extras a receber, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -48,12 +60,12 @@
       "name": "Constituição Federal de 1988",
       "sphere": "federal",
       "provisions": [
-        "art. 7º, XIII e XVI"
+        "art. 7º, XIII",
+        "art. 7º, XVI"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "constituicao.md",
@@ -68,15 +80,34 @@
       }
     },
     {
+      "name": "Emenda Constitucional nº 141/2026 — jornada de trabalho e repouso semanal",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º",
+        "art. 2º",
+        "art. 3º",
+        "art. 6º",
+        "art. 8º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20"
+    },
+    {
       "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
       "sphere": "federal",
       "provisions": [
-        "arts. 58, 59 e correlatos"
+        "art. 58",
+        "art. 59, caput",
+        "art. 59, §1º",
+        "art. 59, §2º",
+        "art. 59, §3º",
+        "art. 59, §5º",
+        "art. 59, §6º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1943/del-5452-1943-05-01.md",
@@ -90,25 +121,15 @@
         ],
         "provisionsMissing": []
       }
-    },
-    {
-      "name": "Instrumentos coletivos (acordo/convenção) da categoria — conferir o seu",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar."
     }
   ],
   "relatedArticles": [
+    "TRA-013",
     "TRA-001",
-    "TRA-004"
+    "TRA-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas. Texto da EC 141/2026 conferido no Planalto (publicação no DOU de 16/10/2026).",
+  "status": "published"
 }

@@ -4,7 +4,7 @@
   "category": "saude",
   "title": "Meu plano de saúde ou o SUS negou ou demorou um atendimento",
   "description": "Encontre os conteúdos sobre a sua situação de saúde no plano privado ou no SUS.",
-  "status": "draft",
+  "status": "published",
   "startQuestion": "q1",
   "questions": {
     "q1": {
@@ -82,11 +82,11 @@
       "id": "r_urg",
       "title": "Urgência e emergência no plano",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer a cobertura obrigatória prevista para urgência e emergência.",
-      "rule": "A Lei 9.656/1998 torna obrigatória a cobertura do atendimento nos casos que ela lista, como emergência e urgência, nos termos da lei. As condições, como carência e limites, precisam ser conferidas na redação vigente e na norma da ANS.",
+      "rule": "A Lei 9.656/1998 obriga o plano a cobrir emergência e urgência nos casos que ela define. Para esses casos, a carência não pode passar de 24 horas. Em emergência, o médico precisa declarar o risco por escrito.",
       "steps": [
-        "Busque atendimento imediato se houver risco.",
-        "Guarde laudos, receitas e comprovantes de despesas.",
-        "Peça a negativa por escrito e registre reclamação na ANS."
+        "Busque atendimento imediato se houver risco à vida.",
+        "Peça ao médico uma declaração escrita sobre o risco, exigida para emergência.",
+        "Guarde laudos, receitas e comprovantes. Peça a negativa por escrito e registre reclamação na ANS."
       ],
       "documents": [
         "Documento do plano ou cartão do SUS",
@@ -97,17 +97,17 @@
       "relatedArticleIds": [
         "SAU-001"
       ],
-      "caution": "Se houver risco à vida, busque atendimento imediato."
+      "caution": "Se houver risco à vida, busque atendimento imediato antes de qualquer outra providência."
     },
     "r_neg": {
       "id": "r_neg",
       "title": "Plano negou procedimento",
       "indicates": "Suas respostas indicam que pode valer a pena entender como a negativa de cobertura é analisada e o que pedir por escrito.",
-      "rule": "A cobertura depende do tipo de contrato, da segmentação, da data, do procedimento e das normas vigentes da ANS e da lei. Peça a negativa por escrito e procure os canais da ANS. Se houver urgência, procure atendimento de saúde.",
+      "rule": "O plano deve cobrir os procedimentos da lista da ANS. Se o que você precisa não está nela, a cobertura pode ser obrigatória quando o médico comprova a eficácia com base em evidências científicas e apresenta um plano terapêutico, ou quando há recomendação da Conitec ou de órgão internacional de avaliação de tecnologias.",
       "steps": [
         "Peça a negativa por escrito, com o motivo.",
         "Reúna pedido médico, laudos e protocolos.",
-        "Registre reclamação nos canais da operadora e da ANS."
+        "Registre reclamação na operadora e na ANS."
       ],
       "documents": [
         "Documento do plano ou cartão do SUS",
@@ -124,10 +124,11 @@
       "id": "r_reaj",
       "title": "Reajuste da mensalidade",
       "indicates": "Suas respostas indicam que pode valer a pena entender os tipos de reajuste e como pedir o demonstrativo.",
-      "rule": "Os contratos de plano de saúde têm regras de reajuste, que dependem do tipo de plano (individual ou coletivo) e das normas da ANS. Peça à operadora o demonstrativo do cálculo e confira o seu contrato.",
+      "rule": "O reajuste por idade só pode ocorrer se as faixas de idade e os percentuais estiverem no contrato. Para quem tem 60 anos ou mais e está no plano há mais de 10 anos, a lei veda esse aumento por idade. O reajuste anual segue as regras da ANS.",
       "steps": [
-        "Guarde o comunicado de reajuste e o contrato.",
-        "Peça o demonstrativo por escrito.",
+        "Peça por escrito o cálculo, separando reajuste anual e reajuste por idade.",
+        "Veja no contrato se as faixas de idade e os percentuais estão previstos.",
+        "Se você tem 60 anos ou mais e está no plano há mais de 10 anos, conteste por escrito o aumento por idade.",
         "Reclame na operadora e, se não resolver, na ANS."
       ],
       "documents": [
@@ -144,11 +145,12 @@
       "id": "r_canc",
       "title": "Plano cancelado ou não renovado",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer as regras de renovação e de rescisão.",
-      "rule": "A Lei 9.656/1998 trata da renovação automática dos contratos e limita a cobrança de taxas na renovação. As hipóteses em que a operadora pode rescindir dependem do tipo de contrato; peça o motivo por escrito.",
+      "rule": "Em plano individual, o contrato dura pelo menos um ano. A operadora só pode cancelar em caso de fraude ou se você ficar mais de 60 dias sem pagar nos últimos 12 meses, e precisa ter avisado você até o 50º dia de atraso. Também não pode cancelar durante a internação do titular. Quem perdeu o emprego ou se aposentou pode manter o plano pagando o valor integral.",
       "steps": [
-        "Peça o motivo e a base contratual por escrito.",
-        "Guarde comprovantes de pagamento.",
-        "Reclame na operadora e na ANS e procure orientação."
+        "Peça por escrito o motivo do cancelamento e a base do contrato.",
+        "Guarde comprovantes de pagamento e o aviso recebido, com a data.",
+        "Se perdeu o emprego ou se aposentou, pergunte sobre a manutenção do plano e o prazo.",
+        "Reclame na operadora e na ANS se o cancelamento não tiver base legal."
       ],
       "documents": [
         "Documento do plano ou cartão do SUS",
@@ -164,11 +166,11 @@
       "id": "r_med",
       "title": "Medicamento ou exame no SUS",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer os caminhos para cobrar medicamento ou exame no SUS.",
-      "rule": "A Constituição trata a saúde como direito de todos e dever do Estado, e a lei do SUS organiza as ações. O que o SUS fornece depende de listas e protocolos oficiais, e há canais para reclamar. Em urgência, procure atendimento imediato.",
+      "rule": "O SUS deve fornecer medicamentos e produtos conforme os protocolos clínicos oficiais, que são guias de tratamento. Se não houver protocolo para a doença, a entrega segue as listas de medicamentos do governo federal, do estado ou do município. O processo para incluir ou retirar um medicamento do SUS deve terminar em até 180 dias.",
       "steps": [
-        "Peça por escrito a negativa ou a previsão de fornecimento.",
-        "Reúna receitas, laudos e pedidos.",
-        "Registre reclamação na ouvidoria e procure a Defensoria Pública, se necessário."
+        "Peça por escrito a negativa, com o motivo, ou a previsão de entrega.",
+        "Leve receita, laudo e pedido médico atualizados.",
+        "Se o SUS não resolver, registre reclamação na ouvidoria e procure a Defensoria Pública."
       ],
       "documents": [
         "Documento do plano ou cartão do SUS",
@@ -185,7 +187,7 @@
       "id": "r_dem",
       "title": "Demora ou negativa no SUS",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer os canais de reclamação do SUS.",
-      "rule": "A Constituição e a legislação do SUS tratam da saúde como direito, mas os canais e as regras locais variam. Procure a ouvidoria da unidade e da secretaria de saúde da sua localidade. Em urgência, busque atendimento imediato.",
+      "rule": "Quando o SUS demora ou nega um atendimento, registre reclamação na ouvidoria da unidade ou da secretaria de saúde. A ouvidoria não pode recusar sua reclamação e deve dar a resposta final em até 30 dias, prorrogáveis uma vez por igual período.",
       "steps": [
         "Anote datas, locais e nomes de quem atendeu.",
         "Registre reclamação na ouvidoria da unidade ou secretaria.",
@@ -206,11 +208,11 @@
       "id": "r_acomp",
       "title": "Acompanhante",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer o direito a acompanhante em algumas situações de saúde.",
-      "rule": "Há leis que asseguram acompanhante à parturiente no SUS e a acompanhante de pessoas idosas e de crianças em internação. As regras exatas variam por situação e precisam ser conferidas.",
+      "rule": "Toda mulher pode levar um acompanhante maior de idade em consultas, exames e procedimentos, em serviços públicos ou privados, sem aviso prévio. Crianças e adolescentes internados podem ter um dos pais ou responsável por perto em tempo integral. Pessoa idosa internada ou em observação tem direito a acompanhante, segundo o critério médico.",
       "steps": [
-        "Informe a unidade com antecedência.",
-        "Peça justificativa por escrito se houver recusa.",
-        "Registre reclamação na ouvidoria."
+        "Avise a unidade com antecedência e diga quem será o acompanhante.",
+        "Se houver recusa, peça a justificativa por escrito.",
+        "Se a recusa não tiver justificativa, registre reclamação na ouvidoria."
       ],
       "documents": [
         "Documento do plano ou cartão do SUS",
@@ -226,7 +228,7 @@
       "id": "r_pront",
       "title": "Acesso ao prontuário",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer como pedir cópia do prontuário.",
-      "rule": "Existem normas sobre prontuário do paciente e proteção de dados. Como pedir, em que prazo e com quais limites precisa ser conferido nas normas profissionais e na legislação aplicável. Peça por escrito à unidade de saúde.",
+      "rule": "Você pode pedir cópia do seu prontuário e dos seus exames, por escrito. Pela LGPD, a unidade deve atender de forma imediata, em formato simplificado, ou em até 15 dias, com declaração completa.",
       "steps": [
         "Peça por escrito, informando seus dados e o período desejado.",
         "Guarde protocolo do pedido.",
@@ -245,7 +247,7 @@
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/04-saude.md; resultados conferidos com os artigos SAU-001 a SAU-009."
 }

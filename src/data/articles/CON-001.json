@@ -3,47 +3,54 @@
   "slug": "desistir-compra-internet",
   "title": "Comprei pela internet e quero desistir da compra",
   "category": "consumidor",
-  "summary": "Entenda quando pode existir direito de arrependimento em compras feitas fora da loja e como comunicar a decisão.",
+  "summary": "Você tem 7 dias para desistir de uma compra feita fora da loja, como pela internet ou pelo telefone, e receber o dinheiro de volta.",
   "keywords": [
     "compra online",
     "cancelar compra",
     "arrependimento",
     "devolução",
-    "desistir"
+    "desistir",
+    "7 dias",
+    "direito de arrependimento"
   ],
   "synonyms": [
     "devolver compra",
     "quero meu dinheiro de volta",
     "compra pelo celular",
-    "compra por telefone"
+    "compra por telefone",
+    "comprei e me arrependi",
+    "devolver produto da internet",
+    "cancelar pedido"
   ],
-  "quickAnswer": "Em certas contratações feitas fora do estabelecimento comercial (como internet ou telefone), o Código de Defesa do Consumidor prevê direito de arrependimento. Se ele se aplica ao seu caso depende do enquadramento e das circunstâncias, e o prazo e a forma de contagem precisam ser conferidos na fonte oficial.",
+  "quickAnswer": "Você tem 7 dias para desistir de uma compra feita pela internet, pelo telefone ou em casa. A contagem começa na data da compra ou na data em que o produto chegou. Se desistir, a loja deve devolver tudo o que você pagou, de uma vez.",
   "sections": {
-    "explanation": "O direito de arrependimento permite desistir de certas compras feitas à distância. Não é uma regra para toda e qualquer compra: é preciso verificar o tipo de contratação, quando ela aconteceu e as exceções previstas.",
+    "explanation": "A lei dá 7 dias para você desistir de uma compra feita fora da loja, sem precisar explicar o motivo. Isso vale para internet, telefone, catálogo e venda na porta de casa. O prazo conta da data em que você assinou o contrato ou da data em que recebeu o produto ou o serviço. Se você desistir, a loja deve devolver de uma vez tudo o que você pagou, com correção.",
     "whenApplies": [
-      "A compra ou a contratação foi feita fora da loja (internet, telefone, catálogo, em casa).",
-      "Você ainda não sabe com certeza a data da contratação e do recebimento, e precisa conferi-las."
+      "Você comprou ou contratou pela internet, pelo telefone ou com vendedor em casa.",
+      "Ainda não se passaram 7 dias da compra ou do recebimento do produto ou serviço."
     ],
     "exceptions": [
-      "Compra feita presencialmente em loja não segue automaticamente a mesma regra (veja “A loja não quer trocar o produto”).",
-      "Existem hipóteses e exceções que precisam ser conferidas na lei e na regulamentação.",
-      "O início da contagem do prazo depende da situação; não presuma o número de dias."
+      "Compra feita dentro da loja física não tem esse direito automático (veja “A loja não quer trocar o produto”).",
+      "Passados os 7 dias, você ainda pode reclamar se o produto tiver defeito ou se a loja não cumprir o que anunciou.",
+      "Cada caso é diferente: guarde provas de tudo."
     ],
     "steps": [
-      "Localize o pedido e confira as datas da contratação e do recebimento.",
-      "Comunique a desistência à empresa por um canal que permita guardar comprovante.",
-      "Guarde o protocolo e peça por escrito as instruções de devolução."
+      "Veja a data da compra e a data em que o produto chegou.",
+      "Peça a desistência o quanto antes. Você pode usar o mesmo site ou aplicativo em que comprou, ou outro canal da loja.",
+      "A loja deve confirmar na hora que recebeu seu pedido. Guarde essa confirmação e o protocolo.",
+      "Se pagou no cartão, a loja deve avisar o cartão para não cobrar ou devolver o valor na fatura. Confira a fatura depois."
     ],
     "documentsToKeep": [
       "Comprovante de compra ou contrato",
       "Número do pedido e dados da empresa",
       "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Data em que o produto chegou"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Guarde o protocolo do seu pedido de desistência: ele prova que você pediu dentro do prazo.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -54,9 +61,8 @@
         "art. 49"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir redação vigente, hipótese de incidência, marco de contagem e exceções.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -77,9 +83,8 @@
         "art. 5º"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente e aplicação ao caso.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos/2013/dec-7962-2013-03-15.md",
@@ -95,12 +100,13 @@
     }
   ],
   "relatedArticles": [
+    "CON-002",
     "CON-003",
     "CON-006",
     "CON-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

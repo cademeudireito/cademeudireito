@@ -4,7 +4,7 @@
   "category": "mulheres",
   "title": "Preciso de informações sobre violência ou assédio",
   "description": "Informações gerais e caminhos de ajuda. Se você está em perigo agora, procure um lugar seguro e acione a polícia ou o serviço de emergência.",
-  "status": "draft",
+  "status": "published",
   "quickExit": true,
   "startQuestion": "q1",
   "questions": {
@@ -73,7 +73,7 @@
       "id": "r_vd",
       "title": "Informações sobre violência doméstica e proteção",
       "indicates": "Suas respostas indicam que pode valer a pena conhecer as formas de violência doméstica previstas na lei e as medidas protetivas.",
-      "rule": "A Lei Maria da Penha considera violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial. Violência não é só física: pode ser psicológica, sexual, patrimonial e moral.",
+      "rule": "A Lei Maria da Penha considera violência doméstica e familiar contra a mulher qualquer ação ou omissão, baseada no gênero, que cause morte, lesão, sofrimento, dano moral ou patrimonial. Ela lista seis formas de violência: física, psicológica, sexual, patrimonial, moral e vicária. Descumprir medida protetiva de urgência é crime, com pena de 2 a 5 anos de reclusão e multa.",
       "steps": [
         "Se estiver em perigo, procure um lugar seguro e acione a polícia ou o serviço de emergência.",
         "Guarde registros (mensagens, fotos, laudos) em local seguro.",
@@ -132,7 +132,6 @@
       ],
       "articleId": "DIG-004",
       "relatedArticleIds": [
-        "MUL-003",
         "MUL-004"
       ]
     },
@@ -160,7 +159,7 @@
     }
   },
   "legalReferences": [],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho. Resultados derivados dos assuntos relacionados, ainda não validados juridicamente."
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/11-mulheres.md; dispositivos conferidos no texto das normas."
 }

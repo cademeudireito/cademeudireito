@@ -3,77 +3,58 @@
   "slug": "taxa-escolar-ou-faculdade-indevida",
   "title": "A escola ou faculdade está cobrando uma taxa que considero indevida",
   "category": "educacao",
-  "summary": "Como analisar cobranças de escolas e faculdades: contrato, rede pública ou privada e normas aplicáveis.",
+  "summary": "Como conferir cobranças de escolas e faculdades particulares, com base no contrato e na lei de mensalidades.",
   "keywords": [
     "mensalidade",
     "taxa escolar",
     "matrícula",
     "cobrança escola",
-    "faculdade"
+    "faculdade",
+    "material escolar"
   ],
   "synonyms": [
     "taxa da escola",
     "cobrança da faculdade",
-    "material escolar"
+    "material escolar cobrado",
+    "taxa indevida na escola"
   ],
-  "quickAnswer": "Se a instituição é privada, o contrato e normas como o Código de Defesa do Consumidor e a lei de mensalidades escolares podem ser relevantes. Na rede pública, a análise é diferente. Confira o contrato e peça explicações por escrito.",
+  "quickAnswer": "Na escola ou faculdade particular, o valor da mensalidade é o que foi contratado na matrícula. A escola deve divulgar a proposta e os valores pelo menos 45 dias antes do fim da matrícula. Confira o contrato e peça explicações por escrito sobre cada cobrança.",
   "sections": {
-    "explanation": "Identifique a natureza da taxa, o que o contrato diz e o que foi informado antes da matrícula.",
+    "explanation": "A Lei 9.870/1999 diz que o valor das mensalidades (anuidades e semestralidades) é contratado no ato da matrícula ou da renovação (art. 1º). Antes da matrícula, a escola deve divulgar a proposta de contrato e os valores (art. 2º). Também é nula a cláusula que obrigue a pagar à parte material escolar de uso coletivo (art. 1º, §7º).",
     "whenApplies": [
-      "Você foi cobrado por taxa ou valor que não entende ou que considera indevido."
+      "A escola ou faculdade cobrou uma taxa, um valor extra ou um material que você não entende ou não esperava."
     ],
     "exceptions": [
-      "Rede pública e privada têm regras diferentes.",
-      "Normas locais podem ser relevantes."
+      "Nem toda cobrança é indevida: a escola pode cobrar o que está previsto no contrato e nos valores divulgados.",
+      "Na rede pública, a cobrança segue outras regras. Procure a secretaria de educação."
     ],
     "steps": [
-      "Peça por escrito a explicação e a base da cobrança.",
-      "Compare com o contrato e o regulamento.",
-      "Guarde boletos e comunicados."
+      "Peça por escrito a explicação da cobrança e a base dela: contrato, regulamento ou lista de valores.",
+      "Compare a cobrança com o contrato e com a proposta divulgada antes da matrícula.",
+      "Guarde boletos e comunicados. Se a cobrança não estiver no contrato, peça a retirada por escrito."
     ],
     "documentsToKeep": [
       "Contrato de prestação de serviços educacionais",
-      "Boletos e comprovantes de pagamento",
-      "Comunicados e regulamento da instituição"
+      "Proposta ou lista de valores divulgada antes da matrícula",
+      "Boletos, comprovantes de pagamento e comunicados"
     ],
     "ifDenied": [
-      "Verifique o Procon da sua localidade, se for instituição privada.",
-      "Para rede pública, procure a secretaria de educação ou a ouvidoria competente.",
-      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Procure o Procon da sua cidade ou do seu estado e leve o contrato e os boletos.",
+      "Na rede pública, procure a secretaria de educação ou a ouvidoria competente.",
+      "Se houver prazo ou prejuízo grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
     {
-      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-11;8078",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
       "name": "Lei nº 9.870/1999 (mensalidades escolares)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 1º, caput e §7º",
+        "art. 2º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-11-23;9870",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1999/lei-9870-1999-11-23.md",
@@ -81,28 +62,11 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Lei nº 9.394/1996 — Lei de Diretrizes e Bases da Educação (LDB)",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1996-12-20;9394",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/1996/lei-9394-1996-12-20.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1996-12-20;9394",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "1",
+          "7",
+          "2"
+        ],
         "provisionsMissing": []
       }
     }
@@ -111,8 +75,8 @@
     "CON-005",
     "CON-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/07-educacao.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -3,45 +3,51 @@
   "slug": "cobranca-que-nao-contratei",
   "title": "Estão cobrando algo que não contratei",
   "category": "consumidor",
-  "summary": "O que fazer ao receber cobrança de serviço ou produto que você não reconhece.",
+  "summary": "Cobrar por produto ou serviço que você não pediu é prática proibida. Você pode exigir explicação e a prova da contratação.",
   "keywords": [
     "cobrança indevida",
-    "não contratei",
-    "cobrança não reconhecida",
-    "cobrança no cartão",
-    "serviço não contratado"
+    "cobrança que não contratei",
+    "serviço não solicitado",
+    "desconto na conta",
+    "cobrança estranha",
+    "fatura com erro"
   ],
   "synonyms": [
-    "cobrança estranha",
-    "cobraram sem eu pedir",
-    "débito que não conheço"
+    "cobrando por serviço que não pedi",
+    "apareceu um desconto no cartão",
+    "assinatura que não fiz",
+    "seguro que não contratei",
+    "taxa que não reconheço",
+    "mandaram produto sem eu pedir"
   ],
-  "quickAnswer": "Em relações de consumo, cobranças sem contratação regular podem ser contestadas. O caminho prático costuma ser pedir esclarecimento ao fornecedor, guardar o protocolo e, se necessário, recorrer ao canal competente. A devolução de valores tem requisitos próprios.",
+  "quickAnswer": "A empresa não pode mandar produto ou serviço sem você pedir, nem cobrar por isso. Peça por escrito a explicação e a prova de que você contratou. Se você pagou algo que não devia, pode pedir de volta o dobro do que pagou a mais.",
   "sections": {
-    "explanation": "Quando você não reconhece uma cobrança, é importante primeiro identificar quem cobra, o que está sendo cobrado e se houve contratação. Contestar por escrito ajuda a documentar o caso.",
+    "explanation": "A lei proíbe a empresa de enviar produto ou prestar serviço sem você ter pedido. Também proíbe aproveitar-se da sua idade, saúde ou falta de conhecimento para vender. Se aparecer uma cobrança que você não reconhece, você pode exigir que a empresa explique de onde veio e mostre a prova de que você contratou, como contrato, gravação ou registro. Se você já pagou algo que não devia, pode pedir de volta o dobro (veja o artigo sobre cobrança indevida).",
     "whenApplies": [
-      "Apareceu uma cobrança de serviço, assinatura ou produto que você não contratou.",
-      "A cobrança é de valor ou condição diferente do combinado."
+      "Apareceu na fatura, na conta ou no cartão uma cobrança que você não reconhece.",
+      "Você recebeu produto ou serviço que não pediu."
     ],
     "exceptions": [
-      "Se a cobrança vier de banco ou instituição financeira, podem existir canais regulatórios específicos.",
-      "Se houver indício de fraude, veja também o assunto sobre golpes."
+      "Se você contratou e esqueceu, a cobrança pode ser válida. Por isso, primeiro peça a origem da cobrança.",
+      "Se pode ter sido golpe ou fraude, veja o artigo sobre golpes."
     ],
     "steps": [
-      "Identifique o nome de quem cobra, a data e o valor.",
-      "Peça esclarecimento e a origem da contratação por um canal que gere protocolo.",
-      "Conteste formalmente a cobrança e guarde as respostas."
+      "Anote quem cobra, o valor e a data.",
+      "Peça por escrito, em canal que dê protocolo, a explicação e a prova da contratação.",
+      "Peça que a cobrança seja suspensa enquanto a empresa responde.",
+      "Se pagou por engano, peça a devolução e guarde o comprovante."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Fatura ou extrato com a cobrança",
+      "Prints, e-mails e protocolos",
+      "Contratos antigos que você tenha",
+      "Comprovante de pagamento, se pagou"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Se for cobrança de banco ou cartão, reclame também na ouvidoria da instituição e, depois, no Banco Central.",
+      "Se o prazo estiver correndo ou o prejuízo for grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -49,14 +55,13 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "art. 6º",
-        "art. 39",
+        "art. 6º, IV",
+        "art. 39, III",
         "art. 42"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir dispositivos aplicáveis e redação vigente.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -71,26 +76,16 @@
         ],
         "provisionsMissing": []
       }
-    },
-    {
-      "name": "Normas do Banco Central sobre pagamentos e instituições financeiras (a identificar)",
-      "sphere": "federal",
-      "provisions": [
-        "a identificar"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Aplicável quando envolver instituição financeira."
     }
   ],
   "relatedArticles": [
     "CON-009",
     "CON-010",
-    "CON-011"
+    "CON-011",
+    "CON-012"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

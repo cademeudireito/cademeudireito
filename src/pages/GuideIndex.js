@@ -12,7 +12,7 @@ export async function GuideIndex({ content }) {
   const others = guides.filter((g) => !content.categories.some((c) => c.id === g.category));
   const body = guides.length
     ? h('div', {}, groups.map(([c, list]) => h('section', { class: 'article__section' }, h('h2', { text: c.title }), h('ul', { class: 'list list--cards' }, list.map(card)))), others.length ? h('ul', { class: 'list list--cards' }, others.map(card)) : null)
-    : EmptyState('Os orientadores estão em revisão', 'Cada guia só é publicado depois que seus resultados e fontes forem validados. Enquanto isso, você pode pesquisar na enciclopédia.', [{ label: 'Ver a enciclopédia', href: '/enciclopedia/' }]);
+    : EmptyState('Nenhum orientador encontrado', 'Você pode pesquisar na enciclopédia.', [{ label: 'Ver a enciclopédia', href: '/enciclopedia/' }]);
   return {
     title: 'Encontrar meus direitos',
     description: 'Responda perguntas simples, uma por vez, e encontre conteúdos relevantes para a sua situação.',

@@ -3,57 +3,103 @@
   "slug": "trabalho-domestico-direitos",
   "title": "Trabalho em casa de família: quais são meus direitos?",
   "category": "trabalho",
-  "summary": "Visão geral dos direitos do trabalho doméstico, previstos em lei complementar.",
+  "summary": "Quem trabalha em casa de família mais de 2 dias por semana é empregado doméstico e tem direitos como carteira assinada, férias e 13º.",
   "keywords": [
     "empregada doméstica",
     "trabalho doméstico",
     "diarista",
     "carteira assinada",
-    "eSocial"
+    "babá",
+    "cuidadora"
   ],
   "synonyms": [
     "domestica",
     "babá",
     "cuidadora",
-    "diarista direitos"
+    "diarista direitos",
+    "faxineira",
+    "empregada de casa de família",
+    "FGTS da doméstica"
   ],
-  "quickAnswer": "A Lei Complementar 150/2015 regula o trabalho doméstico, incluindo registro, jornada e outros direitos. Se a relação é de emprego doméstico ou de diarista depende dos fatos, como a frequência do serviço.",
+  "quickAnswer": "Quem trabalha em casa de família por mais de 2 dias por semana, de forma contínua e paga, é empregado doméstico. O empregador deve anotar a carteira em 48 horas e garantir direitos como FGTS, férias de 30 dias com 1/3, 13º e seguro-desemprego. Quem vai até 2 dias por semana (diarista) não é coberto por essa lei.",
   "sections": {
-    "explanation": "Regras sobre jornada, FGTS, férias e outros direitos precisam ser conferidas na lei vigente.",
+    "explanation": "A Lei Complementar 150/2015 vale para quem presta serviço contínuo, pessoal e pago a uma pessoa ou família, dentro da casa, sem fim lucrativo, por mais de 2 dias por semana. O empregador tem 48 horas para anotar a carteira depois que você a entrega, e deve registrar o seu horário de trabalho. Você tem direito, entre outros, a férias de 30 dias com 1/3 a mais, 13º salário, vale-transporte (ou o valor das passagens), FGTS, aviso prévio de 30 dias (mais 3 dias por ano de serviço, até 90), seguro-desemprego de 1 salário mínimo por até 3 meses, e licença-maternidade de 120 dias. O empregado doméstico também contribui para a Previdência Social.",
     "whenApplies": [
-      "Você trabalha em residência de família, com ou sem carteira assinada."
+      "Você trabalha em casa de família ou residência, como empregada doméstica, babá, cuidadora ou faxineira.",
+      "Você trabalha mais de 2 dias por semana para a mesma pessoa ou família, de forma contínua.",
+      "Você recebe pagamento por esse trabalho."
     ],
     "exceptions": [
-      "A diarista pode ter regras diferentes, a depender da frequência."
+      "Quem trabalha até 2 dias por semana (diarista) não é coberto por essa lei de empregado doméstico.",
+      "É proibido contratar menor de 18 anos para trabalho doméstico.",
+      "O contrato de experiência não pode passar de 90 dias; se continuar depois, vira contrato sem prazo.",
+      "A Constituição estende aos domésticos o limite de jornada e o descanso semanal, que estão mudando pela Emenda Constitucional 141/2026 (veja “Estou fazendo horas extras”). A hora extra é paga com pelo menos 50% a mais.",
+      "O empregador não pode descontar do seu salário alimentação, roupa, produtos de higiene ou moradia."
     ],
     "steps": [
-      "Guarde comprovantes de pagamento e registro de dias trabalhados.",
-      "Peça o registro formal na carteira, se aplicável.",
-      "Procure o sindicato da categoria ou a Defensoria Pública."
+      "Confira se você trabalha mais de 2 dias por semana para a mesma pessoa ou família.",
+      "Entregue a carteira de trabalho e peça, por escrito, que o empregador anote o contrato e faça os depósitos do FGTS.",
+      "Anote dias, horários e tarefas. O empregador é obrigado a registrar o seu horário.",
+      "Guarde mensagens e comprovantes de pagamento."
     ],
     "documentsToKeep": [
       "Carteira de trabalho (física ou digital)",
-      "Contracheques e comprovantes de pagamento",
-      "Controle de jornada, quando houver",
-      "Mensagens, e-mails e documentos da empresa"
+      "Comprovantes de pagamento (recibos, Pix, extratos)",
+      "Registros de horário e anotações próprias",
+      "Mensagens com o empregador",
+      "Extrato do FGTS"
     ],
     "ifDenied": [
-      "Converse com o sindicato da sua categoria, se houver, para entender as regras que valem para você.",
-      "Consulte os canais oficiais do Ministério do Trabalho e Emprego (confira o canal atual).",
-      "Se houver prazo correndo ou valores relevantes, procure a Defensoria Pública ou um advogado."
+      "Procure o sindicato das trabalhadoras domésticas da sua região, se houver, ou a Defensoria Pública.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se a carteira não for anotada.",
+      "Se o empregador tratar você com rigor excessivo ou de forma degradante, ou praticar violência, você pode encerrar o contrato por culpa dele. Procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
     {
+      "name": "Constituição Federal de 1988",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, §1º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "constituicao.md",
+        "fonte": null,
+        "versaoTexto": null,
+        "revogada": false,
+        "baixadoEm": null,
+        "provisionsFound": [
+          "7"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
       "name": "Lei Complementar nº 150/2015 (trabalho doméstico)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 1º",
+        "art. 2º, §1º",
+        "art. 5º",
+        "art. 9º",
+        "art. 12",
+        "art. 17",
+        "art. 18",
+        "art. 19",
+        "art. 20",
+        "art. 21",
+        "art. 23",
+        "art. 25",
+        "art. 26",
+        "art. 27, parágrafo único"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2015-06-01;150",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-complementares/2015/lcp-150-2015-06-01.md",
@@ -61,17 +107,33 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "1",
+          "2",
+          "5",
+          "9",
+          "12",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "23",
+          "25",
+          "26",
+          "27"
+        ],
         "provisionsMissing": []
       }
     }
   ],
   "relatedArticles": [
     "TRA-005",
-    "TRA-001"
+    "TRA-001",
+    "TRA-010"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/02-trabalho.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

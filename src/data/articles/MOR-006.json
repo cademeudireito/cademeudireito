@@ -3,41 +3,57 @@
   "slug": "condominio-taxas-e-regras",
   "title": "O condomínio está cobrando taxa ou aplicando multa: o que verificar?",
   "category": "moradia",
-  "summary": "Deveres do condômino e como conferir cobranças e regras de condomínio.",
+  "summary": "O condomínio pode cobrar sua parte das despesas, mas a multa só vale nas condições da lei e da convenção.",
   "keywords": [
     "condomínio",
     "taxa condominial",
     "multa de condomínio",
     "assembleia",
-    "regimento interno"
+    "regimento interno",
+    "taxa de condomínio",
+    "multa do condomínio",
+    "convenção",
+    "três quartos",
+    "inadimplência"
   ],
   "synonyms": [
     "taxa extra",
-    "síndico multou"
+    "síndico multou",
+    "taxa extra do condomínio",
+    "multa por barulho",
+    "condomínio cobrando multa",
+    "ata da assembleia do condomínio"
   ],
-  "quickAnswer": "O Código Civil lista deveres do condômino, como contribuir para as despesas do condomínio. A validade de multas e taxas depende da convenção, do regimento e de decisões em assembleia, e pode ser questionada em alguns casos.",
+  "quickAnswer": "Você deve pagar sua parte das despesas do condomínio. Atraso pode gerar multa de até 2%, mais correção e juros. Multa por descumprir regras só vale se estiver na convenção ou for aprovada em assembleia, e não pode passar de cinco vezes a contribuição. Peça a convenção e as atas.",
   "sections": {
-    "explanation": "Peça acesso à convenção, ao regimento e à ata que aprovou a cobrança.",
+    "explanation": "O Código Civil diz que cada condômino paga sua parte das despesas, na proporção da sua fração ideal, salvo se a convenção disser outra coisa (art. 1.336, I). Atraso na contribuição gera multa de até 2%, além de correção e juros (art. 1.336, §1º). A multa por descumprir regras do condomínio não pode passar de cinco vezes a contribuição mensal, e precisa estar na convenção ou ser aprovada pela assembleia por dois terços dos condôminos (art. 1.336, §2º). Se a falta for repetida, a multa exige decisão de três quartos dos outros condôminos (art. 1.337).",
     "whenApplies": [
-      "Você foi cobrado ou multado pelo condomínio e tem dúvida."
+      "O condomínio cobrou taxa extra, multa ou juros da sua unidade.",
+      "Você recebeu aviso de multa por barulho, obra, uso de área comum ou atraso."
     ],
     "exceptions": [
-      "Cada condomínio tem regras próprias; confira os documentos."
+      "Se você aluga o imóvel, as despesas ordinárias de condomínio são suas, e as extraordinárias (obras grandes) são do dono (Lei 8.245, arts. 22, X, e 23, XII).",
+      "Multa por falta repetida (art. 1.337) exige reiteração: uma falta só, em regra, não basta.",
+      "Em caso de comportamento antissocial repetido, que torne a convivência incompatível, a multa pode chegar a dez vezes a contribuição (art. 1.337, parágrafo único).",
+      "Cada caso é diferente: a convenção e as atas definem as regras de cada condomínio."
     ],
     "steps": [
-      "Peça a convenção, o regimento e a ata.",
-      "Questione por escrito ao síndico ou administradora.",
-      "Se necessário, procure orientação jurídica."
+      "Peça a convenção do condomínio, o regimento interno e a ata da assembleia que aprovou a multa ou a taxa.",
+      "Veja se a multa está prevista na convenção e se a assembleia votou.",
+      "Peça o demonstrativo da cobrança e compare com a sua parte.",
+      "Responda por escrito ao síndico e guarde o protocolo."
     ],
     "documentsToKeep": [
-      "Contrato de locação e aditivos",
-      "Comprovantes de pagamento de aluguel e encargos",
-      "Vistoria de entrada, fotos e orçamentos",
-      "Notificações, mensagens e e-mails trocados"
+      "Boletos e demonstrativos de cobrança",
+      "Convenção e regimento interno",
+      "Atas das assembleias",
+      "Notificações e mensagens do condomínio",
+      "Comprovantes de pagamento"
     ],
     "ifDenied": [
-      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
-      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+      "Se a multa não estiver na convenção nem tiver sido aprovada em assembleia, conteste por escrito.",
+      "Se o caso estiver em discussão, procure a Defensoria Pública ou um advogado.",
+      "Multa acima dos limites da lei pode ser questionada na Justiça."
     ]
   },
   "legalReferences": [
@@ -45,12 +61,13 @@
       "name": "Lei nº 10.406/2002 — Código Civil",
       "sphere": "federal",
       "provisions": [
-        "art. 1.336"
+        "art. 1.336, I",
+        "art. 1.336, §§1º e 2º",
+        "art. 1.337, caput e parágrafo único"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2002/lei-10406-2002-01-10.md",
@@ -59,18 +76,43 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "1336"
+          "1336",
+          "1337"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 22, X",
+        "art. 23, XII e §1º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "22",
+          "23"
         ],
         "provisionsMissing": []
       }
     }
   ],
   "relatedArticles": [
-    "MOR-001",
-    "MOR-007"
+    "MOR-002",
+    "MOR-005"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/05-moradia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -3,41 +3,55 @@
   "slug": "devolucao-do-imovel-alugado",
   "title": "Vou devolver o imóvel alugado: o que devo cuidar?",
   "category": "moradia",
-  "summary": "Vistoria de saída, entrega das chaves e deveres de locador e locatário na devolução.",
+  "summary": "Ao devolver o imóvel, avise o dono por escrito com 30 dias de antecedência, se o contrato não tiver prazo fixo, e entregue o imóvel como recebeu.",
   "keywords": [
     "devolução do imóvel",
     "vistoria",
     "entrega das chaves",
     "rescisão",
-    "multa"
+    "multa",
+    "devolver imóvel",
+    "entregar chaves",
+    "vistoria de saída",
+    "aviso de saída",
+    "multa de devolução"
   ],
   "synonyms": [
     "sair do imóvel alugado",
-    "aluguel acabou"
+    "aluguel acabou",
+    "vou sair do aluguel",
+    "devolver a casa alugada",
+    "aviso de saída do aluguel",
+    "entregar o imóvel alugado"
   ],
-  "quickAnswer": "A lei de locação lista as obrigações do locador e do locatário. Na devolução, é prudente fazer vistoria de saída, comparar com a vistoria de entrada e registrar a entrega das chaves por escrito.",
+  "quickAnswer": "Se o contrato não tem prazo fixo, avise o dono por escrito com 30 dias de antecedência. Entregue o imóvel como recebeu, salvo o desgaste normal do uso. Faça vistoria de saída com fotos, peça recibo das chaves e pague as contas de água, luz, gás e telefone até a saída.",
   "sections": {
-    "explanation": "Conserve fotos e documentos. Dívidas de água, luz e condomínio podem ser objeto de discussão.",
+    "explanation": "Se o contrato tem prazo indeterminado, você pode sair avisando o dono por escrito com antecedência mínima de 30 dias (Lei 8.245, art. 6º). Ao final, você deve devolver o imóvel no estado em que o recebeu, salvo o desgaste normal do uso, e pagar aluguel, encargos e contas no prazo do contrato (art. 23, I, III e VIII). Se o contrato tiver prazo fixo e você sair antes, a lei permite devolver o imóvel pagando a multa combinada (art. 4º).",
     "whenApplies": [
-      "Você vai deixar o imóvel alugado."
+      "Você vai sair do imóvel e devolver as chaves.",
+      "O contrato não tem prazo fixo, ou tem prazo e você quer sair antes do fim."
     ],
     "exceptions": [
-      "Multas e prazos de aviso dependem do contrato e da lei."
+      "Desgaste normal do uso, como tinta desbotada pelo tempo, não é culpa sua (art. 23, III).",
+      "Se o contrato tem prazo fixo e você sai antes, a multa combinada é proporcional ao tempo do contrato (art. 4º). Veja o valor no contrato.",
+      "Cada caso é diferente: o contrato define prazos, avisos e multas."
     ],
     "steps": [
-      "Avise o locador conforme o contrato, por escrito.",
-      "Faça a vistoria de saída e fotografe o imóvel.",
-      "Registre a entrega das chaves e peça recibo."
+      "Veja no contrato o prazo e a forma de aviso.",
+      "Envie o aviso de saída por escrito, com 30 dias de antecedência se o contrato não tiver prazo fixo.",
+      "Faça a vistoria de saída, com fotos e vídeos, junto com o dono ou o corretor.",
+      "Entregue as chaves e peça recibo. Pague as contas até o dia da saída e guarde os comprovantes."
     ],
     "documentsToKeep": [
-      "Contrato de locação e aditivos",
-      "Comprovantes de pagamento de aluguel e encargos",
-      "Vistoria de entrada, fotos e orçamentos",
-      "Notificações, mensagens e e-mails trocados"
+      "Contrato de locação e vistoria de entrada",
+      "Aviso de saída enviado por escrito",
+      "Fotos e vídeos da vistoria de saída",
+      "Recibo das chaves e comprovantes das contas pagas"
     ],
     "ifDenied": [
-      "Tente registrar a conversa por escrito e proponha um acordo por um canal que gere comprovante.",
-      "Se houver ação ou prazo, procure a Defensoria Pública ou um advogado o quanto antes."
+      "Se o dono cobrar algo que você não deve, peça a conta detalhada por escrito.",
+      "Se houver discordância sobre o estado do imóvel ou sobre a multa, procure a Defensoria Pública ou um advogado.",
+      "Guarde as mensagens e as fotos: elas mostram o que foi combinado e como o imóvel foi entregue."
     ]
   },
   "legalReferences": [
@@ -45,13 +59,13 @@
       "name": "Lei nº 8.245/1991 (locação de imóveis urbanos)",
       "sphere": "federal",
       "provisions": [
-        "art. 22",
-        "art. 23"
+        "art. 4º",
+        "art. 6º",
+        "art. 23, I, III e VIII"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-10-18;8245",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8245-1991-10-18.md",
@@ -60,7 +74,8 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "22",
+          "4",
+          "6",
           "23"
         ],
         "provisionsMissing": []
@@ -71,8 +86,8 @@
     "MOR-002",
     "MOR-004"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/05-moradia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

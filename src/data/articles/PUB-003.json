@@ -3,7 +3,7 @@
   "slug": "reclamar-na-ouvidoria",
   "title": "Como registrar reclamação ou sugestão na ouvidoria",
   "category": "servicos-publicos",
-  "summary": "O papel da ouvidoria na defesa dos usuários de serviços públicos.",
+  "summary": "Como fazer reclamação ou sugestão à ouvidoria de um serviço público e o prazo de resposta.",
   "keywords": [
     "ouvidoria",
     "reclamação",
@@ -13,31 +13,36 @@
   ],
   "synonyms": [
     "reclamar de atendimento público",
-    "sugestão a órgão público"
+    "sugestão a órgão público",
+    "reclamação na prefeitura"
   ],
-  "quickAnswer": "A lei de defesa dos usuários de serviços públicos prevê a manifestação dirigida à ouvidoria do órgão ou entidade responsável, com identificação do requerente. A ouvidoria deve encaminhar e responder conforme a lei e as normas do órgão.",
+  "quickAnswer": "Reclamações e sugestões sobre serviços públicos devem ir à ouvidoria do órgão, com sua identificação. A ouvidoria não pode recusar sua reclamação e deve dar a resposta final em até 30 dias.",
   "sections": {
-    "explanation": "Descreva o fato, a data, o local e o servidor ou setor, e guarde o protocolo.",
+    "explanation": "A ouvidoria é o canal oficial para reclamar ou sugerir melhorias em serviços públicos (Lei 13.460/2017, art. 9º). A manifestação deve conter sua identificação, mas a ouvidoria não pode exigir os motivos da reclamação. A ouvidoria não pode se recusar a receber a manifestação (art. 11) e tem 30 dias para responder, prazo que pode ser prorrogado uma vez, de forma justificada (art. 16).",
     "whenApplies": [
-      "Você teve mau atendimento ou falha em serviço público."
+      "Você teve mau atendimento, demora ou falha em um serviço público.",
+      "Você quer sugerir uma melhoria em um serviço público."
     ],
     "exceptions": [
-      "Os canais e prazos variam por órgão e esfera de governo."
+      "Se o órgão não tiver ouvidoria, a manifestação pode ser feita diretamente ao órgão responsável ou ao órgão a que ele está ligado (art. 10, § 3º).",
+      "Pedidos de informação seguem o canal de acesso à informação. Veja o artigo sobre pedido de informação pública."
     ],
     "steps": [
-      "Identifique o órgão responsável.",
-      "Registre a manifestação no canal oficial.",
-      "Guarde o protocolo e acompanhe o andamento."
+      "Identifique o órgão ou serviço responsável.",
+      "Registre a manifestação no canal oficial da ouvidoria, com seu nome.",
+      "Descreva o fato, a data, o local e o nome do servidor ou do setor.",
+      "Guarde o protocolo e acompanhe a resposta, que deve vir em até 30 dias."
     ],
     "documentsToKeep": [
-      "Número de protocolo do pedido",
-      "Cópia de requerimentos e documentos enviados",
-      "Datas, nomes e setores consultados"
+      "Número de protocolo",
+      "Cópia da manifestação enviada",
+      "Datas, locais e nomes de quem atendeu",
+      "Resposta final da ouvidoria"
     ],
     "ifDenied": [
-      "Procure a ouvidoria do órgão responsável.",
-      "Se for pedido de acesso à informação, verifique o canal indicado para recurso.",
-      "Se houver prazo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Se a ouvidoria se recusar a receber a manifestação, anote a recusa por escrito. A lei não permite essa recusa (art. 11).",
+      "Se passar o prazo de 30 dias sem resposta, procure a ouvidoria de um órgão superior.",
+      "Se o caso for grave ou o prazo estiver muito atrasado, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
@@ -45,13 +50,14 @@
       "name": "Lei nº 13.460/2017 (defesa dos usuários de serviços públicos)",
       "sphere": "federal",
       "provisions": [
-        "art. 5º",
-        "art. 10"
+        "art. 9º",
+        "art. 10, §§ 1º a 3º",
+        "art. 11",
+        "art. 16"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-06-26;13460",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2017/lei-13460-2017-06-26.md",
@@ -60,8 +66,10 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
-          "5",
-          "10"
+          "9",
+          "10",
+          "11",
+          "16"
         ],
         "provisionsMissing": []
       }
@@ -71,8 +79,8 @@
     "PUB-001",
     "PUB-002"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/08-servicos-publicos.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

@@ -3,43 +3,59 @@
   "slug": "pensao-por-morte",
   "title": "Quem pode receber pensão por morte?",
   "category": "previdencia",
-  "summary": "Noções gerais sobre pensão por morte do segurado e por que dependentes e prazos precisam ser conferidos.",
+  "summary": "Quando quem contribuía ao INSS morre, a família pode ter direito à pensão, e o prazo do pedido define a data em que ela começa.",
   "keywords": [
     "pensão por morte",
     "dependentes",
     "viúva",
     "viúvo",
-    "INSS"
+    "INSS",
+    "óbito",
+    "90 dias",
+    "180 dias",
+    "certidão de óbito",
+    "cota da pensão"
   ],
   "synonyms": [
     "pensão do falecido",
-    "morreu quem sustentava a família"
+    "morreu quem sustentava a família",
+    "morreu quem trabalhava",
+    "morte do marido",
+    "morte da esposa",
+    "pensão do INSS",
+    "pensão após a morte",
+    "prazo para pedir pensão"
   ],
-  "quickAnswer": "A pensão por morte é devida ao conjunto dos dependentes do segurado que falecer, aposentado ou não. Quem é dependente, a duração e o valor variam conforme a legislação vigente e o caso.",
+  "quickAnswer": "Se quem contribuía ao INSS morreu, os dependentes podem receber pensão por morte, sem precisar de carência. Peça em até 90 dias da morte para receber desde a data do óbito. Para filhos menores de 16 anos, o prazo é de 180 dias. Depois disso, a pensão começa na data do pedido.",
   "sections": {
-    "explanation": "É importante pedir o benefício com os documentos corretos e conferir a data a partir da qual ele é devido, pois isso pode depender de quando o pedido foi feito.",
+    "explanation": "A pensão por morte é paga aos dependentes de quem contribuía ao INSS, aposentado ou não (Lei 8.213, art. 74). Entre os dependentes estão o cônjuge ou companheiro, os filhos menores de 21 anos ou com deficiência, os pais e, nas condições da lei, os irmãos (art. 16). O valor começa em 50% da aposentadoria, mais 10 pontos por dependente, até o limite de 100% (EC 103, art. 23). A data de início depende do pedido: se for feito em até 90 dias após a morte (180 dias para filhos menores de 16 anos), a pensão começa no dia da morte.",
     "whenApplies": [
-      "Faleceu alguém que contribuía ou recebia benefício do INSS e você era dependente."
+      "A pessoa que contribuía ao INSS, aposentada ou não, morreu.",
+      "Você é cônjuge, companheiro, filho, pai, mãe ou irmão da pessoa falecida, nas condições da lei."
     ],
     "exceptions": [
-      "A condição de dependente e o tempo de duração dependem de regras específicas.",
-      "Há regras diferentes para servidores públicos."
+      "Quem for condenado, com decisão definitiva, por homicídio ou tentativa contra quem morreu perde o direito à pensão (art. 74, §1º).",
+      "Em caso de simulação ou fraude no casamento ou na união estável para obter o benefício, o direito é perdido (art. 74, §2º).",
+      "Se houver ação na Justiça para provar a dependência, a parte dessa pessoa pode ficar sem pagamento até a decisão final (art. 74, §3º).",
+      "Cada caso é diferente: o INSS confere a relação de dependência e a documentação."
     ],
     "steps": [
-      "Reúna certidão de óbito e documentos que comprovem a relação com o falecido.",
-      "Confira o prazo e a forma de pedido nos canais oficiais.",
-      "Guarde o protocolo do pedido."
+      "Peça a pensão em até 90 dias após a morte (180 dias, se houver filhos menores de 16 anos).",
+      "Leve a certidão de óbito e os documentos que provem a relação com quem morreu, como certidão de casamento ou de nascimento, ou comprovante de união estável.",
+      "Leve seus documentos pessoais e os dos outros dependentes.",
+      "Guarde o protocolo do pedido, com a data em que foi feito."
     ],
     "documentsToKeep": [
-      "Documentos pessoais e número do benefício ou protocolo",
-      "Carteira de trabalho e comprovantes de contribuição",
-      "Laudos, atestados e exames, quando houver incapacidade",
-      "Comunicados e decisões do INSS"
+      "Certidão de óbito",
+      "Certidão de casamento ou de nascimento",
+      "Comprovante de união estável, se for o caso",
+      "Documentos pessoais de todos os dependentes",
+      "Protocolo do pedido"
     ],
     "ifDenied": [
-      "Confira o motivo da decisão por escrito e os canais oficiais de recurso do INSS (confira o canal atual).",
-      "Sindicatos, Defensoria Pública e advogados podem orientar sobre o seu caso.",
-      "Atenção a prazos de recurso informados na própria decisão."
+      "Peça o motivo por escrito e junte as provas que faltaram.",
+      "Recorra pelos canais oficiais do INSS, dentro do prazo informado. O recurso é julgado pelo Conselho de Recursos da Previdência Social.",
+      "Se houver disputa entre dependentes, procure a Defensoria Pública ou um advogado: a questão pode ir para a Justiça."
     ]
   },
   "legalReferences": [
@@ -47,12 +63,14 @@
       "name": "Lei nº 8.213/1991 (benefícios da Previdência Social)",
       "sphere": "federal",
       "provisions": [
-        "art. 74"
+        "art. 16, I a III",
+        "art. 26, I",
+        "art. 74, I e II",
+        "art. 74, §§1º, 2º e 3º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1991/lei-8213-1991-07-24.md",
@@ -61,7 +79,31 @@
         "revogada": false,
         "baixadoEm": "2026-10-13",
         "provisionsFound": [
+          "16",
+          "26",
           "74"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Emenda Constitucional nº 103/2019 (Reforma da Previdência)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 23"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/emendas-constitucionais/2019/emc-103-2019-11-12.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2019-11-12;103",
+        "versaoTexto": "original",
+        "revogada": false,
+        "baixadoEm": "2026-10-15",
+        "provisionsFound": [
+          "23"
         ],
         "provisionsMissing": []
       }
@@ -71,8 +113,8 @@
     "PRE-002",
     "PRE-006"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/03-previdencia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

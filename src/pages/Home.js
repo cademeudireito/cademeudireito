@@ -74,7 +74,7 @@ export async function Home({ content }) {
     h('h2', { id: 'pop-title', class: 'section__title', text: 'Assuntos populares' }),
     popular.length
       ? h('ul', { class: 'list list--cards' }, popular.map((a) => ArticleCard(a)))
-      : EmptyState('Os primeiros assuntos estão em revisão', 'Cada conteúdo só é publicado depois de conferido em fontes oficiais. Enquanto isso, você pode explorar as categorias.', [{ label: 'Ver a enciclopédia', href: '/enciclopedia/' }]),
+      : EmptyState('Nenhum assunto encontrado', 'Tente explorar as categorias ou voltar ao início.', [{ label: 'Ver a enciclopédia', href: '/enciclopedia/' }]),
   );
 
   const steps = [

@@ -3,40 +3,49 @@
   "slug": "bpc-para-pessoa-com-deficiencia",
   "title": "Pessoa com deficiência pode receber o BPC?",
   "category": "pessoa-com-deficiencia",
-  "summary": "Como o benefício assistencial (BPC) se aplica a pessoas com deficiência e a importância da avaliação.",
+  "summary": "O BPC é um salário mínimo por mês para pessoa com deficiência de longo prazo ou idosa de 65 anos ou mais, com renda familiar baixa.",
   "keywords": [
     "BPC",
     "deficiência",
     "benefício assistencial",
     "LOAS",
-    "avaliação"
+    "avaliação",
+    "benefício de prestação continuada",
+    "um salário mínimo",
+    "deficiência 2 anos"
   ],
   "synonyms": [
     "benefício de prestação continuada",
-    "salário-mínimo mensal"
+    "salário-mínimo mensal",
+    "benefício para deficiente",
+    "LOAS"
   ],
-  "quickAnswer": "A LOAS garante um salário-mínimo mensal à pessoa com deficiência que comprove não ter meios de prover a própria manutenção nem de tê-la provida por sua família. Há avaliação da deficiência e critérios de renda a conferir.",
+  "quickAnswer": "O BPC paga um salário mínimo por mês à pessoa com deficiência de longo prazo, ou seja, que dura pelo menos 2 anos, quando a renda por pessoa da família é de até 1/4 do salário mínimo. Há avaliação médica e social feita pelo INSS.",
   "sections": {
-    "explanation": "O benefício é assistencial, não previdenciário, e exige atualização dos dados no Cadastro Único.",
+    "explanation": "O BPC é um benefício assistencial. A LOAS garante um salário mínimo por mês à pessoa com deficiência que não tem meios de se manter nem é mantida pela família (art. 20). Considera-se deficiência o impedimento de longo prazo, ou seja, que produz efeitos por pelo menos 2 anos (art. 20, §§ 2º e 10). A renda familiar mensal por pessoa precisa ser de até 1/4 do salário mínimo (art. 20, §3º). A concessão passa por avaliação médica e avaliação social feitas pelo INSS (art. 20, §6º).",
     "whenApplies": [
-      "Você tem deficiência e baixa renda familiar."
+      "Você tem deficiência de longo prazo, de pelo menos 2 anos, e a renda da sua família é baixa."
     ],
     "exceptions": [
-      "Critérios de renda e de avaliação mudam por norma; confira a regra vigente."
+      "A renda por pessoa da família precisa ser de até 1/4 do salário mínimo (art. 20, §3º).",
+      "O regulamento pode ampliar esse limite até 1/2 salário mínimo, nos casos previstos (art. 20, §11-A).",
+      "A deficiência e o grau de impedimento são avaliados pelo INSS, com exame médico e avaliação social (art. 20, §§ 2º-A e 6º)."
     ],
     "steps": [
-      "Atualize o Cadastro Único.",
-      "Reúna laudos, receitas e exames.",
-      "Peça o benefício pelos canais oficiais do INSS."
+      "Reúna laudos, receitas e exames que mostrem a deficiência e o tempo dela.",
+      "Pergunte ao INSS como pedir o benefício e quais documentos levar.",
+      "Peça o benefício pelos canais oficiais do INSS e guarde o protocolo e as respostas."
     ],
     "documentsToKeep": [
-      "Documento de identificação e laudos ou documentos que comprovem a deficiência, quando exigidos",
-      "Protocolos, comunicados e respostas recebidas",
-      "Fotos ou registros da barreira ou da recusa"
+      "Documento de identificação",
+      "Laudos, receitas e exames",
+      "Comprovantes de renda da família",
+      "Protocolo do pedido e respostas do INSS"
     ],
     "ifDenied": [
-      "Procure a ouvidoria do órgão ou empresa responsável.",
-      "Verifique os canais oficiais de defesa da pessoa com deficiência na sua cidade ou estado (confira os canais atuais), o Ministério Público ou a Defensoria Pública."
+      "Peça a decisão por escrito, com o motivo, e guarde o protocolo.",
+      "Procure a ouvidoria do INSS.",
+      "Procure a Defensoria Pública para orientação."
     ]
   },
   "legalReferences": [
@@ -44,12 +53,12 @@
       "name": "Lei nº 8.742/1993 (Lei Orgânica da Assistência Social — LOAS)",
       "sphere": "federal",
       "provisions": [
-        "art. 20"
+        "art. 20",
+        "art. 20, §§ 3º e 10"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1993-12-07;8742",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1993/lei-8742-1993-12-07.md",
@@ -68,8 +77,8 @@
     "PRE-003",
     "PCD-002"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/12-pessoa-com-deficiencia.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

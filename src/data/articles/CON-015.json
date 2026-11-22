@@ -3,44 +3,53 @@
   "slug": "superendividamento-dividas-demais",
   "title": "Estou com dívidas demais: existe proteção para o superendividado?",
   "category": "consumidor",
-  "summary": "Noções sobre a lei do superendividamento, que alterou o Código de Defesa do Consumidor.",
+  "summary": "Existe um caminho legal para renegociar quando as dívidas passam do que você consegue pagar, sem deixar você sem o básico para viver.",
   "keywords": [
     "superendividamento",
     "dívidas",
-    "renegociação",
+    "renegociar dívidas",
     "mínimo existencial",
-    "crédito"
+    "muitas dívidas",
+    "plano de pagamento",
+    "endividado"
   ],
   "synonyms": [
-    "não consigo pagar as dívidas",
-    "renegociar dívidas",
-    "nome sujo"
+    "não consigo pagar minhas dívidas",
+    "dívida demais",
+    "renegociação de dívidas",
+    "nome sujo por muitas dívidas",
+    "audiência de conciliação",
+    "repactuar dívida",
+    "cartão e empréstimo atrasados"
   ],
-  "quickAnswer": "A Lei 14.181/2021 alterou o Código de Defesa do Consumidor para prevenir o superendividamento e prever caminhos de renegociação. Se você pode usar esses mecanismos depende da sua situação e dos requisitos legais. Procure orientação em órgãos de defesa do consumidor.",
+  "quickAnswer": "Se você não consegue pagar todas as dívidas de consumo sem comprometer o básico para viver (comida, moradia, remédios), a lei prevê renegociar com todos os credores de uma vez, com plano de pagamento de até 5 anos. Procure o Procon ou a Defensoria Pública para começar.",
   "sections": {
-    "explanation": "A lei trata de crédito responsável, informação clara e de um procedimento de conciliação com os credores. Detalhes e requisitos precisam ser conferidos.",
+    "explanation": "Superendividamento é quando uma pessoa, de boa-fé, não consegue pagar todas as suas dívidas de consumo sem comprometer o mínimo existencial, ou seja, o básico para viver, como alimentação, moradia e remédios. Nesses casos, você pode pedir uma audiência de conciliação com todos os credores ao mesmo tempo. Na audiência, você apresenta um plano de pagamento de até 5 anos. Se não houver acordo com todos, o juiz pode impor um plano. Os órgãos de defesa do consumidor também podem fazer essa conciliação.",
     "whenApplies": [
-      "Você deve a vários credores e a renda não cobre pagar tudo."
+      "Você tem várias dívidas de consumo (cartão, empréstimo, compras a prazo, contas) e não consegue pagar todas sem faltar o básico.",
+      "Você agiu de boa-fé, isto é, não contraiu as dívidas para não pagar."
     ],
     "exceptions": [
-      "Nem toda dívida entra no procedimento; confira as hipóteses.",
-      "Não há garantia de resultado."
+      "A lei não vale para dívidas feitas com fraude ou má-fé, nem para compra de produtos e serviços de luxo de alto valor.",
+      "Cada caso é diferente: o valor do mínimo existencial depende de regulamentação."
     ],
     "steps": [
-      "Liste todas as dívidas, valores e credores.",
-      "Anote renda e despesas essenciais.",
-      "Procure o Procon, a Defensoria Pública ou o canal local de renegociação."
+      "Liste todas as dívidas: quem cobra, valor, parcelas e atraso.",
+      "Liste sua renda e os gastos básicos do mês.",
+      "Procure o Procon da sua cidade ou a Defensoria Pública e peça a conciliação com todos os credores.",
+      "Se houver acordo, guarde o plano por escrito. O acordo deve prever a data para tirar seu nome dos cadastros de devedores."
     ],
     "documentsToKeep": [
-      "Comprovante de compra ou contrato",
-      "Número do pedido e dados da empresa",
-      "Protocolos, e-mails e prints de conversas",
-      "Fotos ou vídeos, quando houver defeito ou divergência"
+      "Contratos e faturas das dívidas",
+      "Comprovantes de renda",
+      "Lista de gastos básicos",
+      "Cópia do plano de pagamento, se houver acordo"
     ],
     "ifDenied": [
-      "Registre a reclamação no Consumidor.gov.br, se a empresa participar da plataforma (não é tribunal e não garante acordo).",
-      "Verifique no Procon do seu estado ou município as formas de atendimento.",
-      "Se houver prazo correndo ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Se não houver acordo com todos os credores, você pode pedir à Justiça um processo por superendividamento. A Defensoria Pública ou um advogado pode ajudar.",
+      "Procure o Procon da sua cidade ou do seu estado e leve os documentos.",
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar (a plataforma ajuda a conversar com a empresa, mas não é tribunal e não garante acordo).",
+      "Evite contrair novas dívidas depois do acordo: isso pode prejudicar os efeitos dele."
     ]
   },
   "legalReferences": [
@@ -48,12 +57,12 @@
       "name": "Lei nº 14.181/2021 (superendividamento)",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 1º"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-07-01;14181",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "notes": "Incluiu no Código de Defesa do Consumidor os arts. 54-A a 54-G e 104-A a 104-C.",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/2021/lei-14181-2021-07-01.md",
@@ -61,7 +70,9 @@
         "versaoTexto": "original",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "1"
+        ],
         "provisionsMissing": []
       }
     },
@@ -69,12 +80,15 @@
       "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
       "sphere": "federal",
       "provisions": [
-        "a conferir"
+        "art. 6º, XI",
+        "art. 6º, XII",
+        "art. 54-A",
+        "art. 104-A",
+        "art. 104-C"
       ],
       "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de validar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
@@ -82,7 +96,12 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "6",
+          "54-A",
+          "104-A",
+          "104-C"
+        ],
         "provisionsMissing": []
       }
     }
@@ -91,8 +110,8 @@
     "CON-009",
     "CON-018"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa e conferido apenas quanto à existência dos dispositivos no acervo auxiliar. Não validado juridicamente.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/01-consumidor.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }

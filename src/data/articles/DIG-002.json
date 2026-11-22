@@ -3,100 +3,60 @@
   "slug": "conta-invadida",
   "title": "Minha conta foi invadida",
   "category": "direitos-digitais",
-  "summary": "Primeiros passos gerais quando uma conta online é acessada por outra pessoa.",
+  "summary": "Primeiros passos quando alguém entra na sua conta sem permissão.",
   "keywords": [
     "conta invadida",
     "hacker",
     "senha",
     "perfil clonado",
-    "acesso indevido"
+    "acesso indevido",
+    "WhatsApp clonado"
   ],
   "synonyms": [
     "roubaram minha conta",
     "conta hackeada",
     "WhatsApp clonado",
-    "perfil invadido"
+    "perfil invadido",
+    "alguém entrou na minha conta"
   ],
-  "quickAnswer": "Use os canais de recuperação da plataforma e proteja suas outras contas. Dependendo do caso, também podem ser relevantes o Marco Civil, a LGPD e a legislação penal. Não é possível prometer recuperação da conta.",
+  "quickAnswer": "Tente recuperar a conta pelos canais oficiais da plataforma e troque suas senhas. Guarde provas antes de mudar qualquer coisa. Invadir a conta ou o aparelho de outra pessoa é crime (Código Penal, art. 154-A). Não é possível garantir a recuperação da conta.",
   "sections": {
-    "explanation": "Quanto antes você agir, melhor. Registre evidências antes de qualquer mudança.",
+    "explanation": "Quanto antes você agir, melhor. Antes de mudar qualquer coisa, tire prints da tela, das mensagens enviadas sem você e dos avisos de acesso. Depois, use a recuperação oficial da plataforma. Invadir dispositivo alheio para obter, adulterar ou destruir dados é crime (art. 154-A).",
     "whenApplies": [
-      "Você perdeu o acesso a uma conta ou notou atividade que não fez."
+      "Você perdeu o acesso à sua conta ou notou atividade que não fez, como mensagens enviadas em seu nome."
     ],
     "exceptions": [
-      "Cada plataforma tem regras próprias de recuperação.",
-      "Se houver indício de crime, pode ser indicado registrar ocorrência."
+      "Cada plataforma tem regras próprias de recuperação, e nem sempre é possível recuperar a conta.",
+      "Se houve vazamento dos seus dados, você pode pedir à empresa informações sobre eles (LGPD, art. 18)."
     ],
     "steps": [
-      "Tente recuperar a conta pelos canais oficiais da plataforma.",
-      "Troque senhas de outras contas e ative verificação em duas etapas.",
-      "Guarde prints e avise contatos sobre possível golpe."
+      "Tente recuperar a conta pelos canais oficiais da plataforma. Não pague quem oferece recuperar a conta.",
+      "Troque a senha da conta e de outras contas que usam a mesma senha, e ative a verificação em duas etapas.",
+      "Avise seus contatos de que a conta foi invadida e que mensagens estranhas podem ser golpe.",
+      "Se houve prejuízo ou ameaça, registre a ocorrência na polícia, com as provas."
     ],
     "documentsToKeep": [
-      "Prints de telas, mensagens e e-mails",
-      "Comprovantes de pagamentos e transferências",
-      "Endereços de sites, perfis ou contas envolvidos (links)",
-      "Protocolos das plataformas e instituições"
+      "Prints do aviso de acesso ou da mensagem estranha, com data e hora",
+      "Prints do perfil e das mensagens enviadas sem você",
+      "Protocolo do pedido de recuperação feito à plataforma",
+      "Número da ocorrência na polícia, se houver"
     ],
     "ifDenied": [
-      "Para questões de proteção de dados, verifique os canais da ANPD (confira o canal atual).",
-      "Em caso de indício de crime, verifique como registrar ocorrência na polícia do seu estado.",
-      "Se houver prejuízo relevante, procure a Defensoria Pública ou um advogado."
+      "Insista pelo canal de suporte da plataforma e guarde o protocolo de cada pedido.",
+      "Registre a ocorrência na delegacia do seu estado ou pela delegacia virtual, se houver.",
+      "Se houver prejuízo grande, procure a Defensoria Pública ou um advogado."
     ]
   },
   "legalReferences": [
     {
-      "name": "Lei nº 12.965/2014 — Marco Civil da Internet",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2014-04-23;12965",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/2014/lei-12965-2014-04-23.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2014-04-23;12965",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
-      "name": "Lei nº 13.709/2018 — Lei Geral de Proteção de Dados (LGPD)",
-      "sphere": "federal",
-      "provisions": [
-        "a conferir"
-      ],
-      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
-      "research": {
-        "source": "ctresb/leis",
-        "file": "federal/leis-ordinarias/2018/lei-13709-2018-08-14.md",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
-        "versaoTexto": "compilada (texto vigente)",
-        "revogada": false,
-        "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
-        "provisionsMissing": []
-      }
-    },
-    {
       "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
       "sphere": "federal",
       "provisions": [
-        "a conferir quando houver indício de crime"
+        "art. 154-A"
       ],
       "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848",
-      "status": "pending_verification",
-      "checkedAt": null,
-      "notes": "Conferir texto vigente, alterações, regulamentação e aplicação ao caso antes de publicar.",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
       "research": {
         "source": "ctresb/leis",
         "file": "federal/decretos-lei/1940/del-2848-1940-12-07.md",
@@ -104,7 +64,31 @@
         "versaoTexto": "compilada (texto vigente)",
         "revogada": false,
         "baixadoEm": "2026-10-13",
-        "provisionsFound": [],
+        "provisionsFound": [
+          "154-A"
+        ],
+        "provisionsMissing": []
+      }
+    },
+    {
+      "name": "Lei nº 13.709/2018 — Lei Geral de Proteção de Dados (LGPD)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 18"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
+      "status": "verified",
+      "checkedAt": "2026-11-20",
+      "research": {
+        "source": "ctresb/leis",
+        "file": "federal/leis-ordinarias/2018/lei-13709-2018-08-14.md",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2018-08-14;13709",
+        "versaoTexto": "compilada (texto vigente)",
+        "revogada": false,
+        "baixadoEm": "2026-10-13",
+        "provisionsFound": [
+          "18"
+        ],
         "provisionsMissing": []
       }
     }
@@ -113,8 +97,8 @@
     "DIG-003",
     "DIG-001"
   ],
-  "lastReviewed": null,
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Rascunho gerado a partir do roteiro de pesquisa (docs/03). Nenhuma informação foi validada em fonte oficial. Não publicar até validação humana.",
-  "status": "draft"
+  "lastReviewed": "2026-11-20",
+  "reviewStatus": "approved",
+  "reviewNotes": "Revisado em 2026-11-20 a partir do roteiro docs/validacao/06-direitos-digitais.md; dispositivos conferidos no texto das normas.",
+  "status": "published"
 }
