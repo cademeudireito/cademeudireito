@@ -34,6 +34,8 @@ Conforme `docs/00-visao-geral-e-regras.md` §6 e `docs/10-plano-de-execucao-e-pr
 21. **Busca (2026-11-23):** a busca da enciclopédia passou a tolerar erros de digitação (troca, falta ou sobra de letra, e sons parecidos como s/z), aceitar palavra pela metade, achar variações da mesma palavra (pagou, pagar, pagamento) e entender expressões equivalentes ("mandaram embora" = demitido), a partir dos grupos em `src/data/search.json`. É determinística e roda no navegador, sem IA, sem servidor e sem enviar o que a pessoa digita a ninguém. Só mostra resultado quando a busca é bem coberta; assunto que o site não tem (ex.: "acúmulo de função") dá lista vazia.
 22. **Sugerir tema (2026-11-23):** na tela de "nenhum resultado" há o botão "Sugerir tema", que abre uma nova *issue* do GitHub do projeto (`suggestionUrl` em `site.json`) já com o termo pesquisado. As sugestões chegam como issues (modelo em `.github/ISSUE_TEMPLATE/`). Limite: quem sugere precisa de conta no GitHub. Para trocar por um formulário externo, basta mudar `suggestionUrl`.
 
+23. **Registro das sugestões (2026-11-23):** um fluxo do próprio GitHub (`.github/workflows/sugestoes.yml`, script `scripts/sugestoes.mjs`) grava cada sugestão de tema em `docs/sugestoes-de-temas.md` (data, termo e situação). Fechar a issue como concluída marca "feito"; como "não planejada", "descartado". O GitHub avisa por e-mail quando chega issue nova (conforme as notificações do repositório). Sem serviço de terceiros. Limite: o site estático não consegue gravar no repositório sem uma chave secreta; por isso o caminho passa por uma issue, e quem sugere precisa de conta no GitHub.
+
 ## Precisam de aprovação / dados do responsável
 
 - Licença do código (nenhum `LICENSE` foi adicionado; docs/10 §5).

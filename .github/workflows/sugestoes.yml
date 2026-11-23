@@ -1,0 +1,36 @@
+name: Registrar sugestões de temas
+
+on:
+  issues:
+    types: [opened, edited, closed, reopened]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sugestoes
+  cancel-in-progress: false
+
+jobs:
+  registrar:
+    if: startsWith(github.event.issue.title, 'Sugestão de tema')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Atualizar docs/sugestoes-de-temas.md
+        run: node scripts/sugestoes.mjs
+      - name: Salvar
+        run: |
+          if [ -n "$(git status --porcelain docs/sugestoes-de-temas.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/sugestoes-de-temas.md
+            git commit -m "Atualiza a lista de sugestões de temas"
+            git pull --rebase origin main
+            git push origin main
+          fi
