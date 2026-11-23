@@ -1,6 +1,8 @@
 // Roteador leve com History API. Links são <a href> reais; recarregar rota direta funciona
 // porque o build gera um index.html por rota (e 404.html como fallback).
 
+import { withBase, stripBase } from '../utils/base.js';
+
 let routes = [];
 let notFound = null;
 let onRender = null;
@@ -26,13 +28,13 @@ export function match(pathname) {
 }
 
 export async function render() {
-  const { handler, params } = match(location.pathname);
+  const { handler, params } = match(stripBase(location.pathname));
   const query = new URLSearchParams(location.search);
   await onRender(handler, { params, query });
 }
 
 export function navigate(url, { replace = false } = {}) {
-  const target = new URL(url, location.origin);
+  const target = new URL(withBase(url), location.origin);
   if (target.origin !== location.origin) {
     location.href = target.href;
     return;

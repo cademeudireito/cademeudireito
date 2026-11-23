@@ -40,12 +40,16 @@ const site = data.site;
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const base = site.siteUrl ? site.siteUrl.replace(/\/$/, '') : null;
 
+const BASE_PATH = (process.env.BASE_PATH ?? data.site.basePath ?? '').replace(/\/+$/, '');
+
 function page(route, title, description, noindex = false) {
   const full = title.includes(site.name) ? title : `${title} — ${site.name}`;
   let html = shell
+    .replace(/(href|src)="\/(?!\/)/g, `$1="${BASE_PATH}/`)
     .replace(/<title>.*?<\/title>/, `<title>${esc(full)}</title>`)
     .replace(/(<meta name="description" content=")[^"]*(")/, `$1${esc(description)}$2`);
   const extra = [
+    ...(BASE_PATH ? [`<meta name="base-path" content="${esc(BASE_PATH)}">`] : []),
     `<meta property="og:title" content="${esc(full)}">`,
     `<meta property="og:description" content="${esc(description)}">`,
     '<meta property="og:type" content="website">',

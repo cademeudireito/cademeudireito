@@ -1,4 +1,5 @@
 // Helpers de DOM. Todo texto entra por textContent: conteúdo JSON nunca vira HTML (docs/07 §7).
+import { withBase } from './base.js';
 
 const SVG_NS = 'http://www.w3.org/2000/svg';
 
@@ -12,6 +13,7 @@ export function h(tag, attrs = {}, ...children) {
     else if (key.startsWith('on') && typeof value === 'function')
       el.addEventListener(key.slice(2).toLowerCase(), value);
     else if (value === true) el.setAttribute(key, '');
+    else if (key === 'href' || key === 'src' || key === 'action') el.setAttribute(key, withBase(String(value)));
     else el.setAttribute(key, String(value));
   }
   append(el, children);

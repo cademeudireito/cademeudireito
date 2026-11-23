@@ -1,4 +1,5 @@
 import { h } from './utils/dom.js';
+import { stripBase } from './utils/base.js';
 import { loadContent } from './services/contentLoader.js';
 import { defineRoutes, startRouter } from './services/router.js';
 import { Header } from './components/Header.js';
@@ -52,7 +53,7 @@ async function renderPage(handler, ctx) {
   }
   applyHead(result, content.site);
   const main = h('main', { id: 'conteudo', tabindex: '-1' }, result.main);
-  app.replaceChildren(Header(content.site, location.pathname), main, Footer(content.site, content.categories));
+  app.replaceChildren(Header(content.site, stripBase(location.pathname)), main, Footer(content.site, content.categories));
   window.scrollTo(0, 0);
   if (!location.hash) {
     const heading = main.querySelector('h1');

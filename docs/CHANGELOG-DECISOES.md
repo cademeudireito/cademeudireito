@@ -29,11 +29,12 @@ Conforme `docs/00-visao-geral-e-regras.md` §6 e `docs/10-plano-de-execucao-e-pr
 18. **Normas recentes tratadas:** EC 141/2026 (jornada de 42 h em 2 meses e 40 h em 1 ano após a publicação; repouso de 2 dias) e Lei 15.371/2026 (licença-paternidade a partir de 2027) aparecem em TRA-003, TRA-008 e TRA-013. As datas em dezembro de 2026 e 2027 derivam da publicação de 16/10/2026.
 19. **Divergências resolvidas pela lei:** EDU-005 cita a Lei 7.853/1989, art. 8º, I (não a LBI); TRA-010 mantém o inciso V do art. 3º da Lei 7.998; PRE-004 usa a EC 103, art. 23; MOR-006 segue os arts. 1.336–1.337 do Código Civil; CON-015 cita os arts. 104-A a 104-C do CDC.
 
+20. **Hospedagem (2026-11-22):** o site é publicado no GitHub Pages, em https://plgluizguedes.github.io/cade-meu-direito/. Como é um site de projeto (subcaminho), o build escreve o prefixo `/cade-meu-direito` (`basePath` em `site.json`, ou a variável `BASE_PATH`) em todas as páginas e o frontend o aplica em links, rotas e carregamento de dados. O fluxo `.github/workflows/pages.yml` valida, testa, gera o build e publica a cada push em `main`. O e-mail de contato não é divulgado por ora (`contactEmail` fica nulo).
+
 ## Precisam de aprovação / dados do responsável
 
 - Licença do código (nenhum `LICENSE` foi adicionado; docs/10 §5).
-- Hospedagem definitiva e `siteUrl` em `src/data/site.json` (necessário para sitemap e canonical).
-- E-mail real de contato (acessibilidade e correções) e URL pública do repositório (rodapé).
+- Canal de contato público (acessibilidade e correções), quando o responsável decidir divulgar um.
 - Autorização de fontes locais (Nunito Sans, Atkinson Hyperlegible) com licença.
 - Revisão jurídica por profissional (advogado ou Defensoria) como checagem adicional, sobretudo EC 141/2026 (arts. 6º e 8º), Lei 15.371/2026 e PRE-004.
 - Teste de compreensão com público de 65–70 anos e auditoria com leitor de tela (docs/09 §4 e §6) ainda não realizados.

@@ -13,11 +13,12 @@ async function exists(p) {
 }
 
 /** Servidor estático simples. `virtual(url)` pode devolver {body,type} para URLs geradas. */
-export function serve({ root, port, virtual = null, fallbackHtml }) {
+export function serve({ root, port, virtual = null, fallbackHtml, basePath = '' }) {
   const server = http.createServer(async (req, res) => {
     try {
       const url = new URL(req.url, 'http://localhost');
-      const pathname = decodeURIComponent(url.pathname);
+      let pathname = decodeURIComponent(url.pathname);
+      if (basePath && (pathname === basePath || pathname.startsWith(basePath + '/'))) pathname = pathname.slice(basePath.length) || '/';
       const v = virtual && (await virtual(pathname));
       if (v) { res.writeHead(200, { 'Content-Type': v.type }); return res.end(v.body); }
       const safe = path.normalize(pathname).replace(/^(\.\.[/\\])+/, '');

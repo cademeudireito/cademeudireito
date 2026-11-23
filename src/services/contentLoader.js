@@ -1,3 +1,4 @@
+import { withBase } from '../utils/base.js';
 import { buildPublicContent } from './content.js';
 import { buildIndex } from './search.js';
 
@@ -8,7 +9,7 @@ export async function loadContent() {
   if (store) return store;
   let raw;
   try {
-    const res = await fetch('/data/content.json', { headers: { Accept: 'application/json' } });
+    const res = await fetch(withBase('/data/content.json'), { headers: { Accept: 'application/json' } });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     raw = await res.json();
   } catch (err) {

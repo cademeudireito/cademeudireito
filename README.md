@@ -10,6 +10,8 @@ Site estático e gratuito que explica direitos brasileiros do dia a dia em lingu
 - O texto de cada assunto foi revisado a partir dos roteiros em [`docs/validacao/`](docs/validacao/), com os dispositivos conferidos no texto das normas (acervo `ctresb/leis` e páginas oficiais). Veja [`docs/CHANGELOG-DECISOES.md`](docs/CHANGELOG-DECISOES.md).
 - Por padrão o site mostra só conteúdo `published` (`draftVisibility: "hide"` em `src/data/site.json`). Rascunhos novos ficam escondidos até serem aprovados.
 
+- Publicado em https://plgluizguedes.github.io/cade-meu-direito/ (GitHub Pages, fluxo em `.github/workflows/pages.yml`). Para servir na raiz de outro domínio, use `BASE_PATH= npm run build`.
+
 ## Requisitos
 
 Node.js 20+ (sem dependências npm).
