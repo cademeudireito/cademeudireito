@@ -1,6 +1,6 @@
 # Assuntos cadastrados e situação
 
-Gerado em 2026-11-22. Total: 93.
+Gerado em 2026-11-23. Total: 93.
 
 | ID | Assunto | Categoria | Status | Revisão | Última revisão |
 |---|---|---|---|---|---|

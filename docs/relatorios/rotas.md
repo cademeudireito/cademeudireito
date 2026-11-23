@@ -1,6 +1,6 @@
 # Rotas implementadas
 
-Gerado em 2026-11-22 por `npm run report`. Rotas de assuntos e guias só existem no build público quando o conteúdo está `published`.
+Gerado em 2026-11-23 por `npm run report`. Rotas de assuntos e guias só existem no build público quando o conteúdo está `published`.
 
 | Rota | Página |
 |---|---|
@@ -91,7 +91,7 @@ Gerado em 2026-11-22 por `npm run report`. Rotas de assuntos e guias só existem
 | `/assunto/acesso-ao-prontuario/` | Assunto SAU-003 (published) |
 | `/assunto/informacao-antes-de-procedimento/` | Assunto SAU-004 (published) |
 | `/assunto/medicamento-ou-exame-negado-no-sus/` | Assunto SAU-005 (published) |
-| `/assunto/acompanhante-no-parto-e-internacao/` | Assunto SAU-006 (published) |
+| `/assunto/acompanhante-em-consultas-exames-e-internacao/` | Assunto SAU-006 (published) |
 | `/assunto/reajuste-anual-do-plano-de-saude/` | Assunto SAU-007 (published) |
 | `/assunto/plano-cancelado-pela-operadora/` | Assunto SAU-008 (published) |
 | `/assunto/urgencia-e-emergencia-no-plano/` | Assunto SAU-009 (published) |

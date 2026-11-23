@@ -1,6 +1,6 @@
 # Referências legais pendentes de verificação
 
-Gerado em 2026-11-22. Nenhuma referência foi verificada em fonte oficial. As URLs marcadas "registrada" vêm da documentação do projeto e ainda precisam ser abertas e conferidas; as demais precisam ser localizadas.
+Gerado em 2026-11-23. Nenhuma referência foi verificada em fonte oficial. As URLs marcadas "registrada" vêm da documentação do projeto e ainda precisam ser abertas e conferidas; as demais precisam ser localizadas.
 
 Total: 153
 
