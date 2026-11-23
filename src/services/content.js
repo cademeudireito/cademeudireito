@@ -63,6 +63,16 @@ export function validateContent({ categories, articles, guides, pages = [], sear
     if (catSlugs.has(c.slug)) errors.push(`Categoria duplicada: slug ${c.slug}`);
     if (c.slug && !SLUG_RE.test(c.slug)) errors.push(`Categoria ${c.id}: slug inválido "${c.slug}"`);
     if (c.icon && !ICON_NAMES.includes(c.icon)) errors.push(`Categoria ${c.id}: ícone desconhecido "${c.icon}"`);
+    if (c.contatos !== undefined) {
+      if (!Array.isArray(c.contatos)) errors.push(`Categoria ${c.id}: "contatos" deve ser uma lista`);
+      else
+        c.contatos.forEach((o, i) => {
+          const w = `Categoria ${c.id}, contato ${i + 1}`;
+          if (!o?.nome) errors.push(`${w}: "nome" ausente`);
+          if (!o?.uso) errors.push(`${w}: "uso" ausente`);
+          if (!/^https:\/\/[^\s]+$/.test(o?.url ?? '')) errors.push(`${w}: "url" deve ser um endereço https`);
+        });
+    }
     catIds.add(c.id);
     catSlugs.add(c.slug);
   }

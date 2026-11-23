@@ -63,6 +63,12 @@
 .legal-ref__name { font-weight: 800; }
 .legal-ref__meta, .legal-ref__notes, .legal-ref__pending, .legal-ref__prov { font-size: var(--fs-small); color: var(--color-muted); }
 .ext-link { font-weight: 700; }
+.contacts { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+.contact { background: var(--color-surface); border: 1px solid var(--color-border); border-radius: 12px; padding: 16px 18px; }
+.contact p { margin: 0 0 6px; }
+.contact__name { font-weight: 800; }
+.contact__phone { font-size: 1.125rem; }
+.contact__link { margin: 8px 0 0 !important; }
 
 .notice { display: flex; gap: 12px; align-items: flex-start; background: var(--color-accent-blue); border: 1px solid #cfdbe6; border-radius: 14px; padding: 16px 18px; margin: 24px 0; }
 .notice p { margin: 0; font-size: var(--fs-small); }

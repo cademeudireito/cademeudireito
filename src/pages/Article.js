@@ -5,6 +5,7 @@ import { LegalReference } from '../components/LegalReference.js';
 import { RelatedArticles } from '../components/RelatedArticles.js';
 import { StatusLabel } from '../components/StatusLabel.js';
 import { Notice } from '../components/Notice.js';
+import { ContactList } from '../components/ContactList.js';
 import { formatDate } from '../services/text.js';
 import { NotFound } from './NotFound.js';
 
@@ -39,6 +40,7 @@ export async function Article({ ctx, content }) {
       section('s-denied', 'E se não resolver?', ul(s.ifDenied)),
       section('s-law', 'O que diz a lei', a.legalReferences?.length ? h('div', {}, h('p', { class: 'muted', text: 'Não reproduzimos a lei na íntegra. Use os links oficiais para ler o texto completo.' }), h('ul', { class: 'legal-list' }, a.legalReferences.map((r) => LegalReference(r, content.site.fallbackLegalUrl)))) : null),
       section('s-exc', 'Exceções e pontos de atenção', ul(s.exceptions)),
+      ContactList(cat.contatos, { id: 's-contatos' }),
       RelatedArticles(related),
       reviewed ? h('p', { class: 'article__review', text: `Última revisão: ${reviewed}.` }) : null,
       Notice(content.site.defaultNotice, { title: 'Aviso educativo' }),
