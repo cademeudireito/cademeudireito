@@ -12,7 +12,7 @@ Site estático e gratuito que explica direitos brasileiros do dia a dia em lingu
 
 - Publicado em https://plgluizguedes.github.io/cade-meu-direito/ (GitHub Pages, fluxo em `.github/workflows/pages.yml`). Para servir na raiz de outro domínio, use `BASE_PATH= npm run build`.
 
-- **Busca:** tolerante a erros de digitação e a jeitos diferentes de dizer a mesma coisa. Para ensinar novas equivalências, edite `src/data/search.json`. Quando não há resultado, o botão "Sugerir tema" abre uma issue no GitHub (`suggestionUrl`).
+- **Busca:** tolerante a erros de digitação e a jeitos diferentes de dizer a mesma coisa. Para ensinar novas equivalências, edite `src/data/search.json`.
 
 ## Requisitos
 

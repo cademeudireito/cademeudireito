@@ -7,7 +7,6 @@ import { normalize } from '../src/services/text.js';
 const { articles, categories } = load();
 import { readFileSync } from 'node:fs';
 import { stem, distance } from '../src/services/search.js';
-import { suggestionLink } from '../src/services/suggest.js';
 const searchData = JSON.parse(readFileSync(new URL('../src/data/search.json', import.meta.url), 'utf8'));
 const idx = buildIndex(articles, categories, searchData);
 
@@ -59,10 +58,4 @@ test('título, palavras-chave e sinônimos de cada assunto o encontram entre os 
     }
   }
   assert.ok(falhas / total < 0.03, `falhas: ${falhas}/${total}`);
-});
-test('link de sugestão leva o termo pesquisado', () => {
-  const u = new URL(suggestionLink({ suggestionUrl: 'https://github.com/x/y/issues/new' }, 'acúmulo de função'));
-  assert.equal(u.searchParams.get('title'), 'Sugestão de tema: acúmulo de função');
-  assert.ok(u.searchParams.get('body').includes('acúmulo de função'));
-  assert.equal(suggestionLink({}, 'x'), null);
 });
