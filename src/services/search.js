@@ -18,13 +18,16 @@ const STOP = new Set([
   'eu', 'me', 'mim', 'te', 'foi', 'ser', 'estou', 'esta', 'esse', 'essa', 'isso', 'ao', 'aos', 'ja', 'nao', 'nem',
   'mas', 'como', 'qual', 'quais', 'quando', 'onde', 'quem', 'posso', 'pode', 'podem', 'tenho', 'tem', 'ter',
   'quero', 'preciso', 'precisa', 'fui', 'sobre', 'mais', 'muito', 'la', 'ele', 'ela', 'eles', 'elas', 'ficou',
-  'esta', 'estao', 'ha', 'vai', 'vou', 'estava', 'meio', 'so', 'tambem', 'todo', 'toda', 'sao', 'sera', 'ate',
+  'esta', 'estao', 'ha', 'vai', 'ontem', 'hoje', 'agora', 'depois', 'antes', 'sempre', 'nunca', 'ainda', 'assim', 'aqui', 'entao', 'porque', 'tipo', 'queria', 'gostaria', 'saber', 'acho', 'coisa', 'coisas', 'vez', 'vezes', 'vou', 'estava', 'meio', 'so', 'tambem', 'todo', 'toda', 'sao', 'sera', 'ate',
 ]);
 
 // Peso de cada campo. "strong" = campos que descrevem o assunto (o corpo do texto, sozinho, não basta).
 const W = { title: 5, keywords: 4, synonyms: 4, category: 1.2, summary: 2.5, quick: 2, body: 0.7 };
 const MIN_COVERAGE = 0.6;
 const GROUP_FACTOR = 0.85;
+// Frase com uma palavra desconhecida ("fui despedido ontem"): vale se houver um acerto exato numa palavra específica.
+const MIN_COVERAGE_SOLID = 0.4;
+const SOLID_MASS = 2.5;
 const MIN_RELATIVE = 0.4;
 
 // Sufixos removidos para chegar ao radical (do mais longo para o mais curto).
@@ -146,12 +149,12 @@ export function buildIndex(articles, categories = [], searchData = {}) {
 const idfOf = (index, post) => Math.log(1 + (index.n - post.size + 0.5) / (post.size + 0.5));
 
 /** Radicais do vocabulário parecidos com `st`, com a força do parentesco. */
-function candidates(index, st, partial = false) {
-  const key = partial ? '~' + st : st;
+function candidates(index, st, partial = false, exactOnly = false) {
+  const key = (partial ? '~' : '') + (exactOnly ? '=' : '') + st;
   const hit = index.cache.get(key);
   if (hit) return hit;
   const out = [];
-  const maxD = st.length >= 10 ? 2 : st.length >= 6 ? 1 : 0;
+  const maxD = exactOnly ? 0 : st.length >= 10 ? 2 : st.length >= 6 ? 1 : 0;
   for (const v of index.vocab.keys()) {
     let sc = 0;
     if (v === st) sc = 1;
@@ -170,11 +173,11 @@ function candidates(index, st, partial = false) {
 const sameStem = (a, b) => a === b || (a.length >= 5 && b.length >= 5 && distance(a, b, 1) <= 1);
 
 /** Pontuação, por artigo, de um radical digitado: Map(idx -> {val, strong}) e a "massa" (raridade) da palavra. */
-function scoreStem(index, st, partial = false) {
+function scoreStem(index, st, partial = false, exactOnly = false) {
   const per = new Map();
   let mass = 0;
   let bestSc = 0;
-  for (const [v, sc] of candidates(index, st, partial)) {
+  for (const [v, sc] of candidates(index, st, partial, exactOnly)) {
     const post = index.vocab.get(v);
     const idf = idfOf(index, post);
     if (sc > bestSc || (sc === bestSc && idf > mass)) {
@@ -184,7 +187,13 @@ function scoreStem(index, st, partial = false) {
     for (const [idx, p] of post) {
       const val = sc * p.w * idf;
       const cur = per.get(idx);
-      if (!cur || val > cur.val) per.set(idx, { val, strong: p.strong });
+      const q = p.strong ? sc : 0;
+      if (!cur) per.set(idx, { val, strong: p.strong, q });
+      else {
+        if (val > cur.val) cur.val = val;
+        cur.strong = cur.strong || p.strong;
+        cur.q = Math.max(cur.q, q);
+      }
     }
   }
   if (!per.size) mass = Math.log(1 + (index.n + 0.5) / 0.5); // palavra desconhecida: pesa como a mais rara
@@ -235,10 +244,14 @@ export function search(index, query, { category = null } = {}) {
       }
     }
     if (len) {
-      const gids = new Set(alts.map((p) => p.gid));
+      // se alguma expressão bate exatamente, ignora as que só batem "quase" (erro de digitação)
+      const isExact = (p) => p.stems.length === len && p.stems.every((s, k) => qs[i + k] === s);
+      const exact = alts.some(isExact);
+      const used = exact ? alts.filter(isExact) : alts;
+      const gids = new Set(used.map((p) => p.gid));
       const span = qs.slice(i, i + len);
       const others = index.phrases.filter((p) => gids.has(p.gid) && p.stems.join(' ') !== span.join(' '));
-      units.push({ span, alts: others.map((p) => p.stems) });
+      units.push({ span, exact, alts: others.map((p) => p.stems) });
       i += len;
     } else {
       units.push({ span: [qs[i]], alts: [] });
@@ -249,23 +262,28 @@ export function search(index, query, { category = null } = {}) {
   // 2) pontuação por unidade (a última palavra digitada pode estar pela metade)
   const last = true;
   const scored = units.map((u) => {
-    const parts = u.span.map((st) => scoreStem(index, st, last && u === units[units.length - 1] && st === u.span[u.span.length - 1]));
+    const parts = u.span.map((st) => scoreStem(index, st, last && u === units[units.length - 1] && st === u.span[u.span.length - 1], u.exact));
     const mass = parts.reduce((m, p) => m + p.mass, 0);
     const per = new Map();
     for (const p of parts) {
       for (const [idx, v] of p.per) {
-        const cur = per.get(idx) ?? { val: 0, strong: false };
-        per.set(idx, { val: cur.val + v.val, strong: cur.strong || v.strong });
+        const cur = per.get(idx) ?? { val: 0, strong: false, q: 0 };
+        per.set(idx, { val: cur.val + v.val, strong: cur.strong || v.strong, q: Math.max(cur.q, v.q) });
       }
     }
     for (const alt of u.alts) {
       for (const [idx, val] of scorePhrase(index, alt)) {
         const v = val * GROUP_FACTOR;
         const cur = per.get(idx);
-        if (!cur || v > cur.val) per.set(idx, { val: v, strong: true });
+        if (!cur) per.set(idx, { val: v, strong: true, q: 1 });
+        else {
+          if (v > cur.val) cur.val = v;
+          cur.strong = true;
+          cur.q = 1;
+        }
       }
     }
-    return { per, mass };
+    return { per, mass: Math.max(mass, 0) };
   });
   const totalMass = scored.reduce((m, u) => m + u.mass, 0);
   const normQuery = qs.join(' ');
@@ -277,14 +295,17 @@ export function search(index, query, { category = null } = {}) {
     let score = 0;
     let matched = 0;
     let strong = false;
+    let solidMass = 0; // peso das palavras com acerto exato em campo de descrição
     for (const u of scored) {
       const v = u.per.get(idx);
       if (!v) continue;
       score += v.val;
       matched += u.mass;
       strong = strong || v.strong;
+      if (v.q >= 0.9) solidMass += u.mass;
     }
-    if (!strong || matched / totalMass < MIN_COVERAGE) return;
+    const coverage = matched / totalMass;
+    if (!strong || coverage < (solidMass >= SOLID_MASS ? MIN_COVERAGE_SOLID : MIN_COVERAGE)) return;
     if (entry.phrases.some((p) => p === normQuery || (normQuery.length >= 5 && p.includes(normQuery)))) score += 3;
     results.push({ article: entry.article, score });
   });

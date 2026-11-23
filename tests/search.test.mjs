@@ -44,6 +44,10 @@ test('entende expressões equivalentes (contexto)', () => {
   assert.equal(top('aluguel subiu')[0], 'MOR-001');
   assert.equal(top('internet caiu')[0], 'CON-014');
 });
+test('frase natural com uma palavra desconhecida ainda acha o assunto', () => {
+  assert.equal(top('fui despedido ontem')[0], 'TRA-004');
+  assert.ok(top('salário atrasado ontem').includes('TRA-001'));
+});
 test('assunto inexistente não traz resultado nenhum', () => {
   assert.deepEqual(search(idx, 'acúmulo de função'), []);
   assert.deepEqual(search(idx, 'granja de porcos'), []);
