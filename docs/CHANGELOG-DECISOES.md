@@ -37,6 +37,8 @@ Conforme `docs/00-visao-geral-e-regras.md` §6 e `docs/10-plano-de-execucao-e-pr
 23. **Recursos de português avaliados para a busca (2026-11-23):** OpenWordNet-PT (CC BY 4.0), Unitex-PT-BR, PT-LexicalSemantics, LexicalResourcesPT e EticaAI/linguistic-datasets. Testado o OpenWordNet-PT como dicionário geral de sinônimos (reduzido às palavras do site): quase não melhorou os resultados e trouxe ruído (palavras com vários sentidos levavam a assuntos errados), então **não foi incluído**. O dicionário de equivalências próprio (`src/data/search.json`), escrito para os assuntos do site, rende mais. Os demais recursos (formas de palavras, embeddings) pesam megabytes ou têm licença menos clara, o que não compensa para um site estático para internet fraca. Pode ser reavaliado se surgir necessidade.
 24. **Frases naturais (2026-11-23):** a busca aceita frases com uma palavra que o site não conhece (ex.: "fui despedido ontem") quando há um acerto exato e específico; palavras de enchimento (ontem, hoje, agora…) são ignoradas. Medido com 44 frases de exemplo: o assunto certo entre os 3 primeiros em 91% dos casos (era 70% sem essa regra).
 
+25. **Novos grupos de expressões (2026-11-23):** incorporadas listas de três IAs (Gemini, ChatGPT, DeepSeek), após limpeza: 60 repetidas removidas, 5 descartadas (números de telefone do 180, "sem garantia", "pix que não reconheço" e "mandei dinheiro para pessoa errada", que são casos de outra natureza), e expressões duplicadas entre grupos mantidas só na primeira ocorrência. Resultado: 255 grupos. Em 20 frases novas de teste, o assunto certo passou de 12 para 16 vezes em 1º lugar.
+
 ## Precisam de aprovação / dados do responsável
 
 - Licença do código (nenhum `LICENSE` foi adicionado; docs/10 §5).

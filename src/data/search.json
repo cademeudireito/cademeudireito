@@ -1,5 +1,4 @@
 {
-  "_comentario": "Grupos de expressões equivalentes para a busca. Cada lista reúne jeitos diferentes de dizer a mesma coisa; quem pesquisa por um deles também encontra os assuntos que usam os outros. Pode editar à vontade (sem acentos e maiúsculas tanto faz).",
   "groups": [
     [
       "patrão",
@@ -660,6 +659,1291 @@
       "net caiu",
       "caiu a internet",
       "internet não volta"
+    ],
+    [
+      "salário atrasado",
+      "patrão não paga",
+      "chefe não me paga",
+      "atraso de salário",
+      "não recebi meu salário",
+      "empresa não pagou salário",
+      "não pagaram meu salário"
+    ],
+    [
+      "férias vencidas",
+      "não recebi férias",
+      "terço de férias",
+      "adicional de férias",
+      "dinheiro das férias",
+      "vender férias",
+      "abono pecuniário",
+      "férias atrasadas"
+    ],
+    [
+      "banco de horas",
+      "não pagam hora extra",
+      "hora extra não paga",
+      "adicional de hora extra",
+      "trabalhar no feriado",
+      "trabalhar no domingo",
+      "trabalhar sem folga"
+    ],
+    [
+      "verbas rescisórias",
+      "acerto trabalhista",
+      "calcular rescisão",
+      "aviso prévio",
+      "justa causa",
+      "demissão sem justa causa",
+      "pedi demissão",
+      "pedido de demissão"
+    ],
+    [
+      "trabalhando sem registro",
+      "não assinou minha carteira",
+      "patrão não registra",
+      "reconhecimento de vínculo",
+      "trabalho sem carteira assinada",
+      "não registraram meu contrato"
+    ],
+    [
+      "não recebi décimo terceiro",
+      "13º atrasado",
+      "décimo terceiro atrasado",
+      "décimo terceiro proporcional",
+      "não pagaram o décimo terceiro"
+    ],
+    [
+      "vale-transporte",
+      "vale transporte",
+      "passagem de ônibus do trabalho",
+      "não recebo vale-transporte",
+      "auxílio transporte",
+      "dinheiro da passagem"
+    ],
+    [
+      "estabilidade da gestante",
+      "grávida demitida",
+      "mandaram grávida embora",
+      "demissão na gravidez",
+      "grávida pode ser demitida",
+      "gestante no trabalho",
+      "dispensa de gestante"
+    ],
+    [
+      "acidente de trabalho",
+      "me machuquei no trabalho",
+      "doença ocupacional",
+      "doença do trabalho",
+      "estabilidade após afastamento",
+      "demitido após atestado",
+      "voltar a trabalhar após afastamento"
+    ],
+    [
+      "horário de almoço",
+      "intervalo no trabalho",
+      "descanso entre jornadas",
+      "folga semanal",
+      "descanso semanal remunerado",
+      "não tenho horário de almoço",
+      "intervalo intrajornada",
+      "interjornada"
+    ],
+    [
+      "empresa não deposita fgts",
+      "patrão não paga fgts",
+      "fgts retido",
+      "saque-aniversário",
+      "saque rescisão",
+      "liberar fgts"
+    ],
+    [
+      "plano negou cirurgia",
+      "plano negou exame",
+      "negativa de cobertura",
+      "autorização de cirurgia",
+      "carência do plano de saúde",
+      "plano negou internação",
+      "plano não autorizou exame"
+    ],
+    [
+      "demora no sus",
+      "fila do sus",
+      "demora para cirurgia no sus",
+      "falta de médico",
+      "não consigo consulta no sus",
+      "vaga no hospital público",
+      "falta de leito",
+      "demora para exame no sus"
+    ],
+    [
+      "cópia do prontuário",
+      "hospital não quer dar prontuário",
+      "pedir prontuário médico",
+      "acesso ao prontuário",
+      "não querem entregar prontuário",
+      "laudo médico"
+    ],
+    [
+      "termo de consentimento",
+      "riscos da cirurgia",
+      "explicação antes da cirurgia",
+      "médico não explicou",
+      "consentimento informado",
+      "informação antes do exame",
+      "não fui informado antes da cirurgia"
+    ],
+    [
+      "sus não tem remédio",
+      "falta de remédio no posto",
+      "remédio de alto custo",
+      "conseguir remédio pelo sus",
+      "medicamento gratuito",
+      "exame negado no sus",
+      "posto sem medicamento"
+    ],
+    [
+      "acompanhante no hospital",
+      "acompanhante de idoso",
+      "acompanhante de criança",
+      "pode ter acompanhante no hospital",
+      "hospital proibiu acompanhante",
+      "acompanhante em consulta"
+    ],
+    [
+      "plano negou emergência",
+      "plano negou pronto-socorro",
+      "carência para urgência",
+      "atendimento negado no hospital",
+      "recusa de atendimento de emergência",
+      "plano negou atendimento de urgência"
+    ],
+    [
+      "trocar produto",
+      "troca de produto",
+      "a loja não quer trocar",
+      "não querem trocar",
+      "trocar na loja",
+      "trocar mercadoria",
+      "loja recusou troca"
+    ],
+    [
+      "garantia acabou",
+      "fora da garantia",
+      "venceu a garantia",
+      "garantia vencida",
+      "garantia expirou",
+      "vício oculto",
+      "defeito escondido",
+      "defeito de fábrica"
+    ],
+    [
+      "serviço não contratado",
+      "não contratei",
+      "nunca contratei",
+      "não assinei nada",
+      "cobrança sem autorização",
+      "pacote que não pedi",
+      "seguro que não contratei"
+    ],
+    [
+      "paguei e não recebi",
+      "paguei e não entregaram",
+      "comprei e não recebi",
+      "não entregaram o que paguei",
+      "loja sumiu depois do pagamento"
+    ],
+    [
+      "não cumpriram o combinado",
+      "não cumpriram a oferta",
+      "prometeram e não cumpriram",
+      "preço na prateleira",
+      "preço no caixa",
+      "preço diferente no caixa"
+    ],
+    [
+      "negativado indevidamente",
+      "nome sujo sem dever",
+      "sujaram meu nome sem eu dever",
+      "dívida que não fiz",
+      "dívida desconhecida",
+      "não reconheço a dívida",
+      "tirar nome do spc"
+    ],
+    [
+      "contestar cobrança",
+      "contestar compra",
+      "não reconheço essa compra",
+      "estorno no cartão",
+      "estornar compra",
+      "cancelar cobrança no cartão",
+      "pedir estorno"
+    ],
+    [
+      "golpe do pix",
+      "caí no golpe do pix",
+      "pix para golpista",
+      "boleto falso",
+      "cartão clonado",
+      "clonaram meu cartão",
+      "compra no cartão que não fiz",
+      "golpe na compra"
+    ],
+    [
+      "bagagem extraviada",
+      "perderam minha mala",
+      "mala sumiu",
+      "atraso de voo",
+      "cancelamento de voo",
+      "bagagem danificada"
+    ],
+    [
+      "tarifa bancária",
+      "taxa do banco",
+      "juros abusivos",
+      "juros do cartão",
+      "anuidade do cartão",
+      "cesta de serviços",
+      "pacote de tarifas",
+      "tarifa que não pedi"
+    ],
+    [
+      "ligação de spam",
+      "não me perturbe",
+      "ligações de vendas",
+      "ligam o dia inteiro",
+      "telemarketing abusivo",
+      "parar de receber ligações"
+    ],
+    [
+      "cobrança no trabalho",
+      "ligaram no meu trabalho cobrando",
+      "cobraram na frente dos outros",
+      "humilhação na cobrança",
+      "expor dívida",
+      "cobrança constrangendo"
+    ],
+    [
+      "vazou meu cpf",
+      "venderam meus dados",
+      "usaram meu nome sem autorização",
+      "abriram conta no meu nome",
+      "fizeram empréstimo no meu nome",
+      "documentos vazados"
+    ],
+    [
+      "instagram hackeado",
+      "roubaram meu instagram",
+      "facebook invadido",
+      "e-mail invadido",
+      "mudaram minha senha",
+      "não consigo entrar na minha conta"
+    ],
+    [
+      "golpe na internet",
+      "golpe online",
+      "site falso",
+      "link falso",
+      "golpe do whatsapp",
+      "golpe da falsa central",
+      "caí em golpe online"
+    ],
+    [
+      "apagar meus dados",
+      "excluir meus dados",
+      "tirar meu nome do cadastro",
+      "cancelar cadastro",
+      "revogar consentimento",
+      "proteção de dados"
+    ],
+    [
+      "site confiável",
+      "como saber se o site é seguro",
+      "compra segura na internet",
+      "site seguro",
+      "verificar loja online",
+      "evitar golpe na internet"
+    ],
+    [
+      "taxa de matrícula",
+      "taxa de material",
+      "material escolar abusivo",
+      "taxa de diploma",
+      "taxa de histórico escolar",
+      "cobrança abusiva na escola",
+      "cobrança na faculdade"
+    ],
+    [
+      "aumento da mensalidade",
+      "reajuste da mensalidade",
+      "mensalidade subiu",
+      "mensalidade aumentou",
+      "escola aumentou o preço",
+      "faculdade aumentou a mensalidade",
+      "reajuste escolar"
+    ],
+    [
+      "escola não entrega histórico",
+      "reter documentos",
+      "escola reteve documentos",
+      "histórico escolar preso",
+      "não deixam fazer prova",
+      "impedido de fazer prova",
+      "mensalidade atrasada na escola",
+      "transferência escolar bloqueada",
+      "não entregam diploma"
+    ],
+    [
+      "aluno com deficiência",
+      "criança autista na escola",
+      "inclusão escolar",
+      "escola não aceita autista",
+      "recusa de matrícula pcd",
+      "acompanhante escolar",
+      "mediador escolar",
+      "educação inclusiva",
+      "escola recusou aluno especial"
+    ],
+    [
+      "revisão de pensão",
+      "aumentar pensão",
+      "diminuir pensão",
+      "pai não paga pensão",
+      "pensão atrasada",
+      "valor da pensão",
+      "execução de pensão",
+      "cobrar pensão atrasada"
+    ],
+    [
+      "guarda unilateral",
+      "visitação dos filhos",
+      "pai não deixa ver o filho",
+      "mãe não deixa ver o filho",
+      "regulamentação de visitas",
+      "alienação parental"
+    ],
+    [
+      "devorcio",
+      "divórcio consensual",
+      "divórcio litigioso",
+      "divórcio em cartório",
+      "divórcio amigável",
+      "assinar divórcio",
+      "dar entrada no divórcio"
+    ],
+    [
+      "registrar criança",
+      "cartório de registro",
+      "certidão gratuita",
+      "nome do pai na certidão",
+      "reconhecimento de paternidade",
+      "tirar certidão de nascimento"
+    ],
+    [
+      "passagem de ônibus para idoso",
+      "carteira do idoso",
+      "gratuidade no transporte para idoso",
+      "ônibus interestadual idoso",
+      "desconto na passagem idoso"
+    ],
+    [
+      "reajuste por faixa etária",
+      "aumento por idade",
+      "plano aumentou pela idade",
+      "reajuste de idoso no plano",
+      "aumento abusivo por idade",
+      "plano ficou caro por causa da idade"
+    ],
+    [
+      "discriminação por idade",
+      "etarismo",
+      "preconceito contra idoso",
+      "recusaram por causa da idade",
+      "impedido pela idade",
+      "banco negou por causa da idade"
+    ],
+    [
+      "quem paga o conserto",
+      "reparo no imóvel alugado",
+      "benfeitorias",
+      "descontar conserto do aluguel",
+      "encanamento estourado",
+      "conserto na casa alugada"
+    ],
+    [
+      "devolver imóvel alugado",
+      "entregar as chaves",
+      "vistoria de saída",
+      "pintar a casa para entregar",
+      "rescisão do aluguel",
+      "sair antes do fim do contrato",
+      "multa para sair do aluguel"
+    ],
+    [
+      "taxa extra de condomínio",
+      "rateio de condomínio",
+      "multa injusta no condomínio",
+      "advertência no condomínio",
+      "regimento interno",
+      "convenção de condomínio"
+    ],
+    [
+      "dono vai vender a casa",
+      "venda do imóvel alugado",
+      "proprietário quer vender",
+      "preferência na compra do imóvel",
+      "imóvel colocado à venda",
+      "compraram a casa onde moro"
+    ],
+    [
+      "violência psicológica",
+      "violência patrimonial",
+      "violência moral",
+      "ameaça do marido",
+      "cárcere privado",
+      "xingamentos do marido",
+      "agressão física"
+    ],
+    [
+      "central de atendimento à mulher",
+      "deam",
+      "casa da mulher brasileira",
+      "boletim de ocorrência violência doméstica"
+    ],
+    [
+      "passe livre interestadual",
+      "viagem interestadual gratuita",
+      "viajar de graça entre estados",
+      "carteira do passe livre",
+      "transporte interestadual pcd"
+    ],
+    [
+      "bpc para deficiente",
+      "bpc para autista",
+      "loas para pcd",
+      "benefício para pessoa com deficiência",
+      "auxílio para autista",
+      "perícia do bpc"
+    ],
+    [
+      "doente sem conseguir trabalhar",
+      "incapaz de trabalhar",
+      "perícia médica do inss",
+      "pedir auxílio no inss",
+      "meu inss",
+      "afastamento pelo inss"
+    ],
+    [
+      "aposentadoria por idade",
+      "aposentadoria por invalidez",
+      "aposentadoria especial",
+      "aposentadoria rural",
+      "pedir aposentadoria",
+      "simular aposentadoria"
+    ],
+    [
+      "inss negou",
+      "benefício negado",
+      "pedido indeferido no inss",
+      "recurso no inss",
+      "perícia negada",
+      "alta programada",
+      "cortaram meu benefício",
+      "inss cortou auxílio",
+      "recorrer decisão do inss"
+    ],
+    [
+      "repartição pública não atende",
+      "órgão público não responde",
+      "ninguém atende na prefeitura",
+      "prefeitura não responde",
+      "atendimento negado no órgão público",
+      "sem resposta do governo"
+    ],
+    [
+      "fazer reclamação na ouvidoria",
+      "denúncia na ouvidoria",
+      "registrar manifestação",
+      "reclamar de servidor público",
+      "reclamar do atendimento público",
+      "ouvidoria do sus",
+      "ouvidoria da prefeitura"
+    ],
+    [
+      "processo demorando",
+      "processo parado",
+      "demora no órgão público",
+      "processo administrativo atrasado",
+      "análise demorada",
+      "protocolo parado",
+      "demora para responder pedido"
+    ],
+    [
+      "recurso de multa",
+      "indicar condutor",
+      "multa injusta",
+      "não era eu dirigindo",
+      "cancelar multa de trânsito",
+      "jari"
+    ],
+    [
+      "bateram no meu carro",
+      "boletim de ocorrência de trânsito",
+      "bateu e fugiu",
+      "seguro do carro",
+      "prejuízo no acidente"
+    ],
+    [
+      "limite de pontos na cnh",
+      "pontuação na cnh",
+      "cnh cassada",
+      "cassação da cnh",
+      "zerar pontos na carteira",
+      "reciclagem cnh"
+    ],
+    [
+      "comunicado de venda",
+      "comprador não transferiu o carro",
+      "transferir moto",
+      "multa no nome do antigo dono",
+      "atpv",
+      "renavam"
+    ],
+    [
+      "meu salário está atrasado",
+      "patrão não me paga",
+      "estou sem receber salário",
+      "salário não caiu",
+      "empresa atrasou meu pagamento"
+    ],
+    [
+      "não pagaram minhas férias",
+      "férias vencidas sem receber",
+      "não recebi o dinheiro das férias",
+      "empresa não pagou minhas férias"
+    ],
+    [
+      "não pagaram minhas horas extras",
+      "trabalhei a mais e não recebi",
+      "fiz hora extra de graça",
+      "não pagam o tempo extra"
+    ],
+    [
+      "não recebi meu vale-transporte",
+      "patrão não paga condução",
+      "dinheiro da passagem para trabalhar",
+      "não dão vale transporte"
+    ],
+    [
+      "não recebi intervalo no trabalho",
+      "trabalho sem hora de almoço",
+      "não posso fazer pausa no serviço",
+      "não tenho descanso durante o expediente"
+    ],
+    [
+      "trabalho grávida e querem me mandar embora",
+      "fui demitida grávida",
+      "estão me pressionando por estar grávida",
+      "não respeitam minha gravidez no emprego"
+    ],
+    [
+      "sofri acidente trabalhando",
+      "me machuquei no serviço",
+      "acidente durante o trabalho",
+      "meu trabalho causou uma doença"
+    ],
+    [
+      "não consigo voltar ao trabalho depois do afastamento",
+      "empresa não aceita meu retorno",
+      "médico liberou e não deixam voltar",
+      "limbo depois do auxílio doença"
+    ],
+    [
+      "não recebi seguro desemprego",
+      "seguro desemprego foi negado",
+      "não consigo dar entrada no seguro desemprego",
+      "parcelas do seguro desemprego não caíram"
+    ],
+    [
+      "não depositaram meu fgts",
+      "fgts atrasado",
+      "meu patrão não paga o fundo de garantia"
+    ],
+    [
+      "não recebi acerto da demissão",
+      "não pagaram minha rescisão",
+      "acerto trabalhista atrasado",
+      "fui mandado embora e não recebi nada"
+    ],
+    [
+      "sou obrigado a trabalhar no feriado",
+      "trabalho aos domingos",
+      "não tenho folga na semana",
+      "trabalho direto sem folga"
+    ],
+    [
+      "me obrigam a fazer serviço perigoso",
+      "trabalho com produto tóxico",
+      "não recebo equipamento de proteção",
+      "trabalho sem epi"
+    ],
+    [
+      "meu chefe ameaça me demitir",
+      "sofro pressão psicológica no trabalho",
+      "perseguição do patrão",
+      "estão me tratando mal no emprego"
+    ],
+    [
+      "comprei e não entregaram o que prometeram",
+      "produto diferente do anunciado",
+      "recebi uma coisa diferente da compra",
+      "loja não cumpriu o combinado"
+    ],
+    [
+      "loja não quer trocar minha compra",
+      "não aceitam trocar o produto",
+      "comprei tamanho errado e loja não troca",
+      "recusaram a troca da mercadoria"
+    ],
+    [
+      "quero cancelar uma compra e receber meu dinheiro",
+      "loja não devolve meu dinheiro",
+      "estorno da compra não aconteceu",
+      "não fizeram o reembolso"
+    ],
+    [
+      "cobraram serviço que nunca pedi",
+      "apareceu serviço que não contratei",
+      "estão cobrando assinatura que não fiz",
+      "desconto de serviço desconhecido"
+    ],
+    [
+      "fizeram compra no meu cartão sem autorização",
+      "compra desconhecida no cartão",
+      "cartão usado por outra pessoa",
+      "apareceu compra que não fiz"
+    ],
+    [
+      "fizeram pix para golpista",
+      "caí em golpe do pix"
+    ],
+    [
+      "meu banco cobrou juros demais",
+      "juros abusivos no cartão",
+      "tarifa bancária que não conheço",
+      "cobraram anuidade que não contratei"
+    ],
+    [
+      "a escola não entrega meu histórico escolar",
+      "não liberam meus documentos da escola",
+      "escola segurou meu diploma",
+      "faculdade não entrega certificado"
+    ],
+    [
+      "não deixam meu filho estudar por falta de vaga",
+      "meu filho está fora da escola",
+      "não consigo matricular criança na escola pública",
+      "creche não tem lugar para meu filho"
+    ],
+    [
+      "escola não aceita aluno autista",
+      "recusaram matrícula do meu filho com deficiência",
+      "não querem receber criança com deficiência",
+      "escola não oferece apoio para aluno com deficiência"
+    ],
+    [
+      "escola aumentou muito a mensalidade",
+      "reajuste abusivo da escola",
+      "mensalidade da faculdade ficou mais cara",
+      "aumento da mensalidade escolar"
+    ],
+    [
+      "meu filho nasceu e não tem registro",
+      "pai não quer registrar a criança",
+      "registrar bebê sem o nome do pai",
+      "não tenho certidão do meu filho"
+    ],
+    [
+      "quero mudar o valor da pensão",
+      "pai não paga pensão dos filhos",
+      "mãe não recebe pensão da criança",
+      "pensão alimentícia atrasada"
+    ],
+    [
+      "meu ex não deixa ver meu filho",
+      "não consigo visitar meus filhos",
+      "pai impede contato com a criança",
+      "mãe não deixa o pai ver o filho"
+    ],
+    [
+      "quero me divorciar e meu marido não aceita",
+      "separação sem acordo",
+      "meu marido não quer assinar o divórcio",
+      "divórcio quando um não concorda"
+    ],
+    [
+      "meu companheiro morreu e preciso de benefício",
+      "perdi meu marido e fiquei sem renda",
+      "viúva quer receber pensão",
+      "benefício depois que meu companheiro faleceu"
+    ],
+    [
+      "estou velha e não me atendem",
+      "não me atendem por causa da idade",
+      "discriminação contra pessoa mais velha",
+      "me trataram mal por ser idoso"
+    ],
+    [
+      "idoso não consegue viajar de graça",
+      "não dão passagem gratuita para idoso",
+      "gratuidade no ônibus para pessoa idosa",
+      "recusaram transporte gratuito para idoso"
+    ],
+    [
+      "filho maltrata a mãe idosa",
+      "idoso sofre violência dentro de casa",
+      "família abandonou pessoa idosa",
+      "cuidador maltrata idoso"
+    ],
+    [
+      "meu aluguel está caro demais",
+      "dono quer cobrar mais aluguel",
+      "aumentaram o valor da locação",
+      "reajuste no preço da casa alugada"
+    ],
+    [
+      "quem paga o conserto do imóvel alugado",
+      "proprietário não arruma a casa alugada",
+      "inquilino tem que pagar reparo",
+      "casa alugada com defeito e dono não resolve"
+    ],
+    [
+      "recebi ordem para sair do imóvel alugado",
+      "dono quer me expulsar do aluguel",
+      "mandado para desocupar casa alugada",
+      "estão pedindo a casa alugada de volta"
+    ],
+    [
+      "o dono quer vender a casa que alugo",
+      "imóvel alugado foi colocado à venda",
+      "venderam a casa onde moro de aluguel",
+      "quero continuar morando após venda do imóvel"
+    ],
+    [
+      "síndico me multou",
+      "condomínio aplicou multa indevida",
+      "taxa extra do condomínio",
+      "cobrança errada do condomínio"
+    ],
+    [
+      "meu vizinho faz barulho demais",
+      "barulho do apartamento ao lado",
+      "som alto no condomínio",
+      "vizinho não respeita o silêncio"
+    ],
+    [
+      "meu marido controla meu dinheiro",
+      "companheiro controla minha vida",
+      "não posso sair de casa por causa dele",
+      "meu parceiro me ameaça dentro de casa"
+    ],
+    [
+      "estão me perseguindo na rua",
+      "homem fica me seguindo",
+      "sofri cantada e estou com medo",
+      "me assediaram no ônibus"
+    ],
+    [
+      "quero pedir medida protetiva contra meu ex",
+      "meu ex descumpriu a medida protetiva",
+      "agressor continua chegando perto",
+      "medida protetiva não está sendo respeitada"
+    ],
+    [
+      "não consigo receber o bpc",
+      "me negaram o benefício assistencial",
+      "bpc foi cortado",
+      "pararam de pagar meu bpc"
+    ],
+    [
+      "inss não aprovou minha aposentadoria",
+      "aposentadoria foi negada",
+      "inss recusou meu pedido",
+      "meu benefício do inss foi cortado"
+    ],
+    [
+      "não pagaram pensão por morte",
+      "inss negou pensão para viúva",
+      "quero pedir benefício porque meu marido morreu",
+      "pensão por morte foi recusada"
+    ],
+    [
+      "não recebi auxílio maternidade",
+      "não pagaram salário maternidade",
+      "benefício da licença maternidade negado",
+      "inss recusou meu salário maternidade"
+    ],
+    [
+      "plano não quer fazer exame",
+      "convênio recusou cirurgia",
+      "plano não autorizou tratamento",
+      "negativa de exame pelo convênio"
+    ],
+    [
+      "sus está demorando para marcar consulta",
+      "não consigo marcar exame pelo sus",
+      "fila de espera do sus",
+      "demora para conseguir consulta no posto"
+    ],
+    [
+      "hospital não quer entregar meu prontuário",
+      "quero cópia do meu prontuário médico",
+      "médico não entrega meus exames",
+      "não liberam meu histórico de atendimento"
+    ],
+    [
+      "médico não explicou os riscos da cirurgia",
+      "não me explicaram o procedimento",
+      "fizeram exame sem me informar",
+      "não recebi explicação antes do tratamento"
+    ],
+    [
+      "sus não entrega remédio",
+      "posto não tem meu medicamento",
+      "não consigo pegar remédio de graça",
+      "falta de medicamento na unidade de saúde"
+    ],
+    [
+      "não deixam meu acompanhante entrar no hospital",
+      "proibiram acompanhante na internação",
+      "não posso ficar com acompanhante no parto",
+      "hospital não permite acompanhante"
+    ],
+    [
+      "meu plano de saúde foi cancelado sem avisar",
+      "cancelaram meu convênio médico",
+      "plano não renovou meu contrato",
+      "fiquei sem cobertura do plano"
+    ],
+    [
+      "órgão público não responde meu pedido",
+      "prefeitura não responde minha reclamação",
+      "estou esperando resposta do governo",
+      "ninguém responde no serviço público"
+    ],
+    [
+      "meu processo está parado na prefeitura",
+      "pedido no inss não sai do lugar",
+      "demora para analisar meu requerimento",
+      "processo administrativo parado"
+    ],
+    [
+      "quero pedir informação para prefeitura",
+      "como conseguir documento da prefeitura",
+      "órgão público não fornece informação",
+      "pedido de informação sem resposta"
+    ],
+    [
+      "vazaram meus dados na internet",
+      "usaram meus dados sem eu deixar",
+      "empresa compartilhou meus dados",
+      "quero apagar meus dados pessoais"
+    ],
+    [
+      "publicaram minhas fotos íntimas",
+      "espalharam meus nudes",
+      "ex divulgou vídeo íntimo",
+      "compartilharam imagem íntima sem permissão"
+    ],
+    [
+      "meu perfil falso está usando minha foto",
+      "criaram perfil falso com meus dados",
+      "alguém está se passando por mim na internet",
+      "fizeram uma conta falsa com meu nome"
+    ],
+    [
+      "meu voo foi cancelado e não avisaram",
+      "fiquei horas esperando o avião",
+      "companhia aérea mudou meu voo",
+      "perdi conexão por atraso do avião"
+    ],
+    [
+      "empresa de telefone não resolve minha falta de sinal",
+      "celular está sem serviço",
+      "minha linha foi cortada",
+      "não consigo fazer ligação pelo celular"
+    ],
+    [
+      "comprei imóvel na planta e quero desistir",
+      "quero cancelar apartamento comprado na planta",
+      "não quero mais imóvel na planta",
+      "desistência de compra de apartamento em construção"
+    ],
+    [
+      "produto está pegando fogo",
+      "eletrodoméstico oferece risco",
+      "produto pode causar acidente",
+      "fabricante pediu para devolver o produto"
+    ],
+    [
+      "bati em alguém com o carro",
+      "meu carro atropelou uma pessoa",
+      "fui atropelado",
+      "acidente com pedestre"
+    ],
+    [
+      "vendi meu veículo e não transferiram",
+      "comprei carro e não passaram para meu nome",
+      "documento do veículo continua no antigo dono",
+      "não fizeram a transferência do carro"
+    ],
+    [
+      "recebi multa porque passei no sinal",
+      "multa por excesso de velocidade",
+      "levei multa dirigindo",
+      "pontos por infração de trânsito"
+    ],
+    [
+      "não quer trocar o produto",
+      "troca do produto com defeito",
+      "quero trocar produto",
+      "produto com defeito quero trocar",
+      "recusaram a troca",
+      "não aceitaram trocar",
+      "troca negada pela loja"
+    ],
+    [
+      "acabou o prazo de garantia",
+      "produto deu defeito depois da garantia",
+      "ainda posso reclamar da garantia"
+    ],
+    [
+      "não contratei esse serviço",
+      "cobrança de coisa que não pedi",
+      "não pedi essa cobrança",
+      "contrataram sem minha autorização",
+      "cobraram serviço que não contratei",
+      "cobrança de serviço não solicitado",
+      "assinatura que não fiz"
+    ],
+    [
+      "paguei e não veio",
+      "serviço pago e não prestado",
+      "paguei mas não entregaram",
+      "não recebi o que paguei",
+      "produto pago não chegou",
+      "paguei pelo serviço e não fizeram"
+    ],
+    [
+      "registrar reclamação",
+      "abrir reclamação",
+      "fazer reclamação",
+      "reclamação de consumidor",
+      "como reclamar de uma loja",
+      "reclamar de compra",
+      "registrar queixa no procon"
+    ],
+    [
+      "cobrança no cartão",
+      "tarifa que não entendi",
+      "cobrança de tarifa",
+      "cartão de crédito cobrou juros",
+      "análise de crédito cobrada",
+      "tarifa de manutenção"
+    ],
+    [
+      "golpe pela internet",
+      "fraude na internet",
+      "fui enganado na internet",
+      "comprei e caí em golpe",
+      "golpe em compra online",
+      "pagamento online fraudulento"
+    ],
+    [
+      "comprar online com segurança",
+      "loja confiável",
+      "como saber se site é seguro",
+      "golpe em site de compras"
+    ],
+    [
+      "taxa escolar indevida",
+      "cobrança na escola",
+      "escola cobrando taxa",
+      "taxa de matrícula abusiva",
+      "cobrança indevida da escola",
+      "escola cobrou taxa extra",
+      "taxa que a escola cobrou"
+    ],
+    [
+      "não consigo vaga na escola",
+      "escola pública sem vaga",
+      "vaga para meu filho",
+      "matrícula na escola pública",
+      "sem vaga para estudar",
+      "não tem vaga na creche",
+      "vaga escolar negada"
+    ],
+    [
+      "mensalidade escolar subiu",
+      "aumento da escola",
+      "anuidade aumentou",
+      "mensalidade aumentou muito"
+    ],
+    [
+      "escola retém documento",
+      "não devolve documentos",
+      "retenção de prova",
+      "escola segura histórico",
+      "documento retido por dívida",
+      "escola não entrega diploma",
+      "retenção de documentos escolares"
+    ],
+    [
+      "matrícula de aluno com deficiência",
+      "escola recusou aluno com deficiência",
+      "deficiente na escola",
+      "matrícula negada por deficiência",
+      "recusa de matrícula por deficiência",
+      "aluno com deficiência sem vaga"
+    ],
+    [
+      "plano de saúde aumentou por idade",
+      "plano subiu porque envelheci",
+      "convênio aumentou na terceira idade",
+      "aumento do plano para idoso"
+    ],
+    [
+      "não me deixaram por causa da idade",
+      "barrado por ser idoso",
+      "idade como impedimento",
+      "impedido por ser velho"
+    ],
+    [
+      "quem paga conserto",
+      "reparo no aluguel",
+      "conserto do imóvel alugado",
+      "infiltração no aluguel",
+      "manutenção da casa alugada",
+      "conserto por conta do inquilino",
+      "reparo que o dono não faz"
+    ],
+    [
+      "entrega das chaves",
+      "sair do aluguel",
+      "desocupar imóvel",
+      "devolução do imóvel",
+      "entregar a casa alugada",
+      "sair da casa alugada"
+    ],
+    [
+      "dono vai vender a casa alugada",
+      "preferência de compra do inquilino",
+      "proprietário vendeu o imóvel",
+      "meu aluguel foi vendido",
+      "casa alugada foi vendida",
+      "direito de preferência do inquilino"
+    ],
+    [
+      "inss negou benefício",
+      "benefício negado pelo inss",
+      "inss recusou",
+      "meu benefício foi negado",
+      "inss indeferiu",
+      "benefício do inss negado",
+      "inss não concedeu"
+    ],
+    [
+      "processo demorando no órgão público",
+      "demora no atendimento público",
+      "demora na prefeitura",
+      "resposta demorada",
+      "atendimento público demorado",
+      "processo sem andamento"
+    ],
+    [
+      "convênio negou exame",
+      "plano recusou procedimento",
+      "operadora não autorizou",
+      "negativa do plano",
+      "plano de saúde negou",
+      "convênio não cobre"
+    ],
+    [
+      "reclamar do sus",
+      "sus negou atendimento",
+      "reclamação no sus",
+      "sus não atende",
+      "falta de atendimento no sus",
+      "reclamar de hospital público"
+    ],
+    [
+      "informações antes da cirurgia",
+      "explicação sobre procedimento",
+      "não fui informado do procedimento",
+      "esclarecimento antes do exame"
+    ],
+    [
+      "sus não deu remédio",
+      "falta de medicamento no sus",
+      "sus não forneceu exame",
+      "medicamento negado pelo sus",
+      "remédio não disponível no sus",
+      "exame não marcado pelo sus"
+    ],
+    [
+      "convênio negou pronto-socorro",
+      "plano não autorizou urgência",
+      "negativa de atendimento de urgência",
+      "plano recusou emergência",
+      "convênio não cobriu pronto-socorro"
+    ],
+    [
+      "acerto da demissão",
+      "quanto vou receber da demissão",
+      "direitos do demitido",
+      "o que recebo ao ser demitido",
+      "valores da demissão"
+    ],
+    [
+      "afastamento por acidente de trabalho",
+      "volta ao trabalho depois do afastamento",
+      "estabilidade no emprego doente",
+      "demitido depois do afastamento",
+      "afastado por acidente",
+      "doença no trabalho",
+      "voltar ao trabalho após licença"
+    ],
+    [
+      "intervalo entre jornadas",
+      "descanso no trabalho",
+      "pausa para almoço",
+      "intervalo de almoço",
+      "descanso semanal",
+      "intervalo não respeitado",
+      "sem pausa para almoço",
+      "descanso entre um turno e outro"
+    ],
+    [
+      "dívida que não reconheço",
+      "não fiz essa dívida",
+      "cobrança de dívida que não existe",
+      "dívida no meu nome que não fiz",
+      "negativado por dívida que não reconheço",
+      "cobrança de dívida antiga",
+      "não devo essa dívida"
+    ],
+    [
+      "direito de arrependimento",
+      "compra pela internet arrependimento",
+      "devolver produto comprado online",
+      "cancelar compra pela internet",
+      "prazo para desistir da compra",
+      "comprei online e me arrependi",
+      "devolver compra feita na internet"
+    ],
+    [
+      "contestar cobrança indevida",
+      "reclamar de cobrança errada",
+      "cancelar cobrança",
+      "contestação de cobrança",
+      "não concordo com a cobrança"
+    ],
+    [
+      "usaram meus dados sem autorização",
+      "dados usados sem permissão",
+      "não autorizei uso dos dados",
+      "compartilharam meus dados",
+      "meus dados vazaram",
+      "cpf usado sem autorização",
+      "usaram meu nome sem permissão"
+    ],
+    [
+      "não consigo atendimento no órgão público",
+      "atendimento público ruim",
+      "não fui atendido",
+      "serviço público não resolve",
+      "reclamação de atendimento público",
+      "preciso de atendimento público"
+    ],
+    [
+      "registrar reclamação na ouvidoria",
+      "reclamação ou sugestão",
+      "falar com a ouvidoria",
+      "elogio e reclamação",
+      "ouvidoria não responde",
+      "fazer sugestão na ouvidoria",
+      "reclamar na ouvidoria"
+    ],
+    [
+      "não recebi o salário",
+      "pagamento do salário atrasou",
+      "empregador não paga"
+    ],
+    [
+      "passagem do trabalho",
+      "ajuda de transporte",
+      "empregador não paga vale",
+      "desconto do vale-transporte",
+      "vale para ir trabalhar"
+    ],
+    [
+      "multa aplicada pelo condomínio",
+      "multa no condomínio",
+      "cobrança do condomínio",
+      "síndico cobrando multa",
+      "assembleia de condomínio",
+      "condomínio cobrando taxa"
+    ],
+    [
+      "acidente de moto",
+      "bati a moto",
+      "queda de moto no trânsito",
+      "colisão de moto",
+      "motociclista acidentado",
+      "acidente com moto",
+      "bati de moto"
+    ],
+    [
+      "cancelar internet",
+      "cancelar celular",
+      "cancelar tv",
+      "operadora não deixa cancelar",
+      "multa para cancelar internet",
+      "cancelamento de telefonia",
+      "quero cancelar minha internet"
+    ],
+    [
+      "aposentadoria negada",
+      "inss negou aposentadoria",
+      "tempo de contribuição não reconhecido",
+      "contagem de tempo no inss",
+      "revisar aposentadoria",
+      "meu tempo não aparece no inss",
+      "aposentadoria não saiu"
+    ],
+    [
+      "auxílio-doença negado",
+      "inss negou auxílio",
+      "perícia do inss",
+      "benefício por doença negado",
+      "atestado não aceito pelo inss",
+      "encostado e demitido",
+      "auxílio doença não aprovado"
+    ],
+    [
+      "bpc negado",
+      "benefício assistencial negado",
+      "loas negado",
+      "bpc não foi aprovado",
+      "cadastro único para bpc",
+      "bpc para idoso"
+    ],
+    [
+      "revisar pensão",
+      "ex não paga pensão",
+      "executar pensão",
+      "pensão descontada",
+      "pedir revisão da pensão"
     ]
   ]
 }
