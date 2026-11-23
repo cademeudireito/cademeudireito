@@ -2,6 +2,7 @@ import { h } from '../utils/dom.js';
 import { Breadcrumbs } from '../components/Breadcrumbs.js';
 import { Notice } from '../components/Notice.js';
 import { NotFound } from './NotFound.js';
+import { NumberGroups } from '../components/NumberGroups.js';
 
 export async function StaticPage({ ctx, content, slug }) {
   const page = content.pages.find((p) => p.slug === (slug ?? ctx.params.slug));
@@ -11,6 +12,7 @@ export async function StaticPage({ ctx, content, slug }) {
     if (b.type === 'p') return h('p', { text: b.text });
     if (b.type === 'ul') return h('ul', { class: 'bullets' }, b.items.map((i) => h('li', { text: i })));
     if (b.type === 'notice') return Notice(b.key ? content.site[b.key] : b.text);
+    if (b.type === 'numeros') return NumberGroups(b.grupos);
     return null;
   });
   return {

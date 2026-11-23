@@ -5,6 +5,7 @@ const NAV = [
   ['/', 'Início'],
   ['/orientador/', 'Encontrar meus direitos'],
   ['/enciclopedia/', 'Enciclopédia'],
+  ['/numeros-uteis/', 'Números úteis'],
   ['/sobre/', 'Sobre'],
 ];
 

@@ -1,0 +1,93 @@
+{
+  "slug": "numeros-uteis",
+  "title": "Números úteis",
+  "description": "Números nacionais de três dígitos para emergências e atendimento: polícia, SAMU, bombeiros, Ligue 180, Disque 100, CVV e outros.",
+  "intro": "Números nacionais de três dígitos, reunidos em um só lugar. Os de polícia, bombeiros e outros serviços estaduais e municipais variam por região e não estão aqui.",
+  "blocks": [
+    {
+      "type": "notice",
+      "text": "Se houver perigo imediato, ligue primeiro para o número de emergência. Depois, se precisar de mais informação, use o site do órgão."
+    },
+    {
+      "type": "numeros",
+      "grupos": [
+        {
+          "titulo": "Emergências",
+          "descricao": "Para situações de risco agora.",
+          "itens": [
+            {
+              "numero": "190",
+              "nome": "Polícia Militar",
+              "uso": "Crime em andamento, ameaça ou perigo imediato.",
+              "nota": "Serviço estadual: é atendido pela polícia do seu estado."
+            },
+            {
+              "numero": "191",
+              "nome": "Polícia Rodoviária Federal",
+              "uso": "Acidente ou emergência em rodovias federais.",
+              "url": "https://www.gov.br/pt-br/orgaos/policia-rodoviaria-federal"
+            },
+            {
+              "numero": "192",
+              "nome": "SAMU",
+              "uso": "Emergência médica: mal súbito, acidente ou risco de vida.",
+              "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192"
+            },
+            {
+              "numero": "193",
+              "nome": "Corpo de Bombeiros",
+              "uso": "Incêndio, resgate, afogamento e acidentes.",
+              "nota": "Serviço estadual: é atendido pelo Corpo de Bombeiros do seu estado."
+            }
+          ]
+        },
+        {
+          "titulo": "Atendimento 24 horas",
+          "descricao": "Canais nacionais que atendem a qualquer hora.",
+          "itens": [
+            {
+              "numero": "180",
+              "nome": "Ligue 180 (Ministério das Mulheres)",
+              "uso": "Orientação e denúncia de violência contra a mulher.",
+              "horario": "24 horas, todos os dias",
+              "extra": "WhatsApp: +55 61 99610-0180",
+              "url": "https://www.gov.br/mulheres/pt-br"
+            },
+            {
+              "numero": "100",
+              "nome": "Disque 100 (Direitos Humanos)",
+              "uso": "Violação de direitos de crianças, pessoas idosas, pessoas com deficiência e outros grupos.",
+              "horario": "24 horas, todos os dias",
+              "url": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/disque-100"
+            },
+            {
+              "numero": "188",
+              "nome": "CVV (Centro de Valorização da Vida)",
+              "uso": "Apoio emocional e prevenção do suicídio. A ligação é gratuita em todo o país.",
+              "horario": "24 horas, todos os dias",
+              "url": "https://cvv.org.br/"
+            }
+          ]
+        },
+        {
+          "titulo": "Outros canais",
+          "itens": [
+            {
+              "numero": "135",
+              "nome": "INSS (Central 135)",
+              "uso": "Benefícios, aposentadoria, BPC e auxílio.",
+              "horario": "Seg. a sáb., 7h às 22h",
+              "url": "https://www.gov.br/previdencia/pt-br/canais_atendimento/central-135"
+            },
+            {
+              "numero": "136",
+              "nome": "OuvidorSUS",
+              "uso": "Reclamação ou dúvida sobre atendimento no SUS.",
+              "url": "https://www.gov.br/saude/pt-br/canais-de-atendimento/ouvsus136"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

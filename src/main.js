@@ -76,6 +76,7 @@ defineRoutes(
     ['/aviso-educativo', staticPage('aviso-educativo')],
     ['/acessibilidade', staticPage('acessibilidade')],
     ['/privacidade', staticPage('privacidade')],
+    ['/numeros-uteis', staticPage('numeros-uteis')],
   ],
   NotFound,
   renderPage,

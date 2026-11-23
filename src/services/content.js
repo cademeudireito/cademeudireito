@@ -162,6 +162,16 @@ export function validateContent({ categories, articles, guides, pages = [], sear
     if (!p.slug || !p.title || !Array.isArray(p.blocks)) errors.push(`Página ${p.slug ?? '?'}: slug/title/blocks ausentes`);
     if (pSlugs.has(p.slug)) errors.push(`Página duplicada: ${p.slug}`);
     pSlugs.add(p.slug);
+    for (const b of p.blocks ?? []) {
+      if (b.type !== 'numeros') continue;
+      for (const g of b.grupos ?? [])
+        for (const i of g.itens ?? []) {
+          const w = `Página ${p.slug}, número ${i.numero ?? '?'}`;
+          if (!/^\d{3}$/.test(String(i.numero ?? ''))) errors.push(`${w}: "numero" deve ter três dígitos`);
+          if (!i.nome || !i.uso) errors.push(`${w}: "nome" e "uso" são obrigatórios`);
+          if (i.url !== undefined && !/^https:\/\/[^\s]+$/.test(i.url)) errors.push(`${w}: "url" deve ser um endereço https`);
+        }
+    }
   }
 
   return { errors, warnings };

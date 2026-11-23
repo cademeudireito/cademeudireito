@@ -48,3 +48,5 @@ Conforme `docs/00-visao-geral-e-regras.md` §6 e `docs/10-plano-de-execucao-e-pr
 - Autorização de fontes locais (Nunito Sans, Atkinson Hyperlegible) com licença.
 - Revisão jurídica por profissional (advogado ou Defensoria) como checagem adicional, sobretudo EC 141/2026 (arts. 6º e 8º), Lei 15.371/2026 e PRE-004.
 - Teste de compreensão com público de 65–70 anos e auditoria com leitor de tela (docs/09 §4 e §6) ainda não realizados.
+
+27. **Aba "Números úteis" (2026-11-23):** página própria no menu, com os números nacionais de três dígitos (190, 191, 192, 193, 180, 100, 188, 135, 136). Excluídos 911 e 112 (a Anatel informa que valem só para celular e só para a polícia). Números estaduais e municipais ficam de fora. Os de 190 e 193 são atendidos pelos estados, por isso não têm site nacional. Os números 190, 191 e 193 ainda precisam de confirmação em página oficial nacional antes da validação final.

@@ -105,3 +105,4 @@
 
 .quick-exit { position: sticky; top: 8px; display: flex; margin: 0 0 12px auto; z-index: 50; background: #b3261e; color: #fff; border-color: #fff; min-height: 44px; box-shadow: var(--shadow-hover); }
 .quick-exit:hover { background: #8a1c14; }
+.contact__digits { font-size: 1.75rem; font-weight: 800; line-height: 1; color: var(--color-primary-dark); margin-bottom: 8px !important; }
