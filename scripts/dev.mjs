@@ -15,7 +15,7 @@ serve({
     if (pathname === '/data/content.json') {
       const data = await loadAllData();
       const includeDrafts = !strict && data.site.draftVisibility === 'show';
-      const body = { includeDrafts, site: data.site, ...buildPublicContent(data, { includeDrafts }) };
+      const body = { includeDrafts, site: data.site, search: { groups: data.search.groups }, ...buildPublicContent(data, { includeDrafts }) };
       return { type: 'application/json; charset=utf-8', body: JSON.stringify(body) };
     }
     for (const f of ['favicon.svg', 'robots.txt']) if (pathname === `/${f}`) {

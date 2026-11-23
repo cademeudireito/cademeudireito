@@ -43,9 +43,16 @@ const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
  * Valida todo o conteúdo. Retorna { errors, warnings }.
  * `warnings` = pendências esperadas em rascunhos (ex.: referência sem URL verificada).
  */
-export function validateContent({ categories, articles, guides, pages = [] }) {
+export function validateContent({ categories, articles, guides, pages = [], search = null }) {
   const errors = [];
   const warnings = [];
+
+  if (search) {
+    const groups = search.groups;
+    if (!Array.isArray(groups) || groups.some((g) => !Array.isArray(g) || g.length < 2 || g.some((p) => typeof p !== 'string' || !p.trim()))) {
+      errors.push('search.json: "groups" deve ser uma lista de grupos, cada um com 2 ou mais expressões (texto).');
+    }
+  }
 
   const catIds = new Set();
   const catSlugs = new Set();

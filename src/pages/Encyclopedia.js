@@ -4,6 +4,7 @@ import { ArticleCard } from '../components/ArticleCard.js';
 import { EmptyState } from '../components/EmptyState.js';
 import { Breadcrumbs } from '../components/Breadcrumbs.js';
 import { search } from '../services/search.js';
+import { suggestionLink } from '../services/suggest.js';
 
 /** Monta busca com resultados ao vivo; usada na enciclopédia e nas categorias. */
 export function SearchPanel({ content, category = null, initial = '', idPrefix }) {
@@ -34,6 +35,18 @@ export function SearchPanel({ content, category = null, initial = '', idPrefix }
     );
   }
 
+  function notFound(query) {
+    const href = suggestionLink(content.site, query);
+    const actions = [{ label: 'Abrir o orientador', href: '/orientador/' }, { label: 'Ver categorias', href: '/' }];
+    if (href) actions.unshift({ label: 'Sugerir tema', href, external: true, primary: true });
+    return EmptyState(
+      'Ainda não temos esse assunto',
+      'Não encontramos nada sobre isso. Tente outras palavras, veja as categorias ou use o orientador, que faz perguntas simples. Se quiser, sugira o tema para o site.',
+      actions,
+      href ? 'Ao tocar em “Sugerir tema”, uma página do GitHub se abre com a sua busca já escrita. Não escreva dados pessoais.' : null,
+    );
+  }
+
   function update(q) {
     const query = q.trim();
     const url = new URL(location.href);
@@ -46,7 +59,7 @@ export function SearchPanel({ content, category = null, initial = '', idPrefix }
     results.replaceChildren(
       found.length
         ? h('ul', { class: 'list list--cards' }, found.map(({ article }) => ArticleCard(article, { categoryTitle: category ? null : catTitle.get(article.category) })))
-        : EmptyState('Não encontramos um assunto com esses termos', 'Tente outras palavras, escolha uma categoria ou use o orientador, que faz perguntas simples para ajudar.', [{ label: 'Abrir o orientador', href: '/orientador/' }, { label: 'Ver categorias', href: '/' }]),
+        : notFound(query),
     );
   }
 

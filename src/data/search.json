@@ -1,0 +1,665 @@
+{
+  "_comentario": "Grupos de expressões equivalentes para a busca. Cada lista reúne jeitos diferentes de dizer a mesma coisa; quem pesquisa por um deles também encontra os assuntos que usam os outros. Pode editar à vontade (sem acentos e maiúsculas tanto faz).",
+  "groups": [
+    [
+      "patrão",
+      "patroa",
+      "chefe",
+      "empregador",
+      "empresa onde trabalho",
+      "firma",
+      "dono da empresa"
+    ],
+    [
+      "demitido",
+      "demitida",
+      "demissão",
+      "mandado embora",
+      "mandaram embora",
+      "me mandaram embora",
+      "despedido",
+      "despedida",
+      "dispensado",
+      "rescisão do contrato de trabalho",
+      "perdi o emprego"
+    ],
+    [
+      "carteira assinada",
+      "carteira de trabalho",
+      "registro em carteira",
+      "trabalho registrado",
+      "contrato de trabalho",
+      "sem registro",
+      "trabalho informal",
+      "trabalho sem carteira",
+      "bico"
+    ],
+    [
+      "salário",
+      "pagamento do trabalho",
+      "ordenado",
+      "meu pagamento",
+      "contracheque",
+      "holerite"
+    ],
+    [
+      "hora extra",
+      "horas extras",
+      "trabalhar além do horário",
+      "passar do horário",
+      "fazer hora a mais"
+    ],
+    [
+      "férias",
+      "tirar férias",
+      "descanso anual"
+    ],
+    [
+      "décimo terceiro",
+      "13º salário",
+      "13 salário",
+      "gratificação natalina"
+    ],
+    [
+      "fundo de garantia",
+      "fgts",
+      "saque do fgts"
+    ],
+    [
+      "seguro-desemprego",
+      "seguro desemprego",
+      "auxílio desemprego",
+      "benefício do desempregado"
+    ],
+    [
+      "assédio moral",
+      "humilhação no trabalho",
+      "chefe me humilha",
+      "perseguição no trabalho",
+      "chefe grita comigo",
+      "bullying no trabalho"
+    ],
+    [
+      "empregada doméstica",
+      "doméstica",
+      "babá",
+      "diarista",
+      "cuidadora",
+      "faxineira",
+      "empregado doméstico",
+      "trabalho em casa de família"
+    ],
+    [
+      "inss",
+      "previdência social",
+      "previdência"
+    ],
+    [
+      "aposentadoria",
+      "me aposentar",
+      "aposentar",
+      "aposentado",
+      "tempo de contribuição"
+    ],
+    [
+      "auxílio-doença",
+      "auxílio doença",
+      "benefício por incapacidade",
+      "encostar no inss",
+      "afastamento por doença",
+      "atestado longo"
+    ],
+    [
+      "pensão por morte",
+      "pensão do falecido",
+      "morreu meu marido",
+      "morreu minha esposa",
+      "morreu quem me sustentava"
+    ],
+    [
+      "bpc",
+      "loas",
+      "benefício de prestação continuada",
+      "benefício assistencial",
+      "amparo assistencial"
+    ],
+    [
+      "salário-maternidade",
+      "licença-maternidade",
+      "licença maternidade",
+      "benefício da gestante",
+      "afastamento por gravidez"
+    ],
+    [
+      "grávida",
+      "gestante",
+      "gravidez",
+      "esperando bebê",
+      "estou esperando"
+    ],
+    [
+      "plano de saúde",
+      "convênio",
+      "convênio médico",
+      "plano médico",
+      "operadora de saúde",
+      "unimed"
+    ],
+    [
+      "negou",
+      "negativa",
+      "recusou",
+      "não autorizou",
+      "não aceitou",
+      "não quis cobrir",
+      "não cobre"
+    ],
+    [
+      "sus",
+      "posto de saúde",
+      "ubs",
+      "upa",
+      "hospital público",
+      "postinho"
+    ],
+    [
+      "remédio",
+      "medicamento",
+      "medicação"
+    ],
+    [
+      "prontuário",
+      "histórico médico",
+      "ficha médica",
+      "meus exames"
+    ],
+    [
+      "nome sujo",
+      "negativado",
+      "negativação",
+      "spc",
+      "serasa",
+      "cpf restrito",
+      "restrição no cpf"
+    ],
+    [
+      "cobrança indevida",
+      "cobrança errada",
+      "cobraram a mais",
+      "cobrança que não reconheço",
+      "cobraram duas vezes",
+      "cobrança duplicada",
+      "desconto que não autorizei",
+      "paguei a mais"
+    ],
+    [
+      "golpe",
+      "fraude",
+      "estelionato",
+      "fui enganado",
+      "caí num golpe",
+      "caí em golpe",
+      "golpista",
+      "enganaram"
+    ],
+    [
+      "arrependimento",
+      "desistir da compra",
+      "quero devolver",
+      "devolver compra",
+      "cancelar compra",
+      "me arrependi"
+    ],
+    [
+      "defeito",
+      "estragado",
+      "quebrou",
+      "parou de funcionar",
+      "não funciona",
+      "veio quebrado"
+    ],
+    [
+      "garantia",
+      "garantia da loja",
+      "garantia do fabricante",
+      "assistência técnica"
+    ],
+    [
+      "loja virtual",
+      "compra online",
+      "compra pela internet",
+      "comprei no site",
+      "comprei pelo aplicativo",
+      "e-commerce"
+    ],
+    [
+      "não entregaram",
+      "não recebi o produto",
+      "pedido não chegou",
+      "entrega atrasada",
+      "atraso na entrega",
+      "não chegou"
+    ],
+    [
+      "propaganda enganosa",
+      "anúncio enganoso",
+      "preço errado",
+      "promoção falsa",
+      "oferta não cumprida"
+    ],
+    [
+      "cancelar assinatura",
+      "cancelar serviço",
+      "cancelar contrato",
+      "cancelar plano",
+      "multa de cancelamento",
+      "multa de fidelidade"
+    ],
+    [
+      "procon",
+      "reclamar",
+      "reclamação",
+      "reclame aqui",
+      "consumidor.gov.br",
+      "onde reclamar"
+    ],
+    [
+      "superendividamento",
+      "superendividado",
+      "dívidas demais",
+      "muitas dívidas",
+      "renegociar dívidas",
+      "não consigo pagar minhas dívidas",
+      "devendo muito"
+    ],
+    [
+      "cobrança abusiva",
+      "cobrança constrangedora",
+      "cobrança vexatória",
+      "ligações de cobrança",
+      "telemarketing",
+      "ligações insistentes",
+      "robô de cobrança",
+      "ameaça de cobrança"
+    ],
+    [
+      "voo atrasado",
+      "voo cancelado",
+      "avião atrasou",
+      "passagem aérea",
+      "companhia aérea",
+      "perdi o voo",
+      "overbooking"
+    ],
+    [
+      "internet lenta",
+      "internet fora do ar",
+      "sem sinal",
+      "operadora de celular",
+      "telefonia",
+      "tv por assinatura",
+      "wi-fi caiu"
+    ],
+    [
+      "dados pessoais",
+      "lgpd",
+      "meus dados",
+      "privacidade",
+      "vazamento de dados",
+      "usaram meu cpf"
+    ],
+    [
+      "conta invadida",
+      "conta hackeada",
+      "hacker",
+      "perfil invadido",
+      "whatsapp clonado",
+      "perfil clonado",
+      "roubaram minha conta",
+      "clonaram meu whatsapp"
+    ],
+    [
+      "foto íntima",
+      "nudes",
+      "vídeo íntimo",
+      "imagens íntimas",
+      "vazaram minhas fotos",
+      "pornografia de vingança",
+      "divulgaram minha foto"
+    ],
+    [
+      "escola",
+      "colégio",
+      "faculdade",
+      "universidade",
+      "creche",
+      "ensino"
+    ],
+    [
+      "mensalidade",
+      "mensalidade escolar",
+      "anuidade",
+      "taxa da escola",
+      "matrícula"
+    ],
+    [
+      "vaga na escola",
+      "sem vaga",
+      "vaga na creche",
+      "matrícula recusada",
+      "escola recusou"
+    ],
+    [
+      "deficiência",
+      "deficiente",
+      "pcd",
+      "pessoa com deficiência",
+      "cadeirante",
+      "necessidades especiais",
+      "autismo",
+      "tea"
+    ],
+    [
+      "acessibilidade",
+      "rampa",
+      "elevador",
+      "acesso para cadeirante",
+      "barreira"
+    ],
+    [
+      "cota de emprego",
+      "lei de cotas",
+      "vaga para pcd",
+      "contratar deficiente"
+    ],
+    [
+      "passe livre",
+      "viajar de graça",
+      "passagem gratuita",
+      "ônibus gratuito",
+      "gratuidade",
+      "transporte gratuito",
+      "ônibus de graça"
+    ],
+    [
+      "idoso",
+      "idosa",
+      "pessoa idosa",
+      "terceira idade",
+      "melhor idade",
+      "velhinho",
+      "pais idosos",
+      "maior de 60",
+      "maior de 65"
+    ],
+    [
+      "maus-tratos",
+      "maltratando",
+      "maltrato",
+      "abandono",
+      "abandonaram",
+      "negligência",
+      "violência contra idoso"
+    ],
+    [
+      "prioridade",
+      "fila preferencial",
+      "atendimento prioritário",
+      "preferência",
+      "fila de idoso"
+    ],
+    [
+      "violência doméstica",
+      "marido me bate",
+      "meu marido me agride",
+      "agressão",
+      "me bate",
+      "violência contra a mulher",
+      "maria da penha",
+      "companheiro me ameaça",
+      "ex me persegue"
+    ],
+    [
+      "medida protetiva",
+      "ordem de afastamento",
+      "afastamento do agressor",
+      "proibir aproximação",
+      "proteção da justiça"
+    ],
+    [
+      "assédio sexual",
+      "importunação sexual",
+      "passaram a mão",
+      "cantada insistente",
+      "chefe pede favor sexual",
+      "me tocaram",
+      "abuso sexual"
+    ],
+    [
+      "delegacia da mulher",
+      "denunciar",
+      "onde denunciar",
+      "abrigo",
+      "casa abrigo",
+      "preciso de ajuda"
+    ],
+    [
+      "pensão alimentícia",
+      "pensão dos filhos",
+      "pensão do filho",
+      "pagar pensão",
+      "pedir pensão",
+      "alimentos para filho"
+    ],
+    [
+      "guarda",
+      "guarda dos filhos",
+      "guarda compartilhada",
+      "com quem fica o filho",
+      "visitas ao filho",
+      "convivência com filhos"
+    ],
+    [
+      "divórcio",
+      "me separar",
+      "separação",
+      "fim do casamento",
+      "separar",
+      "divorciar"
+    ],
+    [
+      "união estável",
+      "moramos juntos",
+      "vivemos juntos",
+      "companheiro",
+      "companheira",
+      "amasiado",
+      "casamento sem papel"
+    ],
+    [
+      "certidão de nascimento",
+      "registro de nascimento",
+      "registrar filho",
+      "registro do bebê",
+      "registro civil",
+      "primeira certidão"
+    ],
+    [
+      "aluguel",
+      "alugar",
+      "locação",
+      "casa alugada",
+      "inquilino",
+      "locatário",
+      "moro de aluguel"
+    ],
+    [
+      "proprietário",
+      "dono do imóvel",
+      "locador",
+      "senhorio",
+      "imobiliária",
+      "dono da casa"
+    ],
+    [
+      "aumento do aluguel",
+      "reajuste do aluguel",
+      "aluguel subiu",
+      "igpm",
+      "igp-m",
+      "aluguel vai subir"
+    ],
+    [
+      "despejo",
+      "me tirar de casa",
+      "mandaram eu sair",
+      "desocupar o imóvel",
+      "notificação de despejo",
+      "ação de despejo",
+      "vão me tirar"
+    ],
+    [
+      "fiador",
+      "caução",
+      "depósito caução",
+      "seguro-fiança",
+      "garantia do aluguel",
+      "título de capitalização"
+    ],
+    [
+      "condomínio",
+      "síndico",
+      "taxa de condomínio",
+      "multa do condomínio",
+      "assembleia",
+      "vizinho barulhento",
+      "barulho"
+    ],
+    [
+      "vazamento",
+      "infiltração",
+      "goteira",
+      "mofo",
+      "reparo",
+      "conserto da casa"
+    ],
+    [
+      "imóvel na planta",
+      "distrato",
+      "apartamento na planta",
+      "construtora",
+      "incorporadora",
+      "atraso na obra",
+      "desistir do apartamento"
+    ],
+    [
+      "multa de trânsito",
+      "multa",
+      "radar",
+      "recorrer da multa",
+      "defesa da multa",
+      "notificação de multa",
+      "auto de infração"
+    ],
+    [
+      "cnh",
+      "carteira de motorista",
+      "habilitação",
+      "pontos na carteira",
+      "suspensão da cnh",
+      "perder a carteira"
+    ],
+    [
+      "acidente de carro",
+      "bati o carro",
+      "batida",
+      "colisão",
+      "acidente de trânsito",
+      "atropelamento"
+    ],
+    [
+      "vender carro",
+      "vendi o carro",
+      "comprar carro usado",
+      "transferência de veículo",
+      "dut",
+      "documento do carro",
+      "detran"
+    ],
+    [
+      "órgão público",
+      "prefeitura",
+      "governo",
+      "repartição",
+      "serviço público",
+      "ouvidoria"
+    ],
+    [
+      "acesso à informação",
+      "lei de acesso à informação",
+      "lai",
+      "pedir documento público",
+      "transparência",
+      "fala.br"
+    ],
+    [
+      "defensoria pública",
+      "defensor público",
+      "advogado de graça",
+      "advogado gratuito",
+      "não tenho dinheiro para advogado",
+      "justiça gratuita"
+    ],
+    [
+      "juizado especial",
+      "pequenas causas",
+      "processar",
+      "entrar na justiça",
+      "ação judicial",
+      "juizado"
+    ],
+    [
+      "acompanhante",
+      "alguém comigo",
+      "acompanhante no parto",
+      "acompanhante na internação"
+    ],
+    [
+      "urgência",
+      "emergência",
+      "pronto-socorro",
+      "pronto socorro",
+      "atendimento de urgência"
+    ],
+    [
+      "recall",
+      "produto perigoso",
+      "produto pegou fogo",
+      "chamado do fabricante",
+      "recolhimento de produto"
+    ],
+    [
+      "reajuste do plano",
+      "plano de saúde aumentou",
+      "mensalidade do plano subiu",
+      "aumento do convênio",
+      "aumento do plano"
+    ],
+    [
+      "plano cancelado",
+      "cancelaram meu plano",
+      "operadora cancelou",
+      "perdi o plano de saúde"
+    ],
+    [
+      "internet caiu",
+      "internet parou",
+      "sem internet",
+      "a internet não funciona",
+      "internet ruim",
+      "net caiu",
+      "caiu a internet",
+      "internet não volta"
+    ]
+  ]
+}

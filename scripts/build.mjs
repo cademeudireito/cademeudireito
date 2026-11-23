@@ -30,7 +30,7 @@ const pub = buildPublicContent(data, { includeDrafts });
 // Notas internas de revisão nunca vão ao site.
 pub.articles = pub.articles.map(({ reviewNotes, ...rest }) => ({ ...rest, legalReferences: rest.legalReferences.map(({ research, ...r }) => r) }));
 pub.guides = pub.guides.map(({ reviewNotes, ...rest }) => rest);
-const content = { includeDrafts, site: data.site, ...pub };
+const content = { includeDrafts, site: data.site, search: { groups: data.search.groups }, ...pub };
 await mkdir(path.join(OUT, 'data'), { recursive: true });
 await writeFile(path.join(OUT, 'data', 'content.json'), JSON.stringify(content));
 

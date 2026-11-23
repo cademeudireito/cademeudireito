@@ -21,15 +21,16 @@ async function readDir(dir) {
 }
 
 export async function loadAllData() {
-  const [categories, site, articles, guides, pages] = await Promise.all([
+  const [categories, site, articles, guides, pages, search] = await Promise.all([
     readJson(path.join(DATA, 'categories.json')),
     readJson(path.join(DATA, 'site.json')),
     readDir('articles'),
     readDir('guides'),
     readDir('pages'),
+    readJson(path.join(DATA, 'search.json')),
   ]);
   categories.sort((a, b) => a.order - b.order);
   articles.sort((a, b) => a.id.localeCompare(b.id));
   guides.sort((a, b) => a.id.localeCompare(b.id));
-  return { categories, site, articles, guides, pages };
+  return { categories, site, articles, guides, pages, search };
 }

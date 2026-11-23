@@ -28,7 +28,7 @@ export async function loadContent() {
     pages: data.pages,
     articleById: new Map(articles.map((a) => [a.id, a])),
     articleBySlug: new Map(articles.map((a) => [a.slug, a])),
-    index: buildIndex(articles, data.categories),
+    index: buildIndex(articles, data.categories, raw.search),
   };
   return store;
 }
