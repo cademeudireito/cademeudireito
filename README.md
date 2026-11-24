@@ -2,65 +2,48 @@
 
 > Seus direitos, sem juridiquês.
 
-Site estático e gratuito que explica direitos brasileiros do dia a dia em linguagem simples, com referências a fontes oficiais, busca local e orientadores interativos. Especificação completa em [`docs/`](docs/LEIAME-especificacao.md).
+Um site gratuito que explica, em linguagem simples, os direitos do dia a dia no Brasil: consumidor, trabalho, saúde, moradia, educação, previdência, trânsito, internet e outros temas. Cada assunto traz a norma de referência, a fonte oficial e os canais para buscar ajuda.
 
-## Estado atual
+## O que tem no site
 
-- 13 categorias, **93 assuntos publicados** e **13 guias (orientadores) publicados**.
-- O texto de cada assunto foi revisado a partir dos roteiros em [`docs/validacao/`](docs/validacao/), com os dispositivos conferidos no texto das normas (acervo `ctresb/leis` e páginas oficiais). Veja [`docs/CHANGELOG-DECISOES.md`](docs/CHANGELOG-DECISOES.md).
-- Por padrão o site mostra só conteúdo `published` (`draftVisibility: "hide"` em `src/data/site.json`). Rascunhos novos ficam escondidos até serem aprovados.
+- 13 áreas da vida, com 93 assuntos explicados.
+- 13 guias passo a passo para situações específicas.
+- Busca que aceita erros de digitação e jeitos diferentes de perguntar.
+- Números úteis de três dígitos e canais de órgãos federais, com link para o site oficial de cada um.
+- Funciona no celular e no computador, sem cadastro.
 
-- Publicado em https://plgluizguedes.github.io/cade-meu-direito/ (GitHub Pages, fluxo em `.github/workflows/pages.yml`). Para servir na raiz de outro domínio, use `BASE_PATH= npm run build`.
+## Aviso
 
-- **Busca:** tolerante a erros de digitação e a jeitos diferentes de dizer a mesma coisa. Para ensinar novas equivalências, edite `src/data/search.json`.
+O conteúdo é educativo. Ele explica direitos e indica caminhos, mas não substitui a orientação de um advogado ou de um órgão de defesa do cidadão.
 
-## Requisitos
+## Privacidade
 
-Node.js 20+ (sem dependências npm).
+O site não usa cookies, rastreadores, formulários, cadastro nem inteligência artificial. Todo o conteúdo fica no próprio site.
 
-## Comandos
+## Rodar localmente
 
-| Comando | O que faz |
-|---|---|
-| `npm run dev` | Servidor local em `localhost:5173`, conforme `draftVisibility`. `-- --strict` mostra só validados. |
-| `npm run validate` | Valida JSON, IDs, slugs, categorias, referências e guias. |
-| `npm test` | Testes do motor de guias, busca e regras de publicação. |
-| `npm run build` | Build em `dist/` conforme `draftVisibility`. |
-| `npm run build:strict` | Build em `dist-strict/` somente com conteúdo `published`. |
-| `npm run preview` | Serve `dist/` em `localhost:4173` (`-- --strict` para o estrito). |
-| `LEIS_DIR=... node scripts/pesquisa-leis.mjs` | Confere artigos citados no acervo [ctresb/leis](https://github.com/ctresb/leis) e gera `research/dossie/`. `--check` só confere. |
-| `npm run report` | Gera relatórios em `docs/relatorios/`. |
+Requisito: Node.js 20 ou superior. O projeto não usa dependências externas.
+
+```bash
+npm run dev        # servidor local com a versão em desenvolvimento
+npm test           # testes
+npm run validate   # confere o conteúdo
+npm run build      # gera a versão para publicar, em dist/
+```
+
+## Publicação
+
+O site é publicado com GitHub Pages. O fluxo está em `.github/workflows/pages.yml`: a cada envio para `main`, o conteúdo é validado, testado e publicado.
 
 ## Estrutura
 
 ```
-src/
-  index.html, main.js          shell e roteador
-  components/                  Header, Footer, SearchBar, cards, Breadcrumbs, QuickAnswer, LegalReference…
-  pages/                       Home, Encyclopedia, Category, Article, GuideIndex, Guide, StaticPage
-  services/                    content.js (regras e validação), search.js, guideEngine.js, router.js, contentLoader.js
-  data/                        categories.json, site.json, articles/, guides/, pages/
-  styles/                      tokens, global, layout, components, responsive
-scripts/                       build, dev, validate, report, pesquisa-leis
-research/                      normas.json (registro) e dossie/ (artigos citados, extraídos do acervo)
-tests/                         node:test
-public/                        favicon, robots, _headers
+src/        código do site e conteúdo (assuntos, guias, páginas e busca)
+scripts/    build, validação e servidor local
+tests/      testes automatizados
+public/     ícone, robots.txt e cabeçalhos de segurança
 ```
 
-## Como publicar um conteúdo
+## Encontrou um erro?
 
-1. Pesquise e confira a norma em fonte oficial (docs/04); o dossiê em `research/dossie/` ajuda, mas não valida.
-2. Preencha as referências: `officialUrl`, `status: "verified"`, `checkedAt`.
-3. Registre `lastReviewed`, `reviewStatus: "approved"` e mude `status` para `published`.
-4. `npm run validate` precisa passar; guias só podem ser publicados depois dos artigos que referenciam.
-
-## Deploy (Cloudflare Pages ou equivalente)
-
-- Build command: `npm run build` · Output directory: `dist` · Node 20+.
-- Defina `siteUrl` em `src/data/site.json` para gerar `sitemap.xml` e `canonical`.
-- O build gera um `index.html` por rota e `404.html`; `public/_headers` traz cabeçalhos de segurança.
-- Antes de publicar, siga o checklist de `docs/09-testes-aceite-e-implantacao.md` §9.
-
-## Privacidade e segurança
-
-Sem cookies, analytics, formulários, backend ou IA. Conteúdo JSON é sempre renderizado como texto (nunca HTML). CSP restritiva em `index.html`.
+Abra uma issue neste repositório.
