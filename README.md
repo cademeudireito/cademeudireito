@@ -1,6 +1,14 @@
-# Cadê Meu Direito?
+<p align="center">
+  <img src="assets/banner.svg" alt="Cadê Meu Direito? — Seus direitos, sem juridiquês" width="100%">
+</p>
 
-> Seus direitos, sem juridiquês.
+<p align="center">
+  <a href="https://cademeudireito.github.io/cademeudireito/"><strong>Acessar o site</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/cademeudireito/cademeudireito/actions/workflows/pages.yml"><img alt="Publicação" src="https://github.com/cademeudireito/cademeudireito/actions/workflows/pages.yml/badge.svg"></a>
+</p>
+
+# Cadê Meu Direito?
 
 Um site gratuito que explica, em linguagem simples, os direitos do dia a dia no Brasil: consumidor, trabalho, saúde, moradia, educação, previdência, trânsito, internet e outros temas. Cada assunto traz a norma de referência, a fonte oficial e os canais para buscar ajuda.
 

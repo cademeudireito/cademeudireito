@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <rect width="1280" height="640" fill="#f8f7f2"/>
+  <rect x="540" y="150" width="200" height="200" rx="48" fill="#187c72"/>
+  <text x="640" y="302" font-family="Nunito Sans, Arial, sans-serif" font-size="150" font-weight="800" text-anchor="middle" fill="#ffffff">?</text>
+  <circle cx="722" cy="158" r="22" fill="#f4c66a"/>
+  <text x="640" y="430" font-family="Nunito Sans, Arial, sans-serif" font-size="82" font-weight="800" text-anchor="middle" fill="#243747">Cadê Meu Direito?</text>
+  <text x="640" y="490" font-family="Nunito Sans, Arial, sans-serif" font-size="36" text-anchor="middle" fill="#566876">Seus direitos, sem juridiquês.</text>
+  <rect x="540" y="530" width="200" height="8" rx="4" fill="#e88c72"/>
+</svg>
