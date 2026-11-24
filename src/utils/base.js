@@ -1,4 +1,4 @@
-// Prefixo de caminho (ex.: "/cade-meu-direito" no GitHub Pages de projeto). Vem do <meta name="base-path">
+// Prefixo de caminho (ex.: "/cademeudireito" no GitHub Pages de projeto). Vem do <meta name="base-path">
 // que o build escreve em cada página; vazio quando o site é servido na raiz.
 const meta = typeof document !== 'undefined' ? document.querySelector('meta[name="base-path"]') : null;
 export const BASE = (meta?.content ?? '').replace(/\/+$/, '');
