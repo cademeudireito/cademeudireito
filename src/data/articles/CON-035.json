@@ -1,0 +1,74 @@
+{
+  "id": "CON-035",
+  "slug": "portabilidade-numero-celular",
+  "title": "Quero trocar de operadora e manter meu número de celular",
+  "category": "consumidor",
+  "summary": "Em geral, você pode trocar de operadora e manter o mesmo número. O pedido é feito na operadora nova, e as regras seguem a Anatel.",
+  "keywords": [
+    "portabilidade",
+    "número de celular",
+    "trocar de operadora",
+    "manter número",
+    "chip",
+    "operadora"
+  ],
+  "synonyms": [
+    "mudar de operadora sem trocar número",
+    "portabilidade demora quanto",
+    "operadora não libera meu número",
+    "como levar meu número para outra empresa",
+    "portabilidade de chip",
+    "mudar de chip sem perder o número",
+    "operadora cobra para fazer portabilidade"
+  ],
+  "quickAnswer": "Em geral, você pode trocar de operadora e manter o mesmo número. O pedido é feito na operadora nova, que organiza a transferência. O plano antigo não vai junto: você contrata um plano novo.",
+  "sections": {
+    "explanation": "A portabilidade é o direito de levar o seu número de telefone para outra operadora, sem perder o número. A transferência é pedida na operadora para a qual você vai. Ela não leva o plano antigo: você contrata um plano novo. Contas e obrigações que já existem na operadora antiga continuam existindo e devem ser conferidas antes da troca.",
+    "whenApplies": [
+      "Você quer mudar de operadora e continuar com o mesmo número de telefone."
+    ],
+    "exceptions": [
+      "As regras de telefone fixo e de celular podem ser diferentes. Confira as condições do seu tipo de serviço.",
+      "Se houver fatura em aberto ou outra pendência na operadora antiga, ela continua existindo depois da troca. Isso depende do seu contrato.",
+      "Cada caso é diferente: guarde provas de tudo."
+    ],
+    "steps": [
+      "Peça a portabilidade na operadora nova. Ela recebe o pedido e organiza a transferência.",
+      "Confirme seus dados e o número. Se a operadora pedir confirmação, siga as instruções que ela enviar.",
+      "Guarde o protocolo do pedido.",
+      "Acompanhe a transferência. Se ela não for concluída no prazo informado pela operadora, reclame com a nova operadora e guarde o protocolo.",
+      "Depois da transferência, confira se a linha está ativa na operadora nova e se a operadora antiga não está cobrando algo que você não contratou."
+    ],
+    "documentsToKeep": [
+      "Protocolo do pedido de portabilidade",
+      "Número que você quer manter e seus dados",
+      "Contrato ou fatura da operadora antiga",
+      "Prints e protocolos de conversas com as operadoras"
+    ],
+    "ifDenied": [
+      "Registre a reclamação na operadora e guarde o protocolo.",
+      "Registre a reclamação no Consumidor.gov.br, se a operadora participar.",
+      "Procure a Anatel pelos canais oficiais de atendimento. Confira o canal atual no site da agência.",
+      "Se houver prejuízo, procure o Procon ou a Defensoria Pública."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Norma da Anatel sobre portabilidade numérica (a identificar; a IA citou a Resolução Anatel 777/2025, ainda não confirmada)",
+      "sphere": "federal",
+      "provisions": [],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "A IA citou arts. 92 e 94 a 106 sobre portabilidade. Não foi possível abrir o texto oficial (página da Anatel não abriu). Um resumo secundário diz que a resolução trata de STFC e SCM e não cita portabilidade. Confirmar se a portabilidade móvel está nesta norma ou em outra."
+    }
+  ],
+  "relatedArticles": [
+    "CON-008",
+    "CON-014"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido em gov.br/anatel (telefonia fixa, portabilidade, aberto 2026-11-24): confirma o direito de levar o número para outra prestadora e cita migração em até 3 dias úteis, com base no Anexo à Resolução Anatel 73/1998, art. 49, I. Não vale para celular sem confirmação. Pendente, sem publicar: prazos para celular (2 h, 24 h, 2 dias úteis para cancelar), cobrança e confirmação por SMS, todos da IA ou de notícias não abertas. Resolução 777/2025 não conferida; Resolução 730/2020 não localizada. Nenhum prazo publicado neste rascunho.",
+  "status": "draft"
+}

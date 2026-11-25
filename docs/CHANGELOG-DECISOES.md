@@ -53,3 +53,22 @@ Conforme `docs/00-visao-geral-e-regras.md` §6 e `docs/10-plano-de-execucao-e-pr
 
 28. **Contatos sem telefone para órgãos com números que mudam (2026-11-24):** decisão do responsável. Em `categories.json`, ANS, Anatel, INSS e ANPD aparecem só com o link do site (`canal: "Site"`), sem telefone nem horário. Altera a decisão 26 nesses quatro órgãos. O telefone fica apenas nos números estáveis 180, 100, 188 e 136. Não alterados: a aba "Números úteis" (decisão 27), que segue com o 135 do INSS, e o SAMU 192 em Saúde, por ser serviço de emergência e não estar na lista de órgãos. Confirmar se o 192 entra na mesma regra.
 29. **Órgãos locais (2026-11-24):** confirmada a decisão 26. Procon, Detran, Defensoria, Ministério Público, Conselho Tutelar e delegacia da mulher ficam de fora da seção de contatos, sem link por estado. Só entram órgãos nacionais.
+
+30. **Consumidor: 21 rascunhos (2026-11-25).** Seleção de 22 assuntos aprovada pelo responsável, condicionada à conferência nas fontes oficiais. Gravados como `draft` (`reviewStatus: pending_review`), com IDs CON-021 a CON-042 na ordem aprovada (não na numeração das IAs). CON-036 (multa de fidelidade) não foi criado: sem base legal confirmada. Os rascunhos não aparecem no site público (`draftVisibility: "hide"`); o site segue com 93 assuntos publicados.
+    - **Fontes:** acervo `ctresb/leis` (texto das leis) e páginas oficiais quando abertas. Em parte da sessão, Planalto, ANAC e acórdãos do STJ não puderam ser abertos. Por isso muitas referências estão `pending_verification` e sem `officialUrl`.
+    - **Texto retirado sem fonte:** prazos que a IA deu e não foram confirmados (MED 80/7/96 h, prazos de bagagem, prazos de telefonia móvel, 5/10 dias úteis da ANEEL), jurisprudência não conferida (REsp 1.978.268, 2.164.130, 1.661.913; AREsp 3.226.209, 3.309.764), Res. BCB 518/2025, Res. Anatel 730/2020, multa de fidelidade e percentuais de multa.
+    - **Pendências antes de publicar:**
+      - CON-021: prazos do MED no Manual Operacional do DICT; Res. BCB 493/2025 lida só em cópia de terceiro.
+      - CON-025: situação atual do Tema 1264 do STJ.
+      - CON-027: REN ANEEL 1.000/2021 (PDF oficial não aberto).
+      - CON-028: dia exato da vigência da Lei 15.040/2024 (10 ou 11/12/2025).
+      - CON-029: Res. BCB 96/2021, art. 12, não localizada; Res. CMN 5.261/2025 não aberta.
+      - CON-032: Decreto 5.903/2006, arts. 1º e 2º.
+      - CON-033: Lei 13.455/2017 e Lei 10.962/2004, art. 5º-A, no Planalto.
+      - CON-035: norma da Anatel sobre portabilidade móvel não identificada.
+      - CON-037: conceito de "alteração relevante" e normas complementares do Ministério da Justiça (art. 23), não consultadas.
+      - CON-038 a CON-040: páginas do Planalto (CDC, Lei 11.771, Lei 11.795).
+      - CON-039: **não publicar** até conferir a Res. ANAC 400/2016, arts. 32 e 33.
+      - CON-041: texto da Súmula 130 lido no acervo; a página do STJ não exibiu o texto.
+      - CON-042: Planalto do CDC (art. 18, §1º e §2º lidos no acervo).
+31. **Busca e testes (2026-11-25):** 21 grupos novos em `search.json` (expressões já existentes não foram repetidas). Dois testes de conteúdo foram ajustados para aceitar rascunhos (`draft`/`pending_review`) fora do modo público; o modo estrito continua mostrando só os publicados. Os 75 testes passam.

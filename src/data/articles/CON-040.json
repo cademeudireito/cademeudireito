@@ -1,0 +1,95 @@
+{
+  "id": "CON-040",
+  "slug": "desistir-consorcio-devolucao",
+  "title": "Desisti do consórcio. Quando recebo o dinheiro de volta?",
+  "category": "consumidor",
+  "summary": "Se você quer sair de um consórcio, a devolução depende do momento da saída e das regras da lei e do contrato. Ela nem sempre é imediata.",
+  "keywords": [
+    "consórcio",
+    "desistir do consórcio",
+    "devolução de parcelas",
+    "administradora de consórcio",
+    "taxa de administração",
+    "encerramento do grupo",
+    "contemplação"
+  ],
+  "synonyms": [
+    "quero sair do consórcio",
+    "consórcio não devolve parcelas",
+    "cancelei o consórcio e não recebi",
+    "consórcio devolve quando",
+    "como cancelar consórcio de carro",
+    "multa para sair do consórcio",
+    "administradora não quer devolver meu dinheiro"
+  ],
+  "quickAnswer": "Se você contratou o consórcio fora da loja, como pela internet ou por telefone, pode desistir em até 7 dias e receber de volta o que pagou. Depois desse prazo, a devolução segue o contrato e a Lei 11.795/2008, e costuma depender do encerramento do grupo ou de um sorteio.",
+  "sections": {
+    "explanation": "No consórcio, um grupo de pessoas junta parcelas para comprar um bem ou serviço, por sorteio ou lance. Quem sai sem ter sido contemplado tem direito à restituição do que pagou ao fundo comum do grupo, calculada com base no percentual já amortizado do valor do bem na data da assembleia de contemplação, mais os rendimentos (Lei 11.795/2008, art. 30). A administradora pode cobrar a taxa de administração até o encerramento do grupo (art. 5º, § 3º).",
+    "whenApplies": [
+      "Você quer sair do consórcio e ainda não foi contemplado.",
+      "Você contratou o consórcio pela internet, por telefone ou em casa, e ainda não passaram 7 dias da assinatura ou do recebimento do contrato."
+    ],
+    "exceptions": [
+      "Se a contratação foi feita dentro da loja ou do escritório, o direito de desistir em 7 dias não vale. A devolução segue o contrato e a lei.",
+      "Se você já foi contemplado e recebeu a carta de crédito, a situação é outra. Não use este texto para esse caso.",
+      "Descontos e multas dependem do contrato e do caso concreto. Peça a justificativa por escrito."
+    ],
+    "steps": [
+      "Confira a data da assinatura do contrato e o lugar em que ele foi feito (dentro ou fora da loja).",
+      "Se ainda estiver nos 7 dias e a contratação foi fora da loja, peça a desistência por escrito e guarde o protocolo.",
+      "Se o prazo já passou, peça à administradora, por escrito, a planilha com o valor pago ao fundo comum, a taxa de administração e os descontos.",
+      "Pergunte quando o grupo deve ser encerrado e como funciona a devolução ou o sorteio para receber.",
+      "Se houver desconto ou multa que você não entende, peça a justificativa por escrito.",
+      "Se a administradora não responder, procure o Procon do seu estado."
+    ],
+    "documentsToKeep": [
+      "Contrato de participação no grupo e data da assinatura",
+      "Comprovantes de pagamento das parcelas",
+      "Protocolo do pedido de saída",
+      "Planilha ou extrato com os valores",
+      "E-mails e prints das conversas com a administradora"
+    ],
+    "ifDenied": [
+      "Registre reclamação no Procon do seu estado ou da sua cidade, com o contrato e o protocolo.",
+      "Se o valor for alto ou houver risco de perder prazo, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 49",
+        "art. 49, parágrafo único"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Texto conferido no acervo local. Página do Planalto não aberta (bloqueio)."
+    },
+    {
+      "name": "Lei nº 11.795/2008 — Sistema de Consórcios",
+      "sphere": "federal",
+      "provisions": [
+        "art. 5º, § 3º",
+        "art. 22",
+        "art. 30",
+        "art. 31",
+        "art. 32"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Texto conferido no acervo local (lei-11795-2008-10-08). Página do Planalto não aberta (bloqueio). Os prazos são: comunicação em 60 dias após a última assembleia (art. 31); encerramento em até 120 dias da última assembleia, com 30 dias mínimos após a comunicação (art. 32)."
+    }
+  ],
+  "relatedArticles": [
+    "CON-001",
+    "CON-017",
+    "CON-008"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido no acervo local: Lei 11.795/2008 arts. 5º § 3º, 22, 30, 31 e 32, e CDC art. 49 e parágrafo único. Páginas oficiais não abertas (bloqueio). A decisão AREsp 3.309.764/SP não foi conferida e não é citada; a IA dizia que a devolução ocorre em 30 dias após o encerramento, esse prazo não foi confirmado e não consta do texto.",
+  "status": "draft"
+}

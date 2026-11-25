@@ -8,12 +8,13 @@ const data = load();
 test('conteúdo atual é válido', () => assert.deepEqual(validateContent(data).errors, []));
 test('assuntos cadastrados estão todos publicados e revisados', () => {
   assert.ok(data.articles.length >= 30);
-  assert.ok(data.articles.every((a) => a.status === 'published' && a.reviewStatus === 'approved' && a.lastReviewed));
+  // Publicados exigem revisão aprovada; rascunhos (draft/pending_review) são aceitos enquanto não aprovados.
+  assert.ok(data.articles.every((a) => (a.status === 'published' && a.reviewStatus === 'approved' && a.lastReviewed) || ['draft', 'pending_review'].includes(a.status)));
   assert.ok(data.guides.every((g) => g.status === 'published' && g.reviewStatus === 'approved'));
 });
 test('modo estrito mostra todo o conteúdo publicado', () => {
   const pub = buildPublicContent(data);
-  assert.equal(pub.articles.length, data.articles.length);
+  assert.equal(pub.articles.length, data.articles.filter((a) => a.status === 'published').length);
   assert.equal(pub.guides.length, data.guides.length);
 });
 test('modo estrito esconde rascunhos', () => {

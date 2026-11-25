@@ -1,0 +1,105 @@
+{
+  "id": "CON-023",
+  "slug": "emprestimo-consignado-nao-contratei",
+  "title": "Apareceu um empréstimo consignado no meu benefício que eu não pedi",
+  "category": "consumidor",
+  "summary": "Se aparecem descontos de empréstimo no seu benefício do INSS e você não contratou, peça ao banco o contrato, conteste a operação e bloqueie o benefício para novos empréstimos.",
+  "keywords": [
+    "empréstimo consignado",
+    "consignado não contratado",
+    "aposentado",
+    "INSS",
+    "desconto no benefício",
+    "bloqueio do benefício"
+  ],
+  "synonyms": [
+    "empréstimo no meu INSS que não fiz",
+    "estão descontando empréstimo da aposentadoria",
+    "banco fez empréstimo sem autorização",
+    "desconto estranho no benefício",
+    "como cancelar consignado fraudado",
+    "apareceu cartão consignado que não pedi",
+    "roubaram minha aposentadoria com empréstimo"
+  ],
+  "quickAnswer": "Conteste o desconto junto ao banco e peça o contrato. Bloqueie o seu benefício para novos empréstimos pelo Meu INSS. Se o desconto foi indevido, a instituição deve enviar a exclusão e devolver o que foi descontado. Aja logo, porque cada desconto diminui o seu benefício.",
+  "sections": {
+    "explanation": "A lei permite descontar do benefício do INSS as parcelas de empréstimos e cartões previstos em contrato (Lei 10.820/2003, art. 6º). Quando alguém contrata em seu nome sem autorização, a operação é irregular. A instituição não pode enviar o desconto para uma contratação não autorizada, deve enviar a exclusão assim que constatar a irregularidade e deve devolver o que foi descontado indevidamente (Instrução Normativa PRES/INSS 138/2022).",
+    "whenApplies": [
+      "Você vê no seu benefício desconto de empréstimo ou cartão consignado que não reconhece.",
+      "Você recebeu dinheiro de um empréstimo que não pediu.",
+      "Você recebe aposentadoria ou pensão pelo INSS."
+    ],
+    "exceptions": [
+      "Se você fez o empréstimo, mesmo sem lembrar ou sem entender bem, a operação pode ser válida. Veja o contrato antes de contestar.",
+      "Este texto trata do consignado de benefício do INSS. Descontos em folha de servidores e de trabalhadores seguem regras próprias.",
+      "O caso concreto depende das provas de autorização, por isso guarde tudo."
+    ],
+    "steps": [
+      "Confira no Meu INSS quais empréstimos aparecem no seu benefício e qual instituição fez cada um.",
+      "Peça ao banco, por escrito, o contrato e a prova de autorização. Peça também o cancelamento da operação e o protocolo.",
+      "Bloqueie o benefício para novos empréstimos pelo app ou pelo site do Meu INSS (gov.br/meuinss). Se preferir, ligue para a Central 135.",
+      "Se o valor caiu na sua conta, avise o banco e pergunte como devolver. Não gaste esse dinheiro sem orientação.",
+      "Registre reclamação no Consumidor.gov.br.",
+      "Se o banco não resolver, reclame no Banco Central, pelo serviço de reclamação contra bancos."
+    ],
+    "documentsToKeep": [
+      "Prints do extrato de descontos e dos empréstimos no Meu INSS",
+      "Contrato ou pedido de empréstimo, se o banco apresentar",
+      "Protocolos de todas as conversas e pedidos",
+      "Comprovante do depósito, se houve"
+    ],
+    "ifDenied": [
+      "Peça por escrito a justificativa do banco e guarde a resposta.",
+      "Reclame no Consumidor.gov.br e no Banco Central.",
+      "Procure a Defensoria Pública ou um advogado, principalmente se o desconto continuar ou se o prejuízo for grande.",
+      "O Procon do seu estado também pode orientar."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 10.820/2003 (desconto de prestações em folha de benefícios do INSS)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º, caput"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/leis/2003/l10.820compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Caput com a expressão 'quando previstos em contrato'. Notas do Planalto indicam alteração pela Lei 14.431/2022."
+    },
+    {
+      "name": "Instrução Normativa PRES/INSS nº 138/2022 (versão alterada em 19/05/2026)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 8º, inciso III (bloqueio por solicitação do titular)",
+        "art. 34, inciso VI, alínea a, item 1 (exclusão do desconto assim que constatada a irregularidade)",
+        "art. 34, inciso VII (devolução do valor descontado indevidamente)",
+        "art. 35, inciso VIII (vedação de averbar contratação irregular)"
+      ],
+      "officialUrl": "https://www.gov.br/inss/pt-br/centrais-de-conteudo/legislacao/instrucao-normativa/2022/in138pres-inss-alterada19-5-2026.pdf/@@download/file",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Leitura de PDF com várias versões de alguns dispositivos. Conferir o texto consolidado antes de publicar. Art. 34, VII fala em 2 dias úteis, mas não ficou claro o evento que inicia a contagem: não publicar esse número."
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 14"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Caput do art. 14 conferido no Planalto."
+    }
+  ],
+  "relatedArticles": [
+    "CON-005",
+    "CON-011",
+    "CON-009"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido em 2026-11-24: Lei 10.820/2003, art. 6º (Planalto); IN PRES/INSS 138/2022 (gov.br, arts. 8º, 34 e 35); página gov.br de bloqueio do benefício (Meu INSS e Central 135). Pendente: página oficial 'Solicitar exclusão de empréstimo consignado' (bloqueada: não conferida, por isso não foi citada como canal); prazo de devolução (2 dias úteis sem evento definido). Descartados: 'devolução em dobro' e 'art. 27 do CDC' (Gemini).",
+  "status": "draft"
+}

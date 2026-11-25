@@ -1,0 +1,107 @@
+{
+  "id": "CON-021",
+  "slug": "golpe-do-pix-med",
+  "title": "Caí em um golpe de Pix. Posso pedir o dinheiro de volta?",
+  "category": "consumidor",
+  "summary": "Se você fez um Pix para um golpista, pode pedir ao seu banco a abertura do MED, o mecanismo do Banco Central para devolução em casos de fraude. A devolução não é garantida.",
+  "keywords": [
+    "golpe do pix",
+    "MED",
+    "mecanismo especial de devolução",
+    "fraude no pix",
+    "devolução de pix",
+    "Banco Central"
+  ],
+  "synonyms": [
+    "caí no golpe do pix",
+    "fiz pix pro golpista",
+    "como pegar pix de volta",
+    "banco não devolve pix",
+    "pix tem estorno",
+    "pedir med pix",
+    "dinheiro do pix golpe volta",
+    "pix roubado"
+  ],
+  "quickAnswer": "Se você caiu em golpe e fez um Pix, peça ao seu banco agora a abertura do MED, o mecanismo do Banco Central para pedir a devolução em casos de fraude. Quanto antes você agir, melhor. A devolução não é garantida: depende da fraude ser confirmada e de haver dinheiro disponível na conta de quem recebeu. O MED não serve para desistir de um pagamento nem para um Pix enviado a pessoa errada.",
+  "sections": {
+    "explanation": "O MED (Mecanismo Especial de Devolução) é um procedimento do Banco Central para tentar devolver um Pix feito por fraude. Quem pede é você, pelo banco ou pela instituição de pagamento que fez o Pix, e o pedido precisa ter suspeita de fraude. Segundo o guia do Banco Central, o pedido pode ser feito mesmo que você tenha digitado a senha ou usado biometria na transação.",
+    "whenApplies": [
+      "Você fez um Pix porque alguém se passou por loja, parente, banco ou central de atendimento.",
+      "Você foi enganado e fez a transferência por causa de uma fraude ou golpe.",
+      "Você percebeu o golpe logo e ainda está dentro do prazo que o Banco Central fixa para o pedido. Confirme esse prazo no canal do seu banco."
+    ],
+    "exceptions": [
+      "Pix enviado para a pessoa errada, por engano de digitação ou de chave, não é caso de MED, segundo o guia do Banco Central.",
+      "Arrependimento ou desistência de uma compra não entram no MED.",
+      "Problema com um produto ou serviço, como atraso ou entrega diferente do anunciado, também não é fraude para esse fim.",
+      "A devolução depende de haver saldo na conta de quem recebeu. Se o dinheiro já saiu, pode não voltar.",
+      "Se o banco não confirmar a fraude, ele pode negar o pedido."
+    ],
+    "steps": [
+      "Entre em contato com o banco ou a instituição de pagamento que fez o Pix, pelo aplicativo ou pelo canal oficial.",
+      "Diga que foi vítima de golpe e peça a abertura do MED. Peça o número do protocolo.",
+      "Guarde o comprovante do Pix, as conversas com o golpista, os dados de quem recebeu (chave, nome, banco) e o horário da transferência.",
+      "Se quiser, registre um boletim de ocorrência. Ele ajuda a comprovar a fraude.",
+      "Acompanhe o pedido pelo banco e guarde todas as respostas.",
+      "Se o banco não responder ou não agir, faça reclamação no Banco Central."
+    ],
+    "documentsToKeep": [
+      "Comprovante do Pix",
+      "Conversas, mensagens e prints do golpe",
+      "Dados de quem recebeu o Pix, se aparecerem no comprovante",
+      "Protocolos do banco e do boletim de ocorrência, se fizer"
+    ],
+    "ifDenied": [
+      "Peça por escrito o motivo da negativa e guarde a resposta.",
+      "Reclame no Banco Central, pelo serviço de reclamação contra bancos.",
+      "Registre reclamação no Consumidor.gov.br, se o banco participar da plataforma.",
+      "Procure o Procon do seu estado ou a Defensoria Pública, com os documentos em mãos. Em caso de prejuízo grande, procure um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Resolução BCB nº 1/2020 (Regulamento do Pix), alterada pela Resolução BCB nº 493/2025",
+      "sphere": "federal",
+      "provisions": [
+        "art. 78-N (incluído pela Resolução BCB nº 493/2025)",
+        "arts. 41-D e 41-E (alterados pela Resolução BCB nº 493/2025)"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": "2026-11-24",
+      "observacao": "Página oficial do BCB não abriu. Texto lido em cópia de terceiro (normasbrasil). Os prazos de 80 dias, 7 dias e 96 horas não constam do ato: remetidos ao Manual Operacional do DICT. Art. 41-B citado pela IA não aparece no ato alterador."
+    },
+    {
+      "name": "Guia de implementação dos procedimentos de devolução no Pix (Banco Central, versão 2.0)",
+      "sphere": "federal",
+      "provisions": [
+        "procedimento de notificação e devolução (pp. 13 a 17)",
+        "perguntas e respostas sobre o que não é coberto (p. 26)"
+      ],
+      "officialUrl": "https://bcb.gov.br/content/estabilidadefinanceira/pix/Guia%20MED%20-%20vers%C3%A3o%202.0.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Versão de 2023, não é norma. Confirmar se o Manual Operacional do DICT atual mantém os prazos. Não usar como base de prazo sem essa confirmação."
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 14"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Caput do art. 14 conferido no Planalto."
+    }
+  ],
+  "relatedArticles": [
+    "CON-011",
+    "CON-022",
+    "CON-018"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido em 2026-11-24: Guia MED v2.0 do BCB (PDF oficial, pp. 13-17 e 26) e art. 78-N via cópia de terceiro (normasbrasil; página oficial da Res. 493 bloqueada). Pendente: prazo do pedido (80 dias aparece no guia de 2023, mas notícias de 2026 falam em mudança de 30 para 80 dias; Manual do DICT não aberto), e prazos de análise (7 dias corridos no guia) e de devolução (72h + 24h no guia); por isso o texto não publica números.",
+  "status": "draft"
+}

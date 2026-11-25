@@ -1,0 +1,95 @@
+{
+  "id": "CON-038",
+  "slug": "pacote-viagem-cancelado-ou-alterado",
+  "title": "A agência cancelou meu pacote de viagem ou trocou o que contratei",
+  "category": "consumidor",
+  "summary": "Se a agência cancelou ou mudou um pacote de viagem que você comprou, você pode pedir o que foi prometido, um serviço equivalente ou a devolução do que pagou.",
+  "keywords": [
+    "pacote de viagem",
+    "agência de viagem",
+    "viagem cancelada",
+    "hotel trocado",
+    "roteiro alterado",
+    "devolução do pagamento",
+    "multa de cancelamento"
+  ],
+  "synonyms": [
+    "agência cancelou minha viagem",
+    "trocaram meu hotel sem avisar",
+    "agência mudou todo o roteiro",
+    "pacote turístico não foi cumprido",
+    "quero cancelar pacote de viagem",
+    "agência não quer devolver dinheiro da viagem",
+    "comprei viagem e mudaram tudo"
+  ],
+  "quickAnswer": "Em geral, se a agência não cumpre o pacote que vendeu, você pode escolher entre exigir o que foi prometido, aceitar um serviço equivalente ou cancelar e receber de volta o que pagou, com correção. Isso depende do contrato e do motivo da mudança.",
+  "sections": {
+    "explanation": "Um pacote junta, em um só preço, serviços como passagem, hotel e passeios. A oferta feita pela agência obriga quem a vendeu (CDC, art. 30). Se a agência recusa cumprir o que ofereceu, o art. 35 do CDC dá as três opções da resposta rápida, e você pode pedir também indenização por perdas e danos. A Lei Geral do Turismo limita a multa que a agência cobra por alteração ou cancelamento: ela não pode passar do valor total dos serviços reservados (Lei 11.771/2008, art. 27, § 8º).",
+    "whenApplies": [
+      "Você comprou um pacote com mais de um serviço, como passagem e hotel, e a agência cancelou a viagem.",
+      "A agência trocou o hotel, o roteiro ou outro serviço importante por algo diferente do que foi vendido, sem uma solução adequada."
+    ],
+    "exceptions": [
+      "Se você só comprou a passagem aérea, a situação pode ser outra. Isso depende de quem vendeu e do que foi contratado.",
+      "Se foi você que desistiu da viagem, valem as regras de cancelamento do contrato. Se a compra foi feita fora da loja ou pela internet, o prazo de 7 dias do CDC (art. 49) pode ajudar. Veja o artigo sobre desistir da compra.",
+      "Se a mudança foi causada por motivo de força maior ou por outra empresa, a análise depende do caso.",
+      "Não existe uma porcentagem única de multa para todo cancelamento. Veja o contrato e o caso concreto."
+    ],
+    "steps": [
+      "Guarde o anúncio, o contrato, o comprovante de pagamento e o roteiro prometido.",
+      "Peça à agência, por escrito, a explicação do cancelamento ou da mudança.",
+      "Compare o que foi contratado com a nova proposta, item por item.",
+      "Escolha o que quer: exigir o pacote original, aceitar um serviço equivalente ou cancelar e pedir a devolução.",
+      "Registre a reclamação com a agência e, se houver, com a empresa que organizou o pacote.",
+      "Se não resolver, procure o Procon do seu estado."
+    ],
+    "documentsToKeep": [
+      "Contrato, voucher ou confirmação da compra",
+      "Comprovante de pagamento",
+      "Anúncio, roteiro e prints da oferta",
+      "E-mails, protocolos e mensagens com a agência",
+      "Nova proposta da agência e gastos extras que você teve"
+    ],
+    "ifDenied": [
+      "Procure o Procon do seu estado ou da sua cidade e leve os documentos.",
+      "Se o prejuízo for alto ou houver risco de perder prazo, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º, III e VI",
+        "art. 14",
+        "art. 30",
+        "art. 35",
+        "art. 49"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Texto conferido no acervo local (lei-8078-1990-09-11, fonte normas.leg.br). Página do Planalto não foi aberta: bloqueio de acesso nesta sessão. Confirmar vigência na página oficial."
+    },
+    {
+      "name": "Lei nº 11.771/2008 — Lei Geral do Turismo (com alterações da Lei nº 14.978/2024)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 27, § 8º"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Lei 14.978/2024, art. 3º, altera a Lei 11.771 (confirmado no acervo local), e o § 8º foi acrescido por ela. Página do Planalto não aberta. A definição de pacote de viagem do art. 28, I, vale para transportadoras turísticas e não foi usada como definição geral."
+    }
+  ],
+  "relatedArticles": [
+    "CON-001",
+    "CON-006",
+    "CON-007"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido no acervo local: CDC arts. 6º III e VI, 14, 30, 35 e 49, e Lei 11.771 art. 27 § 8º com alteração pela Lei 14.978/2024. Páginas oficiais não abertas (bloqueio). A decisão AREsp 3.226.209/MS não foi conferida e não é citada; nenhuma porcentagem de multa foi criada.",
+  "status": "draft"
+}

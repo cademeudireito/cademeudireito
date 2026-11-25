@@ -1,0 +1,102 @@
+{
+  "id": "CON-032",
+  "slug": "preco-do-caixa-diferente-da-prateleira",
+  "title": "O preço no caixa é diferente da prateleira: qual devo pagar?",
+  "category": "consumidor",
+  "summary": "Quando os sistemas de preço da loja divergem para o mesmo produto, a lei manda cobrar o menor preço. Guarde a foto da etiqueta e a nota fiscal.",
+  "keywords": [
+    "preço diferente",
+    "prateleira e caixa",
+    "menor preço",
+    "etiqueta",
+    "divergência de preço",
+    "Lei 10.962"
+  ],
+  "synonyms": [
+    "preço da prateleira diferente do caixa",
+    "caixa cobrou mais caro",
+    "etiqueta com preço menor",
+    "supermercado não quer cobrar o preço anunciado",
+    "preço errado na gôndola",
+    "produto estava mais barato na prateleira",
+    "cobraram valor diferente da etiqueta",
+    "loja não quer devolver diferença do preço"
+  ],
+  "quickAnswer": "Em regra, você deve pagar o menor preço. Quando o preço do mesmo produto diverge entre os sistemas de informação da loja, a Lei 10.962/2004 manda o consumidor pagar o menor. Se já pagou a mais, peça a diferença de volta com a nota fiscal e a foto da etiqueta.",
+  "sections": {
+    "explanation": "A Lei 10.962/2004 (art. 5º) diz que, quando os sistemas de informação de preço usados pelo estabelecimento divergem para o mesmo produto, o consumidor paga o menor deles. O Código de Defesa do Consumidor reforça que as informações sobre preço devem ser corretas e claras (art. 31), e que a oferta obriga o fornecedor (art. 30). A regra vale para o mesmo produto, com preço identificado.",
+    "whenApplies": [
+      "O preço da etiqueta ou da prateleira é diferente do que o caixa cobrou pelo mesmo produto.",
+      "A loja usa mais de um sistema de preço e os valores não batem.",
+      "Você ainda está na loja ou já pagou e tem a nota e a prova do preço anunciado."
+    ],
+    "exceptions": [
+      "A regra vale para o mesmo produto. Se a etiqueta estiver claramente em outro produto, o caso pode ser diferente.",
+      "Não ter preço na etiqueta não quer dizer que o produto possa ser levado de graça.",
+      "Diferenças de preço por forma de pagamento, como Pix ou cartão, seguem outra regra. Veja o assunto próprio sobre esse tema.",
+      "Cada caso depende da prova da etiqueta e da relação entre a etiqueta e o produto."
+    ],
+    "steps": [
+      "Antes de pagar, tire foto da etiqueta ou do preço anunciado, junto com o produto.",
+      "Mostre a diferença ao caixa e peça a cobrança pelo menor preço.",
+      "Se a loja negar, peça o nome do gerente e registre a reclamação por escrito.",
+      "Se já pagou, guarde a nota fiscal e peça por escrito a devolução da diferença."
+    ],
+    "documentsToKeep": [
+      "Foto da etiqueta ou do preço anunciado",
+      "Nota fiscal ou cupom do caixa",
+      "Protocolo ou resposta por escrito da loja"
+    ],
+    "ifDenied": [
+      "Registre reclamação no Consumidor.gov.br ou no Procon do seu estado ou município.",
+      "Se a loja se recusar a cumprir a oferta, a lei permite que você escolha entre exigir o preço anunciado, aceitar outro produto equivalente ou desfazer a compra com a devolução do que pagou (Código de Defesa do Consumidor, art. 35).",
+      "Se o valor for relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 10.962/2004 — oferta e afixação de preços",
+      "sphere": "federal",
+      "provisions": [
+        "art. 5º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Art. 5º lido na página do Planalto, sem nota de alteração."
+    },
+    {
+      "name": "Decreto nº 5.903/2006 (regulamenta a Lei 10.962/2004 e o CDC na parte de preços)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º",
+        "art. 2º"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Ementa e vínculo com a Lei 10.962 conferidos na página da Câmara e no acervo local; texto dos arts. 1º e 2º lido só no acervo. Página oficial não abriu: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5903.htm"
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 30",
+        "art. 31",
+        "art. 35"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Textos lidos na página do Planalto."
+    }
+  ],
+  "relatedArticles": [
+    "CON-007",
+    "CON-010"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido: Lei 10.962/2004 art. 5º no Planalto (sem alteração); CDC arts. 30, 31 e 35 no Planalto. Pendente: Decreto 5.903/2006 arts. 1º e 2º (página oficial não abriu). A Anvisa citada pela IA não é o decreto: link removido. Art. 5º-A da Lei 10.962 (descontos por forma de pagamento) fica para o assunto de Pix e cartão. Canal Consumidor.gov.br não aberto nesta consulta.",
+  "status": "draft"
+}

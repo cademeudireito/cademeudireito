@@ -1,0 +1,83 @@
+{
+  "id": "CON-030",
+  "slug": "marketplace-vendedor-nao-resolveu",
+  "title": "Comprei em um marketplace e o vendedor não resolveu: a plataforma também responde?",
+  "category": "consumidor",
+  "summary": "Em alguns casos, a plataforma onde você comprou pode responder junto com o vendedor. Isso depende de como ela participou da venda, por isso guarde todas as provas.",
+  "keywords": [
+    "marketplace",
+    "vendedor de marketplace",
+    "plataforma responde",
+    "compra em site grande",
+    "responsabilidade solidária",
+    "vendedor terceiro"
+  ],
+  "synonyms": [
+    "comprei no marketplace e deu problema",
+    "vendedor do marketplace sumiu",
+    "marketplace não quer devolver dinheiro",
+    "plataforma não responde pela compra",
+    "comprei de terceiro na internet",
+    "loja dentro do marketplace não entrega",
+    "marketplace diz que não é responsável",
+    "vendedor não quer resolver compra online"
+  ],
+  "quickAnswer": "Em alguns casos, a plataforma também pode responder junto com o vendedor, sobretudo quando participa da venda: divulga o anúncio, cobra o pagamento ou oferece proteção ao comprador. Ela pode dizer que só aproxima as partes, e a resposta depende do caso. Guarde as provas e registre a reclamação pelo canal da compra.",
+  "sections": {
+    "explanation": "O Código de Defesa do Consumidor diz que, quando há mais de um responsável pelo mesmo dano, todos respondem solidariamente pela reparação (art. 25, § 1º). Além disso, o anúncio e a informação divulgada obrigam quem os veicula ou deles se utiliza (art. 30). Por isso, uma plataforma que participa da venda pode ser vista como parte da cadeia de consumo, mas não existe uma regra única para todos os casos.",
+    "whenApplies": [
+      "Você comprou de um vendedor que anuncia dentro de um marketplace, e o produto não chegou, veio diferente ou apresentou problema.",
+      "O vendedor não resolve, e a plataforma diz que só intermedeia a venda.",
+      "A compra e o pagamento foram feitos dentro do site ou aplicativo da plataforma."
+    ],
+    "exceptions": [
+      "Se a compra não foi feita pelo site ou aplicativo da plataforma, a situação pode ser diferente.",
+      "Se a plataforma apenas publica o anúncio e não participa do pagamento, da entrega ou da proteção ao comprador, a situação pode ser diferente.",
+      "Não há prazo único para todos os problemas de marketplace. Os prazos dependem do tipo de problema. Veja também o assunto sobre desistir de compra pela internet."
+    ],
+    "steps": [
+      "Salve o anúncio, o nome do vendedor e o número do pedido.",
+      "Guarde o comprovante de pagamento, a nota fiscal, quando houver, e as mensagens com o vendedor.",
+      "Registre a reclamação pelo canal da própria compra, no site ou aplicativo, e guarde o protocolo.",
+      "Peça por escrito uma solução ao vendedor e à plataforma. Diga o que você quer: entrega, troca ou devolução do dinheiro.",
+      "Se não resolver, registre a reclamação no Consumidor.gov.br, se a empresa estiver cadastrada, ou procure o Procon."
+    ],
+    "documentsToKeep": [
+      "Print ou página salva do anúncio",
+      "Comprovante de pagamento e número do pedido",
+      "Nota fiscal, se houver",
+      "Mensagens e protocolos da plataforma e do vendedor",
+      "Código de rastreio e comprovante de entrega, se houver"
+    ],
+    "ifDenied": [
+      "Procure o Procon do seu estado ou município e leve os documentos.",
+      "Se o valor justificar, procure o Juizado Especial Cível ou a Defensoria Pública.",
+      "Guarde todas as respostas por escrito. Elas ajudam a mostrar o que foi feito."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 3º, § 2º",
+        "art. 14",
+        "art. 25, § 1º",
+        "art. 30"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Textos lidos na página do Planalto (trechos conferidos)."
+    }
+  ],
+  "relatedArticles": [
+    "CON-001",
+    "CON-006",
+    "CON-007"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido no Planalto: CDC arts. 3º §2º, 14, 25 §1º e 30. Não confirmado: REsp 1.978.268/SP (IA, maio/2026) e REsp 2.164.130-SP (outra fonte). Nas buscas no STJ não localizei nenhum dos dois, por isso não citados, e o texto não diz que o STJ decidiu. Se a jurisprudência for incluída depois, conferir no site do STJ. Canal Consumidor.gov.br não aberto nesta consulta.",
+  "status": "draft"
+}

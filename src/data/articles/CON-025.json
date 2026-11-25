@@ -1,0 +1,105 @@
+{
+  "id": "CON-025",
+  "slug": "divida-com-mais-de-cinco-anos",
+  "title": "Minha dívida tem mais de cinco anos. Ainda podem me cobrar?",
+  "category": "consumidor",
+  "summary": "Algumas dívidas prescrevem em cinco anos, e depois disso a cobrança na Justiça pode ser barrada. A dívida não desaparece sozinha, e o prazo depende do tipo de dívida e do que aconteceu depois.",
+  "keywords": [
+    "prescrição",
+    "prazo de cobrança",
+    "cinco anos",
+    "Código Civil",
+    "cadastro negativo",
+    "dívida antiga"
+  ],
+  "synonyms": [
+    "dívida com mais de 5 anos pode cobrar",
+    "dívida caducou e ainda cobram",
+    "dívida ainda aparece no Serasa",
+    "dívida de 2018 ainda pode cobrar",
+    "dívida prescrita pode cobrar",
+    "dívida velha não sai do Serasa",
+    "oferta de acordo de dívida prescrita"
+  ],
+  "quickAnswer": "Depende do tipo de dívida. Para cobrar uma dívida líquida que consta de documento assinado, o Código Civil fixa o prazo de cinco anos. Se a dívida prescreveu, a cobrança na Justiça pode ser barrada. Mesmo assim, a dívida não some sozinha, e pagamentos, acordos ou reconhecimentos podem mudar a contagem.",
+  "sections": {
+    "explanation": "O Código Civil prevê cinco anos para a cobrança de dívidas líquidas constantes de instrumento público ou particular (art. 206, §5º, I). Quando não há prazo menor, o prazo geral é de dez anos (art. 205). Um ato que mostre que você reconhece a dívida pode interromper a contagem (art. 202, VI). Já o cadastro negativo tem outro limite: informações negativas não podem ficar por mais de cinco anos (Código de Defesa do Consumidor, art. 43, §1º). Esse limite não é o mesmo que o prazo de cobrança.",
+    "whenApplies": [
+      "A dívida tem prazo de cobrança de cinco anos, como a que consta de contrato ou nota assinada.",
+      "Você quer saber se a cobrança na Justiça ainda pode acontecer.",
+      "Você recebe oferta de acordo ou cobrança de uma dívida antiga."
+    ],
+    "exceptions": [
+      "Nem toda dívida prescreve em cinco anos. Outros tipos têm prazos próprios, e o prazo geral é de dez anos.",
+      "Pagamento parcial, acordo ou reconhecimento da dívida podem interromper ou reiniciar a contagem.",
+      "Se já existe processo judicial, a análise muda e precisa ser feita com um profissional.",
+      "Cobrar uma dívida prescrita fora da Justiça é um ponto sensível, e a resposta depende do caso."
+    ],
+    "steps": [
+      "Peça ao credor, por escrito, a identificação da dívida, o valor, a data de vencimento e a origem.",
+      "Verifique se já passaram cinco anos e se houve pagamento, acordo, reconhecimento da dívida ou processo na Justiça.",
+      "Confira se a dívida aparece em cadastro de inadimplentes ou apenas em uma plataforma de negociação.",
+      "Se houver negativação com informação anterior ao limite de cinco anos, peça a correção ou a retirada (CDC, art. 43, §1º).",
+      "Se tiver dúvida sobre o prazo, procure o Procon ou a Defensoria Pública."
+    ],
+    "documentsToKeep": [
+      "Contrato ou documento da dívida",
+      "Histórico de pagamentos e comprovantes",
+      "Cobranças, mensagens e ofertas de acordo recebidas",
+      "Print da negativação, se houver",
+      "Documentos de processo judicial, se houver"
+    ],
+    "ifDenied": [
+      "Responda por escrito, informando que acredita que a dívida prescreveu e indicando as datas. Guarde a resposta.",
+      "Reclame no Consumidor.gov.br e no Procon do seu estado.",
+      "Se já houver processo judicial, procure a Defensoria Pública ou um advogado, porque há prazos a cumprir."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 10.406/2002 — Código Civil",
+      "sphere": "federal",
+      "provisions": [
+        "art. 202, inciso VI",
+        "art. 205",
+        "art. 206, §5º, inciso I"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Textos lidos no Planalto, em versão compilada. Nos dispositivos lidos não aparecem notas de alteração. Confirmar vigência no site do Planalto antes de publicar."
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 43, §1º",
+        "art. 43, §5º"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Textos conferidos no Planalto. O §5º trata da prescrição de cobrança e das informações nos sistemas de proteção ao crédito."
+    },
+    {
+      "name": "Tema Repetitivo 1264 do Superior Tribunal de Justiça",
+      "sphere": "federal",
+      "provisions": [
+        "cobrança extrajudicial de dívida prescrita (questão afetada)"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": "2026-11-24",
+      "observacao": "Página oficial do STJ bloqueada na consulta. Não aparece nos boletins de precedentes 137, 141 e 144 consultados. Situação atual (afetado, em julgamento ou julgado) não confirmada."
+    }
+  ],
+  "relatedArticles": [
+    "CON-009",
+    "CON-024",
+    "CON-019"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido em 2026-11-24: Código Civil (arts. 202, VI; 205; 206, §5º, I) e CDC art. 43, §§1º e 5º (Planalto). Pendente: situação do Tema 1264 do STJ, que trata da cobrança extrajudicial de dívida prescrita. Sem confirmação, o texto não afirma tese sobre cobrança fora da Justiça. Antes de publicar, confirmar a situação no site do STJ.",
+  "status": "draft"
+}

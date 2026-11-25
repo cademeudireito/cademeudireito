@@ -1,0 +1,80 @@
+{
+  "id": "CON-034",
+  "slug": "carro-usado-com-defeito-garantia",
+  "title": "Comprei um carro usado com defeito. Ainda tenho garantia?",
+  "category": "consumidor",
+  "summary": "Se você comprou um carro usado de uma loja ou revendedora, a garantia legal vale. Para defeito aparente, você tem 90 dias para reclamar.",
+  "keywords": [
+    "carro usado",
+    "garantia legal",
+    "defeito no carro",
+    "revendedora",
+    "seminovo",
+    "prazo para reclamar",
+    "vício oculto"
+  ],
+  "synonyms": [
+    "comprei carro usado e deu problema",
+    "loja vendeu carro com defeito",
+    "carro usado tem garantia",
+    "loja só dá garantia de motor e câmbio",
+    "comprei carro e fundiu o motor",
+    "carro usado quebrou poucos dias depois",
+    "revenda não quer consertar meu carro"
+  ],
+  "quickAnswer": "Se a compra foi em uma loja ou revendedora que vende carros, a garantia legal vale mesmo sendo carro usado. Ela não se limita a motor e câmbio. Para defeito aparente, você tem 90 dias para reclamar. Se o defeito estava escondido, a contagem começa quando ele aparece.",
+  "sections": {
+    "explanation": "O Código de Defesa do Consumidor dá garantia legal para produtos duráveis, como carro, mesmo sem garantia escrita. Ela cobre defeitos que tornam o carro impróprio para o uso ou que diminuem o seu valor. Carro usado não é carro novo: o desgaste normal pela idade e pelo uso não é defeito. Em geral, a regra de consumo vale quando quem vende atua profissionalmente, como uma loja ou revendedora. Isso depende do defeito e do caso.",
+    "whenApplies": [
+      "Você comprou o carro usado de uma loja ou revendedora que vende veículos.",
+      "O defeito já existia na compra ou apareceu pouco depois, e não é desgaste normal pelo uso."
+    ],
+    "exceptions": [
+      "Desgaste natural compatível com a idade e o uso do carro não é defeito.",
+      "Venda ocasional entre duas pessoas físicas, sem atividade comercial, pode não ser uma relação de consumo. Nesse caso, outras regras podem valer.",
+      "Problema causado por mau uso ou falta de manutenção pode mudar a conclusão. Cada caso é diferente."
+    ],
+    "steps": [
+      "Avise a loja por escrito assim que descobrir o defeito. Use e-mail ou mensagem registrada, ou carta com protocolo.",
+      "Guarde o anúncio, a nota fiscal ou o contrato e as mensagens trocadas com a loja.",
+      "Leve o carro para avaliação e peça o diagnóstico da oficina por escrito, se possível.",
+      "Peça que a loja conserte o defeito. A loja tem, em regra, até 30 dias para resolver. Se não resolver nesse prazo, você pode escolher: outro carro da mesma espécie, devolução do dinheiro com correção ou abatimento proporcional do preço.",
+      "Guarde o protocolo da reclamação. Uma reclamação feita por escrito impede que o prazo de 90 dias se encerre até a loja dar uma resposta negativa, clara e inequívoca."
+    ],
+    "documentsToKeep": [
+      "Anúncio, nota fiscal ou contrato de compra",
+      "Mensagens, e-mails e protocolos com a loja",
+      "Laudo ou orçamento da oficina",
+      "Fotos ou vídeos do defeito, com data"
+    ],
+    "ifDenied": [
+      "Procure o Procon do seu estado ou município e leve os documentos.",
+      "Registre a reclamação no Consumidor.gov.br, se a loja participar.",
+      "Se o defeito for grave ou o prejuízo for alto, procure a Defensoria Pública ou um advogado. Não espere o último dia do prazo."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 18, caput e § 1º",
+        "art. 24",
+        "art. 26, I e II, §§ 1º, 2º, I, e 3º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Conferidos na página do Planalto: art. 18 (caput), art. 24, art. 26 (I, II, §§ 1º, 2º, I e 3º). O § 1º do art. 18 (prazo de 30 dias e incisos I a III) foi lido só no acervo local; conferir na página oficial."
+    }
+  ],
+  "relatedArticles": [
+    "CON-002",
+    "CON-003",
+    "CON-004"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido no Planalto (2026-11-24): CDC arts. 18 (caput), 24 e 26 (I, II, §§ 1º, 2º, I e 3º). Não citado: REsp 1.661.913/MG, indicado pela IA; a página do STJ não abriu, então o número e a tese não foram confirmados. Pendente: entendimento do STJ sobre veículo usado vendido por revendedora, e o limite entre venda profissional e venda entre pessoas físicas.",
+  "status": "draft"
+}

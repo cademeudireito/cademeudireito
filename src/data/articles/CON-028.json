@@ -1,0 +1,97 @@
+{
+  "id": "CON-028",
+  "slug": "seguro-negou-pagamento",
+  "title": "O seguro negou o pagamento: o que você pode fazer",
+  "category": "consumidor",
+  "summary": "A seguradora deve dizer por escrito, com motivo, se nega a cobertura, e tem prazos para decidir e pagar. Reúna as provas, peça a negativa formal e reclame se a recusa não tiver base.",
+  "keywords": [
+    "seguro negado",
+    "seguradora negou pagamento",
+    "sinistro",
+    "indenização de seguro",
+    "Lei 15.040",
+    "SUSEP"
+  ],
+  "synonyms": [
+    "seguro não quer pagar",
+    "seguradora negou meu sinistro",
+    "bateram no meu carro e seguro não paga",
+    "seguro não quer indenizar",
+    "seguradora recusou cobertura",
+    "seguro negou pagamento sem explicar",
+    "como reclamar de seguro"
+  ],
+  "quickAnswer": "A recusa da seguradora precisa ser expressa e motivada, e a lei fixa prazos para ela decidir e pagar. Peça a negativa por escrito, leia a apólice e guarde as provas. Se a recusa não tiver base, reclame. O caso depende do tipo de seguro e do contrato.",
+  "sections": {
+    "explanation": "A Lei 15.040/2024, o Marco Legal dos Seguros, passou a valer em dezembro de 2025 e trouxe regras para o seguro privado. A seguradora tem prazo máximo de 30 dias, contados do pedido com os documentos necessários, para se manifestar sobre a cobertura, e mais 30 dias para pagar se reconhecer a cobertura. A recusa deve ser expressa e motivada, e os riscos e interesses excluídos precisam estar descritos de forma clara e inequívoca.",
+    "whenApplies": [
+      "Você tem um seguro (carro, celular, residência, vida ou outro) e pediu o pagamento de um evento que acredita estar coberto.",
+      "A seguradora recusou o pedido ou ainda não respondeu dentro do prazo.",
+      "O caso envolve um contrato de seguro privado. Plano de saúde segue outra regulação e não entra aqui."
+    ],
+    "exceptions": [
+      "Nem todo evento está coberto. A análise depende do tipo de seguro, dos riscos contratados e das exclusões válidas.",
+      "A lei é nova: contratos e sinistros anteriores à vigência podem seguir regras antigas. Isso exige análise do caso.",
+      "A seguradora pode pedir documentos complementares e suspender o prazo, dentro dos limites da lei."
+    ],
+    "steps": [
+      "Leia a apólice, o certificado e as condições do seguro, incluindo as exclusões.",
+      "Peça à seguradora a recusa por escrito, com o motivo e a cláusula usada.",
+      "Confira se você entregou todos os documentos. Se a seguradora pedir documentos complementares, responda por escrito e guarde o protocolo.",
+      "Se o motivo não estiver claro, peça nova análise por escrito. Um pedido de reconsideração também fica registrado.",
+      "Registre reclamação no Consumidor.gov.br, canal que a SUSEP indica para empresas que ela supervisiona.",
+      "Prazo para ir à Justiça: em regra, 1 ano, contado da data em que você recebeu a recusa expressa e motivada (Lei 15.040/2024, art. 126, II). Um pedido de reconsideração suspende esse prazo uma única vez, até a seguradora comunicar a decisão final (art. 127). Isso depende do caso: procure orientação antes do fim do prazo."
+    ],
+    "documentsToKeep": [
+      "Apólice, certificado e condições gerais do seguro",
+      "Comprovantes de pagamento das parcelas",
+      "Documentos do evento, quando houver (por exemplo, boletim de ocorrência)",
+      "Protocolos de envio dos documentos e a recusa por escrito",
+      "Conversas e e-mails com a seguradora"
+    ],
+    "ifDenied": [
+      "Registre reclamação no Consumidor.gov.br, canal indicado pela SUSEP para reclamações de empresas que ela supervisiona.",
+      "Procure o Procon ou o Juizado Especial Cível, levando o contrato, as provas e a recusa por escrito.",
+      "Se o prazo de 1 ano estiver correndo, não espere: procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 15.040/2024 — Marco Legal dos Seguros",
+      "sphere": "federal",
+      "provisions": [
+        "art. 9º, § 1º",
+        "art. 86, caput e § 3º",
+        "art. 87, caput",
+        "art. 126, II",
+        "art. 127",
+        "art. 134 (vigência)"
+      ],
+      "officialUrl": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-15040-9-dezembro-2024-796661-publicacaooriginal-173706-pl.html",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Texto na publicação original (Câmara dos Deputados). Publicada no DOU de 10/12/2024; vigência um ano depois (art. 134). Dia exato (10 ou 11/12/2025) a fixar. Página do Planalto não abriu."
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 3º, § 2º",
+        "art. 14"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Lidos na página do Planalto (trechos conferidos)."
+    }
+  ],
+  "relatedArticles": [
+    "CON-005",
+    "CON-010",
+    "CON-012"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido: Lei 15.040/2024 (arts. 9º §1º, 86 caput e §3º, 87 caput, 126 II, 127 e 134) na publicação original da Câmara; CDC arts. 3º §2º e 14 no Planalto; canal Consumidor.gov.br na página da SUSEP https://www.gov.br/susep/pt-br/fale-conosco/reclamar-de-uma-empresa-supervisionada-pela-susep (aberta). Pendente: dia exato da vigência (IA disse 11/12/2025; página do Senado indica 10/12/2025 para as revogações). Pendente: Planalto da lei (não abriu); Circular SUSEP 643/2021 não lida. Plano de saúde fora do escopo.",
+  "status": "draft"
+}

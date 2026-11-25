@@ -1,0 +1,91 @@
+{
+  "id": "CON-027",
+  "slug": "conta-de-luz-muito-alta",
+  "title": "Minha conta de luz veio muito mais cara: posso pedir revisão?",
+  "category": "consumidor",
+  "summary": "Você pode pedir à distribuidora de energia que confira a leitura e o cálculo da conta. Uma conta alta nem sempre é erro, por isso vale verificar antes de contestar.",
+  "keywords": [
+    "conta de luz alta",
+    "revisão da conta de energia",
+    "distribuidora de energia",
+    "leitura do medidor",
+    "cobrança de energia",
+    "ANEEL"
+  ],
+  "synonyms": [
+    "conta de luz veio absurda",
+    "luz veio muito cara",
+    "conta de energia alta demais",
+    "como contestar conta de luz",
+    "relógio de luz marcando errado",
+    "estão cobrando luz que não gastei",
+    "conta de luz veio o dobro",
+    "conta de energia errada"
+  ],
+  "quickAnswer": "Você pode pedir à distribuidora de energia que confira a leitura, o consumo e o cálculo da conta, e pedir a revisão por escrito. Uma conta alta nem sempre é erro: o consumo pode ter aumentado ou a conta pode ter sido estimada. Guarde o protocolo do pedido.",
+  "sections": {
+    "explanation": "Energia elétrica é serviço público, e a empresa deve prestá-lo de forma adequada e eficiente (Código de Defesa do Consumidor, art. 22). Se a conta veio muito acima do normal, você pode questionar a leitura, o consumo registrado e o cálculo, e pedir uma revisão formal. Um pedido por escrito, com protocolo, facilita recorrer à ANEEL depois.",
+    "whenApplies": [
+      "A conta de energia elétrica veio muito mais alta do que o normal, sem mudança aparente no seu consumo.",
+      "Você suspeita de erro na leitura do relógio (medidor), de cobrança por estimativa ou de cálculo errado.",
+      "Você quer contestar a conta de energia. Água e esgoto seguem outras regras."
+    ],
+    "exceptions": [
+      "Conta alta nem sempre é erro: o consumo pode ter aumentado, o período de leitura pode ter sido maior ou a conta pode ter sido estimada.",
+      "Cada caso depende da leitura, do histórico de consumo e do resultado de eventual verificação do medidor.",
+      "Para água e esgoto, as regras dependem da agência reguladora da sua cidade ou estado."
+    ],
+    "steps": [
+      "Compare o consumo em kWh desta conta com as contas anteriores.",
+      "Confira a leitura indicada na fatura e, se possível, fotografe o medidor com a data.",
+      "Veja se a conta foi feita com leitura real ou com estimativa.",
+      "Peça a revisão da conta à distribuidora pelo aplicativo, site ou atendimento. Peça protocolo e resposta por escrito.",
+      "Se houver suspeita de defeito no medidor, peça também a inspeção do medidor.",
+      "Se a resposta não resolver, procure a ouvidoria da distribuidora."
+    ],
+    "documentsToKeep": [
+      "Conta atual e contas dos últimos meses",
+      "Foto do medidor, com a data",
+      "Protocolo do pedido de revisão e as respostas por escrito",
+      "Comprovantes de pagamento"
+    ],
+    "ifDenied": [
+      "Registre reclamação no Consumidor.gov.br.",
+      "Se a distribuidora não resolver, registre reclamação na ANEEL.",
+      "Procure o Procon do seu estado ou a Defensoria Pública se precisar de orientação."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º, III",
+        "art. 22"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Texto de ambos os dispositivos lido na página do Planalto."
+    },
+    {
+      "name": "Resolução Normativa ANEEL nº 1.000/2021",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 252 a 255, 323, 325, 408, 421 e 423 (a conferir)"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "PDF oficial da ANEEL (ren20211000.pdf) não abriu nesta consulta. Prazos de resposta da distribuidora não confirmados, por isso não constam do texto."
+    }
+  ],
+  "relatedArticles": [
+    "CON-010",
+    "CON-012"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido: CDC arts. 6º, III e 22 no Planalto; canais na página da ANEEL https://www.gov.br/aneel/pt-br/consumidores/como-registrar-reclamacao (aberta). Pendente: REN ANEEL 1.000/2021 (PDF oficial bloqueado): artigos citados pela IA não lidos, e os prazos de 5/10 dias úteis e de 15 dias para verificação do medidor foram retirados do texto por não confirmados. Menção a corte removida.",
+  "status": "draft"
+}

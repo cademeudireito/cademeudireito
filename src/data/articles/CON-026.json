@@ -1,0 +1,100 @@
+{
+  "id": "CON-026",
+  "slug": "score-baixo-ou-com-erro",
+  "title": "Meu score está baixo ou tem informação errada. O que faço?",
+  "category": "consumidor",
+  "summary": "Você pode consultar sua pontuação e o histórico de graça, pedir a correção de dados errados e conhecer os principais critérios da análise. Score baixo, sozinho, não prova que houve erro.",
+  "keywords": [
+    "score de crédito",
+    "pontuação de crédito",
+    "cadastro positivo",
+    "correção de dados",
+    "impugnação",
+    "Lei 12.414"
+  ],
+  "synonyms": [
+    "score baixo como aumentar",
+    "meu score caiu do nada",
+    "como descobrir por que meu score caiu",
+    "score não sobe mesmo pagando tudo",
+    "Serasa score errado",
+    "limpar score"
+  ],
+  "quickAnswer": "Você pode consultar sua pontuação e o histórico de graça, sem precisar justificar o pedido. Se algum dado estiver errado, peça a correção ao gestor do cadastro e à empresa que enviou a informação. Ninguém é obrigado a aumentar sua pontuação nem a aprovar crédito só por causa disso.",
+  "sections": {
+    "explanation": "O cadastro positivo reúne informações de pagamentos e gera uma nota ou pontuação de crédito. A Lei 12.414/2011 garante acesso gratuito às informações, ao histórico e à pontuação, e o direito de conhecer os principais critérios da análise, sem prejudicar o segredo empresarial (art. 5º, II e IV). Se houver informação errada, você pode pedir a impugnação, e o gestor tem até 10 dias para corrigir ou cancelar a informação em todos os bancos de dados que a receberam (art. 5º, III).",
+    "whenApplies": [
+      "Sua pontuação caiu ou está baixa e você não sabe por quê.",
+      "Você acha que alguma dívida ou pagamento está registrado de forma errada.",
+      "Você teve crédito negado e quer entender o motivo."
+    ],
+    "exceptions": [
+      "Score baixo não é o mesmo que nome negativado, e não prova erro. Cada gestor calcula a pontuação com critérios próprios.",
+      "Você não tem direito a uma pontuação mínima nem a crédito aprovado.",
+      "Você tem direito a conhecer os principais critérios, mas não necessariamente todos os detalhes internos do cálculo."
+    ],
+    "steps": [
+      "Consulte sua pontuação e seu histórico no gestor do cadastro, pelo site, aplicativo ou telefone. A consulta é gratuita.",
+      "Confira se pagamentos, dívidas e dados pessoais estão corretos.",
+      "Se achar erro, peça por escrito a correção ou o cancelamento ao gestor do cadastro. Peça protocolo.",
+      "Se o erro veio de um banco ou de outra empresa, peça também a essa empresa que corrija a informação. Quando o pedido é feito diretamente a quem enviou o dado, a lei fixa o prazo de dois dias úteis para verificar (Lei 12.414, art. 8º, III).",
+      "Se a negativa de crédito foi feita só por sistema automático, peça a revisão da decisão (Lei 12.414, art. 5º, VI).",
+      "Se não resolver, reclame no Consumidor.gov.br."
+    ],
+    "documentsToKeep": [
+      "Print ou relatório da pontuação, com a data",
+      "Comprovantes de pagamento que aparecem errados no cadastro",
+      "Protocolos dos pedidos de correção",
+      "Respostas da empresa, se houver"
+    ],
+    "ifDenied": [
+      "Peça por escrito a justificativa e guarde a resposta.",
+      "Reclame no Consumidor.gov.br e no Procon do seu estado.",
+      "Se o erro causou prejuízo, como negativa de crédito, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 12.414/2011 (Cadastro Positivo)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 5º, incisos II, III, IV e VI",
+        "art. 8º, incisos III e IV"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Incisos II, III e §6º do art. 5º e incisos III e IV do art. 8º conferidos no Planalto. Art. 5º, IV lido no acervo local, não na página do Planalto. Prazos: 10 dias no art. 5º, III (sem indicação de dias úteis) e 2 dias úteis no art. 8º, III."
+    },
+    {
+      "name": "Lei Complementar nº 166/2019",
+      "sphere": "federal",
+      "provisions": [
+        "alterações à Lei 12.414/2011, art. 5º, incisos II e III, e art. 8º, inciso IV"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp166.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Elevou para 10 dias os prazos antes fixados em 7 dias para correção. Vigência de 91 dias após a publicação, conforme o art. 7º, II (cerca de julho de 2019)."
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 43, §3º"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Texto do §3º conferido no Planalto: correção imediata e prazo de cinco dias úteis para o arquivista comunicar a alteração."
+    }
+  ],
+  "relatedArticles": [
+    "CON-009",
+    "CON-024"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido em 2026-11-24: Lei 12.414/2011 (arts. 5º e 8º), LC 166/2019 (Planalto) e CDC art. 43, §3º. Corrigido: os 10 dias do art. 5º, III não são 'úteis' no texto; o prazo de 2 dias úteis é do art. 8º, III (fonte da informação), e não do Banco Central. Página do BCB sobre o Cadastro Positivo não foi aberta, por isso não é citada como canal.",
+  "status": "draft"
+}

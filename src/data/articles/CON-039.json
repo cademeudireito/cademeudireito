@@ -1,0 +1,90 @@
+{
+  "id": "CON-039",
+  "slug": "bagagem-extraviada-ou-danificada-no-voo",
+  "title": "Minha mala sumiu, chegou quebrada ou foi aberta no voo",
+  "category": "consumidor",
+  "summary": "Se a companhia aérea perdeu, atrasou, danificou ou abriu sua bagagem despachada, avise a empresa logo e registre o problema por escrito.",
+  "keywords": [
+    "bagagem extraviada",
+    "mala extraviada",
+    "bagagem danificada",
+    "companhia aérea",
+    "bagagem despachada",
+    "indenização de bagagem"
+  ],
+  "synonyms": [
+    "companhia aérea perdeu minha mala",
+    "mala não chegou no voo",
+    "mala veio quebrada do avião",
+    "abriram minha mala no voo",
+    "sumiu coisa de dentro da mala",
+    "empresa aérea não quer pagar mala",
+    "quanto tempo a companhia tem para devolver a mala"
+  ],
+  "quickAnswer": "Avise a companhia logo que notar o problema e peça o registro por escrito. Guarde o cartão de embarque e o comprovante de despacho. A companhia responde pelo prejuízo na bagagem despachada, e as regras de prazo e de valor dependem da norma da ANAC e do caso.",
+  "sections": {
+    "explanation": "A companhia aérea presta um serviço de transporte, e responde pelas falhas desse serviço, inclusive pela bagagem despachada que sob sua guarda sofreu perda, atraso, dano ou violação (CDC, art. 14). As regras específicas sobre perda, devolução, avaria e violação de bagagem estão na Resolução ANAC nº 400/2016. Por isso, o que você deve fazer depende do tipo de problema e do tipo de voo.",
+    "whenApplies": [
+      "A mala despachada não apareceu na esteira ao chegar ao destino.",
+      "A mala chegou quebrada, aberta ou com objetos faltando dentro dela."
+    ],
+    "exceptions": [
+      "Bagagem de mão tem regras próprias e não é tratada aqui.",
+      "Em voo internacional, as regras podem depender de tratados internacionais. Veja o caso com cuidado.",
+      "Se o problema foi causado por você, por exemplo por embalagem inadequada, a análise muda. Isso depende das provas."
+    ],
+    "steps": [
+      "Antes de sair do aeroporto, procure o balcão da companhia e avise que a bagagem não chegou, chegou danificada ou foi aberta.",
+      "Peça o registro por escrito e o número do protocolo.",
+      "Fotografe a mala, os danos e a etiqueta, e faça uma lista do que está faltando dentro dela.",
+      "Se precisou comprar itens essenciais por causa da demora, guarde as notas.",
+      "Se a companhia não resolver, registre reclamação e procure o Procon do seu estado."
+    ],
+    "documentsToKeep": [
+      "Cartão de embarque e comprovante de despacho da bagagem",
+      "Etiqueta da bagagem e protocolo do registro",
+      "Fotos dos danos e lista dos objetos perdidos ou faltando",
+      "Notas dos gastos necessários enquanto esteve sem a bagagem",
+      "E-mails e mensagens com a companhia"
+    ],
+    "ifDenied": [
+      "Registre reclamação na companhia e, sem solução, procure o Procon do seu estado.",
+      "Se o prejuízo for alto, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Resolução ANAC nº 400/2016 — Condições Gerais de Transporte Aéreo",
+      "sphere": "federal",
+      "provisions": [
+        "art. 32",
+        "art. 33"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Não está no acervo local e a página da ANAC não abriu (bloqueio). Arts. 32 e 33 e os prazos sugeridos pela IA não foram conferidos; não publicar números de prazo antes da conferência. Resolução 813/2026 (acervo, DOU 25/09/2026) altera os arts. 20 a 27 da 400, não os arts. 32 e 33, e entra em vigor em 26/10/2026 segundo o texto. Resolução 819/2026 não está no acervo e não foi conferida."
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º, VI",
+        "art. 14"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Texto conferido no acervo local. Página do Planalto não aberta (bloqueio)."
+    }
+  ],
+  "relatedArticles": [
+    "CON-013",
+    "CON-006",
+    "CON-012"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Não conferido: arts. 32 e 33 da Resolução ANAC 400/2016 e todos os prazos sugeridos pela IA (7, 21 e 7 dias); o texto não está no acervo e a página da ANAC não abriu. Recomendação: não publicar até conferir a 400 na ANAC. A Resolução 813/2026 existe no acervo e não altera os arts. 32-33, mas entra em vigor em 26/10/2026 (a IA disse 25/11/2026); a 819/2026 não foi encontrada no acervo.",
+  "status": "draft"
+}

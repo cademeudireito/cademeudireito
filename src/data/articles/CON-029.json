@@ -1,0 +1,90 @@
+{
+  "id": "CON-029",
+  "slug": "banco-encerrou-minha-conta",
+  "title": "O banco fechou minha conta: o que ele deve fazer",
+  "category": "consumidor",
+  "summary": "Em geral, o banco precisa avisar antes de encerrar uma conta, informar a data do encerramento e dar destino ao saldo que sobrou. As regras mudam conforme o tipo de conta, por isso confira qual é a sua.",
+  "keywords": [
+    "conta encerrada",
+    "banco fechou conta",
+    "saldo da conta encerrada",
+    "encerramento de conta",
+    "conta de depósito",
+    "conta de pagamento"
+  ],
+  "synonyms": [
+    "banco fechou minha conta do nada",
+    "encerraram minha conta sem avisar",
+    "banco bloqueou e fechou minha conta",
+    "fecharam minha conta e ficou dinheiro",
+    "banco não devolve saldo da conta encerrada",
+    "conta digital encerrada sem explicação",
+    "banco pode cancelar conta sem autorização",
+    "como recuperar dinheiro de conta fechada"
+  ],
+  "quickAnswer": "O banco pode encerrar uma conta, mas deve seguir as regras do Banco Central: comunicar o encerramento, informar a data e dar destino ao saldo. Fechar a conta não autoriza o banco a ficar com o dinheiro. Peça por escrito o motivo, a data e para qual conta o saldo será transferido.",
+  "sections": {
+    "explanation": "Para contas de depósito, como conta corrente e poupança, a Resolução CMN 4.753/2019 exige providências no encerramento, como comunicar a intenção de encerrar, informar o destino do saldo e a data do encerramento. Essas providências têm prazo de 30 dias corridos, contado do cumprimento da comunicação. Contas de pagamento, como algumas contas digitais e carteiras, seguem regras do Banco Central e precisam ser conferidas no seu caso.",
+    "whenApplies": [
+      "O banco encerrou ou bloqueou sua conta corrente, poupança ou conta digital, e você não recebeu aviso antes.",
+      "Ficou saldo na conta encerrada e você não sabe como receber.",
+      "Você quer saber quais providências o banco deve tomar e em que prazo."
+    ],
+    "exceptions": [
+      "As regras mudam conforme o tipo de conta. Conta de depósito segue a Resolução CMN 4.753/2019; conta de pagamento segue regra do Banco Central.",
+      "A norma também pode exigir o encerramento da conta em situações graves. Confira a regra atual para o seu caso.",
+      "Bloqueio por ordem judicial é outra situação e exige análise própria.",
+      "Encerrar a conta não apaga dívidas, empréstimos ou contratos que continuem válidos."
+    ],
+    "steps": [
+      "Peça ao banco, por escrito, a comunicação do encerramento, com a data e o motivo, quando houver.",
+      "Confira se havia saldo na conta. Peça por escrito para qual conta o saldo será transferido ou como retirá-lo.",
+      "Pergunte se restam dívidas, débitos pendentes ou serviços que continuam ativos.",
+      "Guarde o protocolo. Se passarem 30 dias corridos da comunicação e a conta ainda não estiver encerrada ou sem informação, cobre por escrito. Esse é o prazo de providências da Resolução CMN 4.753/2019 (art. 5º, IV, a); a contagem depende do caso."
+    ],
+    "documentsToKeep": [
+      "Comunicação de encerramento ou qualquer aviso recebido do banco",
+      "Extratos e comprovante de saldo na data do encerramento",
+      "Protocolos de atendimento e respostas por escrito",
+      "Dados da conta para a transferência do saldo"
+    ],
+    "ifDenied": [
+      "Procure a ouvidoria do banco e peça resposta por escrito, com protocolo.",
+      "Se não resolver, procure o Banco Central pelo canal oficial de reclamações e leve os protocolos.",
+      "Procure o Procon do seu estado. Se houver saldo retido ou prejuízo relevante, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Resolução CMN nº 4.753/2019 (texto consolidado do Banco Central)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 5º, incisos I, II, IV, alínea a, e V",
+        "art. 6º (redação dada pela Resolução CMN 5.261/2025)"
+      ],
+      "officialUrl": "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50847/Res_4753_v6_P.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Versão consolidada do BCB (sem data de atualização na própria versão). Art. 6º lido só em trechos. Resolução CMN 5.261/2025, de 3/11/2025, vigente desde 1º/12/2025, citada no texto consolidado; o ato em si não foi aberto."
+    },
+    {
+      "name": "Resolução BCB nº 96/2021 (contas de pagamento)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 12 (a conferir)"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Texto oficial não localizado nesta consulta. Confirmar o art. 12 antes de publicar."
+    }
+  ],
+  "relatedArticles": [
+    "CON-012",
+    "CON-018"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido: Res. CMN 4.753/2019 (texto consolidado do BCB, aberto): art. 5º, I, II, IV alínea a (30 dias corridos) e V; menção à Res. CMN 5.261/2025 (vigente desde 1º/12/2025). Pendente: Res. BCB 96/2021 art. 12 (não localizado) e a regra das contas de pagamento. Res. BCB 518/2025, citada pela IA, não localizada: retirada do texto. Canal de reclamação do Banco Central não conferido. Redação integral do art. 6º (CMN 5.261) a ler.",
+  "status": "draft"
+}

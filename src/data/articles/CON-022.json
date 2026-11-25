@@ -1,0 +1,92 @@
+{
+  "id": "CON-022",
+  "slug": "cartao-clonado-compra-nao-reconhecida",
+  "title": "Clonaram meu cartão ou tem compra que não reconheço",
+  "category": "consumidor",
+  "summary": "Se a fatura mostra compras que você não fez, bloqueie o cartão, conteste cada compra e guarde o protocolo. O banco pode ter de responder pelo prejuízo, mas isso depende do caso.",
+  "keywords": [
+    "cartão clonado",
+    "compra não reconhecida",
+    "contestação de compra",
+    "estorno",
+    "fraude no cartão",
+    "bloqueio do cartão"
+  ],
+  "synonyms": [
+    "clonaram meu cartão",
+    "compra que não fiz no cartão",
+    "apareceu compra estranha na fatura",
+    "passaram meu cartão sem autorização",
+    "roubaram os dados do cartão",
+    "banco não quer estornar compra",
+    "compra fantasma no cartão"
+  ],
+  "quickAnswer": "Bloqueie o cartão agora, conteste por escrito cada compra que você não reconhece e peça um protocolo. Guarde a fatura e os registros. Se a fraude decorreu de falha de segurança do banco, ele pode ter de responder pelo prejuízo, mas isso depende de cada caso.",
+  "sections": {
+    "explanation": "Se alguém usou os dados do seu cartão, a compra não é sua, e você pode contestá-la junto ao banco ou à instituição que emitiu o cartão. O Código de Defesa do Consumidor prevê que o fornecedor responde por falhas na prestação do serviço (art. 14). Segundo a Súmula 479 do STJ, os bancos respondem pelos danos causados por fraudes e delitos de terceiros nas operações bancárias. Ainda assim, cada caso depende dos fatos, como onde e como a fraude aconteceu.",
+    "whenApplies": [
+      "Você vê na fatura ou no extrato compras que não fez.",
+      "Alguém usou os dados do seu cartão na internet, em maquininha ou por telefone.",
+      "Você perdeu o cartão ou ele foi copiado."
+    ],
+    "exceptions": [
+      "Se você entregou o cartão ou passou a senha ou o código a alguém, o banco pode alegar culpa sua.",
+      "Em alguns casos, o banco pode mostrar que a operação era compatível com o seu perfil e que não houve falha dele. Isso depende das provas.",
+      "Os prazos para contestar variam conforme o contrato do cartão e as regras do banco e da bandeira. Por isso, avise logo."
+    ],
+    "steps": [
+      "Bloqueie o cartão pelo aplicativo ou pelo canal oficial do banco. Peça outro cartão, se precisar.",
+      "Conteste cada compra que você não reconhece. Informe data, valor e nome do estabelecimento, se aparecerem.",
+      "Peça número de protocolo e resposta por escrito.",
+      "Se houver suspeita de furto, roubo ou fraude, registre boletim de ocorrência.",
+      "Confira as próximas faturas. Se a cobrança continuar, avise o banco de novo e guarde o protocolo.",
+      "Se o banco negar ou não responder, faça reclamação no Banco Central, pelo serviço de reclamação contra bancos, e no Consumidor.gov.br."
+    ],
+    "documentsToKeep": [
+      "Fatura ou extrato com as compras contestadas",
+      "Protocolos e respostas do banco",
+      "Prints do aplicativo e de mensagens recebidas",
+      "Boletim de ocorrência, se fizer"
+    ],
+    "ifDenied": [
+      "Peça por escrito o motivo da negativa e guarde a resposta.",
+      "Reclame no Banco Central, pelo serviço de reclamação contra bancos.",
+      "Registre reclamação no Consumidor.gov.br.",
+      "Procure o Procon do seu estado ou a Defensoria Pública. Em caso de valor alto, procure um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º, incisos III e VI",
+        "art. 14"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Textos dos incisos III e VI do art. 6º e do art. 14 conferidos no Planalto."
+    },
+    {
+      "name": "Súmula 479 do Superior Tribunal de Justiça",
+      "sphere": "federal",
+      "provisions": [
+        "enunciado da Súmula 479"
+      ],
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=479",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Julgada em 27/06/2012 (DJe 01/08/2012). Não aparece na lista de súmulas canceladas consultada, mas a página não indica a situação de vigência de forma expressa."
+    }
+  ],
+  "relatedArticles": [
+    "CON-011",
+    "CON-010",
+    "CON-018"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido em 2026-11-24: Súmula 479 (scon.stj.jus.br) e arts. 6º, III e VI e 14 do CDC (Planalto). Sem prazo de contestação no texto: o prazo de 120 dias citado pela DeepSeek não foi confirmado e foi descartado; a afirmação de que não há prazo legal geral não foi conferida em fonte oficial, por isso o texto só diz que o prazo depende do contrato e das regras do banco e da bandeira. Canal do Banco Central conferido no gov.br; Consumidor.gov.br citado sem abrir a página.",
+  "status": "draft"
+}

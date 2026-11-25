@@ -1944,6 +1944,153 @@
       "executar pensão",
       "pensão descontada",
       "pedir revisão da pensão"
+    ],
+    [
+      "fui enganado no pix",
+      "fraude no pix",
+      "pix roubado",
+      "pedir med"
+    ],
+    [
+      "cartão copiado",
+      "clonagem de cartão",
+      "compra fantasma",
+      "compra que não fiz"
+    ],
+    [
+      "consignado",
+      "empréstimo consignado",
+      "desconto no benefício",
+      "empréstimo na aposentadoria",
+      "empréstimo no inss que não fiz",
+      "consignado que não pedi"
+    ],
+    [
+      "nome negativado",
+      "cadastro de inadimplentes",
+      "limpar o nome",
+      "dívida paga ainda aparece"
+    ],
+    [
+      "prescrição",
+      "dívida prescrita",
+      "dívida caducou",
+      "dívida velha",
+      "dívida antiga",
+      "prazo de cobrança"
+    ],
+    [
+      "pontuação de crédito",
+      "score baixo",
+      "nota de crédito",
+      "score errado",
+      "cadastro positivo"
+    ],
+    [
+      "conta de luz alta",
+      "conta de energia alta",
+      "luz veio cara",
+      "conta de luz absurda",
+      "relógio de luz",
+      "medidor de luz"
+    ],
+    [
+      "seguro negou",
+      "seguradora negou",
+      "seguro não paga",
+      "sinistro negado",
+      "seguro não quer pagar"
+    ],
+    [
+      "banco fechou conta",
+      "conta encerrada",
+      "encerraram minha conta",
+      "conta fechada",
+      "saldo da conta encerrada"
+    ],
+    [
+      "marketplace",
+      "compra em site de terceiros",
+      "vendedor terceiro",
+      "plataforma de vendas",
+      "vendedor sumiu"
+    ],
+    [
+      "venda casada",
+      "compra casada",
+      "só vende se comprar outro",
+      "condicionar venda",
+      "obrigado a contratar seguro"
+    ],
+    [
+      "preço da prateleira",
+      "preço da etiqueta",
+      "etiqueta diferente",
+      "caixa cobrou mais",
+      "preço errado na gôndola"
+    ],
+    [
+      "preço no pix",
+      "desconto no pix",
+      "pix mais barato",
+      "preço do cartão",
+      "parcelado mais caro"
+    ],
+    [
+      "carro usado",
+      "veículo usado",
+      "seminovo",
+      "garantia de carro usado",
+      "carro com defeito"
+    ],
+    [
+      "portabilidade",
+      "levar meu número",
+      "mudar de operadora",
+      "manter o número",
+      "trocar de operadora",
+      "portabilidade numérica"
+    ],
+    [
+      "show cancelado",
+      "evento cancelado",
+      "ingresso cancelado",
+      "show adiado",
+      "festival cancelado",
+      "evento remarcado"
+    ],
+    [
+      "pacote de viagem",
+      "agência cancelou viagem",
+      "viagem cancelada",
+      "hotel trocado",
+      "pacote turístico"
+    ],
+    [
+      "mala extraviada",
+      "mala quebrada",
+      "bagagem perdida",
+      "companhia aérea perdeu mala"
+    ],
+    [
+      "consórcio",
+      "desisti do consórcio",
+      "sair do consórcio",
+      "cancelar consórcio",
+      "devolução do consórcio"
+    ],
+    [
+      "estacionamento",
+      "roubaram carro no estacionamento",
+      "batida no estacionamento",
+      "furto no estacionamento",
+      "carro furtado no mercado"
+    ],
+    [
+      "conserto demorou",
+      "oficina cobrou sem autorizar",
+      "orçamento de conserto",
+      "assistência perdeu produto"
     ]
   ]
 }

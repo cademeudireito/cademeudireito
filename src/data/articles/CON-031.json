@@ -1,0 +1,78 @@
+{
+  "id": "CON-031",
+  "slug": "venda-casada",
+  "title": "Estão me obrigando a comprar outro produto ou serviço junto: isso pode?",
+  "category": "consumidor",
+  "summary": "Em regra, a empresa não pode condicionar a venda de um produto à compra de outro. Essa prática se chama venda casada, e o Código de Defesa do Consumidor proíbe.",
+  "keywords": [
+    "venda casada",
+    "produto casado",
+    "compra casada",
+    "seguro obrigatório",
+    "condicionar a venda",
+    "liberdade de escolha"
+  ],
+  "synonyms": [
+    "só vende se comprar outro",
+    "banco obrigou contratar seguro",
+    "loja obriga comprar garantia",
+    "empréstimo com seguro obrigatório",
+    "querem empurrar outro produto",
+    "obrigaram contratar dois serviços"
+  ],
+  "quickAnswer": "Em regra, não. A empresa não pode condicionar a venda de um produto ou serviço à compra de outro. Você pode pedir para comprar só o que quer, pedir a justificativa por escrito e, se já pagou pelo item imposto, pedir o cancelamento e a devolução. Cada caso depende da forma como a oferta foi feita.",
+  "sections": {
+    "explanation": "O Código de Defesa do Consumidor proíbe que o fornecedor condicione o fornecimento de um produto ou serviço ao fornecimento de outro (art. 39, I). A lei também garante a liberdade de escolha do consumidor (art. 6º, II) e protege contra práticas abusivas e métodos comerciais coercitivos (art. 6º, IV). Quando a empresa obriga você a levar um item para conseguir outro, a prática pode ser considerada venda casada.",
+    "whenApplies": [
+      "A empresa diz que só vende o produto se você contratar outro, como seguro, serviço, plano ou garantia.",
+      "Um banco ou financeira só libera o empréstimo ou o financiamento se você contratar um seguro ou outro serviço junto.",
+      "Você se sente obrigado a levar algo que não quer."
+    ],
+    "exceptions": [
+      "Oferecer um produto junto com outro não é venda casada se você pode escolher comprar só o produto desejado.",
+      "A prática precisa ser uma condição real para a venda. Se existe a opção de comprar sem o item adicional, a situação muda.",
+      "Quando há seguro ou serviço ligado a um empréstimo ou financiamento, o caso pode ter regras próprias. Analise o contrato antes de decidir."
+    ],
+    "steps": [
+      "Pergunte se é possível contratar ou comprar só o produto que você quer.",
+      "Peça que a empresa informe por escrito o motivo da exigência do produto ou serviço adicional.",
+      "Não assine nem aceite cobrança adicional que você não quer.",
+      "Se já pagou pelo item imposto, peça o cancelamento e a devolução do valor por escrito, e guarde o protocolo.",
+      "Se a empresa não resolver, registre reclamação no Consumidor.gov.br ou no Procon."
+    ],
+    "documentsToKeep": [
+      "Print da oferta, proposta ou tela de compra",
+      "Contrato, nota fiscal e comprovantes de pagamento",
+      "Mensagens e pedidos por escrito à empresa",
+      "Protocolos de atendimento"
+    ],
+    "ifDenied": [
+      "Procure o Procon do seu estado ou município e leve os documentos.",
+      "Se a prática envolveu banco ou financeira, procure também o Banco Central.",
+      "Se o caso for de empréstimo ou financiamento, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º, II",
+        "art. 6º, IV",
+        "art. 39, I"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Art. 39, I e art. 6º, II e IV lidos na página do Planalto."
+    }
+  ],
+  "relatedArticles": [
+    "CON-005",
+    "CON-018"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido no Planalto: CDC art. 39, I (condicionamento de produto ou serviço) e art. 6º, II e IV. Sem prazo, como no pacote. Não usado: Súmula 473 do STJ, citada pela Gemini, não aberta. Canal do Banco Central não conferido nesta consulta. Consumidor.gov.br não aberto.",
+  "status": "draft"
+}

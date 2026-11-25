@@ -1,0 +1,98 @@
+{
+  "id": "CON-033",
+  "slug": "preco-pix-diferente-do-cartao",
+  "title": "A loja cobra um preço no Pix e outro no cartão. Isso pode?",
+  "category": "consumidor",
+  "summary": "Em geral, a loja pode cobrar preços diferentes conforme a forma de pagamento. Mas precisa mostrar os descontos de forma visível.",
+  "keywords": [
+    "Pix",
+    "cartão",
+    "desconto à vista",
+    "forma de pagamento",
+    "diferença de preço",
+    "parcelado",
+    "taxa do cartão"
+  ],
+  "synonyms": [
+    "loja cobra mais no crédito",
+    "preço no dinheiro e no cartão é diferente",
+    "pode cobrar taxa no cartão",
+    "desconto para pagamento no Pix",
+    "preço muda conforme o pagamento",
+    "cartão é mais caro que dinheiro",
+    "loja não avisa que parcelado custa mais"
+  ],
+  "quickAnswer": "Em geral, sim. A lei permite que a loja cobre preços diferentes conforme a forma ou o prazo de pagamento, como Pix, cartão, dinheiro ou parcelado. A loja não é obrigada a dar desconto, mas precisa mostrar o desconto de forma visível.",
+  "sections": {
+    "explanation": "A Lei nº 13.455/2017 permite que a loja cobre preços diferentes conforme o prazo ou o instrumento de pagamento. Em troca, a Lei nº 10.962/2004 (art. 5º-A) exige que eventuais descontos sejam informados em local e formato visíveis ao consumidor. O Código de Defesa do Consumidor também exige informação clara sobre preço e condições. Na prática, você deve conseguir ver o valor de cada forma de pagamento antes de pagar.",
+    "whenApplies": [
+      "A loja cobra valores diferentes conforme a forma de pagamento: Pix, dinheiro, cartão à vista ou parcelado.",
+      "Você quer saber se o desconto ou a diferença estava visível antes de você escolher a forma de pagamento."
+    ],
+    "exceptions": [
+      "A loja não é obrigada a dar desconto para Pix ou dinheiro. A lei só exige que o desconto, se houver, seja visível.",
+      "Se a etiqueta ou o anúncio mostra um preço e o caixa cobra outro para a mesma forma de pagamento, a situação é diferente. A diferença não decorre da forma de pagamento.",
+      "Cada caso depende de como o preço foi mostrado. Guarde as provas."
+    ],
+    "steps": [
+      "Antes de pagar, confira o valor total para cada forma de pagamento. Pergunte à loja se houver dúvida.",
+      "Fotografe a etiqueta, o anúncio ou a tela com os preços.",
+      "Se o valor cobrado for diferente do informado, peça a correção por escrito e guarde o protocolo.",
+      "Se a loja não resolver, procure o Procon ou registre a reclamação no Consumidor.gov.br, se a empresa participar."
+    ],
+    "documentsToKeep": [
+      "Foto ou print do preço para cada forma de pagamento",
+      "Comprovante de pagamento e nota ou cupom fiscal",
+      "E-mail, mensagem ou protocolo da reclamação"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar.",
+      "Procure o Procon do seu estado ou município e leve as provas.",
+      "Se a diferença for grande ou houver prejuízo, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 13.455/2017 (diferenciação de preços por prazo ou instrumento de pagamento)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Texto lido no acervo local (fonte: normas.leg.br). A página do Planalto não abriu na conferência de 2026-11-24."
+    },
+    {
+      "name": "Lei nº 10.962/2004 (oferta e afixação de preços), incluído o art. 5º-A pela Lei nº 13.455/2017",
+      "sphere": "federal",
+      "provisions": [
+        "art. 5º-A"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Art. 5º-A lido no acervo local, com nota de inclusão pela Lei 13.455/2017. Página do Planalto não abriu; conferir antes de publicar."
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 31"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Art. 31 conferido na página do Planalto. O art. 6º, III, foi lido só no acervo local; conferir na página oficial."
+    }
+  ],
+  "relatedArticles": [
+    "CON-007",
+    "CON-010",
+    "CON-012"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido no Planalto (2026-11-24): CDC art. 31. Lidos só no acervo local e pendentes: Lei 13.455/2017, art. 1º; Lei 10.962/2004, art. 5º-A; CDC art. 6º, III. Nenhum prazo publicado, porque a lei não fixa prazo para essa reclamação. Pendente: confirmar se há regra específica do Banco Central ou de outro órgão sobre Pix (não consultada).",
+  "status": "draft"
+}

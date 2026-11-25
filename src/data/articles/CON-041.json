@@ -1,0 +1,89 @@
+{
+  "id": "CON-041",
+  "slug": "carro-furtado-ou-batido-no-estacionamento",
+  "title": "Roubaram ou bateram meu carro no estacionamento de loja, mercado ou shopping",
+  "category": "consumidor",
+  "summary": "Em geral, a loja que oferece estacionamento responde pelo furto ou pela batida de veículo ocorridos ali. Isso depende de como e onde o dano aconteceu.",
+  "keywords": [
+    "estacionamento",
+    "carro furtado",
+    "batida no estacionamento",
+    "estacionamento de shopping",
+    "responsabilidade do estabelecimento",
+    "furto de veículo",
+    "Súmula 130"
+  ],
+  "synonyms": [
+    "bateram meu carro no estacionamento do supermercado quem paga",
+    "carro furtado no estacionamento do shopping responsabilidade",
+    "estacionamento gratuito de loja tem que pagar dano",
+    "arrombaram meu carro no estacionamento da academia",
+    "como cobrar prejuízo de batida no estacionamento",
+    "furto de moto no estacionamento do mercado",
+    "aviso diz que não se responsabiliza vale"
+  ],
+  "quickAnswer": "Em geral, o estabelecimento que oferece estacionamento ao cliente pode ter que pagar o conserto ou indenizar o furto do veículo. Um aviso dizendo que a loja não se responsabiliza não costuma afastar essa regra. Cada caso depende das provas.",
+  "sections": {
+    "explanation": "A Súmula 130 do STJ diz que a empresa responde, perante o cliente, pela reparação de dano ou furto de veículo ocorridos em seu estacionamento. O Código de Defesa do Consumidor também proíbe cláusula que exonere ou atenue a obrigação de indenizar (art. 25). Por isso, um aviso do tipo não nos responsabilizamos costuma não valer para afastar essa responsabilidade. Vagas na rua ou em estacionamento público podem ter outras regras.",
+    "whenApplies": [
+      "Você deixou o carro ou a moto no estacionamento oferecido por loja, mercado, shopping ou outro estabelecimento, enquanto usava o local.",
+      "O veículo foi furtado, arrombado ou batido dentro desse estacionamento."
+    ],
+    "exceptions": [
+      "Se o dano aconteceu na rua ou em vaga pública, a regra pode mudar. Isso depende do caso.",
+      "Se algo sumiu de dentro do carro sem arrombamento, a prova costuma ser mais difícil. Câmeras e testemunhas podem ajudar.",
+      "Se a batida ou o furto teve outra causa, como um descuido seu com o veículo, a análise muda. Isso depende das provas."
+    ],
+    "steps": [
+      "Antes de sair, chame a gerência ou a segurança do local e peça que o ocorrido seja registrado por escrito, com o horário.",
+      "Tire fotos dos danos, da vaga e do entorno. Guarde o ticket de entrada ou a nota da compra feita na loja.",
+      "Registre um boletim de ocorrência na polícia, presencialmente ou pela internet, se o seu estado oferecer esse serviço.",
+      "Peça por escrito o conserto ou a indenização e guarde os orçamentos.",
+      "Se a empresa recusar, procure o Procon ou o Juizado Especial Cível do seu estado."
+    ],
+    "documentsToKeep": [
+      "Ticket de entrada ou nota fiscal da compra feita no local",
+      "Registro escrito da ocorrência feito pela loja",
+      "Boletim de ocorrência",
+      "Fotos e vídeos dos danos e do local",
+      "Orçamentos do conserto e protocolos das conversas"
+    ],
+    "ifDenied": [
+      "Procure o Procon ou o Juizado Especial Cível do seu estado e leve os documentos.",
+      "Se o prejuízo for alto ou houver dúvida sobre o caso, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Súmula nº 130 do Superior Tribunal de Justiça",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 130"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Texto conferido no acervo local (caderno consolidado do STJ, sumula-130). A página oficial do STJ aberta nesta sessão não exibiu a súmula, por isso o status segue pendente. Súmula é entendimento do tribunal, não lei."
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 14",
+        "art. 25",
+        "art. 51, I"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Texto conferido no acervo local. Página do Planalto não aberta (bloqueio)."
+    }
+  ],
+  "relatedArticles": [
+    "CON-012"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferidos no acervo local: Súmula 130 do STJ (texto integral), CDC arts. 14, 25 e 51, I. Página oficial do STJ aberta, mas sem o texto da súmula; Planalto não aberto. Retirados sem fonte: prazo de 5 anos (art. 27), exigência de três orçamentos e a afirmação de que a prefeitura não responde por furto em vaga pública.",
+  "status": "draft"
+}

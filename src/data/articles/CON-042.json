@@ -1,0 +1,84 @@
+{
+  "id": "CON-042",
+  "slug": "assistencia-tecnica-demora-cobra-ou-perde",
+  "title": "A assistência técnica demorou, cobrou sem avisar ou perdeu meu produto",
+  "category": "consumidor",
+  "summary": "A assistência técnica ou a oficina não pode fazer serviço nem cobrar sem orçamento e sua autorização, e responde pelos danos que causar.",
+  "keywords": [
+    "assistência técnica",
+    "conserto",
+    "oficina",
+    "peça usada",
+    "produto perdido",
+    "cobrança sem autorização",
+    "demora no conserto"
+  ],
+  "synonyms": [
+    "assistência técnica cobrou sem autorização",
+    "oficina pode cobrar para fazer orçamento",
+    "assistência técnica perdeu meu celular, o que fazer",
+    "mecânico trocou peça sem pedir autorização",
+    "assistência colocou peça usada no meu aparelho",
+    "validade do orçamento segundo o CDC",
+    "assistência técnica demora meses para devolver produto"
+  ],
+  "quickAnswer": "Em geral, a assistência técnica não pode fazer serviço nem cobrar sem antes apresentar orçamento detalhado e receber sua autorização. Se ela perder ou estragar o produto, pode responder pelos danos. Guarde a ordem de serviço e o orçamento.",
+  "sections": {
+    "explanation": "Ao levar um produto para conserto, a assistência deve entregar um orçamento prévio, com o valor da mão de obra e das peças, as condições de pagamento e as datas de início e fim do serviço (CDC, art. 40). Esse orçamento vale por 10 dias, contados do seu recebimento, salvo outro prazo combinado (art. 40, § 1º). Em regra, o serviço não pode ser feito sem orçamento e sem sua autorização expressa (art. 39, VI). Se o defeito não for resolvido, você pode pedir novo serviço, devolução do valor pago ou abatimento do preço (art. 20).",
+    "whenApplies": [
+      "Você levou um produto para conserto e a assistência cobrou por serviço ou peça que você não autorizou.",
+      "A assistência demorou muito, não devolveu o produto ou perdeu ou estragou o aparelho."
+    ],
+    "exceptions": [
+      "Se você autorizou a cobrança extra ou a troca por peça usada, a discussão muda. Guarde essa autorização como prova.",
+      "Quando você combinou outra forma de pagamento ou outro prazo por escrito, valem as condições combinadas, dentro da lei.",
+      "Se o problema não foi causado pelo conserto, a responsabilidade pode ser outra. Isso depende do caso."
+    ],
+    "steps": [
+      "Ao deixar o produto, exija a ordem de serviço com o defeito descrito.",
+      "Peça o orçamento por escrito, com o valor da mão de obra, das peças, a forma de pagamento e o prazo.",
+      "Se houver cobrança de serviço que você não aprovou, recuse o pagamento extra e mostre o orçamento original.",
+      "Se o produto demorar ou o defeito continuar, peça uma data e a solução por escrito.",
+      "Se a assistência perder ou estragar o produto, peça por escrito a reparação ou o valor do bem e guarde as provas.",
+      "Se não resolver, registre reclamação e procure o Procon do seu estado."
+    ],
+    "documentsToKeep": [
+      "Ordem de serviço e orçamento",
+      "Nota ou recibo do pagamento",
+      "Nota de compra do produto e certificado de garantia",
+      "Fotos do produto na entrega",
+      "Protocolos e mensagens com a assistência"
+    ],
+    "ifDenied": [
+      "Procure o Procon do seu estado e leve os documentos.",
+      "Procure o Juizado Especial Cível do seu estado se houver prejuízo a ser cobrado.",
+      "Se o prejuízo for alto, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 14",
+        "art. 18, § 1º e § 2º",
+        "art. 20",
+        "art. 21",
+        "art. 39, VI",
+        "art. 40, caput, § 1º e § 2º"
+      ],
+      "officialUrl": null,
+      "status": "pending_verification",
+      "checkedAt": null,
+      "observacao": "Texto conferido no acervo local (lei-8078-1990-09-11). Página do Planalto não aberta (bloqueio). Art. 18 § 1º: 30 dias para sanar o vício; § 2º permite acordo entre 7 e 180 dias."
+    }
+  ],
+  "relatedArticles": [
+    "CON-002",
+    "CON-004"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido no acervo local: CDC arts. 14, 18 §§ 1º e 2º, 20, 21, 39 VI e 40 caput, § 1º e § 2º; Planalto não aberto (bloqueio). Corrigido em relação à IA: o art. 26 não é garantia legal do conserto, então os prazos de 30/90 dias ficaram fora; 'peças originais' sem 'por escrito', pois o art. 21 fala em autorização do consumidor; 'nenhuma assistência pode' virou 'em regra', por causa da ressalva do art. 39 VI.",
+  "status": "draft"
+}

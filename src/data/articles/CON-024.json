@@ -1,0 +1,91 @@
+{
+  "id": "CON-024",
+  "slug": "paguei-divida-nome-continua-negativado",
+  "title": "Paguei a dívida, mas meu nome continua negativado",
+  "category": "consumidor",
+  "summary": "Depois do pagamento total de uma dívida, quem fez a negativação tem cinco dias úteis para retirar seu nome do cadastro. Se o registro continuar, você pode cobrar a correção e reclamar.",
+  "keywords": [
+    "nome negativado",
+    "dívida paga",
+    "negativação",
+    "exclusão do registro",
+    "cadastro de inadimplentes",
+    "cinco dias úteis"
+  ],
+  "synonyms": [
+    "paguei e não saiu do serasa",
+    "nome continua sujo depois de pagar",
+    "quanto tempo demora para limpar o nome",
+    "quitei a dívida e ainda estou negativado",
+    "serasa não atualiza meu cpf",
+    "paguei e meu nome não limpou",
+    "dívida paga ainda aparece no serasa"
+  ],
+  "quickAnswer": "Depois do pagamento integral da dívida, quem a registrou tem cinco dias úteis para pedir a retirada do seu nome do cadastro. Se o prazo passar, guarde o comprovante, peça a retirada por escrito e reclame. A contagem começa com a quitação total, não com a primeira parcela.",
+  "sections": {
+    "explanation": "A Súmula 548 do STJ diz que cabe ao credor retirar a dívida do cadastro de inadimplentes em até cinco dias úteis depois do pagamento integral e efetivo. O Código de Defesa do Consumidor também garante que você possa exigir a correção imediata de informações erradas nos seus dados e cadastros (art. 43, §3º). Retirar a negativação não significa que a dívida nunca existiu, e a indenização, se houver, depende das provas e do caso.",
+    "whenApplies": [
+      "Você quitou a dívida inteira.",
+      "Seu CPF continua aparecendo como negativado depois do pagamento.",
+      "A negativação foi feita pela empresa ou pelo banco que cobrava a dívida."
+    ],
+    "exceptions": [
+      "A contagem começa com o pagamento integral e efetivo. Em acordo parcelado, só a quitação total conta.",
+      "Se você tem outra dívida em aberto que gerou outra negativação, seu nome pode continuar negativado por causa dela.",
+      "Cada registro é analisado separadamente. A regra vale para a dívida que você pagou."
+    ],
+    "steps": [
+      "Guarde o comprovante de pagamento ou o termo de quitação.",
+      "Consulte seu CPF nos cadastros de crédito e confira qual empresa fez a negativação.",
+      "Peça à empresa, por escrito, a retirada do registro, com o comprovante. Peça o número do protocolo.",
+      "Se o nome não sair dentro de cinco dias úteis depois da quitação, reclame por escrito e cobre a correção.",
+      "Se não resolver, reclame no cadastro de crédito onde aparece a negativação e no Consumidor.gov.br.",
+      "Procure o Procon se a empresa continuar sem resolver."
+    ],
+    "documentsToKeep": [
+      "Comprovante de pagamento ou de quitação",
+      "Consulta do CPF com a data",
+      "Protocolos, e-mails e mensagens com a empresa",
+      "Print da negativação"
+    ],
+    "ifDenied": [
+      "Reclame no cadastro de crédito onde aparece a negativação. Ele também precisa corrigir a informação.",
+      "Registre reclamação no Consumidor.gov.br.",
+      "Procure o Procon do seu estado ou a Defensoria Pública, com os comprovantes.",
+      "Se o nome negativado estiver atrapalhando crédito ou causando prejuízo grande, procure um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 43, §3º"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Texto do §3º conferido no Planalto. A página não traz notas de alteração nesse dispositivo."
+    },
+    {
+      "name": "Súmula 548 do Superior Tribunal de Justiça",
+      "sphere": "federal",
+      "provisions": [
+        "enunciado da Súmula 548"
+      ],
+      "officialUrl": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=SUMU&sumula=548",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Julgada pela Segunda Seção em 14/10/2015 (DJe 19/10/2015). Prazo de cinco dias úteis após a quitação lido na página. A página não indica expressamente a situação de vigência."
+    }
+  ],
+  "relatedArticles": [
+    "CON-009",
+    "CON-010",
+    "CON-025"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido em 2026-11-24: Súmula 548 (scon.stj.jus.br) e art. 43, §3º do CDC (Planalto). Removida a afirmação do ChatGPT de que a indenização não é automática, por não conferida; o texto diz apenas que depende das provas e do caso. Página do serviço de exclusão não foi usada como fonte.",
+  "status": "draft"
+}

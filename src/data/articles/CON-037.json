@@ -1,0 +1,96 @@
+{
+  "id": "CON-037",
+  "slug": "show-evento-cancelado-ou-adiado",
+  "title": "Show cancelado ou adiado: posso receber o dinheiro do ingresso?",
+  "category": "consumidor",
+  "summary": "Se o show ou evento for cancelado, adiado ou tiver mudança relevante, você tem direito à devolução do que pagou. Você também pode escolher nova data ou crédito. Eventos esportivos têm regra própria.",
+  "keywords": [
+    "show cancelado",
+    "evento adiado",
+    "reembolso de ingresso",
+    "ingresso",
+    "mudança de data",
+    "produtora de eventos",
+    "Decreto 13.108"
+  ],
+  "synonyms": [
+    "show foi cancelado e agora",
+    "ingresso de show cancelado devolve dinheiro",
+    "evento mudou de data",
+    "festival foi adiado",
+    "produtora não quer devolver ingresso",
+    "comprei ingresso e o show mudou",
+    "ingresso cancelado como receber de volta",
+    "quero reembolso do ingresso"
+  ],
+  "quickAnswer": "Se o evento for cancelado, adiado ou tiver mudança relevante, você tem direito a receber de volta o que pagou. Você também pode escolher ir na nova data ou receber crédito. Eventos esportivos ficam fora dessa regra.",
+  "sections": {
+    "explanation": "O Decreto nº 13.108/2026 regulamenta o Código de Defesa do Consumidor para a venda de ingressos. Ele trata da venda de ingressos para eventos no país. Se o evento for cancelado, adiado ou tiver alteração relevante, você tem direito à devolução integral do valor pago. Você escolhe entre usar o ingresso na nova data, receber crédito ou pedir o reembolso. Se a mudança é relevante ou não depende do caso.",
+    "whenApplies": [
+      "O show ou evento foi cancelado, adiado ou mudou de forma relevante.",
+      "Você comprou o ingresso em bilheteria, site, aplicativo ou outro canal de venda de ingressos.",
+      "O evento não é esportivo."
+    ],
+    "exceptions": [
+      "Eventos esportivos têm legislação própria e ficam fora do decreto (art. 1º, § 2º).",
+      "Se você apenas se arrependeu da compra, sem qualquer mudança no evento, vale o direito de desistir em 7 dias, previsto no Código de Defesa do Consumidor (art. 49). O decreto garante esse direito também para ingressos (art. 16).",
+      "Se a mudança for pequena, a conclusão pode ser outra. Isso depende do que o evento sofreu."
+    ],
+    "steps": [
+      "Confirme a mudança pelo canal oficial da produtora ou do site onde você comprou. Guarde a comunicação.",
+      "Peça, pelo canal de compra e com o número do pedido, a opção que você prefere: nova data, crédito ou reembolso integral.",
+      "Se escolher o reembolso, peça que seja feito, de preferência, com a empresa como o valor será devolvido, e guarde o comprovante.",
+      "O decreto não fixa um número de dias para a devolução. Se o prazo informado pela empresa passar sem o valor voltar, cobre por escrito e guarde o protocolo.",
+      "Confira a fatura do cartão ou o extrato depois do reembolso."
+    ],
+    "documentsToKeep": [
+      "Ingresso ou comprovante de compra",
+      "Comunicação de cancelamento, adiamento ou mudança",
+      "Número do pedido e protocolos",
+      "Comprovante de pagamento ou fatura do cartão"
+    ],
+    "ifDenied": [
+      "Registre a reclamação no Consumidor.gov.br, se a empresa participar.",
+      "Procure o Procon do seu estado ou município e leve as provas.",
+      "Se o prejuízo for alto ou a empresa não responder, procure a Defensoria Pública ou um advogado."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Decreto nº 13.108/2026 (comercialização de ingressos para eventos)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º, §§ 1º e 2º",
+        "art. 16",
+        "art. 20",
+        "art. 21",
+        "art. 22",
+        "art. 26, I e II"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13108.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Data do decreto: 31/08/2026. Publicado no DOU de 1º/09/2026; a página do Planalto avisa que o DOU é o texto oficial. Arts. 16 e 20 a 22 entram em vigor na publicação (art. 26, II). Arts. 4º, 5º, 13 e 15 a 18 entram em vigor em 20 dias (art. 26, I)."
+    },
+    {
+      "name": "Lei nº 8.078/1990 — Código de Defesa do Consumidor",
+      "sphere": "federal",
+      "provisions": [
+        "art. 49"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-24",
+      "observacao": "Art. 49 (desistência em 7 dias em compra fora do estabelecimento) conferido na página do Planalto."
+    }
+  ],
+  "relatedArticles": [
+    "CON-001",
+    "CON-006",
+    "CON-007"
+  ],
+  "lastReviewed": "2026-11-24",
+  "reviewStatus": "pending_review",
+  "reviewNotes": "Conferido no Planalto (2026-11-24): Decreto 13.108/2026 (data, publicação, arts. 1º §§ 1º e 2º, 16, 20 a 22, 26 I e II) e CDC art. 49. Correção à IA: o art. 22 dá ao consumidor a escolha entre nova data, crédito ou reembolso; a IA resumiu como reembolso garantido. Confirmado: nenhum prazo em dias para devolução. Pendente: o conceito de alteração relevante não está definido no decreto; o art. 23 prevê normas complementares do Ministério da Justiça, não consultadas; o DOU de 1º/09/2026 não foi aberto.",
+  "status": "draft"
+}
