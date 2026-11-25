@@ -15,8 +15,7 @@
       },
       {
         "nome": "Anatel",
-        "telefone": "1331",
-        "horario": "Dias úteis, 8h às 20h",
+        "canal": "Site",
         "uso": "Reclamação contra operadora de telefone, internet ou TV.",
         "url": "https://www.gov.br/pt-br/servicos/atendimento-ao-consumidor"
       },
@@ -59,9 +58,8 @@
     "order": 3,
     "contatos": [
       {
-        "nome": "Disque ANS",
-        "telefone": "0800 701 9656",
-        "horario": "Seg. a sex., 8h às 20h, exceto feriados",
+        "nome": "ANS (Agência Nacional de Saúde Suplementar)",
+        "canal": "Site",
         "uso": "Dúvidas e reclamações sobre plano de saúde.",
         "url": "https://www.gov.br/pt-br/servicos/esclarecer-duvidas-referentes-a-saude-suplementar"
       },
@@ -98,8 +96,7 @@
     "contatos": [
       {
         "nome": "ANPD",
-        "telefone": "(61) 2017-3441",
-        "extra": "Telefone só para dúvidas; denúncias pelo formulário no site",
+        "canal": "Site (formulário de denúncias e dúvidas)",
         "uso": "Proteção de dados pessoais (LGPD).",
         "url": "https://www.gov.br/anpd/pt-br/canais_atendimento/ouvidoria"
       }
@@ -152,9 +149,8 @@
     "order": 8,
     "contatos": [
       {
-        "nome": "INSS (Central 135)",
-        "telefone": "135",
-        "horario": "Seg. a sáb., 7h às 22h",
+        "nome": "INSS",
+        "canal": "Site",
         "uso": "Benefícios, aposentadoria, BPC e auxílio.",
         "url": "https://www.gov.br/previdencia/pt-br/canais_atendimento/central-135"
       }
@@ -244,9 +240,8 @@
         "url": "https://www.gov.br/mdh/pt-br/acesso-a-informacao/disque-100"
       },
       {
-        "nome": "INSS (Central 135)",
-        "telefone": "135",
-        "horario": "Seg. a sáb., 7h às 22h",
+        "nome": "INSS",
+        "canal": "Site",
         "uso": "Benefícios, aposentadoria, BPC e auxílio.",
         "url": "https://www.gov.br/previdencia/pt-br/canais_atendimento/central-135"
       }
