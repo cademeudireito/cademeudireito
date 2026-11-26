@@ -1,0 +1,89 @@
+{
+  "id": "TRA-039",
+  "slug": "demissao-por-discriminacao",
+  "title": "Sofri preconceito no trabalho e fui desligado: o que posso fazer?",
+  "category": "trabalho",
+  "summary": "A lei proíbe a discriminação para manter o emprego. Se o desligamento for discriminatório, você pode pedir reintegração ou o pagamento em dobro do período de afastamento, além de dano moral.",
+  "keywords": [
+    "discriminação no emprego",
+    "discriminação no trabalho",
+    "Lei 9.029",
+    "preconceito no trabalho",
+    "reintegração"
+  ],
+  "synonyms": [
+    "sofri discriminação no emprego",
+    "preconceito de idade no trabalho",
+    "denunciei preconceito e sofri retaliação",
+    "discriminação no trabalho dá indenização",
+    "HIV e emprego",
+    "doença grave e emprego"
+  ],
+  "quickAnswer": "A Lei 9.029/1995 proíbe qualquer prática discriminatória para acesso ou manutenção do emprego, por sexo, origem, raça, cor, estado civil, situação familiar, deficiência, reabilitação profissional, idade, entre outros. Se a dispensa for por ato discriminatório, você pode, além de pedir reparação por dano moral, optar entre a reintegração com pagamento de todo o período de afastamento ou receber em dobro a remuneração desse período. Pela Súmula 443 do TST, presume-se discriminatória a dispensa de empregado com HIV ou outra doença grave que cause estigma ou preconceito.",
+  "sections": {
+    "explanation": "A Lei 9.029/1995 (art. 1º) proíbe a adoção de qualquer prática discriminatória e limitativa para efeito de acesso à relação de trabalho ou de sua manutenção, por motivo de sexo, origem, raça, cor, estado civil, situação familiar, deficiência, reabilitação profissional, idade, entre outros. O rol é exemplificativo, pela expressão 'entre outros'. O art. 4º diz que o rompimento da relação de trabalho por ato discriminatório, além do direito à reparação pelo dano moral, faculta ao empregado optar entre: (I) a reintegração com ressarcimento integral de todo o período de afastamento, mediante pagamento das remunerações devidas, corrigidas e com juros legais; ou (II) a percepção, em dobro, da remuneração do período de afastamento, corrigida e com juros legais. A Súmula 443 do TST diz que se presume discriminatória a despedida de empregado portador do vírus HIV ou de outra doença grave que suscite estigma ou preconceito, e que, sendo inválido o ato, o empregado tem direito à reintegração. A presunção da Súmula não se aplica automaticamente a qualquer doença ou a qualquer dispensa: em outras situações, a pessoa pode precisar demonstrar elementos concretos de discriminação.",
+    "whenApplies": [
+      "Você é empregado e acredita que perdeu o emprego por um motivo discriminatório.",
+      "Isso aconteceu depois de você revelar uma condição de saúde ou de denunciar preconceito."
+    ],
+    "exceptions": [
+      "Nem todo desligamento de quem está doente é discriminatório. A prova e o caso concreto contam. A Súmula 443 trata de HIV e de outra doença grave que suscite estigma ou preconceito.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário segue também regras constitucionais e do estatuto."
+    ],
+    "steps": [
+      "Anote datas, falas, fatos e pessoas presentes.",
+      "Guarde mensagens, avaliações, advertências e a justificativa da dispensa.",
+      "Guarde provas de tratamento desigual ou de mudanças depois de você revelar a condição ou denunciar discriminação.",
+      "Não invada contas ou sistemas para obter provas.",
+      "Procure o sindicato, o Ministério Público do Trabalho ou assistência jurídica.",
+      "Fique atento ao prazo para entrar na Justiça do Trabalho."
+    ],
+    "documentsToKeep": [
+      "Comunicado de desligamento e termo de rescisão",
+      "Contrato e avaliações",
+      "Mensagens e e-mails",
+      "Registros de denúncia interna",
+      "Documentos médicos só no que for necessário, guardados com cuidado",
+      "Nomes de testemunhas"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "O Ministério Público do Trabalho e a fiscalização do trabalho podem receber denúncias, especialmente sobre práticas que atinjam vários trabalhadores.",
+      "Para pedir reintegração ou indenização, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 9.029/1995",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º",
+        "art. 4º, incisos I e II"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9029.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Súmula nº 443 (dispensa discriminatória, presunção)",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 443"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-030",
+    "TRA-008",
+    "TRA-009",
+    "TRA-011"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: Lei 9.029/1995 arts. 1º e 4º (texto do Planalto, via acervo); Súmula 443 do TST (acervo do TST). Não foram citadas decisões de 2026 do TST nem rol fechado de doenças. Não foi afirmado prazo.",
+  "status": "published"
+}

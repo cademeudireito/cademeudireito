@@ -1,0 +1,88 @@
+{
+  "id": "TRA-029",
+  "slug": "rescisao-indireta",
+  "title": "Meu patrão não cumpre o combinado: posso sair e receber como se fosse demitido?",
+  "category": "trabalho",
+  "summary": "A rescisão indireta é quando o empregado encerra o contrato por falta grave da empresa e pede indenização. Exige prova e cuidado antes de parar de trabalhar.",
+  "keywords": [
+    "rescisão indireta",
+    "falta grave do empregador",
+    "justa causa do patrão",
+    "descumprimento do contrato",
+    "sair do emprego com direitos"
+  ],
+  "synonyms": [
+    "rescisão indireta como pedir",
+    "patrão não paga salário posso sair",
+    "empresa não deposita FGTS posso processar",
+    "chefe me humilha posso sair",
+    "sair do emprego recebendo todos os direitos",
+    "posso parar de ir por culpa da empresa"
+  ],
+  "quickAnswer": "A rescisão indireta é a hipótese do art. 483 da CLT: o empregado pode considerar rescindido o contrato e pedir indenização quando a empresa comete uma falta grave, como não cumprir as obrigações do contrato (por exemplo, atrasar salário ou deixar de depositar FGTS). É preciso provar a falta. Nas hipóteses de descumprimento do contrato e de redução do trabalho por tarefa, você pode pedir a rescisão e continuar no emprego até a decisão final. Procure o sindicato antes de parar de trabalhar.",
+  "sections": {
+    "explanation": "O art. 483 da CLT diz que o empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando: (a) forem exigidos serviços superiores às suas forças, proibidos por lei, contrários aos bons costumes ou alheios ao contrato; (b) for tratado pelo empregador ou por superiores com rigor excessivo; (c) correr perigo manifesto de mal considerável; (d) o empregador não cumprir as obrigações do contrato; (e) o empregador ou seus prepostos praticarem ato lesivo da honra e boa fama contra ele ou sua família; (f) o empregador ou seus prepostos o ofenderem fisicamente, salvo legítima defesa; (g) o empregador reduzir o trabalho, sendo por peça ou tarefa, de forma a afetar sensivelmente os salários. Nas hipóteses das letras d e g, o empregado pode pedir a rescisão e o pagamento das indenizações permanecendo ou não no serviço até a decisão final do processo (§ 3º). O aviso prévio é devido na despedida indireta (art. 487, § 4º). O TST fixou em recurso repetitivo (Tema 70) que a ausência ou irregularidade no recolhimento dos depósitos de FGTS caracteriza descumprimento de obrigação contratual, suficiente para configurar a rescisão indireta, sendo desnecessário o requisito da imediatidade. Em qualquer caso, quem decide se houve falta grave é a Justiça do Trabalho, e a falta precisa ser provada.",
+    "whenApplies": [
+      "Você é empregado com carteira assinada e a empresa descumpre obrigações do contrato (atraso de salário, falta de FGTS, por exemplo) ou comete outra falta grave.",
+      "Você quer sair do emprego por culpa da empresa e receber indenização."
+    ],
+    "exceptions": [
+      "Insatisfação com o trabalho, proposta de outro emprego ou desentendimento comum não são, por si só, rescisão indireta.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Parar de ir ao trabalho sem orientação pode ser tratado como abandono de emprego. Procure o sindicato ou um advogado antes."
+    ],
+    "steps": [
+      "Identifique qual falta a empresa cometeu e em qual letra do art. 483 ela se encaixa.",
+      "Reúna provas antes de sair: contracheques, extrato do FGTS, mensagens, e-mails e nomes de testemunhas.",
+      "Procure o sindicato ou um advogado para avaliar o caso e os riscos antes de parar de trabalhar.",
+      "Não presuma que mandar uma mensagem escrita 'rescisão indireta' resolve. Quem decide é a Justiça do Trabalho.",
+      "Se for ao Judiciário, descreva os fatos com datas e junte as provas."
+    ],
+    "documentsToKeep": [
+      "Contrato e carteira de trabalho",
+      "Contracheques e extrato do FGTS",
+      "Escalas, advertências e mensagens",
+      "Documentos que provem a falta (atrasos, descontos, ofensas)",
+      "Nomes de testemunhas"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "A fiscalização do trabalho, do Ministério do Trabalho e Emprego, pode apurar infrações, mas não decide sobre a rescisão indireta.",
+      "Para pedir a rescisão indireta, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 483, alíneas a a g e § 3º",
+        "art. 487, § 4º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Tema Repetitivo 70 (FGTS e rescisão indireta)",
+      "sphere": "federal",
+      "provisions": [
+        "tese sobre ausência ou irregularidade no recolhimento do FGTS"
+      ],
+      "officialUrl": "https://www.trt18.jus.br/portal/justica-do-trabalho-reconhece-rescisao-indireta-por-falta-de-deposito-de-fgts/",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-028",
+    "TRA-001",
+    "TRA-004",
+    "TRA-030"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 483 e 487 (texto do Planalto, via acervo); tese do Tema 70 do TST na notícia oficial do TRT-18. Não foram afirmados prazo para ajuizar nem datas do Tema 70; o texto não lista as verbas devidas.",
+  "status": "published"
+}

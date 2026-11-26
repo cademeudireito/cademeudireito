@@ -2171,6 +2171,36 @@
     [
       "fgts não depositado",
       "meses faltando no fgts"
+    ],
+    [
+      "rescisão indireta",
+      "rescisao indireta",
+      "falta grave do patrão",
+      "sair da empresa por culpa do patrão",
+      "patrão não cumpre o combinado"
+    ],
+    [
+      "demitido por justa causa",
+      "contestar justa causa",
+      "acusado de justa causa"
+    ],
+    [
+      "carta de demissão",
+      "cumprir aviso prévio",
+      "desconto de aviso prévio"
+    ],
+    [
+      "cipa",
+      "cipeiro",
+      "estabilidade da cipa",
+      "eleito para a cipa",
+      "suplente da cipa"
+    ],
+    [
+      "discriminação no emprego",
+      "discriminação no trabalho",
+      "preconceito no trabalho",
+      "lei 9029"
     ]
   ]
 }

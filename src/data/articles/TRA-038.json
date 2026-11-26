@@ -1,0 +1,93 @@
+{
+  "id": "TRA-038",
+  "slug": "cipeiro-estabilidade-cipa",
+  "title": "Fui eleito para a CIPA: tenho garantia no emprego?",
+  "category": "trabalho",
+  "summary": "Quem é eleito para cargo de direção da CIPA tem garantia no emprego desde o registro da candidatura até um ano após o fim do mandato. Não é garantia absoluta.",
+  "keywords": [
+    "CIPA",
+    "cipeiro",
+    "estabilidade da CIPA",
+    "suplente da CIPA",
+    "garantia de emprego"
+  ],
+  "synonyms": [
+    "estabilidade CIPA suplente",
+    "estabilidade começa na inscrição",
+    "empresa fechou tenho estabilidade da CIPA",
+    "quanto tempo dura a estabilidade da CIPA"
+  ],
+  "quickAnswer": "A Constituição proíbe a dispensa arbitrária ou sem justa causa do empregado eleito para cargo de direção da CIPA, desde o registro da candidatura até um ano após o fim do mandato. A CLT considera arbitrária a que não se fundar em motivo disciplinar, técnico, econômico ou financeiro, e a empresa deve provar o motivo. O TST estende a garantia ao suplente. Se o estabelecimento for extinto, não há reintegração nem indenização do período de estabilidade.",
+  "sections": {
+    "explanation": "O art. 10, II, a, do Ato das Disposições Constitucionais Transitórias proíbe a dispensa arbitrária ou sem justa causa do empregado eleito para cargo de direção de comissões internas de prevenção de acidentes (CIPA), desde o registro de sua candidatura até um ano após o final de seu mandato. A CLT (art. 165) diz que os titulares da representação dos empregados nas CIPAs não podem sofrer dispensa arbitrária, entendendo-se como arbitrária a que não se fundar em motivo disciplinar, técnico, econômico ou financeiro, e que, ocorrida a dispensa, cabe ao empregador comprovar um desses motivos na Justiça do Trabalho, sob pena de ser condenado a reintegrar o empregado. A Súmula 339 do TST diz que (I) o suplente da CIPA goza da garantia de emprego do art. 10, II, a, do ADCT, e que (II) a estabilidade do cipeiro é garantia para as atividades dos membros da CIPA, que só tem razão de ser quando a empresa está em atividade; extinto o estabelecimento, não se verifica dispensa arbitrária, sendo impossível a reintegração e indevida a indenização do período de estabilidade.",
+    "whenApplies": [
+      "Você foi eleito para cargo de direção da CIPA (titular ou suplente) e recebeu aviso de dispensa.",
+      "Você é candidato à CIPA e teme ser dispensado."
+    ],
+    "exceptions": [
+      "Representante indicado pela empresa não tem automaticamente essa estabilidade. O texto fala em empregado eleito.",
+      "Se o estabelecimento for extinto, a garantia perde a razão de ser (Súmula 339, II, do TST).",
+      "A empresa pode dispensar por motivo disciplinar, técnico, econômico ou financeiro, desde que prove.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias."
+    ],
+    "steps": [
+      "Guarde o comprovante de inscrição e o resultado da eleição.",
+      "Confirme se você é titular ou suplente e guarde a ata de posse e do mandato.",
+      "Se receber aviso de dispensa, peça o motivo por escrito.",
+      "Procure o sindicato ou assistência jurídica para avaliar a reintegração ou a indenização."
+    ],
+    "documentsToKeep": [
+      "Edital e ata da eleição",
+      "Comprovante de inscrição e resultado",
+      "Ata de posse e do mandato",
+      "Aviso de dispensa",
+      "Carteira de trabalho"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou contestar, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal — Ato das Disposições Constitucionais Transitórias",
+      "sphere": "federal",
+      "provisions": [
+        "art. 10, II, a"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 165, caput e parágrafo único"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Súmula nº 339 (CIPA, suplente, garantia de emprego)",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 339, itens I e II"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-004",
+    "TRA-009",
+    "TRA-030"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: ADCT art. 10, II, a (texto da Constituição no Planalto, via acervo); CLT art. 165 (Planalto, via acervo); Súmula 339 do TST (acervo do TST). O Tema 281 do TST não foi citado (texto oficial não conferido).",
+  "status": "published"
+}

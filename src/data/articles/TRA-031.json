@@ -1,0 +1,78 @@
+{
+  "id": "TRA-031",
+  "slug": "pedi-demissao-aviso-previo",
+  "title": "Pedi demissão: preciso cumprir o aviso prévio e o que eu recebo?",
+  "category": "trabalho",
+  "summary": "Quem pede demissão, em regra, deve avisar a empresa com antecedência. Se não cumprir o aviso, a empresa pode descontar os salários desse período.",
+  "keywords": [
+    "pedido de demissão",
+    "aviso prévio",
+    "pedi demissão",
+    "carta de demissão",
+    "desconto de aviso"
+  ],
+  "synonyms": [
+    "pedi demissão tenho que cumprir aviso",
+    "desconto de aviso prévio",
+    "pedi demissão o que recebo",
+    "posso sair antes do aviso",
+    "empresa não quer me liberar do aviso",
+    "carta de demissão"
+  ],
+  "quickAnswer": "Pela CLT, quem quer encerrar um contrato sem prazo, sem justo motivo, deve avisar a outra parte com antecedência mínima de 30 dias para quem recebe por quinzena ou mês (ou que tenha mais de 12 meses de empresa) e de 8 dias para quem recebe por semana ou menos. Se o empregado não avisar, a empresa tem direito de descontar os salários desse prazo. A empresa pode dispensar você do cumprimento do aviso. A entrega dos documentos e o pagamento da rescisão devem ocorrer em até dez dias contados do término do contrato.",
+  "sections": {
+    "explanation": "O art. 487 da CLT diz que, não havendo prazo estipulado, a parte que, sem justo motivo, quiser rescindir o contrato deve avisar a outra com antecedência mínima de oito dias, se o pagamento for por semana ou tempo inferior, e de trinta dias aos que recebem por quinzena ou mês ou que tenham mais de doze meses de serviço na empresa. A falta de aviso prévio por parte do empregado dá ao empregador direito de descontar os salários correspondentes ao prazo (§ 2º). O art. 477, § 6º, diz que a entrega dos documentos que comprovem a comunicação da extinção contratual aos órgãos competentes e o pagamento dos valores do termo de rescisão devem ser feitos até dez dias contados a partir do término do contrato. Confira no termo de rescisão se constam o saldo de salário, as férias vencidas e o 13º salário proporcional, conforme os seus direitos. A Lei 12.506/2011 trata do aviso prévio proporcional ao tempo de serviço; como ela se aplica ao empregado que pede demissão é um ponto discutido, e não deve ser tratado como obrigação automática.",
+    "whenApplies": [
+      "Você é empregado com contrato sem prazo definido e quer pedir demissão.",
+      "Você quer saber se precisa cumprir o aviso e quais valores deve receber."
+    ],
+    "exceptions": [
+      "Contrato por prazo determinado tem regras próprias de rescisão.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Dispensa do aviso sem desconto depende da concordância da empresa ou de outra circunstância. Não presuma que um novo emprego elimina o desconto."
+    ],
+    "steps": [
+      "Faça o pedido por escrito, datado e com protocolo ou comprovante de envio.",
+      "Diga se pretende cumprir o aviso ou peça a dispensa do cumprimento, e guarde a resposta da empresa.",
+      "Confira o termo de rescisão, os valores e a baixa na carteira de trabalho.",
+      "Não assine recibo de valor que não recebeu. Registre ressalvas.",
+      "Se houver desconto ou verbas não pagas, procure o sindicato."
+    ],
+    "documentsToKeep": [
+      "Carta de pedido de demissão e protocolo",
+      "Mensagens sobre o aviso e a dispensa dele",
+      "Contracheques e controle de ponto",
+      "Termo de rescisão e comprovante de pagamento",
+      "Carteira de trabalho (física ou digital)"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou contestar, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 487, caput, §§ 1º e 2º",
+        "art. 477, § 6º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-004",
+    "TRA-002",
+    "TRA-006",
+    "TRA-030"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 487 e 477, § 6º (texto do Planalto, via acervo). A Lei 12.506/2011 só é mencionada como ponto discutido, sem afirmar regra de proporcionalidade para quem pede demissão. Não foi listado valor de verbas.",
+  "status": "published"
+}

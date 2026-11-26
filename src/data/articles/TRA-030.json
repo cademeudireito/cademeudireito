@@ -1,0 +1,79 @@
+{
+  "id": "TRA-030",
+  "slug": "demitido-por-justa-causa",
+  "title": "Fui demitido por justa causa: a empresa podia fazer isso?",
+  "category": "trabalho",
+  "summary": "A justa causa só vale nos casos previstos no art. 482 da CLT, e a empresa precisa provar o motivo. Se for revertida na Justiça, as verbas mudam.",
+  "keywords": [
+    "justa causa",
+    "demissão por justa causa",
+    "art. 482",
+    "falta grave do empregado",
+    "contestar justa causa"
+  ],
+  "synonyms": [
+    "justa causa por falta",
+    "e agora, fui acusado de justa causa",
+    "empresa pode dar justa causa sem advertência",
+    "justa causa por abandono",
+    "posso contestar justa causa",
+    "o que recebo na justa causa"
+  ],
+  "quickAnswer": "Justa causa é a pior forma de demissão e só pode ser aplicada nos casos listados no art. 482 da CLT, como improbidade, mau procedimento, desídia, indisciplina e abandono de emprego. A CLT não fixa um número de advertências obrigatórias. A empresa precisa comprovar o fato alegado. Se você discordar, guarde provas e procure o sindicato para contestar.",
+  "sections": {
+    "explanation": "O art. 482 da CLT lista os motivos de justa causa: (a) ato de improbidade; (b) incontinência de conduta ou mau procedimento; (c) negociação habitual por conta própria ou alheia sem permissão, quando concorrer com a empresa ou prejudicar o serviço; (d) condenação criminal passada em julgado, sem suspensão da pena; (e) desídia no desempenho das funções; (f) embriaguez habitual ou em serviço; (g) violação de segredo da empresa; (h) indisciplina ou insubordinação; (i) abandono de emprego; (j) ato lesivo da honra ou ofensas físicas contra qualquer pessoa no serviço, salvo legítima defesa; (k) ato lesivo da honra ou ofensas físicas contra o empregador e superiores, salvo legítima defesa; (l) prática constante de jogos de azar; (m) perda da habilitação ou dos requisitos legais para a profissão, por conduta dolosa. A CLT diz que o ônus da prova do fato extintivo do direito do trabalhador cabe ao empregador (art. 818, II). A lista legal não prevê uma regra de 'três advertências' ou sequência fixa de punições. A Justiça do Trabalho analisa a gravidade do fato, a prova e o caso concreto. Quando a justa causa é afastada pela Justiça, as verbas devidas mudam. O que você recebe depende do motivo reconhecido.",
+    "whenApplies": [
+      "Você é empregado com carteira assinada e foi dispensado por justa causa.",
+      "Você acha que o motivo é falso, exagerado ou não está na lei."
+    ],
+    "exceptions": [
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário segue o estatuto e o processo disciplinar do órgão.",
+      "A avaliação da gravidade, da prova e da proporção é feita caso a caso pela Justiça do Trabalho."
+    ],
+    "steps": [
+      "Peça a comunicação da dispensa por escrito e o motivo apontado.",
+      "Se não concordar, não assine declaração de que concorda. Assinar o recebimento não precisa significar aceitar.",
+      "Confira a carteira de trabalho, o termo de rescisão e os valores pagos.",
+      "Guarde mensagens, documentos e nomes de testemunhas.",
+      "Anote a data em que a empresa soube do fato e a data da dispensa.",
+      "Procure o sindicato ou assistência jurídica rapidamente para avaliar a contestação e os prazos."
+    ],
+    "documentsToKeep": [
+      "Aviso de dispensa e termo de rescisão",
+      "Contracheques e controle de ponto",
+      "Advertências e suspensões, se houver",
+      "Regulamento interno da empresa",
+      "Mensagens e e-mails",
+      "Nomes de testemunhas"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "A fiscalização do trabalho, do Ministério do Trabalho e Emprego, pode receber denúncias de irregularidades, mas não decide se a justa causa é válida.",
+      "Para contestar a justa causa, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 482, alíneas a a m",
+        "art. 818, II"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-004",
+    "TRA-029",
+    "TRA-031",
+    "TRA-039"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 482 e 818 (texto do Planalto, via acervo). Não foram afirmados prazo de contestação nem lista de verbas. Verificado que o art. 482 não prevê sequência de advertências.",
+  "status": "published"
+}
