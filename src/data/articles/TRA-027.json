@@ -1,0 +1,89 @@
+{
+  "id": "TRA-027",
+  "slug": "comissoes-e-gorjetas",
+  "title": "Minhas comissões ou gorjetas não vêm certas no pagamento",
+  "category": "trabalho",
+  "summary": "Comissões fazem parte do salário. Gorjetas têm regras próprias na CLT: não são dinheiro que a empresa pode ficar sem prestar contas.",
+  "keywords": [
+    "comissão",
+    "comissões",
+    "gorjeta",
+    "gorjetas",
+    "remuneração variável",
+    "rateio de gorjeta"
+  ],
+  "synonyms": [
+    "comissão não caiu",
+    "empresa mudou minha meta",
+    "gorjeta é do garçom",
+    "patrão fica com os 10 por cento",
+    "comissão por venda cancelada",
+    "salário por fora comissão"
+  ],
+  "quickAnswer": "As comissões pagas pelo empregador integram o salário. A gorjeta não é receita da empresa: destina-se aos trabalhadores e deve ser distribuída pelos critérios de convenção ou acordo coletivo (ou, na falta, de assembleia dos trabalhadores). A empresa deve anotar na carteira e no contracheque o salário fixo e o percentual ou a média das gorjetas.",
+  "sections": {
+    "explanation": "O art. 457 da CLT diz que integram o salário a importância fixa estipulada, as gratificações legais e as comissões pagas pelo empregador (§ 1º). O art. 466 diz que o pagamento de comissões só é exigível depois de ultimada a transação a que se referem, e, nas vendas por prestações, proporcionalmente à liquidação; e que o fim do contrato não prejudica as comissões devidas. Gorjeta é a importância dada espontaneamente pelo cliente e também o valor cobrado pela empresa como serviço ou adicional e destinado à distribuição aos empregados (art. 457, § 3º). A gorjeta não é receita própria do empregador e será distribuída segundo critérios de custeio e rateio definidos em convenção ou acordo coletivo (§ 4º). Se não houver previsão coletiva, os critérios são definidos em assembleia geral dos trabalhadores (§ 5º). As empresas que cobram gorjeta devem anotar na carteira de trabalho e no contracheque o salário fixo e o percentual de gorjeta (§ 6º, III), e anotar na carteira o salário fixo e a média das gorjetas dos últimos doze meses (§ 8º). Se a empresa parar de cobrar gorjeta depois de mais de doze meses, ela se incorpora ao salário pela média dos últimos doze meses, salvo norma coletiva em contrário (§ 9º). Empresas com mais de sessenta empregados devem ter comissão de empregados para acompanhar a gorjeta, se a norma coletiva prever (§ 10). Essas regras vieram da Lei 13.419/2017.",
+    "whenApplies": [
+      "Você é empregado com remuneração variável, como vendedor, garçom ou outro trabalhador que recebe comissão.",
+      "Você acha que a comissão ou a gorjeta não foi paga ou rateada corretamente."
+    ],
+    "exceptions": [
+      "Representante comercial autônomo e prestador de serviço PJ de verdade não são empregados.",
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Como calcular a comissão e estornar vendas canceladas depende do contrato, da política da empresa e da convenção coletiva.",
+      "A convenção coletiva pode definir o percentual de gorjeta e o rateio."
+    ],
+    "steps": [
+      "Peça o regulamento de comissões, as metas, os percentuais e as datas de fechamento.",
+      "Compare suas vendas, cancelamentos e devoluções com o holerite.",
+      "Peça o extrato de gorjetas e os critérios de rateio.",
+      "Guarde provas das suas vendas, sem expor dados de clientes.",
+      "Se houver diferença, conteste por escrito e procure o sindicato."
+    ],
+    "documentsToKeep": [
+      "Contrato e política de comissões",
+      "Contracheques",
+      "Relatórios de vendas e metas",
+      "Extratos de gorjetas",
+      "Convenção coletiva da categoria",
+      "Mensagens sobre mudanças de regras"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Para cobrar valores, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 457, § 1º, § 3º a § 11",
+        "art. 466"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Lei nº 13.419/2017 (gorjetas)",
+      "sphere": "federal",
+      "provisions": [
+        "alterações ao art. 457 da CLT"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13419.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-001",
+    "TRA-002",
+    "TRA-006"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 457 e 466 e Lei 13.419/2017 (texto do Planalto, via acervo). Não foi afirmada taxa nacional de gorjeta nem regra universal de estorno de comissão.",
+  "status": "published"
+}

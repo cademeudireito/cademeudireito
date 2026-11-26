@@ -2135,6 +2135,42 @@
       "celular da empresa fora do horário",
       "prontidão",
       "atender o chefe fora do horário"
+    ],
+    [
+      "adicional noturno",
+      "trabalho noturno",
+      "hora noturna 52 minutos",
+      "trabalho à noite",
+      "adicional da noite"
+    ],
+    [
+      "insalubridade",
+      "adicional de insalubridade",
+      "ambiente insalubre",
+      "trabalho insalubre"
+    ],
+    [
+      "periculosidade",
+      "adicional de periculosidade",
+      "30 por cento periculosidade",
+      "trabalho perigoso"
+    ],
+    [
+      "desconto no salário",
+      "desconto indevido no holerite",
+      "desconto no contracheque",
+      "patrão descontou do meu salário"
+    ],
+    [
+      "comissão",
+      "comissão não paga",
+      "gorjeta",
+      "gorjetas",
+      "rateio de gorjeta"
+    ],
+    [
+      "fgts não depositado",
+      "meses faltando no fgts"
     ]
   ]
 }

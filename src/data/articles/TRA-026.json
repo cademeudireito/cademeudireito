@@ -1,0 +1,87 @@
+{
+  "id": "TRA-026",
+  "slug": "desconto-indevido-no-salario",
+  "title": "Meu patrão descontou dinheiro do meu salário sem explicar: isso pode?",
+  "category": "trabalho",
+  "summary": "A empresa só pode descontar do salário nos casos previstos em lei, adiantamentos ou contrato coletivo. Dano causado pelo empregado só pode ser descontado se isso foi combinado ou se houve dolo.",
+  "keywords": [
+    "desconto no salário",
+    "desconto indevido",
+    "desconto no holerite",
+    "dano causado pelo empregado",
+    "desconto de uniforme"
+  ],
+  "synonyms": [
+    "desconto estranho no holerite",
+    "patrão descontou uniforme",
+    "desconto por erro no caixa",
+    "podem descontar produto quebrado",
+    "salário veio menor sem explicação",
+    "desconto de adiantamento"
+  ],
+  "quickAnswer": "A CLT proíbe a empresa de fazer qualquer desconto no salário, salvo quando resultar de adiantamentos, de dispositivos de lei ou de contrato coletivo. Se o empregado causar dano, o desconto é lícito se essa possibilidade foi acordada ou se houve dolo (intenção). Peça explicação por escrito de cada desconto.",
+  "sections": {
+    "explanation": "O art. 462 da CLT diz que ao empregador é vedado efetuar qualquer desconto nos salários do empregado, salvo quando resultar de adiantamentos, de dispositivos de lei ou de contrato coletivo. O § 1º diz que, em caso de dano causado pelo empregado, o desconto será lícito se essa possibilidade tiver sido acordada ou se houver dolo do empregado. A Súmula 342 do TST diz que descontos feitos com autorização prévia e por escrito do empregado para planos de assistência odontológica, médico-hospitalar, de seguro, de previdência privada ou de entidade cooperativa, cultural ou recreativa associativa dos trabalhadores, em benefício do empregado e de seus dependentes, não violam o art. 462, salvo se ficar demonstrada coação ou outro defeito que vicie o ato. A Súmula trata só dessas hipóteses. O § 4º do art. 462 também proíbe limitar a liberdade do empregado de dispor do seu salário. Chamar uma diferença de caixa ou um produto quebrado de prejuízo não basta: é preciso haver uma hipótese legal ou o acordo previsto no § 1º, ou dolo.",
+    "whenApplies": [
+      "Você é empregado e o salário veio menor do que o combinado.",
+      "Aparece no contracheque um desconto que você não conhece ou não autorizou."
+    ],
+    "exceptions": [
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Empregado doméstico: confira a lei específica sobre descontos.",
+      "Convenção ou acordo coletivo da categoria pode prever descontos ou regras próprias."
+    ],
+    "steps": [
+      "Compare o contracheque com o valor que caiu na conta e identifique cada desconto.",
+      "Peça por escrito ao RH a explicação e o documento que autoriza o desconto.",
+      "Guarde comprovantes de adiantamentos, autorizações e mensagens.",
+      "Se for desconto por dano, peça a descrição do fato, a prova e o documento em que você aceitou essa possibilidade, ou a indicação do dolo.",
+      "Confira a convenção coletiva da categoria.",
+      "Se não houver base válida, peça a devolução por escrito e procure o sindicato."
+    ],
+    "documentsToKeep": [
+      "Contracheques",
+      "Extratos bancários",
+      "Contrato de trabalho e regulamento interno",
+      "Autorizações de desconto e recibos de adiantamento",
+      "Mensagens e advertências",
+      "Convenção coletiva da categoria"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Para cobrar valores, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 462, caput e §§ 1º e 4º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Súmula nº 342 (descontos salariais, art. 462 da CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 342"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-001",
+    "TRA-004"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT art. 462 (texto do Planalto, via acervo); Súmula 342 do TST (acervo do TST). Não foi afirmada regra única para uniforme, ferramentas ou quebra de caixa.",
+  "status": "published"
+}

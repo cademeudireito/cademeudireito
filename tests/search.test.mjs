@@ -36,7 +36,7 @@ test('tolera erro de digitação', () => {
   assert.equal(top('devorcio')[0], 'FAM-004');
   assert.equal(top('carteira asinada')[0], 'TRA-005');
 });
-test('aceita palavra pela metade', () => assert.ok(top('salar', 5).includes('TRA-001')));
+test('aceita palavra pela metade', () => assert.ok(top('salar atras')[0] === 'TRA-001'));
 test('entende expressões equivalentes (contexto)', () => {
   assert.ok(top('mandaram embora').includes('TRA-004'));
   assert.ok(top('meu patrão não me pagou')[0] === 'TRA-001');

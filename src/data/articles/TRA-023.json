@@ -1,0 +1,80 @@
+{
+  "id": "TRA-023",
+  "slug": "adicional-de-periculosidade",
+  "title": "Trabalho com combustível, eletricidade ou risco de violência: tenho direito a periculosidade?",
+  "category": "trabalho",
+  "summary": "A periculosidade paga 30% sobre o salário quando a atividade expõe a risco acentuado nas hipóteses previstas na CLT. Não basta trabalhar perto de um risco.",
+  "keywords": [
+    "periculosidade",
+    "adicional de periculosidade",
+    "30 por cento",
+    "trabalho perigoso",
+    "NR-16"
+  ],
+  "synonyms": [
+    "trabalho com gasolina tem periculosidade",
+    "eletricista tem direito a 30 por cento",
+    "vigia e segurança recebem periculosidade",
+    "quem trabalha de moto recebe adicional",
+    "empresa pode tirar a periculosidade",
+    "periculosidade acumula com insalubridade",
+    "preciso de laudo para periculosidade"
+  ],
+  "quickAnswer": "São perigosas, segundo a CLT, as atividades que implicam risco acentuado pela exposição permanente a inflamáveis, explosivos ou energia elétrica, a roubos ou outras violências nas atividades de segurança pessoal ou patrimonial, ou a acidentes nas atividades de agentes de trânsito. O adicional é de 30% sobre o salário, sem gratificações, prêmios e participação nos lucros. Se também tiver direito à insalubridade, você pode optar por um dos dois adicionais.",
+  "sections": {
+    "explanation": "A CLT (art. 193) considera perigosas as atividades que, na forma da regulamentação do Ministério do Trabalho e Emprego, implicam risco acentuado pela exposição permanente do trabalhador a inflamáveis, explosivos ou energia elétrica; a roubos ou outras espécies de violência física nas atividades profissionais de segurança pessoal ou patrimonial; ou a colisões, atropelamentos e outras violências nas atividades dos agentes das autoridades de trânsito. O adicional é de 30% sobre o salário, sem os acréscimos de gratificações, prêmios ou participações nos lucros (§ 1º). O empregado poderá optar pelo adicional de insalubridade que porventura lhe seja devido (§ 2º). O § 4º diz que também são consideradas perigosas as atividades de trabalhador em motocicleta; como isso se aplica na prática depende da regulamentação do Ministério do Trabalho e Emprego, e é preciso conferir o caso. O § 5º exclui a regra de inflamáveis para combustível nos tanques originais de fábrica e suplementares de veículos de carga e transporte coletivo, máquinas e equipamentos, nas condições ali descritas. O direito ao adicional cessa com a eliminação do risco (art. 194), e a caracterização é feita por perícia (art. 195).",
+    "whenApplies": [
+      "Você é empregado e trabalha exposto a risco acentuado nas hipóteses da CLT.",
+      "A empresa não paga o adicional ou o retirou sem explicar."
+    ],
+    "exceptions": [
+      "Não é automático para todo trabalhador em posto de combustível, perto de equipamento elétrico ou em local com circulação de pessoas. É preciso avaliar a atividade e a exposição.",
+      "A regra para motociclistas (art. 193, § 4º) depende de regulamentação do Ministério do Trabalho. Confira com o sindicato.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Se o risco for eliminado, o adicional deixa de ser devido."
+    ],
+    "steps": [
+      "Descreva o risco concreto: qual produto, equipamento ou situação de violência e onde ocorre.",
+      "Peça ao RH o laudo e a justificativa para pagar ou não o adicional.",
+      "Guarde provas das suas tarefas, sem entrar em áreas perigosas nem descumprir procedimentos de segurança.",
+      "Confira no contracheque se o adicional é de 30% sobre o salário.",
+      "Se o adicional foi retirado, peça por escrito o que mudou no processo e o laudo. Não aceite só explicação verbal.",
+      "Se houver divergência, procure o sindicato."
+    ],
+    "documentsToKeep": [
+      "Contrato e descrição das tarefas",
+      "Contracheques",
+      "Laudos e documentos de segurança a que tenha acesso",
+      "Escalas e ordens de serviço",
+      "Mensagens da chefia sobre exposição a risco"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Para cobrar valores, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 193, caput e §§ 1º, 2º, 4º e 5º",
+        "arts. 194 e 195"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-022",
+    "TRA-009",
+    "TRA-021"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 193 a 195 (texto do Planalto, via acervo). Não foi confirmado o texto atual da NR-16 nem a situação da regulamentação para motociclistas (página oficial não abriu); o texto diz só que depende de regulamentação.",
+  "status": "published"
+}

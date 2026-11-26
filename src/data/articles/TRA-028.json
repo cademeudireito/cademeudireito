@@ -1,0 +1,88 @@
+{
+  "id": "TRA-028",
+  "slug": "fgts-nao-depositado",
+  "title": "A empresa não deposita meu FGTS: como descubro e como cobro?",
+  "category": "trabalho",
+  "summary": "A empresa deve depositar todo mês 8% do salário na sua conta do FGTS. Se o extrato mostra meses sem depósito, você pode cobrar e denunciar.",
+  "keywords": [
+    "FGTS não depositado",
+    "FGTS atrasado",
+    "falta de depósito",
+    "extrato do FGTS",
+    "depósito de FGTS"
+  ],
+  "synonyms": [
+    "FGTS não caiu",
+    "empresa não deposita FGTS",
+    "meses faltando no extrato do FGTS",
+    "como cobrar FGTS atrasado",
+    "patrão deposita FGTS errado",
+    "como denunciar falta de FGTS"
+  ],
+  "quickAnswer": "Todo empregador deve depositar na conta vinculada, até o dia 20 de cada mês, 8% da remuneração paga ou devida no mês anterior. Consulte o extrato pelo aplicativo do FGTS, compare com seus meses de trabalho, peça explicação à empresa e, se não resolver, denuncie à fiscalização do trabalho ou procure a Justiça do Trabalho. Para saque do saldo, veja o assunto sobre saque do FGTS.",
+  "sections": {
+    "explanation": "A Lei 8.036/1990 (art. 15) obriga todos os empregadores a depositar, até o dia 20 de cada mês, em conta vinculada, 8% da remuneração paga ou devida no mês anterior a cada trabalhador, incluídas as parcelas dos arts. 457 e 458 da CLT. A fiscalização do cumprimento da lei é do Ministério do Trabalho, que apura débitos e infrações e notifica os empregadores para comprovar os depósitos (art. 23). Não depositar mensalmente o FGTS é infração. O Tribunal Superior do Trabalho fixou, em recurso repetitivo (Tema 70), a seguinte tese: a ausência ou irregularidade no recolhimento dos depósitos de FGTS caracteriza descumprimento de obrigação contratual, suficiente para configurar a rescisão indireta do contrato de trabalho, sendo desnecessário o requisito da imediatidade. Isso não dispensa a prova dos fatos: diferença aparente no aplicativo pode ter outras causas, como atraso de processamento.",
+    "whenApplies": [
+      "Você é empregado com carteira assinada e o extrato do FGTS tem meses sem depósito ou com valor menor.",
+      "Você quer saber como cobrar a empresa e o que fazer."
+    ],
+    "exceptions": [
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) em geral não têm FGTS, salvo se for reconhecido vínculo de emprego.",
+      "Servidor público estatutário não tem FGTS por essa lei.",
+      "Este assunto trata da falta ou irregularidade dos depósitos. Saque do saldo é outro assunto.",
+      "A rescisão indireta (sair da empresa por falta grave dela) exige cuidado e orientação antes de parar de trabalhar."
+    ],
+    "steps": [
+      "Consulte o extrato da conta do FGTS pelo aplicativo ou pelos canais oficiais da Caixa.",
+      "Compare os meses trabalhados e o salário com os depósitos.",
+      "Peça ao RH os comprovantes de recolhimento e a explicação para as lacunas, por escrito.",
+      "Guarde extratos, contracheques e documentos do vínculo.",
+      "Denuncie à fiscalização do trabalho e procure o sindicato.",
+      "Se não regularizar, avalie com um advogado ou o sindicato uma ação na Justiça do Trabalho para cobrar os depósitos."
+    ],
+    "documentsToKeep": [
+      "Extrato analítico do FGTS",
+      "Carteira de trabalho (física ou digital)",
+      "Contracheques",
+      "Contrato e termo de rescisão, se houver",
+      "Mensagens do RH sobre o FGTS"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Para cobrar valores, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.036/1990 (FGTS)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 15, caput",
+        "art. 23"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Tema Repetitivo 70 (FGTS e rescisão indireta)",
+      "sphere": "federal",
+      "provisions": [
+        "tese sobre ausência ou irregularidade no recolhimento do FGTS"
+      ],
+      "officialUrl": "https://www.trt18.jus.br/portal/justica-do-trabalho-reconhece-rescisao-indireta-por-falta-de-deposito-de-fgts/",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-014",
+    "TRA-001",
+    "TRA-004"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: Lei 8.036/1990 arts. 15 e 23 (texto do Planalto, via acervo); tese do Tema 70 do TST na notícia oficial do TRT-18 (a página não informa data de julgamento nem trânsito, e por isso o texto não cita datas). Não foram afirmados prazos de situações especiais nem regras do FGTS Digital.",
+  "status": "published"
+}

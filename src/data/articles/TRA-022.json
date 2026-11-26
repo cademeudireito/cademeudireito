@@ -1,0 +1,91 @@
+{
+  "id": "TRA-022",
+  "slug": "adicional-de-insalubridade",
+  "title": "Trabalho em lugar insalubre: tenho direito ao adicional de insalubridade?",
+  "category": "trabalho",
+  "summary": "O adicional não é devido só porque o lugar parece ruim ou perigoso. A atividade precisa estar nas normas do Ministério do Trabalho, e isso costuma exigir perícia.",
+  "keywords": [
+    "insalubridade",
+    "adicional de insalubridade",
+    "ambiente insalubre",
+    "NR-15",
+    "agente nocivo"
+  ],
+  "synonyms": [
+    "trabalho em hospital tem insalubridade",
+    "quem limpa banheiro recebe 40 por cento",
+    "empresa não paga insalubridade",
+    "luva e máscara tiram o direito ao adicional",
+    "trabalho com produto químico recebe insalubridade",
+    "preciso de laudo para receber insalubridade",
+    "qual a porcentagem da insalubridade"
+  ],
+  "quickAnswer": "Insalubridade é a exposição a agentes nocivos à saúde acima dos limites de tolerância. O adicional é de 10%, 20% ou 40% (graus mínimo, médio e máximo), mas só é devido se a atividade estiver na lista oficial do Ministério do Trabalho (NR-15) e, em geral, se for comprovada por perícia. Equipamento de proteção que realmente neutraliza o agente pode afastar o adicional.",
+  "sections": {
+    "explanation": "A CLT (art. 189) considera insalubres as atividades que, por sua natureza, condições ou métodos de trabalho, expõem os empregados a agentes nocivos à saúde acima dos limites de tolerância. O art. 192 fixa o adicional em 40%, 20% ou 10%, conforme o grau máximo, médio ou mínimo. A caracterização e a classificação são feitas por perícia de médico ou engenheiro do trabalho (art. 195), inclusive na Justiça. Pela Súmula 448 do TST, não basta laudo pericial: é necessário que a atividade esteja na relação oficial do Ministério do Trabalho (NR-15). Essa súmula também diz que a higienização de instalações sanitárias de uso público ou coletivo de grande circulação e a respectiva coleta de lixo dão direito ao adicional em grau máximo. O art. 191 permite eliminar ou neutralizar o risco com medidas no ambiente de trabalho ou com equipamento de proteção individual, e o direito ao adicional cessa quando o risco é eliminado (art. 194). Sobre qual valor o percentual incide, a CLT fala em salário mínimo da região, mas esse ponto é discutido e pode depender de norma coletiva e da Justiça. Não prometa um cálculo sem conferir isso.",
+    "whenApplies": [
+      "Você é empregado e trabalha exposto a agentes como ruído, calor, produtos químicos ou agentes biológicos.",
+      "A empresa não paga o adicional, ou paga em grau menor do que você acredita ser o correto."
+    ],
+    "exceptions": [
+      "Não é automático para todo trabalhador de hospital, limpeza, indústria ou laboratório. A atividade precisa estar na NR-15 e atingir as condições técnicas previstas.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Empregado doméstico: não se presume exposição. Confira a lei específica.",
+      "Se o risco for eliminado ou neutralizado, o adicional deixa de ser devido."
+    ],
+    "steps": [
+      "Descreva suas tarefas reais, o local, o agente (ruído, produto, calor etc.) e por quanto tempo fica exposto.",
+      "Peça ao empregador cópia de laudos e documentos de saúde e segurança que digam respeito ao seu posto.",
+      "Guarde fichas de entrega de equipamentos de proteção e treinamentos.",
+      "Confira se a atividade está na NR-15 do Ministério do Trabalho.",
+      "Peça ao RH, por escrito, a justificativa para pagar ou não o adicional.",
+      "Se houver divergência, procure o sindicato e a fiscalização do trabalho. Na Justiça, a perícia costuma decidir.",
+      "Não deixe de usar o equipamento de proteção nem mude os procedimentos de segurança por conta própria."
+    ],
+    "documentsToKeep": [
+      "Descrição do cargo e das tarefas reais",
+      "Contracheques",
+      "Fichas de entrega de equipamentos de proteção e treinamentos",
+      "Laudos e documentos de saúde e segurança a que tenha acesso",
+      "Mensagens sobre exposição ou falta de proteção",
+      "Nomes de colegas que fazem as mesmas tarefas"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Para cobrar valores, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 189, 191, 192, 194 e 195"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Súmula nº 448 (atividade insalubre, previsão na NR-15)",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 448, itens I e II"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-023",
+    "TRA-009",
+    "TRA-021"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 189, 191, 192, 194 e 195 (texto do Planalto, via acervo); Súmula 448 do TST (acervo do TST). Não foi confirmado o texto atual da NR-15 nem a Súmula Vinculante 4 do STF (página oficial não abriu); por isso o texto diz só que a base de cálculo é discutida. Não foi afirmada base de cálculo.",
+  "status": "published"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "TRA-021",
+  "slug": "adicional-noturno",
+  "title": "Trabalho à noite: meu salário tem que ter adicional noturno?",
+  "category": "trabalho",
+  "summary": "Quem trabalha à noite tem direito a um adicional sobre a hora diurna. Para o empregado urbano, o trabalho entre 22h e 5h paga pelo menos 20% a mais.",
+  "keywords": [
+    "adicional noturno",
+    "trabalho noturno",
+    "hora noturna",
+    "52 minutos",
+    "trabalho à noite"
+  ],
+  "synonyms": [
+    "trabalho depois das dez da noite recebe adicional",
+    "adicional noturno começa às 22h",
+    "hora noturna tem 52 minutos",
+    "saio às seis da manhã recebo adicional",
+    "trabalhador rural recebe adicional noturno",
+    "adicional noturno não aparece no holerite"
+  ],
+  "quickAnswer": "Empregado urbano: o trabalho entre 22h e 5h tem acréscimo de pelo menos 20% sobre a hora diurna, e a hora noturna é contada como 52 minutos e 30 segundos. Empregado rural: o trabalho noturno vai das 21h às 5h na lavoura e das 20h às 4h na pecuária, com acréscimo de 25%. Se você cumpriu toda a jornada à noite e ela foi prorrogada, o TST reconhece o adicional também nas horas prorrogadas.",
+  "sections": {
+    "explanation": "Pela CLT (art. 73), o trabalho noturno do empregado urbano é pago com acréscimo de pelo menos 20% sobre a hora diurna, e considera-se noturno o trabalho feito entre 22 horas de um dia e 5 horas do dia seguinte. A hora noturna é contada como de 52 minutos e 30 segundos. Em horários mistos (parte de dia, parte de noite), as horas noturnas recebem o adicional, e as prorrogações do trabalho noturno também seguem essas regras. Para o empregado rural, a Lei 5.889/1973 (art. 7º) considera noturno o trabalho entre 21h e 5h na lavoura e entre 20h e 4h na pecuária, com acréscimo de 25% sobre a remuneração normal. Ao menor de 18 anos é vedado o trabalho noturno (art. 8º dessa lei). A Súmula 60 do TST diz que o adicional noturno pago com habitualidade integra o salário para todos os efeitos e que, cumprida integralmente a jornada no período noturno e prorrogada esta, o adicional também é devido nas horas prorrogadas. Na escala 12x36, a CLT (art. 59-A) diz que a remuneração mensal já abrange o descanso semanal e os feriados e considera compensadas as prorrogações do trabalho noturno, quando houver. Convenção ou acordo coletivo pode prever percentual maior.",
+    "whenApplies": [
+      "Você é empregado e trabalha, total ou parcialmente, à noite.",
+      "O adicional ou as horas noturnas não aparecem separados no contracheque."
+    ],
+    "exceptions": [
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Empregado doméstico segue a Lei Complementar 150/2015. Confira o contrato e o contracheque.",
+      "Algumas categorias têm lei própria de jornada e adicionais.",
+      "Na escala 12x36, o art. 59-A tem regra própria. Confira a norma coletiva antes de concluir que o adicional não é devido."
+    ],
+    "steps": [
+      "Anote os horários exatos de início e fim de cada jornada, inclusive quando passa da meia-noite.",
+      "Veja se você é urbano, rural ou doméstico, para saber qual horário e percentual valem.",
+      "Confira no contracheque se aparecem o adicional noturno e a quantidade de horas noturnas.",
+      "Lembre que a hora noturna urbana tem 52 minutos e 30 segundos.",
+      "Peça ao RH a memória de cálculo e a norma coletiva usada.",
+      "Se houver diferença, procure o sindicato."
+    ],
+    "documentsToKeep": [
+      "Espelhos de ponto e escalas",
+      "Contracheques",
+      "Contrato de trabalho",
+      "Convenção ou acordo coletivo da categoria",
+      "Mensagens que mudem o horário de entrada ou saída"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Para cobrar valores, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 73, caput e §§ 1º, 2º, 4º e 5º",
+        "art. 59-A, parágrafo único"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Lei nº 5.889/1973 (trabalho rural)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º e parágrafo único",
+        "art. 8º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l5889.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Súmula nº 60 (adicional noturno)",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 60, itens I e II"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-017",
+    "TRA-003",
+    "TRA-013"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT art. 73 e 59-A e Lei 5.889/1973 arts. 7º e 8º (texto do Planalto, via acervo); Súmula 60 do TST (acervo do TST). Não foi afirmado percentual único para todas as categorias.",
+  "status": "published"
+}
