@@ -60,18 +60,6 @@
   },
   "legalReferences": [
     {
-      "name": "Resolução BCB nº 1/2020 (Regulamento do Pix), alterada pela Resolução BCB nº 493/2025",
-      "sphere": "federal",
-      "provisions": [
-        "art. 78-N (incluído pela Resolução BCB nº 493/2025)",
-        "arts. 41-D e 41-E (alterados pela Resolução BCB nº 493/2025)"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": "2026-11-24",
-      "observacao": "Página oficial do BCB não abriu. Texto lido em cópia de terceiro (normasbrasil). Os prazos de 80 dias, 7 dias e 96 horas não constam do ato: remetidos ao Manual Operacional do DICT. Art. 41-B citado pela IA não aparece no ato alterador."
-    },
-    {
       "name": "Guia de implementação dos procedimentos de devolução no Pix (Banco Central, versão 2.0)",
       "sphere": "federal",
       "provisions": [
@@ -100,8 +88,8 @@
     "CON-022",
     "CON-018"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido em 2026-11-24: Guia MED v2.0 do BCB (PDF oficial, pp. 13-17 e 26) e art. 78-N via cópia de terceiro (normasbrasil; página oficial da Res. 493 bloqueada). Pendente: prazo do pedido (80 dias aparece no guia de 2023, mas notícias de 2026 falam em mudança de 30 para 80 dias; Manual do DICT não aberto), e prazos de análise (7 dias corridos no guia) e de devolução (72h + 24h no guia); por isso o texto não publica números.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026. Retirada a Res. BCB 1/2020 e todos os prazos do MED (não confirmados em fonte oficial). Texto sem números; apoia-se no CDC art. 14.",
+  "status": "published"
 }

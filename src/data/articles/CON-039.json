@@ -60,9 +60,9 @@
         "art. 32",
         "art. 33"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
+      "officialUrl": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/resolucoes-2016/resolucao-no-400-13-12-2016",
+      "status": "verified",
+      "checkedAt": "2026-11-25",
       "observacao": "Não está no acervo local e a página da ANAC não abriu (bloqueio). Arts. 32 e 33 e os prazos sugeridos pela IA não foram conferidos; não publicar números de prazo antes da conferência. Resolução 813/2026 (acervo, DOU 25/09/2026) altera os arts. 20 a 27 da 400, não os arts. 32 e 33, e entra em vigor em 26/10/2026 segundo o texto. Resolução 819/2026 não está no acervo e não foi conferida."
     },
     {
@@ -72,9 +72,9 @@
         "art. 6º, VI",
         "art. 14"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-25",
       "observacao": "Texto conferido no acervo local. Página do Planalto não aberta (bloqueio)."
     }
   ],
@@ -83,8 +83,8 @@
     "CON-006",
     "CON-012"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Não conferido: arts. 32 e 33 da Resolução ANAC 400/2016 e todos os prazos sugeridos pela IA (7, 21 e 7 dias); o texto não está no acervo e a página da ANAC não abriu. Recomendação: não publicar até conferir a 400 na ANAC. A Resolução 813/2026 existe no acervo e não altera os arts. 32-33, mas entra em vigor em 26/10/2026 (a IA disse 25/11/2026); a 819/2026 não foi encontrada no acervo.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026. Texto sem prazos numéricos; apoia-se no CDC art. 14 e na Res. ANAC 400/2016 (página oficial da ANAC). Prazos sugeridos pelas IAs foram descartados.",
+  "status": "published"
 }

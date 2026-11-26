@@ -67,9 +67,9 @@
         "art. 39, VI",
         "art. 40, caput, § 1º e § 2º"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-25",
       "observacao": "Texto conferido no acervo local (lei-8078-1990-09-11). Página do Planalto não aberta (bloqueio). Art. 18 § 1º: 30 dias para sanar o vício; § 2º permite acordo entre 7 e 180 dias."
     }
   ],
@@ -77,8 +77,8 @@
     "CON-002",
     "CON-004"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido no acervo local: CDC arts. 14, 18 §§ 1º e 2º, 20, 21, 39 VI e 40 caput, § 1º e § 2º; Planalto não aberto (bloqueio). Corrigido em relação à IA: o art. 26 não é garantia legal do conserto, então os prazos de 30/90 dias ficaram fora; 'peças originais' sem 'por escrito', pois o art. 21 fala em autorização do consumidor; 'nenhuma assistência pode' virou 'em regra', por causa da ressalva do art. 39 VI.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }

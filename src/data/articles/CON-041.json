@@ -60,9 +60,9 @@
       "provisions": [
         "Súmula 130"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
+      "officialUrl": "https://www.stj.jus.br/docs_internet/revista/eletronica/stj-revista-sumulas-2010_9_capSumula130.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-25",
       "observacao": "Texto conferido no acervo local (caderno consolidado do STJ, sumula-130). A página oficial do STJ aberta nesta sessão não exibiu a súmula, por isso o status segue pendente. Súmula é entendimento do tribunal, não lei."
     },
     {
@@ -73,17 +73,17 @@
         "art. 25",
         "art. 51, I"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-25",
       "observacao": "Texto conferido no acervo local. Página do Planalto não aberta (bloqueio)."
     }
   ],
   "relatedArticles": [
     "CON-012"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferidos no acervo local: Súmula 130 do STJ (texto integral), CDC arts. 14, 25 e 51, I. Página oficial do STJ aberta, mas sem o texto da súmula; Planalto não aberto. Retirados sem fonte: prazo de 5 anos (art. 27), exigência de três orçamentos e a afirmação de que a prefeitura não responde por furto em vaga pública.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }

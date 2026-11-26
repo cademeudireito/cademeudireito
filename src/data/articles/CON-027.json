@@ -67,25 +67,14 @@
       "status": "verified",
       "checkedAt": "2026-11-24",
       "observacao": "Texto de ambos os dispositivos lido na página do Planalto."
-    },
-    {
-      "name": "Resolução Normativa ANEEL nº 1.000/2021",
-      "sphere": "federal",
-      "provisions": [
-        "arts. 252 a 255, 323, 325, 408, 421 e 423 (a conferir)"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
-      "observacao": "PDF oficial da ANEEL (ren20211000.pdf) não abriu nesta consulta. Prazos de resposta da distribuidora não confirmados, por isso não constam do texto."
     }
   ],
   "relatedArticles": [
     "CON-010",
     "CON-012"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido: CDC arts. 6º, III e 22 no Planalto; canais na página da ANEEL https://www.gov.br/aneel/pt-br/consumidores/como-registrar-reclamacao (aberta). Pendente: REN ANEEL 1.000/2021 (PDF oficial bloqueado): artigos citados pela IA não lidos, e os prazos de 5/10 dias úteis e de 15 dias para verificação do medidor foram retirados do texto por não confirmados. Menção a corte removida.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026. Retirada a REN ANEEL 1.000/2021 (texto não confirmado em fonte oficial). Texto apoia-se no CDC arts. 6º, III e 22.",
+  "status": "published"
 }

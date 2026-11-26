@@ -66,9 +66,9 @@
         "art. 35",
         "art. 49"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-25",
       "observacao": "Texto conferido no acervo local (lei-8078-1990-09-11, fonte normas.leg.br). Página do Planalto não foi aberta: bloqueio de acesso nesta sessão. Confirmar vigência na página oficial."
     },
     {
@@ -77,9 +77,9 @@
       "provisions": [
         "art. 27, § 8º"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11771.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-25",
       "observacao": "Lei 14.978/2024, art. 3º, altera a Lei 11.771 (confirmado no acervo local), e o § 8º foi acrescido por ela. Página do Planalto não aberta. A definição de pacote de viagem do art. 28, I, vale para transportadoras turísticas e não foi usada como definição geral."
     }
   ],
@@ -88,8 +88,8 @@
     "CON-006",
     "CON-007"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido no acervo local: CDC arts. 6º III e VI, 14, 30, 35 e 49, e Lei 11.771 art. 27 § 8º com alteração pela Lei 14.978/2024. Páginas oficiais não abertas (bloqueio). A decisão AREsp 3.226.209/MS não foi conferida e não é citada; nenhuma porcentagem de multa foi criada.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }

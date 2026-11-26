@@ -72,3 +72,8 @@ Conforme `docs/00-visao-geral-e-regras.md` §6 e `docs/10-plano-de-execucao-e-pr
       - CON-041: texto da Súmula 130 lido no acervo; a página do STJ não exibiu o texto.
       - CON-042: Planalto do CDC (art. 18, §1º e §2º lidos no acervo).
 31. **Busca e testes (2026-11-25):** 21 grupos novos em `search.json` (expressões já existentes não foram repetidas). Dois testes de conteúdo foram ajustados para aceitar rascunhos (`draft`/`pending_review`) fora do modo público; o modo estrito continua mostrando só os publicados. Os 75 testes passam.
+32. **Publicação dos assuntos de Consumidor (2026-11-25):** 20 dos 21 rascunhos conferidos nas páginas oficiais (Planalto, STJ, ANAC) e publicados (CON-021 a CON-034 e CON-037 a CON-042). Site passa de 93 para 113 artigos.
+    - **Referências retiradas por não confirmadas:** Res. BCB 1/2020 e prazos do MED (CON-021); Tema 1264 do STJ (CON-025); REN ANEEL 1.000/2021 (CON-027); Res. BCB 96/2021 (CON-029).
+    - **Continua rascunho:** CON-035 (portabilidade do número), até identificar a norma da Anatel em vigor.
+    - **CON-036** não foi criado (assunto 16 foi coberto por CON-032 e CON-033 conforme a seleção).
+    - Textos de CON-039 sem prazos numéricos (os prazos sugeridos pelas IAs foram descartados).

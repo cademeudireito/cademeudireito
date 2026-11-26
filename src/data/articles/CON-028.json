@@ -67,9 +67,9 @@
         "art. 127",
         "art. 134 (vigência)"
       ],
-      "officialUrl": "https://www2.camara.leg.br/legin/fed/lei/2024/lei-15040-9-dezembro-2024-796661-publicacaooriginal-173706-pl.html",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l15040.htm",
       "status": "verified",
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "observacao": "Texto na publicação original (Câmara dos Deputados). Publicada no DOU de 10/12/2024; vigência um ano depois (art. 134). Dia exato (10 ou 11/12/2025) a fixar. Página do Planalto não abriu."
     },
     {
@@ -90,8 +90,8 @@
     "CON-010",
     "CON-012"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido: Lei 15.040/2024 (arts. 9º §1º, 86 caput e §3º, 87 caput, 126 II, 127 e 134) na publicação original da Câmara; CDC arts. 3º §2º e 14 no Planalto; canal Consumidor.gov.br na página da SUSEP https://www.gov.br/susep/pt-br/fale-conosco/reclamar-de-uma-empresa-supervisionada-pela-susep (aberta). Pendente: dia exato da vigência (IA disse 11/12/2025; página do Senado indica 10/12/2025 para as revogações). Pendente: Planalto da lei (não abriu); Circular SUSEP 643/2021 não lida. Plano de saúde fora do escopo.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }

@@ -80,17 +80,6 @@
       "status": "verified",
       "checkedAt": "2026-11-24",
       "observacao": "Textos conferidos no Planalto. O §5º trata da prescrição de cobrança e das informações nos sistemas de proteção ao crédito."
-    },
-    {
-      "name": "Tema Repetitivo 1264 do Superior Tribunal de Justiça",
-      "sphere": "federal",
-      "provisions": [
-        "cobrança extrajudicial de dívida prescrita (questão afetada)"
-      ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": "2026-11-24",
-      "observacao": "Página oficial do STJ bloqueada na consulta. Não aparece nos boletins de precedentes 137, 141 e 144 consultados. Situação atual (afetado, em julgamento ou julgado) não confirmada."
     }
   ],
   "relatedArticles": [
@@ -98,8 +87,8 @@
     "CON-024",
     "CON-019"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido em 2026-11-24: Código Civil (arts. 202, VI; 205; 206, §5º, I) e CDC art. 43, §§1º e 5º (Planalto). Pendente: situação do Tema 1264 do STJ, que trata da cobrança extrajudicial de dívida prescrita. Sem confirmação, o texto não afirma tese sobre cobrança fora da Justiça. Antes de publicar, confirmar a situação no site do STJ.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026. Retirada a menção ao Tema 1264 do STJ (não confirmado). Texto apoia-se no Código Civil e no CDC.",
+  "status": "published"
 }

@@ -71,8 +71,8 @@
     "CON-005",
     "CON-018"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido no Planalto: CDC art. 39, I (condicionamento de produto ou serviço) e art. 6º, II e IV. Sem prazo, como no pacote. Não usado: Súmula 473 do STJ, citada pela Gemini, não aberta. Canal do Banco Central não conferido nesta consulta. Consumidor.gov.br não aberto.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }

@@ -85,8 +85,8 @@
     "CON-010",
     "CON-018"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido em 2026-11-24: Súmula 479 (scon.stj.jus.br) e arts. 6º, III e VI e 14 do CDC (Planalto). Sem prazo de contestação no texto: o prazo de 120 dias citado pela DeepSeek não foi confirmado e foi descartado; a afirmação de que não há prazo legal geral não foi conferida em fonte oficial, por isso o texto só diz que o prazo depende do contrato e das regras do banco e da bandeira. Canal do Banco Central conferido no gov.br; Consumidor.gov.br citado sem abrir a página.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }

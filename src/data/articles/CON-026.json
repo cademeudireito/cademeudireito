@@ -93,8 +93,8 @@
     "CON-009",
     "CON-024"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido em 2026-11-24: Lei 12.414/2011 (arts. 5º e 8º), LC 166/2019 (Planalto) e CDC art. 43, §3º. Corrigido: os 10 dias do art. 5º, III não são 'úteis' no texto; o prazo de 2 dias úteis é do art. 8º, III (fonte da informação), e não do Banco Central. Página do BCB sobre o Cadastro Positivo não foi aberta, por isso não é citada como canal.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }

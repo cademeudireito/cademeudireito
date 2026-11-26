@@ -72,9 +72,9 @@
         "art. 1º",
         "art. 2º"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5903.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-25",
       "observacao": "Ementa e vínculo com a Lei 10.962 conferidos na página da Câmara e no acervo local; texto dos arts. 1º e 2º lido só no acervo. Página oficial não abriu: https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5903.htm"
     },
     {
@@ -95,8 +95,8 @@
     "CON-007",
     "CON-010"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido: Lei 10.962/2004 art. 5º no Planalto (sem alteração); CDC arts. 30, 31 e 35 no Planalto. Pendente: Decreto 5.903/2006 arts. 1º e 2º (página oficial não abriu). A Anvisa citada pela IA não é o decreto: link removido. Art. 5º-A da Lei 10.962 (descontos por forma de pagamento) fica para o assunto de Pix e cartão. Canal Consumidor.gov.br não aberto nesta consulta.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }

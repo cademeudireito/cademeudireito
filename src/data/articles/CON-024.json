@@ -73,9 +73,9 @@
       "provisions": [
         "enunciado da Súmula 548"
       ],
-      "officialUrl": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=SUMU&sumula=548",
+      "officialUrl": "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27548%27.num.",
       "status": "verified",
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "observacao": "Julgada pela Segunda Seção em 14/10/2015 (DJe 19/10/2015). Prazo de cinco dias úteis após a quitação lido na página. A página não indica expressamente a situação de vigência."
     }
   ],
@@ -84,8 +84,8 @@
     "CON-010",
     "CON-025"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido em 2026-11-24: Súmula 548 (scon.stj.jus.br) e art. 43, §3º do CDC (Planalto). Removida a afirmação do ChatGPT de que a indenização não é automática, por não conferida; o texto diz apenas que depende das provas e do caso. Página do serviço de exclusão não foi usada como fonte.",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }

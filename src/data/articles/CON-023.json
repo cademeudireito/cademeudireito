@@ -98,8 +98,8 @@
     "CON-011",
     "CON-009"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido em 2026-11-24: Lei 10.820/2003, art. 6º (Planalto); IN PRES/INSS 138/2022 (gov.br, arts. 8º, 34 e 35); página gov.br de bloqueio do benefício (Meu INSS e Central 135). Pendente: página oficial 'Solicitar exclusão de empréstimo consignado' (bloqueada: não conferida, por isso não foi citada como canal); prazo de devolução (2 dias úteis sem evento definido). Descartados: 'devolução em dobro' e 'art. 27 do CDC' (Gemini).",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }

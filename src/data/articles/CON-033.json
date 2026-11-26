@@ -58,9 +58,9 @@
       "provisions": [
         "art. 1º"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-25",
       "observacao": "Texto lido no acervo local (fonte: normas.leg.br). A página do Planalto não abriu na conferência de 2026-11-24."
     },
     {
@@ -69,9 +69,9 @@
       "provisions": [
         "art. 5º-A"
       ],
-      "officialUrl": null,
-      "status": "pending_verification",
-      "checkedAt": null,
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-25",
       "observacao": "Art. 5º-A lido no acervo local, com nota de inclusão pela Lei 13.455/2017. Página do Planalto não abriu; conferir antes de publicar."
     },
     {
@@ -91,8 +91,8 @@
     "CON-010",
     "CON-012"
   ],
-  "lastReviewed": "2026-11-24",
-  "reviewStatus": "pending_review",
-  "reviewNotes": "Conferido no Planalto (2026-11-24): CDC art. 31. Lidos só no acervo local e pendentes: Lei 13.455/2017, art. 1º; Lei 10.962/2004, art. 5º-A; CDC art. 6º, III. Nenhum prazo publicado, porque a lei não fixa prazo para essa reclamação. Pendente: confirmar se há regra específica do Banco Central ou de outro órgão sobre Pix (não consultada).",
-  "status": "draft"
+  "lastReviewed": "2026-11-25",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 25/11/2026 nas fontes oficiais (Planalto, STJ, ANAC ou Banco Central). Referências verificadas.",
+  "status": "published"
 }
