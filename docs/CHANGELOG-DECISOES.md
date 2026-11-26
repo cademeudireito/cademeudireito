@@ -77,3 +77,4 @@ Conforme `docs/00-visao-geral-e-regras.md` §6 e `docs/10-plano-de-execucao-e-pr
     - **Continua rascunho:** CON-035 (portabilidade do número), até identificar a norma da Anatel em vigor.
     - **CON-036** não foi criado (assunto 16 foi coberto por CON-032 e CON-033 conforme a seleção).
     - Textos de CON-039 sem prazos numéricos (os prazos sugeridos pelas IAs foram descartados).
+33. **Telefones mantidos (2026-11-26):** o SAMU 192 continua com telefone nos contatos de Saúde, e o 135 (INSS) continua na página "Números úteis". Nenhuma alteração no site.
