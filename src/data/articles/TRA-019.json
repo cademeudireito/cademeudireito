@@ -1,0 +1,142 @@
+{
+  "id": "TRA-019",
+  "slug": "trabalho-domingo-e-feriado",
+  "title": "Posso ser obrigado a trabalhar no domingo ou no feriado? Tenho direito a folga ou pagamento em dobro?",
+  "category": "trabalho",
+  "summary": "Trabalhar no domingo ou feriado só é permitido nas condições da lei e da categoria. Feriado trabalhado e não compensado deve ser pago em dobro.",
+  "keywords": [
+    "trabalho no domingo",
+    "trabalho no feriado",
+    "pagamento em dobro",
+    "folga compensatória",
+    "repouso semanal"
+  ],
+  "synonyms": [
+    "trabalhei no feriado e não ganhei folga",
+    "domingo trabalhado paga dobrado",
+    "loja pode abrir no feriado sem acordo do sindicato",
+    "quantos domingos posso trabalhar seguidos",
+    "mulher tem direito a folgar domingo",
+    "dois domingos de folga com a nova escala"
+  ],
+  "quickAnswer": "Trabalho em feriado não compensado com outro dia de folga deve ser pago em dobro (Lei 605/1949 e Súmula 146 do TST). No comércio, trabalhar em feriado exige convenção coletiva e respeito à lei do município. Aos domingos, no comércio, o repouso deve coincidir com o domingo pelo menos uma vez a cada três semanas.",
+  "sections": {
+    "explanation": "O repouso semanal deve ser dado, preferencialmente, aos domingos. A Lei 605/1949 (art. 9º) diz que, nas atividades em que não é possível parar nos feriados, a remuneração é paga em dobro, salvo se o empregador determinar outro dia de folga. A Súmula 146 do TST diz: o trabalho em domingos e feriados, não compensado, deve ser pago em dobro, sem prejuízo da remuneração do repouso semanal. No comércio em geral, a Lei 10.101/2000 autoriza o trabalho aos domingos, observada a lei municipal, e exige que o repouso coincida com o domingo pelo menos uma vez a cada três semanas (art. 6º). O trabalho no comércio em feriados só é permitido com autorização em convenção coletiva e respeito à lei municipal (art. 6º-A). A Portaria MTE 1.316/2026 regulamenta o trabalho no comércio em feriados e lista atividades que podem funcionar, como padarias, farmácias, postos de combustíveis, hotéis, restaurantes e bares. Para mulheres, a CLT (art. 386) exige escala de revezamento quinzenal quando há trabalho aos domingos. A Portaria MTE 2.041/2026 repete essa regra e diz que, nas demais atividades fora do comércio, o repouso deve coincidir com o domingo pelo menos uma vez a cada quatro semanas. A partir de 16/12/2026, a Constituição passa a prever dois repousos semanais, um deles preferencialmente aos domingos. Isso não significa que todo trabalho aos domingos esteja proibido.",
+    "whenApplies": [
+      "Você é empregado e trabalha em domingos ou feriados.",
+      "A empresa não deu outra folga ou não pagou em dobro o feriado trabalhado."
+    ],
+    "exceptions": [
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "A lista de atividades que podem funcionar em feriado está na Portaria MTE 1.316/2026. Confira se a sua está nela.",
+      "Convenção ou acordo coletivo e lei do município podem trazer regras próprias. Confira o local onde você trabalha.",
+      "A forma de distribuir os dois repousos semanais a partir de 16/12/2026 pode ser definida por norma coletiva, e a decisão do STF sobre isso ainda é provisória."
+    ],
+    "steps": [
+      "Veja se o dia trabalhado era domingo ou feriado no calendário oficial do seu local.",
+      "Peça a escala e a convenção coletiva da categoria.",
+      "Verifique se você recebeu outra folga. Folga que já seria devida na escala normal não conta como compensação.",
+      "Confira no contracheque se o feriado trabalhado e não compensado foi pago em dobro.",
+      "Se a empresa não explicar, envie pedido escrito ao RH e guarde a resposta.",
+      "Se não resolver, procure o sindicato."
+    ],
+    "documentsToKeep": [
+      "Escala do mês e avisos de mudança",
+      "Espelhos de ponto",
+      "Contracheques",
+      "Convenção ou acordo coletivo da categoria",
+      "Mensagens da chefia mandando trabalhar no domingo ou feriado",
+      "Comprovante da folga compensatória, se houve"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Para cobrar diferenças, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 605/1949 (repouso semanal remunerado)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 9º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l0605.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Lei nº 10.101/2000",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º e parágrafo único",
+        "art. 6º-A"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l10101compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 386"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Súmula nº 146 (trabalho em domingos e feriados, não compensado)",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 146"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Portaria MTE nº 1.316/2026 (trabalho no comércio em feriados)",
+      "sphere": "federal",
+      "provisions": [
+        "regras e exceções"
+      ],
+      "officialUrl": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/portaria-regulamenta-o-trabalho-no-comercio-durante-os-feriados/",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Portaria MTE nº 2.041/2026 (regras complementares da EC 141/2026)",
+      "sphere": "federal",
+      "provisions": [
+        "regras sobre repousos, domingos, banco de horas e divisores"
+      ],
+      "officialUrl": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/governo-federal-publica-portaria-com-regras-complementares-para-aplicacao-da-escala-5x2/",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Constituição Federal, com a Emenda Constitucional nº 141/2026",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XIII e XV (nova redação)",
+        "EC 141/2026, arts. 2º, 6º e 10"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-016",
+    "TRA-017",
+    "TRA-013",
+    "TRA-003"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: Lei 605 art. 9º, Lei 10.101 arts. 6º e 6º-A e CLT art. 386 (texto do Planalto, via acervo); Súmula 146 no acervo do TST; Portaria 1.316/2026 e Portaria 2.041/2026 nas páginas oficiais do MTE (texto integral não lido). Não foi afirmada lista completa de exceções nem lei municipal. REVISAR após 16/12/2026.",
+  "status": "published"
+}

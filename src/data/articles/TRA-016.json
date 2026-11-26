@@ -1,0 +1,118 @@
+{
+  "id": "TRA-016",
+  "slug": "fim-da-escala-6x1-nova-jornada",
+  "title": "Acabou a escala 6x1? O que muda na jornada de trabalho",
+  "category": "trabalho",
+  "summary": "A Emenda Constitucional 141/2026 reduz a jornada para 42 horas em 16/12/2026 e para 40 horas em 16/12/2027, e cria dois repousos por semana.",
+  "keywords": [
+    "escala 6x1",
+    "fim da 6x1",
+    "escala 5x2",
+    "jornada 40 horas",
+    "jornada 42 horas",
+    "dois dias de folga",
+    "Emenda Constitucional 141"
+  ],
+  "synonyms": [
+    "acabou a escala 6 por 1",
+    "quando começa a escala 5x2",
+    "vou trabalhar 40 horas por semana quando",
+    "patrão pode diminuir meu salário com a nova jornada",
+    "a PEC do fim da 6x1 foi aprovada",
+    "duas folgas por semana",
+    "nova lei da jornada de trabalho"
+  ],
+  "quickAnswer": "A Emenda Constitucional 141/2026 já foi promulgada (16/10/2026). Até 15/12/2026 a jornada máxima segue como está. A partir de 16/12/2026, o limite cai para 42 horas por semana e passam a valer dois repousos semanais. A partir de 16/12/2027, o limite cai para 40 horas. O salário não pode ser reduzido por causa disso.",
+  "sections": {
+    "explanation": "A Emenda Constitucional 141/2026 foi publicada em 16/10/2026 e muda dois pontos do art. 7º da Constituição: a jornada normal e o descanso semanal. Pelo texto, o limite semanal cai para 42 horas dois meses depois da publicação (16/12/2026) e para 40 horas um ano depois disso (16/12/2027), com no máximo 8 horas por dia. O descanso semanal passa a ser de dois dias, um deles preferencialmente aos domingos, também a partir de 16/12/2026. A Emenda diz que a redução vale para os contratos em vigor, sem redução do salário nominal, proporcional ou de qualquer outra espécie. Normas complementares: o Decreto 13.173/2026 trata de turnos de revezamento, da escala 12x36 e do cálculo do valor da hora (divisor 210 para 42 horas e 200 para 40 horas, preservado o divisor mais favorável). A Portaria MTE 2.041/2026 diz que os dois repousos têm 24 horas cada e podem ser dados em dias seguidos ou não, e que convenção ou acordo coletivo pode distribuir os repousos de outra forma ao longo do mês, mas deve haver pelo menos um dia de descanso a cada seis dias seguidos de trabalho. Também há uma decisão do STF, ainda provisória: se não houver acordo ou convenção coletiva até 15/12/2026, a empresa pode distribuir as 42 horas em cinco dias, com até 8 horas e 24 minutos por dia, sem pagar hora extra pelos 24 minutos acima de 8 horas, até 15/12/2027. Essa decisão é de um só ministro (Flávio Dino) e ainda precisa ser analisada pelo Plenário do STF. Por isso, a regra pode mudar.",
+    "whenApplies": [
+      "Você é empregado (urbano, rural ou doméstico) e quer saber como fica sua jornada e suas folgas.",
+      "Você trabalha em escala 6x1 ou com jornada acima de 42 horas semanais."
+    ],
+    "exceptions": [
+      "Servidor público estatutário segue o estatuto do seu órgão. Confira com o RH.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) não são empregados e têm regras próprias.",
+      "Algumas categorias têm regras especiais por lei, por convenção coletiva ou por acordo coletivo. Veja a norma da sua categoria.",
+      "Há regra especial para empregado com curso superior e salário mensal alto, para contratos públicos e, ainda a ser definida em lei complementar, para MEI e pequenas empresas. Cada caso exige conferir o texto da Emenda.",
+      "A Emenda e as regras de transição são novas. A decisão do STF ainda pode mudar."
+    ],
+    "steps": [
+      "Confira a data: as mudanças começam em 16/12/2026 (42 horas e dois repousos) e em 16/12/2027 (40 horas).",
+      "Anote seus horários reais de entrada, saída e intervalos, e os dias trabalhados.",
+      "Peça à empresa, por escrito, a escala de trabalho e de folgas prevista para dezembro de 2026 e para 2027.",
+      "Peça a convenção ou o acordo coletivo da sua categoria e veja se tratam da jornada e dos repousos.",
+      "Confira no contracheque se o salário foi mantido.",
+      "Se a empresa mantiver só um repouso por semana ou reduzir seu salário, peça a explicação por escrito e leve o caso ao sindicato.",
+      "Não deixe de trabalhar nem mude a escala por conta própria. Guarde as provas."
+    ],
+    "documentsToKeep": [
+      "Escalas mensais e fotos do quadro de horários",
+      "Espelhos de ponto e registros de entrada e saída",
+      "Contracheques",
+      "Contrato de trabalho e aditivos",
+      "Convenção ou acordo coletivo da categoria",
+      "Mensagens da chefia que mudem folgas ou horários",
+      "Pedidos feitos ao RH e as respostas"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria para conferir a norma coletiva.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, nos canais oficiais.",
+      "Em casos que atinjam muitos trabalhadores, o Ministério Público do Trabalho pode ser informado.",
+      "Para cobrar valores, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal, com a Emenda Constitucional nº 141/2026",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XIII e XV (nova redação)",
+        "EC 141/2026, arts. 2º, 6º e 10"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Decreto nº 13.173/2026 (duração normal do trabalho e repouso semanal)",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º a 5º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13173.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Portaria MTE nº 2.041/2026 (regras complementares da EC 141/2026)",
+      "sphere": "federal",
+      "provisions": [
+        "regras sobre repousos, domingos, banco de horas e divisores"
+      ],
+      "officialUrl": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/governo-federal-publica-portaria-com-regras-complementares-para-aplicacao-da-escala-5x2/",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "STF — ADIs 8.041 e 8.042, decisão cautelar do ministro Flávio Dino (12/11/2026)",
+      "sphere": "federal",
+      "provisions": [
+        "decisão monocrática, ainda sem referendo do Plenário"
+      ],
+      "officialUrl": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-regra-de-transicao-para-implementacao-da-jornada-5x2/",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-017",
+    "TRA-018",
+    "TRA-019",
+    "TRA-003",
+    "TRA-013"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: EC 141/2026 no Planalto (arts. 1º a 10); Decreto 13.173/2026 no Planalto; Portaria MTE 2.041/2026 na página oficial do MTE; decisão cautelar do STF na notícia oficial do STF. Não foram afirmados: referendo do Plenário, ADI da CNI, lei complementar para MEI e regras para servidores. A Portaria não foi lida na íntegra do DOU. REVISAR após 16/12/2026 (início da 1ª etapa) e quando o STF julgar o referendo.",
+  "status": "published"
+}

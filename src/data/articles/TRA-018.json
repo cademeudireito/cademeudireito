@@ -1,0 +1,100 @@
+{
+  "id": "TRA-018",
+  "slug": "banco-de-horas",
+  "title": "Banco de horas: quando a empresa pode usar e quando tem que pagar",
+  "category": "trabalho",
+  "summary": "Banco de horas tem regras e prazos. Se você sai da empresa com horas não compensadas, elas devem ser pagas.",
+  "keywords": [
+    "banco de horas",
+    "compensação de horas",
+    "horas extras",
+    "saldo de horas",
+    "banco negativo"
+  ],
+  "synonyms": [
+    "meu banco de horas nunca zera",
+    "empresa pode descontar banco de horas negativo",
+    "banco de horas pode ser verbal",
+    "quanto tempo a empresa tem para pagar meu banco",
+    "fui demitido e tenho horas no banco",
+    "banco de horas depois da nova lei da 6x1"
+  ],
+  "quickAnswer": "A CLT permite banco de horas por convenção ou acordo coletivo (compensação em até um ano) e por acordo individual escrito (compensação em até seis meses). Compensação no mesmo mês pode ser por acordo individual, tácito ou escrito. Se você sair com horas não compensadas, a empresa deve pagá-las como horas extras. Com a nova regra constitucional, peça sempre à empresa a norma coletiva que sustenta o banco.",
+  "sections": {
+    "explanation": "O banco de horas permite trabalhar mais em um dia e folgar em outro. Pela CLT (art. 59), a hora extra é paga com pelo menos 50% a mais; o banco de horas por convenção ou acordo coletivo deve ser compensado em até um ano, sem passar de 10 horas por dia; por acordo individual escrito, em até seis meses; e a compensação dentro do mesmo mês pode ser por acordo individual, tácito ou escrito. Se o contrato terminar sem a compensação, o trabalhador tem direito ao pagamento das horas extras não compensadas, calculadas sobre a remuneração na data da rescisão (art. 59, § 3º). A Emenda Constitucional 141/2026 acrescentou ao art. 7º da Constituição regras sobre compensação de jornada por convenção ou acordo coletivo. Ainda não há orientação oficial confirmada sobre como isso fica com o acordo individual previsto na CLT. A Portaria MTE 2.041/2026 diz que o saldo de banco de horas acumulado até 15/12/2026 será compensado ou pago conforme o acordo individual ou o instrumento coletivo que o criou, e que as horas trabalhadas a partir de 16/12/2026 seguem os limites da Constituição.",
+    "whenApplies": [
+      "Você é empregado e a empresa usa banco de horas ou compensação.",
+      "Você trabalhou horas a mais e quer saber como e quando serão compensadas ou pagas."
+    ],
+    "exceptions": [
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Escala 12x36 tem regras próprias (veja o assunto sobre a 12x36).",
+      "Convenção ou acordo coletivo da sua categoria pode trazer regras diferentes."
+    ],
+    "steps": [
+      "Peça cópia do acordo ou da convenção que criou o banco e veja o prazo de validade.",
+      "Peça um extrato mensal com horas creditadas, descontadas e saldo.",
+      "Anote suas próprias horas e compare com o extrato.",
+      "Separe as horas feitas até 15/12/2026 das feitas depois dessa data.",
+      "Se saiu da empresa com saldo positivo, peça o demonstrativo e o pagamento das horas.",
+      "Se houver desconto de saldo negativo, peça a cláusula que o autoriza e procure o sindicato antes de aceitar."
+    ],
+    "documentsToKeep": [
+      "Acordo individual, acordo coletivo ou convenção coletiva",
+      "Extratos do banco de horas, mês a mês",
+      "Espelhos de ponto e escalas",
+      "Contracheques",
+      "Mensagens de convocação ou troca de turno",
+      "Termo de rescisão"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Para cobrar horas, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 59, caput e §§ 1º, 2º, 3º, 5º e 6º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Constituição Federal, com a Emenda Constitucional nº 141/2026",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XIII e XV (nova redação)",
+        "EC 141/2026, arts. 2º, 6º e 10"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Portaria MTE nº 2.041/2026 (regras complementares da EC 141/2026)",
+      "sphere": "federal",
+      "provisions": [
+        "regras sobre repousos, domingos, banco de horas e divisores"
+      ],
+      "officialUrl": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/governo-federal-publica-portaria-com-regras-complementares-para-aplicacao-da-escala-5x2/",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-003",
+    "TRA-016",
+    "TRA-017",
+    "TRA-004"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT art. 59 (texto do Planalto, via acervo); EC 141/2026; Portaria MTE 2.041/2026 na página oficial do MTE. Foi dito no texto que ainda não há orientação confirmada sobre o acordo individual após 16/12/2026. REVISAR após 16/12/2026.",
+  "status": "published"
+}

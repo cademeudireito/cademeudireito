@@ -1,0 +1,108 @@
+{
+  "id": "TRA-017",
+  "slug": "escala-12x36",
+  "title": "Trabalho 12 horas e folgo 36: a escala 12x36 continua valendo?",
+  "category": "trabalho",
+  "summary": "A escala 12x36 continua permitida pela CLT. Com a nova jornada, a empresa precisa conferir a média mensal e compensar ou pagar o excesso.",
+  "keywords": [
+    "escala 12x36",
+    "12 por 36",
+    "plantão 12x36",
+    "jornada 12 horas",
+    "escala de plantão"
+  ],
+  "synonyms": [
+    "12x36 pode ser combinado só de boca",
+    "quem trabalha 12x36 recebe feriado",
+    "12x36 vai acabar com a nova lei",
+    "na 12x36 tem adicional noturno",
+    "hora extra na escala 12x36",
+    "hospital pode mudar minha escala"
+  ],
+  "quickAnswer": "A escala 12x36 não acabou. A CLT a permite por acordo individual escrito, convenção ou acordo coletivo, com intervalo para repouso e alimentação usufruído ou pago. Com a nova jornada, se a média mensal passar do limite semanal, deve haver compensação ou pagamento de horas extras, nos termos da convenção ou do acordo coletivo.",
+  "sections": {
+    "explanation": "A escala 12x36 é de 12 horas seguidas de trabalho e 36 horas seguidas de descanso. A CLT permite essa escala por acordo individual escrito, convenção coletiva ou acordo coletivo (art. 59-A). A remuneração mensal combinada nessa escala já inclui o descanso semanal remunerado e o descanso em feriados, e são considerados compensados os feriados e as prorrogações do trabalho noturno, quando houver. Para empregado doméstico, a Lei Complementar 150/2015 (art. 10) permite a 12x36 por acordo escrito. O Decreto 13.173/2026 (art. 3º) diz que, quando a média mensal da escala 12x36 passar do limite semanal da Constituição, deve haver compensação das horas ou pagamento de horas extras, conforme convenção ou acordo coletivo. O limite semanal cai para 42 horas em 16/12/2026 e para 40 horas em 16/12/2027.",
+    "whenApplies": [
+      "Você é empregado em escala 12x36, como em hospitais, vigilância, portarias e outros serviços que funcionam sem parar.",
+      "Você quer saber se a escala é válida ou se está sendo paga corretamente."
+    ],
+    "exceptions": [
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "A regra de como compensar ou pagar o excesso depende de convenção ou acordo coletivo. Veja o da sua categoria.",
+      "Trabalhar em feriado, à noite ou em local insalubre pode ter regras próprias. Cada caso exige conferir o contrato e a norma coletiva."
+    ],
+    "steps": [
+      "Peça o documento que criou a escala: acordo individual escrito, acordo coletivo ou convenção coletiva.",
+      "Anote o horário de início e fim de cada plantão e o intervalo para refeição.",
+      "Guarde registro de plantões extras, trocas e chamadas durante a folga.",
+      "Confira no contracheque o pagamento de feriados e do adicional noturno, se trabalha à noite.",
+      "A partir de 16/12/2026, peça ao RH como a média mensal está sendo calculada.",
+      "Se houver dúvida, leve os registros ao sindicato."
+    ],
+    "documentsToKeep": [
+      "Acordo individual, acordo coletivo ou convenção coletiva da escala",
+      "Escalas mensais e trocas de plantão",
+      "Espelhos de ponto",
+      "Contracheques",
+      "Mensagens com convocações durante a folga"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver descumprimento.",
+      "Para cobrar diferenças, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 59-A, caput e parágrafo único"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Lei Complementar nº 150/2015 (trabalho doméstico)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 10"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Decreto nº 13.173/2026 (duração normal do trabalho e repouso semanal)",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º a 5º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13173.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Constituição Federal, com a Emenda Constitucional nº 141/2026",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XIII e XV (nova redação)",
+        "EC 141/2026, arts. 2º, 6º e 10"
+      ],
+      "officialUrl": "https://planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-016",
+    "TRA-018",
+    "TRA-019"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT art. 59-A e LC 150 art. 10 (texto do Planalto, via acervo); Decreto 13.173/2026 art. 3º no Planalto; EC 141/2026. Não foi citada a Súmula 444 do TST (cancelamento não confirmado). Não foi dado cálculo de horas extras.",
+  "status": "published"
+}

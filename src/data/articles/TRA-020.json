@@ -1,0 +1,88 @@
+{
+  "id": "TRA-020",
+  "slug": "sobreaviso-e-prontidao",
+  "title": "Tenho que ficar com o celular ligado esperando a empresa: isso é sobreaviso?",
+  "category": "trabalho",
+  "summary": "Só ter celular da empresa não é sobreaviso. Mas ficar de plantão, aguardando chamado durante o descanso e sob controle da empresa, pode ser.",
+  "keywords": [
+    "sobreaviso",
+    "plantão",
+    "prontidão",
+    "celular da empresa",
+    "chamado fora do expediente"
+  ],
+  "synonyms": [
+    "tenho que atender o chefe fora do horário",
+    "celular da empresa ligado conta como hora trabalhada",
+    "ficar de plantão em casa recebe quanto",
+    "sobreaviso dá direito a um terço",
+    "me chamam toda noite no whatsapp do trabalho",
+    "prontidão e sobreaviso são a mesma coisa"
+  ],
+  "quickAnswer": "Ter celular ou aplicativo da empresa, por si só, não é sobreaviso. Pela Súmula 428 do TST, está em sobreaviso quem, à distância e sob controle da empresa por meio de instrumentos tecnológicos, fica de plantão ou em situação equivalente, esperando ser chamado a qualquer momento durante o descanso. A prova de que sua liberdade ficou limitada é o que decide.",
+  "sections": {
+    "explanation": "A Súmula 428 do TST tem dois pontos: (I) o uso de instrumentos telemáticos ou informatizados fornecidos pela empresa, por si só, não caracteriza sobreaviso; (II) considera-se em sobreaviso o empregado que, à distância e submetido a controle patronal por instrumentos telemáticos ou informatizados, permanece em regime de plantão ou equivalente, aguardando a qualquer momento o chamado para o serviço durante o período de descanso. Na CLT, o sobreaviso e a prontidão estão previstos para ferroviários (art. 244): sobreaviso é ficar em casa aguardando o chamado, em escalas de no máximo 24 horas, com as horas contadas à razão de um terço do salário normal; prontidão é ficar nas dependências da empresa aguardando ordens, em escalas de no máximo 12 horas, com as horas contadas à razão de dois terços do salário-hora normal. A Súmula 428 aplica a ideia do sobreaviso por analogia a outras situações. Para quem não é ferroviário, o valor a pagar depende da decisão da Justiça ou da norma coletiva, e não deve ser presumido.",
+    "whenApplies": [
+      "Você é empregado e é obrigado a ficar disponível para ser chamado fora do horário de trabalho.",
+      "Você está em plantão ou escala de sobreaviso, com controle da empresa."
+    ],
+    "exceptions": [
+      "Quem só tem telefone da empresa, pode ignorar as mensagens e não está em plantão, em regra, não está em sobreaviso.",
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "A prontidão do art. 244 da CLT é prevista para ferroviários. Não presuma que valha igual para toda categoria."
+    ],
+    "steps": [
+      "Veja se existe escala de plantão ou ordem para ficar disponível.",
+      "Anote as restrições: tempo para atender, proibição de desligar o telefone, obrigação de ficar em casa ou perto do trabalho.",
+      "Guarde cada chamado recebido, com data, hora e duração do serviço feito.",
+      "Separe o tempo de espera do tempo em que de fato trabalhou ao ser chamado.",
+      "Peça ao RH a política de plantões e a forma de pagamento.",
+      "Se a empresa negar o pagamento, leve os registros ao sindicato."
+    ],
+    "documentsToKeep": [
+      "Escala de plantão ou de sobreaviso",
+      "Mensagens com ordens de disponibilidade",
+      "Registros de chamadas e de acesso remoto",
+      "Política interna de plantões",
+      "Contracheques",
+      "Anotações dos períodos de espera e de trabalho"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Para cobrar valores, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "TST — Súmula nº 428 (sobreaviso, aplicação analógica do art. 244, § 2º, da CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 428, itens I e II"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 244, §§ 2º e 3º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-003",
+    "TRA-013",
+    "TRA-016"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: Súmula 428 do TST (texto no acervo do TST) e CLT art. 244 §§ 2º e 3º (texto do Planalto, via acervo). Não foi afirmado percentual de sobreaviso fora dos ferroviários.",
+  "status": "published"
+}
