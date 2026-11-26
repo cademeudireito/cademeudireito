@@ -1,0 +1,94 @@
+{
+  "id": "TRA-015",
+  "slug": "acumulo-de-funcao-sem-adicional",
+  "title": "Faço o trabalho de duas funções e não recebo a mais por isso",
+  "category": "trabalho",
+  "summary": "Fazer tarefas além das do seu cargo nem sempre gera pagamento extra. Depende do que está no contrato, do tipo de tarefa e de provas.",
+  "keywords": [
+    "acúmulo de função",
+    "acumulo de funcao",
+    "plus salarial",
+    "duas funções",
+    "adicional",
+    "desvio de função",
+    "tarefas a mais"
+  ],
+  "synonyms": [
+    "faço serviço de outro cargo",
+    "trabalho de dois e ganho de um",
+    "patrão me colocou para fazer mais coisa",
+    "tenho direito a aumento por fazer outra função",
+    "empresa me deu mais tarefas sem aumentar salário",
+    "motorista que também cobra passagem",
+    "quero receber a mais por acúmulo de função"
+  ],
+  "quickAnswer": "Fazer mais de uma tarefa não dá, por si só, direito a salário maior. A regra geral é que você se obriga a todo serviço compatível com sua condição pessoal, se o contrato não disser o contrário. Mas pode haver direito a diferença se as tarefas novas forem de natureza bem diferente, não previstas no contrato, e você tiver provas. Guarde provas e procure o sindicato.",
+  "sections": {
+    "explanation": "A CLT não fala em \"acúmulo de função\" nem fixa um adicional automático para ele. O que ela diz é que, se o contrato não tem cláusula expressa sobre o assunto, entende-se que o empregado se obrigou a todo e qualquer serviço compatível com a sua condição pessoal (CLT, art. 456, parágrafo único). Por isso, só ter mais tarefas não garante pagamento extra. O Tribunal Superior do Trabalho (TST) aplicou essa regra em um caso específico: decidiu que o motorista de ônibus urbano que também faz a cobrança das passagens não tem direito a acréscimo de salário por isso. Fora desse caso, a Justiça do Trabalho analisa cada situação: o que o contrato diz, quais tarefas você realmente faz, se elas são compatíveis com seu cargo e se o que você faz mudou muito. Mudar as condições do contrato só é permitido com o seu consentimento e sem prejuízo para você (CLT, art. 468). E quando o contrato não diz qual é o salário, vale o pago a quem faz serviço equivalente na empresa (CLT, art. 460).",
+    "whenApplies": [
+      "Você tem carteira assinada e passou a fazer tarefas que não faziam parte do seu cargo, e a empresa não aumentou seu salário.",
+      "As tarefas novas são bem diferentes das que você foi contratado para fazer.",
+      "Seu contrato ou o combinado com a empresa não previa essas tarefas."
+    ],
+    "exceptions": [
+      "Tarefas parecidas ou ligadas ao seu cargo, na mesma jornada, costumam ser vistas como parte do trabalho contratado.",
+      "Motorista de ônibus urbano que também cobra passagens: o TST decidiu que não há acréscimo de salário.",
+      "Convenção ou acordo coletivo da sua categoria pode prever pagamento extra por tarefas a mais. Veja o que o seu sindicato negociou.",
+      "Quem trabalha por conta própria, sem vínculo de emprego, não é coberto por essas regras.",
+      "Servidor público tem regras próprias."
+    ],
+    "steps": [
+      "Leia seu contrato e a descrição do cargo para ver quais tarefas foram combinadas.",
+      "Anote desde quando você faz as tarefas novas, quais são e com que frequência.",
+      "Guarde provas: mensagens, e-mails, ordens de serviço, escalas e nomes de colegas que viram você fazendo.",
+      "Converse com a empresa por escrito (mensagem ou e-mail) e peça que o novo trabalho seja combinado e pago, guardando a resposta.",
+      "Procure o sindicato da sua categoria e veja se há regra no acordo ou convenção coletiva."
+    ],
+    "documentsToKeep": [
+      "Contrato de trabalho e carteira de trabalho (física ou digital)",
+      "Contracheques",
+      "Descrição do cargo, se a empresa tiver",
+      "Mensagens, e-mails, ordens de serviço e escalas que mostrem as tarefas",
+      "Nomes de colegas que podem confirmar o que você faz",
+      "Convenção ou acordo coletivo da categoria, se conhecer"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria: ele pode orientar sobre o acordo coletivo e a melhor forma de agir.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver outras irregularidades.",
+      "Se a empresa não resolver, procure a Defensoria Pública ou um advogado para avaliar uma ação na Justiça do Trabalho. O resultado depende das provas e do caso."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Decreto-Lei nº 5.452/1943 — Consolidação das Leis do Trabalho (CLT)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 456, parágrafo único",
+        "art. 460",
+        "art. 468"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Incidente de Recurso Repetitivo (Tema 128): motorista de ônibus urbano que também exerce a função de cobrador",
+      "sphere": "federal",
+      "provisions": [
+        "Tese: o exercício concomitante da função de cobrador pelo motorista de ônibus urbano não gera direito a acréscimo salarial (acórdão de 28/04/2025)"
+      ],
+      "officialUrl": "https://portal.trt3.jus.br/internet/jurisprudencia/incidentes-suscitados-irr-iac-arginc-tst/downloads/tema-128-irr-0100221-76-2021-5-01-0074-acordao-de-merito-publicado-09-05-2025.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-003",
+    "TRA-001",
+    "TRA-005"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: art. 456 p.ú., 460 e 468 da CLT no texto do Planalto (via acervo); Tema 128 do TST lido no acórdão (28/04/2025). Não foram afirmados requisitos, valores ou percentuais, pois não há tese vinculante geral confirmada em fonte oficial.",
+  "status": "published"
+}

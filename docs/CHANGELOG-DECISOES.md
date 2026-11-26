@@ -78,3 +78,7 @@ Conforme `docs/00-visao-geral-e-regras.md` §6 e `docs/10-plano-de-execucao-e-pr
     - **CON-036** não foi criado (assunto 16 foi coberto por CON-032 e CON-033 conforme a seleção).
     - Textos de CON-039 sem prazos numéricos (os prazos sugeridos pelas IAs foram descartados).
 33. **Telefones mantidos (2026-11-26):** o SAMU 192 continua com telefone nos contatos de Saúde, e o 135 (INSS) continua na página "Números úteis". Nenhuma alteração no site.
+34. **Trabalho: acúmulo de função (2026-11-26):** novo TRA-015 publicado a pedido do responsável (pesquisa, conferência e publicação na mesma etapa).
+    - **Conferido:** CLT arts. 456 (parágrafo único), 460 e 468 no texto do Planalto (via acervo); Tema 128 do TST (IRR), tese: motorista de ônibus urbano que também cobra passagens não tem direito a acréscimo salarial (acórdão de 28/04/2025, lido no PDF do TRT3).
+    - **Não afirmado por falta de fonte oficial:** requisitos gerais, valores ou percentuais do "plus salarial"; tese geral do TST para outras funções. Verificado que a CLT não usa a expressão "acúmulo de função".
+    - Grupo de busca adicionado. Dois testes ajustados: "acúmulo de função" deixou de ser exemplo de assunto inexistente (trocado por "astronauta marciano") e a busca "salar" passou a aceitar TRA-001 entre os 5 primeiros.
