@@ -1,0 +1,88 @@
+{
+  "id": "MUL-014",
+  "slug": "igualdade-salarial-entre-mulheres-e-homens",
+  "title": "Ganho menos que um homem na mesma função: o que a lei diz?",
+  "category": "mulheres",
+  "summary": "A lei diz que a igualdade salarial entre mulheres e homens, para trabalho de igual valor ou na mesma função, é obrigatória. Empresas com 100 ou mais empregados devem publicar relatórios de transparência salarial a cada semestre.",
+  "keywords": [
+    "igualdade salarial",
+    "salário de mulher",
+    "relatório de transparência salarial",
+    "discriminação",
+    "Lei 14.611/2023"
+  ],
+  "synonyms": [
+    "mulher ganha menos que homem na mesma função",
+    "igualdade salarial entre homens e mulheres",
+    "relatório de transparência salarial",
+    "posso pedir diferença salarial",
+    "empresa paga menos por ser mulher",
+    "multa por desigualdade salarial",
+    "denunciar discriminação salarial"
+  ],
+  "quickAnswer": "A Lei 14.611/2023 (art. 2º) diz que a igualdade salarial e de critérios remuneratórios entre mulheres e homens, para trabalho de igual valor ou na mesma função, é obrigatória. Se houver discriminação por sexo, raça, etnia, origem ou idade, o pagamento das diferenças não afasta o direito à indenização por danos morais (CLT, art. 461, § 6º). A multa é de 10 vezes o novo salário do empregado discriminado, e dobra se houver reincidência (art. 461, § 7º).",
+  "sections": {
+    "explanation": "A CLT (art. 461) garante igual salário para trabalho idêntico e de igual valor, sem distinção de sexo, etnia, nacionalidade ou idade. A Lei 14.611/2023 reforçou o princípio e prevê medidas: mecanismos de transparência salarial, fiscalização, canais de denúncia, programas de diversidade e capacitação (art. 4º). Pessoas jurídicas de direito privado com 100 ou mais empregados devem publicar semestralmente relatórios de transparência salarial e de critérios remuneratórios, com dados anonimizados (art. 5º). Quando houver desigualdade, a empresa deve apresentar e implementar plano de ação, com metas e prazos, com participação de representantes dos sindicatos e dos empregados (art. 5º, § 2º). Se descumprir a obrigação do relatório, há multa administrativa de até 3% da folha de salários, limitada a 100 salários mínimos (art. 5º, § 3º). Para a discriminação: se for comprovada, a empresa deve pagar as diferenças salariais, sem prejuízo de ação por danos morais (art. 461, § 6º), e a multa do art. 510 da CLT corresponde a 10 vezes o novo salário, em dobro na reincidência (art. 461, § 7º). Para comparar cargos, veja o assunto sobre equiparação salarial.",
+    "whenApplies": [
+      "Você faz o mesmo trabalho que um colega ou uma colega e recebe menos por ser mulher, ou por raça, etnia, origem ou idade.",
+      "Você quer saber o que a empresa precisa informar sobre salários."
+    ],
+    "exceptions": [
+      "O direito a igual salário depende de provar trabalho de igual valor, nas condições do art. 461 da CLT, como o mesmo empregador e estabelecimento.",
+      "O relatório de transparência vale para empresas privadas com 100 ou mais empregados. Os relatórios trazem dados anonimizados.",
+      "Servidor público estatutário segue o regime do órgão.",
+      "Prazos, metas e protocolos de fiscalização dependem de regulamento, que não foi lido aqui."
+    ],
+    "steps": [
+      "Reúna provas: contracheques, contrato, descrição do cargo, comparação com colegas na mesma função (sem expor dados de terceiros de forma ilegal).",
+      "Procure o RH e pergunte pelos critérios de remuneração e pelo relatório de transparência.",
+      "Denuncie à fiscalização do trabalho (Ministério do Trabalho e Emprego) e ao sindicato.",
+      "Para cobrar as diferenças e indenização, procure a Justiça do Trabalho com advogado, sindicato ou assistência jurídica.",
+      "Fique atenta ao prazo para ação (veja o assunto sobre prazo para reclamar na Justiça do Trabalho)."
+    ],
+    "documentsToKeep": [
+      "Contracheques e contrato de trabalho",
+      "Descrição do cargo e das atividades",
+      "Comunicações com o RH",
+      "Relatórios de transparência salarial da empresa",
+      "Nomes de testemunhas"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho (Ministério do Trabalho e Emprego).",
+      "Procure a Justiça do Trabalho com advogado, sindicato ou outra assistência jurídica."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 14.611/2023 — igualdade salarial e de critérios remuneratórios entre mulheres e homens",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º a 6º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-07-03;14611",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    },
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 461, caput, §§ 6º e 7º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-024",
+    "TRA-039",
+    "TRA-040",
+    "MUL-012"
+  ],
+  "lastReviewed": "2026-11-27",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 27/11/2026: Lei 14.611/2023 e CLT art. 461 (acervo, normas.leg.br). Não foi lido o decreto regulamentador nem relatórios de empresas. Não foram afirmados valores além dos escritos na lei.",
+  "status": "published"
+}

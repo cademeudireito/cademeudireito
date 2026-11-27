@@ -1,0 +1,89 @@
+{
+  "id": "MUL-013",
+  "slug": "violencia-politica-contra-a-mulher",
+  "title": "Estão me ameaçando ou tentando me calar por eu ser candidata ou ter mandato: isso é violência política?",
+  "category": "mulheres",
+  "summary": "Sim, pode ser. A lei define violência política contra a mulher e criou um crime eleitoral para quem assedia, humilha, persegue ou ameaça candidata ou mulher com mandato, por discriminação de gênero, cor, raça ou etnia, para atrapalhar a campanha ou o mandato.",
+  "keywords": [
+    "violência política",
+    "candidata",
+    "mandato eletivo",
+    "Código Eleitoral",
+    "assédio"
+  ],
+  "synonyms": [
+    "estão me impedindo de fazer campanha",
+    "sofro ameaça por ser vereadora",
+    "violência política de gênero é crime",
+    "querem me calar no mandato",
+    "ataques por ser mulher na política",
+    "pena para violência política contra a mulher",
+    "denunciar assédio na campanha"
+  ],
+  "quickAnswer": "A Lei 14.192/2021 define violência política contra a mulher como toda ação, conduta ou omissão com a finalidade de impedir, obstaculizar ou restringir os direitos políticos da mulher (art. 3º). E o art. 326-B do Código Eleitoral pune com reclusão de 1 a 4 anos e multa quem assediar, constranger, humilhar, perseguir ou ameaçar, por qualquer meio, candidata ou detentora de mandato, com menosprezo ou discriminação à condição de mulher ou à sua cor, raça ou etnia, para impedir ou dificultar a campanha ou o mandato.",
+  "sections": {
+    "explanation": "A Lei 14.192/2021 garante os direitos de participação política da mulher e veda discriminação e desigualdade de tratamento por sexo ou raça no acesso às instâncias de representação e no exercício de funções públicas (art. 2º). As autoridades devem priorizar o imediato exercício do direito violado, dando especial importância às declarações da vítima e aos elementos indiciários (art. 2º, parágrafo único). A lei define violência política contra a mulher (art. 3º) e considera também ato de violência política qualquer distinção, exclusão ou restrição no reconhecimento, gozo ou exercício de seus direitos e liberdades políticas fundamentais, em virtude do sexo (parágrafo único). O art. 326-B do Código Eleitoral, incluído pela mesma lei, tem pena de 1 a 4 anos de reclusão e multa, aumentada de 1/3 se a vítima for gestante, maior de 60 anos ou com deficiência. A lei também tem regras sobre propaganda que deprecie a condição de mulher (Código Eleitoral, art. 243, X).",
+    "whenApplies": [
+      "Você é candidata ou tem mandato eletivo e sofre assédio, humilhação, perseguição ou ameaça por ser mulher, ou por sua cor, raça ou etnia.",
+      "A conduta tem a finalidade de atrapalhar sua campanha ou o exercício do seu mandato."
+    ],
+    "exceptions": [
+      "O crime do art. 326-B exige que a vítima seja candidata ou detentora de mandato e que a conduta tenha a finalidade prevista.",
+      "Nem toda crítica ou divergência política é crime. É preciso conferir os elementos legais.",
+      "Este assunto não classifica casos concretos. Quem decide é a autoridade competente."
+    ],
+    "steps": [
+      "Guarde mensagens, publicações, e-mails, gravações e prints.",
+      "Anote datas, locais, nomes e testemunhas.",
+      "Em caso de ameaça ou risco, procure a polícia.",
+      "Procure a Justiça Eleitoral, o Ministério Público Eleitoral ou a Defensoria Pública para orientação.",
+      "Guarde protocolos de denúncia."
+    ],
+    "documentsToKeep": [
+      "Prints e links de publicações",
+      "Mensagens, e-mails, áudios e vídeos",
+      "Material de campanha que mostre o contexto",
+      "Nomes de testemunhas",
+      "Protocolos de denúncia"
+    ],
+    "ifDenied": [
+      "Se estiver em perigo agora, vá para um lugar seguro e acione a polícia.",
+      "Para ajuda contínua, veja o assunto sobre onde buscar ajuda em caso de violência.",
+      "Peça o registro formal da denúncia e guarde o protocolo.",
+      "Procure o Ministério Público Eleitoral ou a Defensoria Pública.",
+      "Se a primeira instituição não receber o relato, procure outra e mantenha os registros."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 14.192/2021 — violência política contra a mulher",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º a 4º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-08-04;14192",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    },
+    {
+      "name": "Lei nº 4.737/1965 — Código Eleitoral",
+      "sphere": "federal",
+      "provisions": [
+        "art. 243, X",
+        "art. 326-B e parágrafo único"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1965-07-15;4737",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    }
+  ],
+  "relatedArticles": [
+    "MUL-003",
+    "MUL-004",
+    "MUL-010"
+  ],
+  "lastReviewed": "2026-11-27",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 27/11/2026: Lei 14.192/2021 e Código Eleitoral, art. 326-B (texto compilado, acervo normas.leg.br). Não foram citadas decisões da Justiça Eleitoral nem alterações posteriores.",
+  "status": "published"
+}

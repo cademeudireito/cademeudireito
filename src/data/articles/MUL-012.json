@@ -1,0 +1,81 @@
+{
+  "id": "MUL-012",
+  "slug": "afastamento-do-trabalho-por-violencia-domestica",
+  "title": "Preciso me afastar do trabalho por causa da violência doméstica: posso perder o emprego?",
+  "category": "mulheres",
+  "summary": "A Lei Maria da Penha manda o juiz assegurar a manutenção do vínculo trabalhista quando for necessário afastar a mulher do local de trabalho, por até 6 meses. A lei não diz que o período é pago.",
+  "keywords": [
+    "afastamento do trabalho",
+    "vínculo trabalhista",
+    "violência doméstica",
+    "manter emprego",
+    "servidora pública"
+  ],
+  "synonyms": [
+    "posso faltar ao trabalho por violência",
+    "perco o emprego se fugir do agressor",
+    "a Lei Maria da Penha protege meu emprego",
+    "afastamento do trabalho por violência doméstica",
+    "servidora pode pedir remoção",
+    "a empresa pode me demitir se eu me afastar",
+    "remoção de servidora por violência"
+  ],
+  "quickAnswer": "A Lei Maria da Penha (art. 9º, § 2º, II) diz que o juiz assegurará à mulher em situação de violência, para preservar sua integridade física e psicológica, a manutenção do vínculo trabalhista, quando necessário o afastamento do local de trabalho, por até seis meses. A lei, nesse trecho, não diz que o período é remunerado nem quem paga. Se a mulher é servidora pública, há acesso prioritário à remoção (inciso I).",
+  "sections": {
+    "explanation": "O art. 9º da Lei Maria da Penha trata da assistência à mulher em situação de violência doméstica e familiar. O § 2º diz que o juiz assegurará à mulher, para preservar sua integridade física e psicológica: acesso prioritário à remoção, quando servidora pública da administração direta ou indireta (I); manutenção do vínculo trabalhista, quando necessário o afastamento do local de trabalho, por até seis meses (II); e encaminhamento à assistência judiciária (III). O § 1º diz que o juiz determinará, por prazo certo, a inclusão da mulher no cadastro de programas assistenciais do governo federal, estadual e municipal. A lei não diz que todo afastamento é automático: ele depende de decisão do juiz, e o texto não afirma que o salário continua sendo pago nesse período, nem a quem caberia pagar. Para o caso de demissão e verbas, veja o assunto sobre o que receber na demissão.",
+    "whenApplies": [
+      "Você sofre violência doméstica e familiar e precisa se afastar do local de trabalho para se proteger.",
+      "Você teme perder o emprego por causa do afastamento.",
+      "Você é servidora pública e precisa mudar de local."
+    ],
+    "exceptions": [
+      "Não é automático: o juiz decide quando o afastamento é necessário.",
+      "O limite previsto é de até 6 meses.",
+      "O texto não afirma que o período é remunerado nem define quem paga.",
+      "A remoção prioritária (inciso I) vale para servidora pública, não para empregada de empresa privada.",
+      "Convenção coletiva, política da empresa ou regras da previdência podem prever algo diferente. Isso não foi verificado aqui."
+    ],
+    "steps": [
+      "Se houver risco, priorize um lugar seguro e atendimento.",
+      "Procure a Defensoria Pública ou um advogado para pedir ao juiz a manutenção do vínculo.",
+      "Guarde cópia das medidas protetivas e de qualquer decisão.",
+      "Se for servidora pública, informe a condição e peça a remoção prioritária.",
+      "Guarde comunicações com o empregador sem expor informações além do necessário."
+    ],
+    "documentsToKeep": [
+      "Decisão judicial, se houver",
+      "Registros de ocorrência",
+      "Medidas protetivas",
+      "Contrato de trabalho, carteira e contracheques",
+      "Comunicações com o empregador ou o órgão público"
+    ],
+    "ifDenied": [
+      "Se estiver em perigo agora, vá para um lugar seguro e acione a polícia.",
+      "Para ajuda contínua, veja o assunto sobre onde buscar ajuda em caso de violência.",
+      "Se o empregador ameaçar encerrar o vínculo, guarde a comunicação e procure a Defensoria Pública ou advogado.",
+      "Se já existe decisão judicial e ela não é cumprida, procure a Defensoria Pública ou o Ministério Público.",
+      "Não deixe de buscar proteção por medo de perder o emprego."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 11.340/2006 — Lei Maria da Penha",
+      "sphere": "federal",
+      "provisions": [
+        "art. 9º, §§ 1º e 2º, I, II e III"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    }
+  ],
+  "relatedArticles": [
+    "MUL-002",
+    "MUL-004",
+    "TRA-004"
+  ],
+  "lastReviewed": "2026-11-27",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 27/11/2026: Lei 11.340/2006 art. 9º (texto compilado, acervo normas.leg.br). Não foi afirmado se o período é pago, quem paga, nem efeitos previdenciários. Isso exigiria pesquisa própria e decisões judiciais.",
+  "status": "published"
+}

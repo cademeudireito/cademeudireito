@@ -1,0 +1,90 @@
+{
+  "id": "MUL-005",
+  "slug": "medida-protetiva-sem-boletim-de-ocorrencia",
+  "title": "Preciso de boletim de ocorrência ou de processo para conseguir uma medida protetiva?",
+  "category": "mulheres",
+  "summary": "A lei diz que as medidas protetivas de urgência são concedidas mesmo sem boletim de ocorrência, sem inquérito e sem processo. Elas valem enquanto houver risco.",
+  "keywords": [
+    "medida protetiva",
+    "boletim de ocorrência",
+    "medida protetiva sem BO",
+    "risco",
+    "Lei Maria da Penha"
+  ],
+  "synonyms": [
+    "preciso de BO para pedir medida protetiva",
+    "medida protetiva sem denunciar",
+    "posso pedir medida protetiva sem processo",
+    "quanto tempo dura a medida protetiva",
+    "a medida protetiva vence",
+    "como pedir medida protetiva por escrito",
+    "a delegacia pode negar medida protetiva"
+  ],
+  "quickAnswer": "Não. A Lei Maria da Penha (art. 19, § 5º) diz que as medidas protetivas de urgência são concedidas independentemente da tipificação penal da violência, de ação penal ou cível, de inquérito policial ou de boletim de ocorrência. Elas podem ser pedidas pela própria mulher e valem enquanto persistir o risco (art. 19, § 6º).",
+  "sections": {
+    "explanation": "As medidas protetivas podem ser concedidas pelo juiz a pedido da ofendida ou a requerimento do Ministério Público (art. 19, caput), e de imediato, sem audiência das partes (art. 19, § 1º). Desde a Lei 14.550/2023, elas são concedidas em juízo de cognição sumária (decisão rápida, sem prova completa) a partir do depoimento da ofendida perante a autoridade policial ou de suas alegações escritas (art. 19, § 4º). O § 5º afasta a exigência de tipificação penal da violência, de ação penal ou cível, de inquérito ou de boletim de ocorrência. O § 6º diz que elas vigoram enquanto persistir o risco à integridade física, psicológica, sexual, patrimonial ou moral da mulher ou de seus dependentes. Recebido o pedido, o juiz tem 48 horas para decidir sobre as medidas (art. 18, I). O § 4º também prevê que as medidas podem ser indeferidas se a autoridade avaliar que não há risco. A lei não fixa um formulário ou local único para o pedido, que varia conforme o estado.",
+    "whenApplies": [
+      "Você está em situação de violência doméstica e familiar e precisa de proteção.",
+      "Você não quer ou não pode, agora, abrir um processo ou fazer boletim de ocorrência.",
+      "Você quer saber por quanto tempo a medida vale."
+    ],
+    "exceptions": [
+      "A medida pode ser indeferida se a autoridade avaliar que não há risco (art. 19, § 4º).",
+      "A lei não diz que o pedido dispensa o relato: o depoimento ou as alegações escritas continuam sendo a base da decisão.",
+      "O Ministério Público pode pedir a medida, mas a lei não exige que a mulher tenha outro processo em andamento.",
+      "Prazos e locais para o pedido variam conforme o estado e a comarca."
+    ],
+    "steps": [
+      "Em perigo imediato, vá a um lugar seguro e acione a polícia.",
+      "Conte o que aconteceu e o risco que você corre, em depoimento na delegacia ou em pedido escrito (você pode usar a Defensoria ou um advogado).",
+      "Peça o número do protocolo ou do pedido.",
+      "Se a medida for concedida, guarde cópia da decisão e leve-a sempre com você.",
+      "Se for negada, procure a Defensoria Pública ou o Ministério Público e peça que reavaliem."
+    ],
+    "documentsToKeep": [
+      "Cópia do depoimento ou do pedido escrito",
+      "Protocolo do pedido",
+      "Cópia da decisão que concedeu ou negou",
+      "Mensagens, áudios e ameaças recebidas",
+      "Relatórios médicos, se houver"
+    ],
+    "ifDenied": [
+      "Se estiver em perigo agora, vá para um lugar seguro e acione a polícia.",
+      "Para ajuda contínua, veja o assunto sobre onde buscar ajuda em caso de violência.",
+      "Se o pedido for negado, procure a Defensoria Pública ou o Ministério Público para pedir nova análise.",
+      "Em caso de nova violência ou descumprimento, avise a polícia e o juiz que concedeu a medida."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 11.340/2006 — Lei Maria da Penha",
+      "sphere": "federal",
+      "provisions": [
+        "art. 18, I",
+        "art. 19, caput e §§ 1º, 4º, 5º e 6º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    },
+    {
+      "name": "Lei nº 14.550/2023 — altera a Lei Maria da Penha (medidas protetivas)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º (inclui os §§ 4º a 6º ao art. 19)"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-04-19;14550",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    }
+  ],
+  "relatedArticles": [
+    "MUL-002",
+    "MUL-004",
+    "MUL-001"
+  ],
+  "lastReviewed": "2026-11-27",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 27/11/2026: Lei 11.340/2006, arts. 18 e 19 (texto compilado do acervo, fonte normas.leg.br). Os §§ 4º a 6º do art. 19 constam como acrescidos pela Lei 14.550/2023. A Lei 14.550/2023 (art. 1º) foi lida no texto original. Não foram afirmados formulários, locais ou prazos estaduais.",
+  "status": "published"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "MUL-007",
+  "slug": "afastamento-do-agressor-do-lar",
+  "title": "O agressor pode ser obrigado a sair da minha casa?",
+  "category": "mulheres",
+  "summary": "Sim. Quando há risco atual ou iminente à vida ou à integridade física, sexual, psicológica, moral ou patrimonial da mulher, a lei diz que o agressor será imediatamente afastado do lar.",
+  "keywords": [
+    "afastamento do agressor",
+    "sair de casa",
+    "medida protetiva",
+    "risco iminente",
+    "Lei Maria da Penha"
+  ],
+  "synonyms": [
+    "o agressor pode ser mandado embora de casa",
+    "posso pedir que ele saia da minha casa",
+    "a polícia pode tirar ele de casa",
+    "quem decide afastar o agressor",
+    "voltar para casa depois do afastamento",
+    "ele pode ficar na casa que é minha",
+    "afastamento do lar quem pode determinar"
+  ],
+  "quickAnswer": "O art. 12-C da Lei Maria da Penha diz que, verificado risco atual ou iminente à vida ou à integridade física, sexual, psicológica, moral ou patrimonial da mulher ou de seus dependentes, o agressor será imediatamente afastado do lar, domicílio ou local de convivência. Quem aplica é o juiz ou, onde o município não é sede de comarca, o delegado e, se não houver delegado disponível, o policial. Nesses casos, o juiz é comunicado em até 24 horas e decide sobre manter ou revogar a medida.",
+  "sections": {
+    "explanation": "O afastamento do lar é uma medida protetiva de urgência (art. 22, II) e também uma providência imediata prevista no art. 12-C. Esse artigo diz que, verificado o risco, o agressor será imediatamente afastado pela autoridade judicial, pelo delegado de polícia (quando o município não é sede de comarca) ou pelo policial (quando o município não é sede de comarca e não há delegado disponível no momento). Nesses dois últimos casos, o juiz é comunicado em até 24 horas e decide, em igual prazo, sobre manter ou revogar a medida, dando ciência ao Ministério Público (§ 1º). A Lei 15.411/2026, em vigor desde 20/5/2026, ampliou o texto para incluir o risco à integridade sexual, moral ou patrimonial. Nos casos de risco à integridade física da ofendida ou à efetividade da medida protetiva, não será concedida liberdade provisória ao preso (§ 2º). Depois do afastamento, o juiz pode determinar a recondução da mulher e dos dependentes ao domicílio (art. 23, II).",
+    "whenApplies": [
+      "Há risco à sua vida ou à sua integridade física, sexual, psicológica, moral ou patrimonial, ou à de seus dependentes.",
+      "Você mora com o agressor ou convive com ele, e a presença dele no lar aumenta o risco."
+    ],
+    "exceptions": [
+      "O afastamento depende da verificação do risco pela autoridade (art. 12-C, caput).",
+      "Se foi aplicado por delegado ou policial, o juiz decide em até 24 horas se mantém ou revoga.",
+      "A lei não diz quem fica com o imóvel em caso de disputa de propriedade.",
+      "Quando a mulher precisa sair, o juiz pode determinar o afastamento da ofendida do lar sem prejuízo dos direitos relativos a bens, guarda dos filhos e alimentos (art. 23, III)."
+    ],
+    "steps": [
+      "Em perigo imediato, vá a um lugar seguro e acione a polícia.",
+      "Conte à autoridade os riscos, ameaças e episódios de violência.",
+      "Peça o afastamento do agressor e as demais medidas protetivas.",
+      "Guarde cópia da decisão ou do registro do afastamento e peça informações sobre o prazo para o juiz decidir.",
+      "Se o agressor voltar ou descumprir, acione a polícia e informe o juiz."
+    ],
+    "documentsToKeep": [
+      "Cópia do boletim, termo de depoimento ou pedido",
+      "Cópia da decisão do juiz",
+      "Registros de ameaças e de episódios anteriores",
+      "Documentos do imóvel, se houver",
+      "Documentos dos filhos"
+    ],
+    "ifDenied": [
+      "Se estiver em perigo agora, vá para um lugar seguro e acione a polícia.",
+      "Para ajuda contínua, veja o assunto sobre onde buscar ajuda em caso de violência.",
+      "Se a medida for negada, procure a Defensoria Pública ou o Ministério Público.",
+      "O descumprimento de medida protetiva é crime (art. 24-A)."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 11.340/2006 — Lei Maria da Penha",
+      "sphere": "federal",
+      "provisions": [
+        "art. 12-C, caput e §§ 1º e 2º",
+        "art. 22, II",
+        "art. 23, II",
+        "art. 24-A"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    },
+    {
+      "name": "Lei nº 15.411/2026 — afastamento do agressor por risco sexual, moral ou patrimonial",
+      "sphere": "federal",
+      "provisions": [
+        "art. 1º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-05-20;15411",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    }
+  ],
+  "relatedArticles": [
+    "MUL-002",
+    "MUL-005",
+    "MUL-006",
+    "MUL-004"
+  ],
+  "lastReviewed": "2026-11-27",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 27/11/2026: Lei 11.340/2006 arts. 12-C, 22, 23 e 24-A (texto compilado) e Lei 15.411/2026 (acervo, normas.leg.br). Não foi afirmado quem fica no imóvel quando há disputa de propriedade. O art. 24-A prevê pena de 2 a 5 anos (já tratada em MUL-002).",
+  "status": "published"
+}

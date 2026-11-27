@@ -1,0 +1,89 @@
+{
+  "id": "MUL-006",
+  "slug": "auxilio-aluguel-mulher-vitima-de-violencia",
+  "title": "Tive que sair de casa por causa da violência: posso receber auxílio-aluguel?",
+  "category": "mulheres",
+  "summary": "O juiz pode conceder auxílio-aluguel à mulher em situação de violência, com valor fixado pela sua vulnerabilidade social e econômica, por até 6 meses. A lei não fixa um valor.",
+  "keywords": [
+    "auxílio-aluguel",
+    "sair de casa",
+    "violência doméstica",
+    "Lei Maria da Penha",
+    "vulnerabilidade"
+  ],
+  "synonyms": [
+    "posso receber ajuda para pagar aluguel",
+    "saí de casa por causa do agressor",
+    "ajuda financeira para vítima de violência",
+    "auxílio aluguel Maria da Penha",
+    "quanto é o auxílio aluguel",
+    "quem paga o auxílio aluguel para mulher",
+    "por quanto tempo dura o auxílio aluguel"
+  ],
+  "quickAnswer": "A Lei Maria da Penha (art. 23, VI, acrescido pela Lei 14.674/2023) permite que o juiz, quando necessário, conceda à ofendida auxílio-aluguel, com valor fixado em função de sua situação de vulnerabilidade social e econômica, por período não superior a 6 meses. A lei não diz o valor.",
+  "sections": {
+    "explanation": "O art. 23 da Lei Maria da Penha lista medidas que o juiz pode determinar, quando necessário, para proteger a mulher e seus dependentes, como encaminhar a mulher a programa de proteção ou de atendimento (inciso I), determinar a recondução ao domicílio após o afastamento do agressor (II) e determinar o afastamento da ofendida do lar sem prejuízo dos direitos relativos a bens, guarda dos filhos e alimentos (III). Desde 2023, o inciso VI permite também conceder auxílio-aluguel, com valor fixado conforme a vulnerabilidade social e econômica, por até 6 meses. A Lei 14.674/2023 (art. 2º) diz que as despesas poderão ser custeadas com recursos do Sistema Único de Assistência Social destinados pelos Estados, DF e Municípios a benefícios eventuais da assistência social. A lei fala em poder do juiz: ela não garante o benefício a toda mulher e não define quanto ela receberá. O afastamento do agressor da casa, que é outra medida, tem assunto próprio.",
+    "whenApplies": [
+      "Você está em situação de violência doméstica e familiar e precisou ou precisa sair de casa.",
+      "Você não tem condições de pagar moradia sozinha.",
+      "Você já tem ou vai pedir medidas protetivas."
+    ],
+    "exceptions": [
+      "O benefício depende de decisão do juiz, que avalia a necessidade e a situação de vulnerabilidade.",
+      "O prazo máximo previsto é de 6 meses.",
+      "A lei não fixa o valor.",
+      "A origem do dinheiro e o modo de pagamento dependem do estado ou município (a lei apenas permite o uso de recursos da assistência social)."
+    ],
+    "steps": [
+      "Ao pedir as medidas protetivas, conte que você precisou sair de casa e que não tem como pagar moradia.",
+      "Peça à Defensoria Pública, ao advogado ou ao Ministério Público que inclua o pedido de auxílio-aluguel.",
+      "Procure o serviço de assistência social do município (CRAS ou CREAS) e pergunte sobre benefícios eventuais.",
+      "Guarde provas da sua situação: comprovantes de renda, de aluguel, de despesas.",
+      "Guarde a decisão do juiz."
+    ],
+    "documentsToKeep": [
+      "Documentos de identificação",
+      "Comprovantes de renda e de gastos",
+      "Contrato de aluguel ou proposta",
+      "Cópia das medidas protetivas",
+      "Registros do episódio de violência"
+    ],
+    "ifDenied": [
+      "Se estiver em perigo agora, vá para um lugar seguro e acione a polícia.",
+      "Para ajuda contínua, veja o assunto sobre onde buscar ajuda em caso de violência.",
+      "Se o pedido for negado ou demorar, procure a Defensoria Pública ou o Ministério Público.",
+      "Procure o serviço de assistência social do município para saber de outros benefícios."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 11.340/2006 — Lei Maria da Penha",
+      "sphere": "federal",
+      "provisions": [
+        "art. 23, I, II, III e VI"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    },
+    {
+      "name": "Lei nº 14.674/2023 — auxílio-aluguel a mulher em situação de violência",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º e 2º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-09-14;14674",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    }
+  ],
+  "relatedArticles": [
+    "MUL-005",
+    "MUL-007",
+    "MUL-004"
+  ],
+  "lastReviewed": "2026-11-27",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 27/11/2026: Lei 11.340/2006 art. 23 (texto compilado) e Lei 14.674/2023 arts. 1º e 2º (acervo, normas.leg.br). Não foram afirmados valor, procedimento nem prazo para pagamento.",
+  "status": "published"
+}

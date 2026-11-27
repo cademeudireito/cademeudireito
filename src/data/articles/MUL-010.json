@@ -1,0 +1,89 @@
+{
+  "id": "MUL-010",
+  "slug": "perseguicao-ameaca-e-violencia-psicologica-contra-a-mulher",
+  "title": "Perseguição, ameaça e controle: quando isso é crime contra a mulher?",
+  "category": "mulheres",
+  "summary": "Pode ser. Perseguir alguém de forma reiterada e ameaçá-la ou invadir sua privacidade é crime (art. 147-A), e causar dano emocional à mulher para degradá-la ou controlá-la é violência psicológica (art. 147-B). Ambos têm pena de 6 meses a 2 anos e multa.",
+  "keywords": [
+    "perseguição",
+    "stalking",
+    "violência psicológica",
+    "ameaça",
+    "Sinal Vermelho"
+  ],
+  "synonyms": [
+    "ex que persegue a ex-companheira",
+    "controle e isolamento pelo parceiro",
+    "perseguição pelas redes sociais",
+    "violência psicológica é crime",
+    "denunciar perseguição",
+    "pedir ajuda com um X vermelho na mão"
+  ],
+  "quickAnswer": "O Código Penal prevê dois crimes. A perseguição (art. 147-A) é perseguir alguém reiteradamente, por qualquer meio, ameaçando sua integridade física ou psicológica, restringindo sua locomoção ou invadindo ou perturbando sua liberdade ou privacidade: pena de 6 meses a 2 anos e multa, aumentada de metade se for contra mulher por razões da condição de sexo feminino. A violência psicológica contra a mulher (art. 147-B) é causar dano emocional que a prejudique ou vise degradar ou controlar suas ações e decisões, por ameaça, humilhação, manipulação, isolamento, chantagem ou outros meios: pena de 6 meses a 2 anos e multa, se não for crime mais grave.",
+  "sections": {
+    "explanation": "A perseguição (art. 147-A) exige conduta reiterada, por qualquer meio. A pena é aumentada de metade se o crime for contra criança, adolescente ou idoso, contra mulher por razões da condição de sexo feminino ou com 2 ou mais pessoas ou arma (§ 1º). A lei prevê que as penas se aplicam sem prejuízo das da violência (§ 2º) e que só se procede mediante representação (§ 3º), isto é, a vítima precisa manifestar o desejo de que a pessoa seja processada. A violência psicológica contra a mulher (art. 147-B), criada pela Lei 14.188/2021, tem pena de 6 meses a 2 anos e multa, se a conduta não constitui crime mais grave. A pena é aumentada de metade se o crime usar inteligência artificial ou outro recurso tecnológico que altere imagem ou som da vítima (parágrafo único). A Lei 14.188/2021 também definiu o programa de cooperação Sinal Vermelho contra a Violência Doméstica: a mulher pode pedir ajuda com um X, preferencialmente na mão e na cor vermelha, em repartições públicas e entidades privadas participantes, que devem encaminhá-la ao atendimento (arts. 2º e 3º). A lei não define lista de entidades que participam em cada cidade.",
+    "whenApplies": [
+      "Uma pessoa segue, manda mensagens ou vigia você de forma repetida e isso assusta ou tira sua liberdade.",
+      "Alguém te humilha, ameaça, isola, chantageia ou manipula e isso te faz mal.",
+      "Você quer saber se pode pedir ajuda por meio do Sinal Vermelho."
+    ],
+    "exceptions": [
+      "A perseguição exige conduta reiterada, não um episódio isolado.",
+      "A violência psicológica do art. 147-B só vale 'se a conduta não constitui crime mais grave'.",
+      "A perseguição exige representação da vítima para o processo seguir.",
+      "Sinal Vermelho só funciona em locais que participam do programa. A lei não lista quais."
+    ],
+    "steps": [
+      "Guarde provas: prints, mensagens, e-mails, áudios, vídeos, nomes de testemunhas.",
+      "Anote datas, horários e locais de cada episódio.",
+      "Registre a ocorrência na delegacia e conte que o ato se repete.",
+      "Peça medidas protetivas, se for caso de violência doméstica e familiar.",
+      "Se estiver em perigo, vá a um lugar seguro e acione a polícia. O sinal do X vermelho na mão pode ser usado onde o programa existir."
+    ],
+    "documentsToKeep": [
+      "Prints e links",
+      "Mensagens, e-mails e áudios",
+      "Registro de ocorrência",
+      "Cópia de medidas protetivas",
+      "Relatórios médicos ou psicológicos, se houver"
+    ],
+    "ifDenied": [
+      "Se estiver em perigo agora, vá para um lugar seguro e acione a polícia.",
+      "Para ajuda contínua, veja o assunto sobre onde buscar ajuda em caso de violência.",
+      "Se a delegacia não registrar, procure a Defensoria Pública ou o Ministério Público.",
+      "Peça que o relato fique registrado por escrito e guarde o protocolo."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
+      "sphere": "federal",
+      "provisions": [
+        "art. 147-A",
+        "art. 147-B"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    },
+    {
+      "name": "Lei nº 14.188/2021 — programa Sinal Vermelho e violência psicológica contra a mulher",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º a 3º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-07-28;14188",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    }
+  ],
+  "relatedArticles": [
+    "MUL-001",
+    "MUL-004",
+    "MUL-005"
+  ],
+  "lastReviewed": "2026-11-27",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 27/11/2026: Código Penal arts. 147-A e 147-B (texto compilado) e Lei 14.188/2021 arts. 1º a 3º (acervo, normas.leg.br). O texto do art. 147-A, § 1º, II remete ao § 2º-A do art. 121, e a remissão não foi explicada aqui. Não foi afirmado que o Sinal Vermelho funciona em todas as cidades.",
+  "status": "published"
+}

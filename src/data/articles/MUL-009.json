@@ -1,0 +1,89 @@
+{
+  "id": "MUL-009",
+  "slug": "atendimento-hospitalar-apos-violencia-sexual",
+  "title": "Sofri violência sexual: o hospital precisa me atender mesmo sem boletim de ocorrência?",
+  "category": "mulheres",
+  "summary": "Sim. Os hospitais devem oferecer atendimento emergencial, integral e multidisciplinar, de graça. A lei não exige boletim de ocorrência antes do atendimento. Os casos com indício ou confirmação de violência sexual devem ser comunicados à polícia em até 24 horas.",
+  "keywords": [
+    "violência sexual",
+    "atendimento hospitalar",
+    "estupro",
+    "pílula do dia seguinte",
+    "SUS"
+  ],
+  "synonyms": [
+    "hospital pode negar atendimento depois de estupro",
+    "preciso de boletim para ser atendida",
+    "atendimento gratuito violência sexual",
+    "hospital avisa a polícia",
+    "remédio depois de violência sexual",
+    "o hospital guarda provas",
+    "fui violentada o que fazer"
+  ],
+  "quickAnswer": "A Lei 12.845/2013 (art. 1º) diz que os hospitais devem oferecer às vítimas de violência sexual atendimento emergencial, integral e multidisciplinar. Os serviços são gratuitos (art. 3º, § 1º) e compreendem tratamento das lesões, amparo médico, psicológico e social, profilaxia da gravidez e de infecções sexualmente transmissíveis, exame de HIV e informações sobre direitos. A lei não exige boletim de ocorrência para o atendimento. Desde 2026, os casos com indícios ou confirmação devem ser comunicados à autoridade policial em até 24 horas (art. 3º, IX).",
+  "sections": {
+    "explanation": "A Lei 12.845/2013 define violência sexual como qualquer forma de atividade sexual não consentida (art. 2º). O atendimento imediato, obrigatório em todos os hospitais da rede do SUS, compreende: diagnóstico e tratamento das lesões; amparo médico, psicológico e social imediatos; facilitação do registro da ocorrência e encaminhamento ao órgão de medicina legal e às delegacias especializadas; profilaxia da gravidez e das doenças sexualmente transmissíveis; coleta de material para exame de HIV; e informações sobre direitos e serviços de saúde (art. 3º, I a VII). Os serviços são gratuitos (§ 1º). A Lei 15.516/2026, em vigor desde 22/9/2026, acrescentou a coleta de material para exame toxicológico, se indicado (VIII), e a comunicação obrigatória à autoridade policial, em até 24 horas, dos casos com indícios ou confirmação de violência sexual, para providências e fins estatísticos (IX). No tratamento das lesões, o médico deve coletar e preservar materiais que possam compor o corpo de delito (§ 2º). A mesma lei criou um protocolo: quando o primeiro atendimento é feito por profissional de segurança pública, ele deve encaminhar imediatamente a vítima à unidade pública de saúde e registrar a ocorrência (Lei 15.516/2026, art. 2º), e as unidades devem ter salas reservadas para acolhimento (art. 4º, § 2º). A lei de 2013 não diz que o atendimento depende de boletim de ocorrência.",
+    "whenApplies": [
+      "Você sofreu qualquer forma de atividade sexual sem consentimento.",
+      "Você precisa de cuidado médico, prevenção de gravidez ou de infecções, apoio psicológico ou preservação de provas."
+    ],
+    "exceptions": [
+      "O exame toxicológico é feito quando indicado, não em todos os casos.",
+      "A comunicação à polícia em até 24 horas é obrigação do serviço de saúde nos casos com indício ou confirmação. Essa comunicação é prevista em lei.",
+      "Esta lei trata do atendimento de saúde. Ela não decide o que acontece no processo criminal.",
+      "O art. 3º da Lei 15.516/2026 foi vetado e não vale."
+    ],
+    "steps": [
+      "Procure um hospital público o quanto antes. Não adie o cuidado para reunir provas.",
+      "Conte à equipe o que aconteceu e quando, para que avalie os cuidados necessários.",
+      "Pergunte sobre prevenção de gravidez e de infecções, apoio psicológico e social, e preservação de vestígios.",
+      "Peça o prontuário e os comprovantes do atendimento.",
+      "Se quiser, pergunte como registrar a ocorrência. O hospital deve facilitar o registro."
+    ],
+    "documentsToKeep": [
+      "Prontuário e relatórios médicos",
+      "Receitas e resultados de exames",
+      "Comprovantes do atendimento",
+      "Documentos de encaminhamento à perícia",
+      "Cópia do boletim de ocorrência, se houver"
+    ],
+    "ifDenied": [
+      "Se estiver em perigo agora, vá para um lugar seguro e acione a polícia.",
+      "Para ajuda contínua, veja o assunto sobre onde buscar ajuda em caso de violência.",
+      "Peça para falar com a chefia do plantão ou a ouvidoria do hospital.",
+      "Procure outra unidade de saúde para não atrasar o cuidado.",
+      "Procure a Defensoria Pública ou o Ministério Público para relatar a recusa."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 12.845/2013 — atendimento obrigatório a pessoas em situação de violência sexual",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º, 2º e 3º, I a IX e §§ 1º a 4º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2013-08-01;12845",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    },
+    {
+      "name": "Lei nº 15.516/2026 — protocolo intersetorial de atendimento em situações de violência",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 2º, 4º, 7º e 8º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-09-22;15516",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    }
+  ],
+  "relatedArticles": [
+    "MUL-003",
+    "MUL-004",
+    "MUL-001"
+  ],
+  "lastReviewed": "2026-11-27",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 27/11/2026: Lei 12.845/2013 (texto compilado, já com a Lei 15.516/2026) e Lei 15.516/2026 (acervo, normas.leg.br). O art. 3º da Lei 15.516 consta como vetado e não foi usado. Não foi afirmada regra de sigilo nem protocolo específico de cada estado.",
+  "status": "published"
+}

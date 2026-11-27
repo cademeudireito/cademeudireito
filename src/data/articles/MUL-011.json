@@ -1,0 +1,87 @@
+{
+  "id": "MUL-011",
+  "slug": "feminicidio-o-que-diz-a-lei",
+  "title": "O que a lei considera feminicídio e qual é a pena?",
+  "category": "mulheres",
+  "summary": "Feminicídio é matar mulher por razões da condição do sexo feminino. É crime autônomo, com pena de 20 a 40 anos de reclusão, e a pena aumenta em vários casos, como o descumprimento de medida protetiva.",
+  "keywords": [
+    "feminicídio",
+    "condição do sexo feminino",
+    "pena",
+    "Código Penal",
+    "Lei 14.994/2024"
+  ],
+  "synonyms": [
+    "o que é feminicídio",
+    "pena para feminicídio",
+    "feminicídio é crime hediondo",
+    "quando a pena do feminicídio aumenta",
+    "feminicídio e violência doméstica",
+    "feminicídio na frente dos filhos",
+    "menosprezo à condição de mulher"
+  ],
+  "quickAnswer": "O art. 121-A do Código Penal, criado pela Lei 14.994/2024, define feminicídio como matar mulher por razões da condição do sexo feminino, com pena de reclusão de 20 a 40 anos. Há razões da condição do sexo feminino quando o crime envolve violência doméstica e familiar ou menosprezo ou discriminação à condição de mulher (§ 1º).",
+  "sections": {
+    "explanation": "Antes de 2024, o feminicídio era uma forma qualificada do homicídio. Desde a Lei 14.994/2024, é um crime autônomo, previsto no art. 121-A do Código Penal. O § 2º prevê que a pena é aumentada de 1/3 até a metade se o crime for cometido: durante a gestação, nos 3 meses depois do parto ou se a vítima for mãe ou responsável por criança, adolescente ou pessoa com deficiência; contra pessoa menor de 14 anos, maior de 60, com deficiência ou doença degenerativa que gere vulnerabilidade; na presença física ou virtual de descendente ou ascendente da vítima; em descumprimento das medidas protetivas dos incisos I, II e III do art. 22 da Lei Maria da Penha; ou nas circunstâncias dos incisos III, IV e VIII do § 2º do art. 121 do Código Penal. Este assunto explica o que a lei diz, não classifica casos concretos. A tentativa e o enquadramento de cada caso dependem da investigação e da decisão do juiz. Se você está em situação de violência, veja os assuntos sobre medidas protetivas e onde buscar ajuda.",
+    "whenApplies": [
+      "Você quer entender o que a lei chama de feminicídio.",
+      "Você quer saber como a lei trata as circunstâncias do crime."
+    ],
+    "exceptions": [
+      "A lei exige que o crime tenha 'razões da condição do sexo feminino'. Cada caso é analisado pelo juiz.",
+      "As causas de aumento de pena têm requisitos próprios (art. 121-A, § 2º).",
+      "Este assunto não trata de tentativa, outros crimes contra a mulher ou execução da pena.",
+      "A classificação do fato como feminicídio depende da investigação e da decisão judicial."
+    ],
+    "steps": [
+      "Se você ou alguém corre perigo, vá a um lugar seguro e acione a polícia.",
+      "Em caso de ameaças, peça medidas protetivas e guarde os registros.",
+      "Para ajuda contínua, procure a delegacia, a Defensoria Pública ou o Ministério Público.",
+      "Guarde mensagens, áudios, prints e registros de ocorrências.",
+      "Se você é familiar de vítima, procure a Defensoria Pública ou o Ministério Público para orientação."
+    ],
+    "documentsToKeep": [
+      "Registros de ocorrência anteriores",
+      "Cópias de medidas protetivas",
+      "Mensagens, áudios e ameaças",
+      "Relatórios médicos",
+      "Nomes de testemunhas"
+    ],
+    "ifDenied": [
+      "Se estiver em perigo agora, vá para um lugar seguro e acione a polícia.",
+      "Para ajuda contínua, veja o assunto sobre onde buscar ajuda em caso de violência.",
+      "Se o caso não for registrado ou apurado, procure a Defensoria Pública ou o Ministério Público."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Decreto-Lei nº 2.848/1940 — Código Penal",
+      "sphere": "federal",
+      "provisions": [
+        "art. 121-A, caput, § 1º e § 2º, I a V"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    },
+    {
+      "name": "Lei nº 14.994/2024 — feminicídio como crime autônomo",
+      "sphere": "federal",
+      "provisions": [
+        "art. 2º (inclui o art. 121-A no Código Penal)"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-10-09;14994",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    }
+  ],
+  "relatedArticles": [
+    "MUL-001",
+    "MUL-002",
+    "MUL-004"
+  ],
+  "lastReviewed": "2026-11-27",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 27/11/2026: Código Penal art. 121-A (texto compilado, incluído pela Lei 14.994/2024; acervo normas.leg.br). Não foi afirmado se o feminicídio é crime hediondo nem regime de pena. A afirmação de que antes era qualificadora vem do texto; não foi relida a Lei 14.994 em si.",
+  "status": "published"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "MUL-008",
+  "slug": "tornozeleira-eletronica-agressor-alerta-vitima",
+  "title": "O agressor pode usar tornozeleira? Posso receber um alerta quando ele se aproximar?",
+  "category": "mulheres",
+  "summary": "Sim. A monitoração eletrônica do agressor é uma medida protetiva prevista em lei, e o sistema deve alertar a vítima e a polícia quando ele entrar na área proibida. A unidade portátil que a vítima recebe é voluntária e gratuita.",
+  "keywords": [
+    "tornozeleira eletrônica",
+    "monitoração eletrônica",
+    "alerta de aproximação",
+    "Alerta Mulher Segura",
+    "medida protetiva"
+  ],
+  "synonyms": [
+    "posso receber alerta se ele chegar perto",
+    "tornozeleira no agressor",
+    "botão do pânico medida protetiva",
+    "aparelho de rastreamento para vítima",
+    "preciso pagar pelo aparelho",
+    "posso recusar o aparelho",
+    "o que acontece se ele chegar perto"
+  ],
+  "quickAnswer": "A Lei Maria da Penha prevê a monitoração eletrônica do agressor como medida protetiva (art. 22, VIII), com aplicativo ou dispositivo que alerte a vítima sobre a aproximação. O sistema deve emitir alerta automático e simultâneo à vítima e à unidade policial mais próxima quando o agressor rompe o perímetro de exclusão fixado pelo juiz (art. 22, § 8º). O Decreto 13.084/2026 criou o Programa Alerta Mulher Segura, em que a vítima pode receber uma unidade portátil de rastreamento: ela adere de forma voluntária, não paga nada por isso e pode desistir a qualquer momento, sem justificar.",
+  "sections": {
+    "explanation": "O art. 12-D da Lei Maria da Penha diz que, verificado risco atual ou iminente à vida ou à integridade física ou psicológica da mulher ou de seus dependentes, o agressor será imediatamente submetido à monitoração eletrônica pela autoridade judicial ou, quando o município não é sede de comarca, pelo delegado de polícia (nesse caso, o juiz é comunicado em 24 horas). O art. 22, VIII, também prevê a monitoração entre as medidas protetivas, disponibilizando-se à vítima aplicação ou dispositivo de segurança que alerte sobre eventual aproximação. A medida tem prioridade quando houve descumprimento de medidas anteriores ou risco iminente à integridade física ou psicológica (§ 6º). Se o juiz deixar de aplicá-la nesses casos, deve fundamentar expressamente (§ 9º). O Decreto 13.084/2026 instituiu o Programa Alerta Mulher Segura, executado em cada Estado e no Distrito Federal (art. 3º), que inclui a monitoração do agressor e a unidade portátil de rastreamento (UPR) para a vítima (art. 1º, parágrafo único). A UPR permite receber alertas automáticos, com acionamento simultâneo dos órgãos de segurança, e acionar emergencialmente os órgãos de segurança (art. 7º). A UPR depende de adesão voluntária, expressa e informada. A recusa ou desistência pode ocorrer a qualquer tempo, sem justificativa, não prejudica as demais medidas protetivas e não pode ser usada para comprometer a credibilidade do relato (art. 9º). O aparelho é complementar, e a responsabilidade pela segurança não passa para a vítima (art. 10). É vedado cobrar da vítima custos de fornecimento, funcionamento ou manutenção (art. 11). Violar a área de exclusão ou retirar o dispositivo sem autorização aumenta a pena do descumprimento de medida protetiva (art. 24-A, § 4º).",
+    "whenApplies": [
+      "Há risco atual ou iminente para você ou seus dependentes por causa da violência doméstica e familiar.",
+      "O juiz avalia a monitoração eletrônica do agressor.",
+      "Você recebe a oferta da unidade portátil de rastreamento no Programa Alerta Mulher Segura."
+    ],
+    "exceptions": [
+      "Não é automática em toda denúncia: depende de risco atual ou iminente e da decisão da autoridade.",
+      "A prioridade da monitoração vale para descumprimento anterior ou risco iminente (art. 22, § 6º).",
+      "A unidade portátil só é entregue com sua adesão voluntária.",
+      "O programa é executado por cada Estado e pelo Distrito Federal, e pode ter arranjos diferentes. A lei não garante que o equipamento já esteja disponível em todos os lugares.",
+      "O aparelho não substitui as outras medidas e não transfere a você a responsabilidade pela sua segurança."
+    ],
+    "steps": [
+      "Em perigo imediato, vá a um lugar seguro e acione a polícia.",
+      "Ao pedir medidas protetivas, conte se o agressor já descumpriu ordens ou se existe risco de aproximação.",
+      "Pergunte à autoridade se a monitoração e a unidade portátil estão disponíveis na sua região.",
+      "Se for oferecida, peça explicação sobre os alertas e o canal de atendimento.",
+      "Se não quiser usar ou quiser deixar de usar, informe o serviço responsável. Você não precisa justificar."
+    ],
+    "documentsToKeep": [
+      "Cópia da decisão que concedeu a medida",
+      "Registros de descumprimentos anteriores",
+      "Mensagens e ameaças",
+      "Protocolos e documentos da central de monitoração",
+      "Registros dos alertas recebidos, sem se colocar em risco"
+    ],
+    "ifDenied": [
+      "Se estiver em perigo agora, vá para um lugar seguro e acione a polícia.",
+      "Para ajuda contínua, veja o assunto sobre onde buscar ajuda em caso de violência.",
+      "Se o juiz deixar de aplicar a monitoração em caso prioritário, a lei exige decisão fundamentada (art. 22, § 9º).",
+      "Procure a Defensoria Pública ou o Ministério Público para orientação.",
+      "Não espere o aparelho funcionar: se houver ameaça ou aproximação, procure um lugar seguro e acione a polícia."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 11.340/2006 — Lei Maria da Penha",
+      "sphere": "federal",
+      "provisions": [
+        "art. 12-D",
+        "art. 22, VIII e §§ 6º a 9º",
+        "art. 24-A, § 4º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    },
+    {
+      "name": "Lei nº 15.383/2026 — monitoração eletrônica de agressores",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º, 2º e 6º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-09;15383",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    },
+    {
+      "name": "Decreto nº 13.084/2026 — Programa Alerta Mulher Segura",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º, 3º, 7º, 9º, 10 e 11"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-07-29;13084",
+      "status": "verified",
+      "checkedAt": "2026-11-27"
+    }
+  ],
+  "relatedArticles": [
+    "MUL-002",
+    "MUL-005",
+    "MUL-007",
+    "MUL-004"
+  ],
+  "lastReviewed": "2026-11-27",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 27/11/2026: Lei 11.340/2006 (texto compilado), Lei 15.383/2026 e Decreto 13.084/2026 (acervo, normas.leg.br). Não foi afirmada a disponibilidade do equipamento em cada Estado nem canais locais para pedir a unidade portátil. REVISAR quando houver regulamentação estadual relevante.",
+  "status": "published"
+}
