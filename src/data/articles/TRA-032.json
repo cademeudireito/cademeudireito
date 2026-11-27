@@ -1,0 +1,89 @@
+{
+  "id": "TRA-032",
+  "slug": "home-office-internet-equipamentos",
+  "title": "Trabalho em home office: a empresa tem que pagar internet, computador e energia?",
+  "category": "trabalho",
+  "summary": "No teletrabalho, quem paga os equipamentos e as despesas deve estar escrito no contrato. A CLT não fixa um valor de reembolso.",
+  "keywords": [
+    "home office",
+    "teletrabalho",
+    "trabalho remoto",
+    "reembolso de internet",
+    "ajuda de custo"
+  ],
+  "synonyms": [
+    "home office empresa paga internet",
+    "quem compra computador para trabalhar em casa",
+    "reembolso de energia no home office",
+    "patrão pode mandar voltar ao presencial",
+    "home office tem controle de horário",
+    "contrato de teletrabalho"
+  ],
+  "quickAnswer": "No teletrabalho, o contrato escrito deve dizer quem fornece e cuida dos equipamentos e da infraestrutura e como serão reembolsadas as despesas do empregado (CLT, art. 75-D). A empresa deve orientar sobre como evitar doenças e acidentes de trabalho (art. 75-E). Voltar ao presencial por decisão da empresa exige aviso com transição mínima de 15 dias e registro em aditivo ao contrato (art. 75-C, § 2º). A CLT não fixa valor nem percentual de reembolso de internet ou energia.",
+  "sections": {
+    "explanation": "A CLT (arts. 75-A a 75-F) define teletrabalho como a prestação de serviços fora das dependências do empregador, de maneira preponderante ou não, com tecnologias de informação e comunicação. Ir à empresa, mesmo com frequência, para atividades específicas não descaracteriza o teletrabalho (art. 75-B, § 1º). O teletrabalho pode ser por jornada ou por produção ou tarefa (§ 2º). Quando é por produção ou tarefa, não se aplicam as regras de duração do trabalho (art. 62, III). O tempo de uso de equipamentos e ferramentas digitais fora da jornada normal não é tempo à disposição, prontidão ou sobreaviso, exceto se houver previsão em acordo individual ou coletivo (art. 75-B, § 5º). O regime precisa constar do contrato (art. 75-C), e a mudança entre presencial e teletrabalho exige acordo entre as partes registrado em aditivo; a mudança de teletrabalho para presencial pode ser determinada pela empresa, com transição mínima de 15 dias. As regras sobre aquisição, manutenção e fornecimento de equipamentos e sobre reembolso de despesas serão previstas em contrato escrito (art. 75-D), e essas utilidades não integram a remuneração. Há prioridade para vagas de teletrabalho para empregados com deficiência e com filhos ou criança sob guarda até 4 anos (art. 75-F). Essas regras foram alteradas pela Lei 14.442/2022.",
+    "whenApplies": [
+      "Você é empregado em teletrabalho (ou foi convidado a trabalhar em casa) e quer saber quem paga equipamentos e despesas.",
+      "A empresa mandou voltar ao presencial."
+    ],
+    "exceptions": [
+      "Prestador de serviço autônomo ou PJ de verdade não é empregado.",
+      "Servidor público: as regras de teletrabalho dependem da norma do órgão.",
+      "O reembolso depende do que o contrato diz e da prova das despesas. A CLT não fixa percentual nem valor mínimo.",
+      "Operador de telemarketing ou teleatendimento não se confunde com teletrabalho (art. 75-B, § 4º)."
+    ],
+    "steps": [
+      "Veja se o teletrabalho consta do contrato ou de um aditivo.",
+      "Leia a cláusula sobre equipamentos, internet, energia e reembolso.",
+      "Guarde notas fiscais e comprovantes de despesas ligadas ao trabalho.",
+      "Peça por escrito o reembolso e guarde a resposta.",
+      "Se mandarem voltar ao presencial, confira a comunicação, o prazo de 15 dias e o aditivo.",
+      "Peça à empresa as instruções de saúde e segurança do trabalho."
+    ],
+    "documentsToKeep": [
+      "Contrato e aditivos",
+      "Política de home office, se houver",
+      "Notas fiscais e contas de internet e energia",
+      "Recibos de reembolso",
+      "Mensagens com ordens, metas e horários",
+      "Instruções de segurança do trabalho"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou discutir o caso, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 62, III",
+        "arts. 75-A a 75-F"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Lei nº 14.442/2022 (alterou as regras de teletrabalho)",
+      "sphere": "federal",
+      "provisions": [
+        "alterações aos arts. 62 e 75-A a 75-F da CLT"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14442.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-016",
+    "TRA-013",
+    "TRA-003"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 62, III e 75-A a 75-F (texto do Planalto, via acervo). Não foram afirmados valor de reembolso nem obrigação de pagar qualquer plano escolhido pelo empregado.",
+  "status": "published"
+}

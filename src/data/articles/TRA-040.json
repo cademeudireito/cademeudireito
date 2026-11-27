@@ -1,0 +1,91 @@
+{
+  "id": "TRA-040",
+  "slug": "prazo-para-processar-a-empresa",
+  "title": "Até quando posso processar meu patrão e como faço uma reclamação trabalhista?",
+  "category": "trabalho",
+  "summary": "Você tem até 2 anos depois do fim do contrato para entrar na Justiça do Trabalho, e pode cobrar os últimos 5 anos. Não espere o último dia.",
+  "keywords": [
+    "prazo para ação trabalhista",
+    "prescrição trabalhista",
+    "reclamação trabalhista",
+    "justiça gratuita",
+    "processar a empresa"
+  ],
+  "synonyms": [
+    "quanto tempo tenho para processar a empresa",
+    "posso processar depois de pedir demissão",
+    "como entrar na Justiça do Trabalho",
+    "preciso de advogado para processo trabalhista",
+    "processo trabalhista é gratuito",
+    "como pedir justiça gratuita"
+  ],
+  "quickAnswer": "A Constituição e a CLT dizem que a pretensão por créditos trabalhistas prescreve em cinco anos, até o limite de dois anos depois do fim do contrato (CLT, art. 11; Constituição, art. 7º, XXIX). Na prática: depois de sair da empresa, você tem até dois anos para entrar com a ação, e só consegue cobrar o que se refere aos cinco anos anteriores à data da ação. Você pode reclamar pessoalmente na Justiça do Trabalho ou por advogado ou sindicato, e pode pedir justiça gratuita.",
+  "sections": {
+    "explanation": "O art. 11 da CLT diz que a pretensão quanto a créditos resultantes das relações de trabalho prescreve em cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho. O prazo de cinco anos não se aplica às ações que tenham por objeto anotações para fins de prova junto à Previdência Social (§ 1º). Em pedidos de parcelas sucessivas decorrentes de alteração ou descumprimento do pactuado, a prescrição é total, exceto quando o direito também é assegurado por lei (§ 2º). Os empregados podem reclamar pessoalmente perante a Justiça do Trabalho e acompanhar as reclamações até o final, ou ser representados por sindicato ou advogado (art. 791). A reclamação pode ser apresentada pessoalmente, por representantes ou por sindicatos (art. 839). A justiça gratuita pode ser concedida a quem recebe salário igual ou inferior a 40% do limite máximo dos benefícios do Regime Geral de Previdência Social e a quem comprovar insuficiência de recursos para pagar as custas (art. 790, §§ 3º e 4º). Em fases mais avançadas do processo, pode ser exigido advogado. Se você é PJ ou autônomo e quer discutir vínculo, veja o assunto sobre PJ e aplicativos.",
+    "whenApplies": [
+      "Você é ou foi empregado e quer cobrar direitos trabalhistas.",
+      "Você quer saber qual é o prazo para entrar na Justiça e como fazer."
+    ],
+    "exceptions": [
+      "Há regras especiais para casos como pedidos de anotação para a Previdência, acidentes de trabalho e causas de suspensão ou interrupção da prescrição.",
+      "Servidor público estatutário segue regras próprias.",
+      "Para quem foi PJ ou autônomo, a análise depende da discussão sobre vínculo.",
+      "Cada TRT tem seus canais de atendimento. Procure o do seu estado."
+    ],
+    "steps": [
+      "Anote a data exata do fim do contrato e os períodos que quer cobrar.",
+      "Liste os pedidos e organize uma linha do tempo dos fatos.",
+      "Separe carteira de trabalho, contrato, contracheques, extrato do FGTS, ponto e mensagens.",
+      "Procure o sindicato ou um advogado cedo para conferir os prazos.",
+      "Consulte o site do TRT da sua região para ver como fazer o atendimento.",
+      "Se não puder pagar custas, peça a justiça gratuita.",
+      "Guarde o protocolo e acompanhe as intimações por canais oficiais."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho (física ou digital)",
+      "Contrato e termo de rescisão",
+      "Contracheques e extrato do FGTS",
+      "Controles de ponto e escalas",
+      "Mensagens e e-mails",
+      "Linha do tempo dos fatos"
+    ],
+    "ifDenied": [
+      "A empresa não precisa autorizar sua ação. Procure o sindicato ou um advogado, ou o atendimento do TRT da sua região.",
+      "A fiscalização do trabalho, do Ministério do Trabalho e Emprego, não substitui a ação para receber valores individuais.",
+      "A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Constituição Federal",
+      "sphere": "federal",
+      "provisions": [
+        "art. 7º, XXIX"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 11",
+        "art. 790, §§ 3º e 4º",
+        "arts. 791 e 839"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-004",
+    "TRA-033",
+    "TRA-001"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: Constituição art. 7º, XXIX e CLT arts. 11, 790, 791 e 839 (texto do Planalto, via acervo). Não foi cálculo de prazo individual nem foi citada a Súmula 425 do TST.",
+  "status": "published"
+}

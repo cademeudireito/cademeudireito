@@ -1,0 +1,88 @@
+{
+  "id": "TRA-033",
+  "slug": "pj-aplicativo-vinculo-de-emprego",
+  "title": "Sou PJ ou trabalho por aplicativo: posso ser considerado empregado?",
+  "category": "trabalho",
+  "summary": "Ter CNPJ ou aceitar termos de uma plataforma não decide sozinho se há vínculo de emprego. A Justiça olha como o trabalho funciona na prática, e o STF ainda não decidiu a questão central.",
+  "keywords": [
+    "pejotização",
+    "PJ",
+    "MEI",
+    "trabalho por aplicativo",
+    "vínculo de emprego"
+  ],
+  "synonyms": [
+    "sou PJ mas tenho chefe",
+    "pejotização é ilegal",
+    "trabalho como MEI tenho direitos",
+    "entregador de aplicativo é empregado",
+    "motorista de aplicativo vínculo CLT",
+    "empresa me obrigou a abrir CNPJ"
+  ],
+  "quickAnswer": "A CLT considera empregado quem presta serviços de forma não eventual, sob a dependência do empregador e mediante salário (art. 3º). Contratar um autônomo, cumpridas as formalidades legais, afasta a condição de empregado (art. 442-B). Quem decide se um caso concreto é emprego é a Justiça do Trabalho, pela forma real de trabalhar. O STF ainda não decidiu o Tema 1.389, que trata de competência, prova e licitude da contratação de PJ ou autônomo. Não há resposta automática para todos os casos, nem para os trabalhadores de aplicativos.",
+  "sections": {
+    "explanation": "O art. 2º da CLT define empregador e o art. 3º define empregado: pessoa física que presta serviços de natureza não eventual a empregador, sob a dependência deste e mediante salário. O art. 442-B diz que a contratação do autônomo, cumpridas por este todas as formalidades legais, com ou sem exclusividade, de forma contínua ou não, afasta a qualidade de empregado. A discussão sobre fraude, isto é, contrato de PJ ou autônomo usado para esconder um emprego, está no Tema 1.389 do STF, que tem repercussão geral reconhecida e trata de competência e ônus da prova nos processos sobre fraude em contrato civil ou comercial de prestação de serviços e da licitude da contratação de pessoa jurídica ou trabalhador autônomo. Em 18/06/2026, o ministro Gilmar Mendes, relator, retirou a suspensão nacional dos processos nas primeira e segunda instâncias da Justiça do Trabalho; a suspensão volta a valer após o julgamento dos casos pelos TRTs, até o STF decidir o mérito. Não foi confirmada decisão final do STF sobre o tema. Também é diferente o Tema 725 do STF, que trata da terceirização entre empresas, e não de um trabalhador PJ. Por isso, este assunto não promete vínculo de emprego a ninguém.",
+    "whenApplies": [
+      "Você trabalha com CNPJ, MEI, contrato civil ou plataforma e acha que, na prática, é um emprego (horário, ordens, metas, exclusividade, punições).",
+      "Você quer saber o que guardar e a quem procurar."
+    ],
+    "exceptions": [
+      "Contratação autônoma genuína é permitida pelo art. 442-B da CLT. Ter CNPJ ou emitir nota, sozinho, não prova emprego nem prova autonomia.",
+      "Servidor público e estagiário têm regras próprias.",
+      "Trabalhadores de plataformas têm controvérsias próprias. Não se presume que todos sejam empregados.",
+      "A situação processual do Tema 1.389 pode afetar a tramitação do seu caso."
+    ],
+    "steps": [
+      "Guarde o contrato, as notas fiscais e os comprovantes de pagamento.",
+      "Anote como o trabalho funciona: quem define horários, preços, método, metas e punições, e se você pode se fazer substituir.",
+      "Guarde mensagens, ordens, avaliações e bloqueios, sem acessar dados de terceiros.",
+      "Veja se você pode recusar serviços e atender outros clientes na prática.",
+      "Procure o sindicato ou assistência jurídica antes de romper o contrato.",
+      "Confira a situação do Tema 1.389 antes de entrar na Justiça."
+    ],
+    "documentsToKeep": [
+      "Contrato PJ ou MEI",
+      "Notas fiscais e extratos bancários",
+      "Mensagens, escalas e ordens",
+      "Regras da plataforma e histórico de bloqueios",
+      "Comprovantes de despesas",
+      "Nomes de testemunhas"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da atividade.",
+      "A fiscalização do trabalho, do Ministério do Trabalho e Emprego, pode receber denúncia de fraude, mas não declara o vínculo no seu caso.",
+      "Para pedir o reconhecimento de vínculo, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 2º, 3º e 442-B"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "STF — Tema 1.389 de repercussão geral (ARE 1.532.603): competência, prova e licitude de contratação de PJ ou autônomo",
+      "sphere": "federal",
+      "provisions": [
+        "decisão de 18/06/2026 do relator sobre a suspensão nacional dos processos"
+      ],
+      "officialUrl": "https://noticias.stf.jus.br/postsnoticias/stf-retira-suspensao-de-processos-sobre-pejotizacao-na-primeira-instancia-e-nos-trts/",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-005",
+    "TRA-034",
+    "TRA-040"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 2º, 3º e 442-B (texto do Planalto, via acervo); notícia oficial do STF de 18/06/2026 sobre o Tema 1.389; enunciado do Tema 1.389 no Banco Nacional de Precedentes do CNJ (atualizado em 06/10/2026). Não foi confirmada tese final de mérito do STF nem movimentação posterior a outubro de 2026. REVISAR quando o STF decidir o Tema 1.389.",
+  "status": "published"
+}

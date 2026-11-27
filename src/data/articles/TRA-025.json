@@ -1,0 +1,90 @@
+{
+  "id": "TRA-025",
+  "slug": "desvio-de-funcao",
+  "title": "Fui contratado para uma função, mas a empresa me colocou em outra: posso receber a diferença?",
+  "category": "trabalho",
+  "summary": "No desvio de função, o empregado passa a exercer outra função. O TST reconhece direito às diferenças salariais, mas não a novo enquadramento ou promoção automática.",
+  "keywords": [
+    "desvio de função",
+    "função diferente da contratada",
+    "diferença salarial",
+    "outra função",
+    "alteração do contrato"
+  ],
+  "synonyms": [
+    "fui contratado como auxiliar mas faço trabalho de gerente",
+    "empresa me colocou em outra função sem aumentar salário",
+    "desvio de função dá aumento",
+    "faço serviço de cargo acima do meu",
+    "posso receber diferença salarial por desvio",
+    "meu registro diz uma coisa e trabalho em outra"
+  ],
+  "quickAnswer": "Segundo a Orientação Jurisprudencial 125 da SDI-1 do TST, o simples desvio funcional do empregado não gera direito a novo enquadramento, mas apenas às diferenças salariais respectivas. Ou seja, pode haver direito à diferença, mas não a promoção automática. Para calcular a diferença é preciso haver um parâmetro, como plano de cargos, tabela salarial ou norma coletiva. A CLT não fixa um adicional automático para qualquer mudança de tarefa.",
+  "sections": {
+    "explanation": "Desvio de função é quando o empregado, em vez de fazer as tarefas do cargo para o qual foi contratado, passa a exercer de fato outra função. A OJ 125 da SDI-1 do TST diz que o simples desvio funcional não gera direito a novo enquadramento, mas apenas às diferenças salariais respectivas. A CLT presume, na falta de prova ou de cláusula expressa, que o empregado se obrigou a todo e qualquer serviço compatível com a sua condição pessoal (art. 456, parágrafo único). E diz que alterar as condições do contrato só é lícito por mútuo consentimento e sem prejuízo direto ou indireto ao empregado (art. 468). A diferença depende de comparar o que foi contratado com o que se faz na prática e de ter um parâmetro de salário para a função exercida. Se a comparação for com outro empregado que faz o mesmo trabalho, veja o assunto sobre equiparação salarial. Se você apenas soma tarefas às que já fazia, veja o assunto sobre acúmulo de função.",
+    "whenApplies": [
+      "Você é empregado e passou a exercer, de fato, outra função, diferente da contratada.",
+      "Existe um salário previsto para a função que você exerce (plano de cargos, tabela, convenção coletiva)."
+    ],
+    "exceptions": [
+      "Tarefas compatíveis com a sua condição pessoal, sem mudança real de função, em geral são parte do contrato.",
+      "Sem plano de cargos, norma coletiva ou outro parâmetro, é difícil definir a diferença de salário.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário: o desvio não gera novo enquadramento em cargo público. A remuneração depende da lei do cargo."
+    ],
+    "steps": [
+      "Liste as tarefas do cargo para o qual foi contratado e as que de fato exerce.",
+      "Descubra se existe salário previsto para a função exercida, em plano de cargos, tabela interna ou norma coletiva.",
+      "Anote desde quando começou o desvio e se é contínuo ou apenas substituição eventual.",
+      "Guarde ordens e provas lícitas: e-mails, mensagens, escalas, relatórios e ordens de serviço.",
+      "Peça ao RH, por escrito, a regularização e guarde a resposta.",
+      "Procure o sindicato para conferir tabela salarial e convenção coletiva."
+    ],
+    "documentsToKeep": [
+      "Contrato, carteira de trabalho e descrição do cargo",
+      "Plano de cargos, tabela salarial e regulamento interno",
+      "Convenção ou acordo coletivo",
+      "Contracheques",
+      "Mensagens e ordens de serviço",
+      "Escalas e registros de substituição",
+      "Nomes de testemunhas"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou discutir o caso, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 456, parágrafo único",
+        "art. 468, caput"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Orientação Jurisprudencial nº 125 da SDI-1 (desvio de função, quadro de carreira)",
+      "sphere": "federal",
+      "provisions": [
+        "OJ 125 da SDI-1"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-015",
+    "TRA-024",
+    "TRA-001"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 456 e 468 (texto do Planalto, via acervo); OJ 125 da SDI-1 do TST (acervo do TST). Não foi afirmado percentual nem adicional automático.",
+  "status": "published"
+}

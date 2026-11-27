@@ -1,0 +1,96 @@
+{
+  "id": "TRA-037",
+  "slug": "cota-pessoa-com-deficiencia-trabalho",
+  "title": "A empresa tem que contratar pessoas com deficiência? E fazer adaptações?",
+  "category": "trabalho",
+  "summary": "Empresas com 100 ou mais empregados devem reservar de 2% a 5% dos cargos para pessoas com deficiência ou reabilitadas. Todas as empresas devem garantir ambiente de trabalho acessível e sem discriminação.",
+  "keywords": [
+    "cota PCD",
+    "pessoa com deficiência",
+    "reserva de vagas",
+    "adaptação no trabalho",
+    "reabilitado do INSS"
+  ],
+  "synonyms": [
+    "empresa é obrigada a contratar PCD",
+    "cota PCD como funciona",
+    "empresa não adapta meu trabalho",
+    "fui demitido sendo PCD",
+    "posso pedir adaptação no trabalho",
+    "cota de reabilitado do INSS"
+  ],
+  "quickAnswer": "A empresa com 100 ou mais empregados deve preencher de 2% a 5% dos cargos com beneficiários reabilitados da Previdência ou pessoas com deficiência habilitadas: 2% até 200 empregados, 3% de 201 a 500, 4% de 501 a 1.000 e 5% a partir de 1.001 (Lei 8.213/1991, art. 93). A Lei Brasileira de Inclusão garante ambiente de trabalho acessível e inclusivo e proíbe discriminação, e isso vale para todas as pessoas jurídicas, não só as de 100 empregados.",
+  "sections": {
+    "explanation": "A Lei 8.213/1991 (art. 93) reserva de 2% a 5% dos cargos de empresas com 100 ou mais empregados para beneficiários reabilitados ou pessoas com deficiência habilitadas, conforme a tabela: 2% até 200 empregados; 3% de 201 a 500; 4% de 501 a 1.000; 5% de 1.001 em diante. O § 1º diz que a dispensa de pessoa com deficiência ou de reabilitado ao final de contrato por prazo determinado de mais de 90 dias, e a dispensa imotivada em contrato por prazo indeterminado, somente podem ocorrer após a contratação de outro trabalhador com deficiência ou beneficiário reabilitado em condição semelhante. A Lei 13.146/2015 (Lei Brasileira de Inclusão, art. 34) garante à pessoa com deficiência o direito ao trabalho em ambiente acessível e inclusivo, em igualdade de oportunidades, com igual remuneração por trabalho de igual valor, e obriga pessoas jurídicas de qualquer natureza a garantir ambientes acessíveis e inclusivos. O § 3º veda restrição ao trabalho e qualquer discriminação em razão da condição, inclusive em recrutamento, seleção, contratação, permanência no emprego e ascensão profissional. No estágio, 10% das vagas devem ser reservadas a pessoas com deficiência (Lei 11.788/2008, art. 17, § 5º).",
+    "whenApplies": [
+      "Você é pessoa com deficiência ou reabilitada e quer saber sobre vagas, adaptações ou dispensa.",
+      "Você quer saber se a empresa cumpre a cota."
+    ],
+    "exceptions": [
+      "Empresa com menos de 100 empregados fica fora da cota, mas tem os deveres gerais de acessibilidade e não discriminação.",
+      "Não há lista única de documentos válida para todas as deficiências.",
+      "Órgãos públicos têm regras próprias.",
+      "A dispensa tem regra própria no art. 93, § 1º."
+    ],
+    "steps": [
+      "Peça ao RH o canal para solicitar adaptação do posto de trabalho.",
+      "Descreva a barreira e a adaptação necessária, por escrito, e guarde a resposta.",
+      "Para concorrer à cota, reúna os documentos de caracterização da deficiência ou de reabilitação.",
+      "Se for dispensado, veja se a empresa contratou outro trabalhador em condição semelhante antes.",
+      "Registre qualquer discriminação e procure o sindicato ou assistência jurídica."
+    ],
+    "documentsToKeep": [
+      "Contrato e descrição da função",
+      "Documentos de caracterização da deficiência ou de reabilitação",
+      "Pedidos de adaptação e respostas do RH",
+      "Comunicação de dispensa",
+      "Mensagens e registros de tratamento desigual"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "A fiscalização do trabalho, do Ministério do Trabalho e Emprego, verifica a cota. O Ministério Público do Trabalho também pode receber comunicações.",
+      "Para discutir direitos individuais, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.213/1991",
+      "sphere": "federal",
+      "provisions": [
+        "art. 93, caput e §§ 1º e 2º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Lei nº 13.146/2015 (Lei Brasileira de Inclusão)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 34, caput e §§ 1º a 3º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Lei nº 11.788/2008 (Lei do Estágio)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 17, § 5º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-039",
+    "TRA-036",
+    "TRA-030"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: Lei 8.213/1991 art. 93, Lei 13.146/2015 art. 34 e Lei 11.788/2008 art. 17, § 5º (texto do Planalto, via acervo). Não foi afirmado o enquadramento de deficiências específicas.",
+  "status": "published"
+}

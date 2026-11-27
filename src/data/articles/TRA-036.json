@@ -1,0 +1,90 @@
+{
+  "id": "TRA-036",
+  "slug": "estagiario-jovem-aprendiz-direitos",
+  "title": "Sou estagiário ou jovem aprendiz: quais direitos eu tenho?",
+  "category": "trabalho",
+  "summary": "Estágio é ato educativo e não cria vínculo de emprego, se cumprir a lei. Jovem aprendiz é empregado com contrato especial por escrito e carteira assinada.",
+  "keywords": [
+    "estágio",
+    "estagiário",
+    "jovem aprendiz",
+    "contrato de aprendizagem",
+    "termo de compromisso"
+  ],
+  "synonyms": [
+    "estagiário tem férias",
+    "estágio tem carteira assinada",
+    "empresa não paga bolsa de estágio",
+    "estágio pode durar quantos anos",
+    "aprendiz pode fazer hora extra",
+    "empresa usa estagiário como funcionário"
+  ],
+  "quickAnswer": "O estágio exige matrícula e frequência na escola, termo de compromisso e atividades compatíveis com o termo, e não cria vínculo de emprego. Se a lei for descumprida, o vínculo de emprego é reconhecido (Lei 11.788/2008, art. 15). O jovem aprendiz tem contrato de trabalho especial, escrito, com prazo determinado, anotação na carteira de trabalho e inscrição em programa de aprendizagem (CLT, art. 428).",
+  "sections": {
+    "explanation": "Estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho (Lei 11.788/2008, art. 1º). Não cria vínculo de emprego se houver matrícula e frequência regular, termo de compromisso entre estudante, empresa e escola e compatibilidade das atividades com o termo (art. 3º). A jornada é combinada entre as partes e não pode passar de 4 horas diárias e 20 semanais (estudantes de educação especial e anos finais do ensino fundamental) ou de 6 horas diárias e 30 semanais (ensino superior, educação profissional de nível médio e ensino médio regular), com regras especiais para cursos que alternam teoria e prática e redução nos períodos de provas (art. 10). A duração na mesma empresa não pode passar de dois anos, exceto para estagiário com deficiência (art. 11). A bolsa e o auxílio-transporte são obrigatórios no estágio não obrigatório (art. 12). O estagiário com estágio de um ano ou mais tem recesso de 30 dias, remunerado se houver bolsa (art. 13). Manter estagiários em desacordo com a lei caracteriza vínculo de emprego (art. 15). O contrato de aprendizagem (CLT, art. 428) é escrito, por prazo determinado, para maior de 14 e menor de 24 anos (salvo aprendiz com deficiência), com anotação na carteira, matrícula e frequência escolar se não tiver concluído o ensino médio e inscrição em programa de aprendizagem. Ao aprendiz é garantido, salvo condição mais favorável, o salário mínimo hora, e o contrato não pode passar de dois anos, exceto para aprendiz com deficiência. A jornada do aprendiz não passa de seis horas diárias, sendo vedadas prorrogação e compensação, com limite de até oito horas para quem já concluiu o ensino fundamental, computadas as horas de aprendizagem teórica (art. 432).",
+    "whenApplies": [
+      "Você é estagiário ou jovem aprendiz e quer saber seus direitos.",
+      "Você acha que faz trabalho de empregado comum, sem estudo ou supervisão."
+    ],
+    "exceptions": [
+      "No estágio, tarefas sem relação com o termo de compromisso e sem supervisão podem indicar irregularidade.",
+      "Servidor público tem regras próprias.",
+      "PJ não vira estágio ou aprendizagem só pelo nome.",
+      "A cota de aprendizes (de 5% a 15% das funções que demandam formação profissional) é obrigação da empresa, não do aprendiz."
+    ],
+    "steps": [
+      "Confira se assinou termo de compromisso de estágio ou contrato de aprendizagem.",
+      "No estágio, confira matrícula, plano de atividades, supervisor e acompanhamento da escola.",
+      "Confira jornada, bolsa, auxílio-transporte e recesso.",
+      "Na aprendizagem, confira carteira de trabalho, programa de formação e pagamento.",
+      "Guarde provas se fizer tarefas sem relação com o plano ou sem supervisão.",
+      "Procure a escola, o sindicato ou assistência jurídica se parecer emprego comum disfarçado."
+    ],
+    "documentsToKeep": [
+      "Termo de compromisso ou contrato de aprendizagem",
+      "Plano de atividades",
+      "Comprovante de matrícula",
+      "Registros de jornada e recibos de bolsa",
+      "Comprovantes de transporte",
+      "Carteira de trabalho (para aprendiz)"
+    ],
+    "ifDenied": [
+      "Procure a escola ou o setor de estágio e, no caso do aprendiz, a entidade que oferece o curso.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego.",
+      "Para discutir vínculo e valores, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 11.788/2008 (Lei do Estágio)",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º, 3º, 10, 11, 12, 13 e 15"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 428, caput e §§ 1º a 3º",
+        "art. 429",
+        "art. 432"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-037",
+    "TRA-005",
+    "TRA-002"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: Lei 11.788/2008 e CLT arts. 428, 429 e 432 (texto do Planalto, via acervo). Não foi afirmado que todo estágio irregular vire vínculo sem análise dos fatos.",
+  "status": "published"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "TRA-024",
+  "slug": "equiparacao-salarial",
+  "title": "Meu colega faz o mesmo trabalho e ganha mais: posso pedir salário igual?",
+  "category": "trabalho",
+  "summary": "A CLT permite pedir salário igual quando a função é a mesma, o trabalho tem igual valor e vale para o mesmo empregador e estabelecimento, dentro dos limites de tempo da lei.",
+  "keywords": [
+    "equiparação salarial",
+    "salário igual",
+    "igual salário para igual função",
+    "paradigma",
+    "plano de cargos"
+  ],
+  "synonyms": [
+    "meu colega ganha mais fazendo a mesma coisa",
+    "salário igual para função igual",
+    "posso pedir equiparação salarial",
+    "mesmo cargo e salário diferente é ilegal",
+    "plano de cargos impede salário igual",
+    "quanto tempo de diferença impede equiparação"
+  ],
+  "quickAnswer": "Pela CLT (art. 461), sendo idêntica a função, a todo trabalho de igual valor, prestado ao mesmo empregador, no mesmo estabelecimento, corresponde igual salário. Trabalho de igual valor é o feito com igual produtividade e mesma perfeição técnica, entre pessoas cuja diferença de tempo de serviço para o empregador não passe de quatro anos e cuja diferença de tempo na função não passe de dois anos. Plano de cargos e salários ou quadro de carreira pode afastar a equiparação. O mesmo nome de cargo não basta.",
+  "sections": {
+    "explanation": "O art. 461 da CLT diz que, sendo idêntica a função, a todo trabalho de igual valor, prestado ao mesmo empregador, no mesmo estabelecimento empresarial, corresponderá igual salário, sem distinção de sexo, etnia, nacionalidade ou idade. O § 1º define trabalho de igual valor como o feito com igual produtividade e com a mesma perfeição técnica, entre pessoas cuja diferença de tempo de serviço para o mesmo empregador não seja superior a quatro anos e cuja diferença de tempo na função não seja superior a dois anos. O § 2º diz que a regra não prevalece quando a empresa tem pessoal organizado em quadro de carreira ou adota, por norma interna ou negociação coletiva, plano de cargos e salários. O § 4º diz que o trabalhador readaptado em nova função, por deficiência física ou mental atestada pela Previdência Social, não serve de paradigma. O § 5º diz que a equiparação só é possível entre empregados contemporâneos no cargo ou na função. Nos casos de discriminação por sexo, raça, etnia, origem ou idade, o pagamento das diferenças não afasta a ação de indenização por danos morais (§ 6º). Este assunto compara você com outra pessoa que faz a mesma função. Quando você faz tarefas a mais do que as do seu cargo, veja o assunto sobre acúmulo de função.",
+    "whenApplies": [
+      "Você é empregado e um colega faz o mesmo trabalho, no mesmo estabelecimento e para o mesmo empregador, com salário maior.",
+      "Você quer saber se tem base para pedir a diferença."
+    ],
+    "exceptions": [
+      "Diferença de produtividade ou de perfeição técnica, de tempo de serviço (mais de quatro anos) ou de tempo na função (mais de dois anos) pode impedir a equiparação.",
+      "Plano de cargos e salários ou quadro de carreira adotado pela empresa pode afastar a equiparação.",
+      "O colega deve ser contemporâneo no cargo ou na função. Paradigma remoto não vale.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário não tem equiparação pela CLT. A remuneração depende da lei do cargo."
+    ],
+    "steps": [
+      "Identifique um colega que faça as mesmas tarefas no mesmo estabelecimento.",
+      "Compare tarefas reais, produtividade, qualidade técnica e datas de início na empresa e na função.",
+      "Peça a descrição do cargo e o plano de cargos e salários, se houver.",
+      "Guarde provas lícitas das tarefas iguais. Não acesse contracheques ou dados de colegas sem autorização. Use testemunhas e documentos que você já pode ter.",
+      "Faça um pedido escrito ao RH para rever sua faixa salarial e guarde a resposta.",
+      "Procure o sindicato para conferir plano de cargos e convenção coletiva."
+    ],
+    "documentsToKeep": [
+      "Contrato e descrição do cargo",
+      "Seus contracheques",
+      "Plano de cargos e salários e regulamento interno",
+      "Convenção ou acordo coletivo",
+      "Mensagens e ordens de serviço que mostrem tarefas iguais",
+      "Nomes de testemunhas",
+      "Datas de admissão e de início na função, se souber legitimamente"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou discutir o caso, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 461, caput e §§ 1º a 7º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-015",
+    "TRA-025",
+    "TRA-001"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT art. 461 (texto do Planalto, via acervo). Não foi afirmada validade de plano de cargos nem equiparação de servidor estatutário.",
+  "status": "published"
+}

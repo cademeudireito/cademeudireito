@@ -1,0 +1,79 @@
+{
+  "id": "TRA-035",
+  "slug": "trabalho-intermitente",
+  "title": "Meu contrato é intermitente: a empresa pode me chamar quando quiser e não pagar nos dias parados?",
+  "category": "trabalho",
+  "summary": "No contrato intermitente você trabalha quando é convocado e é pago por período trabalhado. A convocação tem regras de aviso e de resposta, e cada período deve ser pago com férias, 13º e FGTS proporcionais.",
+  "keywords": [
+    "trabalho intermitente",
+    "contrato intermitente",
+    "convocação",
+    "valor da hora",
+    "período de inatividade"
+  ],
+  "synonyms": [
+    "contrato intermitente direitos",
+    "trabalho intermitente tem salário todo mês",
+    "patrão chama em cima da hora",
+    "posso recusar convocação",
+    "férias no contrato intermitente",
+    "empresa não pagou depois do plantão"
+  ],
+  "quickAnswer": "O contrato intermitente deve ser escrito e indicar o valor da hora, que não pode ser menor que o valor horário do salário mínimo nem menor que o devido a quem faz a mesma função. A empresa convoca com pelo menos três dias corridos de antecedência. Você tem um dia útil para responder, e o silêncio vale como recusa, que não desfaz o vínculo. Ao fim de cada período, deve receber remuneração, férias proporcionais com um terço, 13º proporcional, descanso semanal remunerado e adicionais.",
+  "sections": {
+    "explanation": "A CLT define como intermitente o contrato em que a prestação de serviços, com subordinação, não é contínua, com alternância de períodos de trabalho e de inatividade, determinados em horas, dias ou meses, independentemente do tipo de atividade, exceto para aeronautas (art. 443, § 3º). O art. 452-A exige contrato escrito com o valor da hora. A convocação é feita por meio eficaz de comunicação, informando a jornada, com pelo menos três dias corridos de antecedência (§ 1º). O empregado tem um dia útil para responder, e o silêncio presume recusa (§ 2º). A recusa não descaracteriza a subordinação (§ 3º). Aceita a oferta, a parte que descumprir sem justo motivo paga à outra multa de 50% da remuneração que seria devida (§ 4º). O período de inatividade não é tempo à disposição do empregador, e o trabalhador pode prestar serviços a outros contratantes (§ 5º). Ao final de cada período de prestação, o pagamento é imediato: remuneração, férias proporcionais com um terço, 13º proporcional, repouso semanal remunerado e adicionais legais (§ 6º), com recibo discriminando cada parcela (§ 7º). O empregador deve recolher a contribuição previdenciária e depositar o FGTS sobre os valores pagos e dar comprovante ao empregado (§ 8º). A CLT não prevê salário fixo para os períodos em que você não é convocado.",
+    "whenApplies": [
+      "Você tem contrato de trabalho intermitente.",
+      "Você quer saber como funciona a convocação e o que deve receber a cada período trabalhado."
+    ],
+    "exceptions": [
+      "Não é o mesmo que trabalho temporário.",
+      "Aeronautas têm legislação própria.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Se o contrato não cumpre os requisitos ou a prática é de trabalho contínuo, a validade do enquadramento pode ser discutida na Justiça."
+    ],
+    "steps": [
+      "Confira se o contrato é escrito e traz o valor da hora.",
+      "Guarde cada convocação, a data em que a recebeu e a sua resposta.",
+      "Após cada período, confira o recibo discriminado e o pagamento das parcelas.",
+      "Confira os depósitos do FGTS e a contribuição à Previdência.",
+      "Guarde mensagens que mostrem punição por recusa de convocação.",
+      "Se houver pagamento menor ou convocação fora das regras, procure o sindicato."
+    ],
+    "documentsToKeep": [
+      "Contrato intermitente",
+      "Convocações e respostas",
+      "Registro das horas trabalhadas",
+      "Recibos de pagamento discriminados",
+      "Extrato do FGTS",
+      "Mensagens da empresa"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou discutir o caso, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 443, § 3º",
+        "art. 452-A, caput e §§ 1º a 8º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-006",
+    "TRA-002",
+    "TRA-028"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 443, § 3º e 452-A (texto do Planalto, via acervo). Não foi reexaminada a constitucionalidade do contrato intermitente no STF. Não foi afirmada quantidade mínima de convocações.",
+  "status": "published"
+}

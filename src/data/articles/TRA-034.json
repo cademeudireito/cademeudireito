@@ -1,0 +1,101 @@
+{
+  "id": "TRA-034",
+  "slug": "terceirizado-temporario-quem-responde",
+  "title": "Trabalho numa empresa, mas meu registro é de outra: quem responde pelos meus direitos?",
+  "category": "trabalho",
+  "summary": "Na terceirização, a prestadora é a empregadora e a empresa onde você trabalha pode responder de forma subsidiária. Trabalho temporário tem prazo e regras próprias.",
+  "keywords": [
+    "terceirizado",
+    "terceirização",
+    "trabalho temporário",
+    "empresa tomadora",
+    "responsabilidade subsidiária"
+  ],
+  "synonyms": [
+    "terceirizado tem os mesmos direitos",
+    "quem paga se a terceirizada não pagar",
+    "posso ser terceirizado na atividade principal",
+    "contrato temporário acabou",
+    "temporário pode ficar quanto tempo",
+    "empresa terceirizada fechou e não pagou"
+  ],
+  "quickAnswer": "Terceirização é lícita, inclusive para a atividade principal (Lei 6.019/1974, art. 4º-A, e Tema 725 do STF). O STF manteve a responsabilidade subsidiária da empresa contratante pelas dívidas trabalhistas. O trabalho temporário (Lei 6.019, art. 10) pode durar até 180 dias, prorrogáveis por mais 90, e a contratante responde de forma subsidiária. Quem decide se a responsabilidade existe no seu caso é a Justiça do Trabalho.",
+  "sections": {
+    "explanation": "Na terceirização, a empresa contratante transfere a execução de qualquer de suas atividades, inclusive a principal, a uma empresa prestadora de serviços (Lei 6.019/1974, art. 4º-A). Quem assina sua carteira é a prestadora. O STF fixou, no Tema 725, a tese: é lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante. A Súmula 331 do TST diz que o inadimplemento das obrigações trabalhistas pelo empregador implica a responsabilidade subsidiária do tomador dos serviços, desde que ele tenha participado do processo e conste do título executivo judicial (item IV). Para a Administração Pública, a responsabilidade subsidiária depende de conduta culposa no cumprimento das obrigações de fiscalização (item V), e não é automática. O trabalho temporário é outra coisa: é prestado por pessoa contratada por empresa de trabalho temporário para substituição transitória de pessoal permanente ou demanda complementar de serviços (art. 2º). Não existe vínculo de emprego entre o trabalhador temporário e a tomadora (art. 10). O contrato não pode passar de 180 dias, consecutivos ou não, e pode ser prorrogado por até 90 dias, quando mantidas as condições (§§ 1º e 2º). Depois disso, a mesma tomadora só pode recebê-lo em novo contrato temporário após 90 dias (§ 5º). A contratante é subsidiariamente responsável pelas obrigações trabalhistas do período do trabalho temporário (§ 7º).",
+    "whenApplies": [
+      "Você trabalha em uma empresa mas é registrado por outra (terceirizada) ou por empresa de trabalho temporário.",
+      "A prestadora não pagou salário ou verbas e você quer saber se a empresa onde trabalha responde."
+    ],
+    "exceptions": [
+      "Terceirizar não elimina direitos trabalhistas.",
+      "Para a Administração Pública, a responsabilização exige conduta culposa e não é automática.",
+      "Estagiário e prestador de serviço autônomo (PJ de verdade) têm regras próprias.",
+      "Servidor público estatutário segue o estatuto do órgão.",
+      "Trabalhador PJ de verdade não é empregado. Veja o assunto sobre PJ e aplicativos."
+    ],
+    "steps": [
+      "Identifique quem assinou sua carteira de trabalho e o CNPJ da prestadora e o da empresa onde trabalha.",
+      "Guarde provas do local de trabalho, ordens recebidas e período de prestação.",
+      "Registre atrasos de pagamento.",
+      "Confira se o contrato é de terceirização comum ou de trabalho temporário e, neste caso, o motivo, as datas e a prorrogação.",
+      "Cobre a empregadora por escrito e procure o sindicato.",
+      "Em ação judicial, avalie com advogado incluir a empresa onde você trabalha."
+    ],
+    "documentsToKeep": [
+      "Carteira de trabalho e contrato",
+      "Crachá, escalas e ordens de serviço",
+      "Contracheques e comprovantes de pagamento",
+      "Identificação da prestadora e da tomadora",
+      "Termo de encerramento e documentos do trabalho temporário"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou discutir o caso, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 6.019/1974 (trabalho temporário e terceirização)",
+      "sphere": "federal",
+      "provisions": [
+        "art. 2º",
+        "art. 4º-A",
+        "art. 5º-A",
+        "art. 10, §§ 1º, 2º, 5º, 6º e 7º"
+      ],
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6019compilado.htm",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "STF — Tema 725 de repercussão geral (ADPF 324 e RE 958.252)",
+      "sphere": "federal",
+      "provisions": [
+        "tese sobre a licitude da terceirização e a responsabilidade subsidiária"
+      ],
+      "officialUrl": "https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=725",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Súmula nº 331 (contrato de prestação de serviços, legalidade)",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 331, itens IV e V"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-033",
+    "TRA-001",
+    "TRA-005"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: Lei 6.019/1974 arts. 2º, 4º-A, 5º-A e 10 (texto do Planalto, via acervo); tese do Tema 725 no Banco Nacional de Precedentes do CNJ (página do STF não aberta); Súmula 331 do TST (acervo). Não foi afirmada responsabilidade automática da tomadora nem jurisprudência de 2025 e 2026 sobre ônus da prova em contratos públicos.",
+  "status": "published"
+}
