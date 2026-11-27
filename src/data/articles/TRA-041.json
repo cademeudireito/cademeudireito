@@ -1,0 +1,88 @@
+{
+  "id": "TRA-041",
+  "slug": "estabilidade-apos-acidente-de-trabalho",
+  "title": "Sofri acidente de trabalho e voltei do afastamento: tenho estabilidade de 12 meses?",
+  "category": "trabalho",
+  "summary": "Quem se afasta por acidente de trabalho e recebe o auxílio-doença acidentário tem garantia de pelo menos 12 meses no emprego depois que o benefício acaba.",
+  "keywords": [
+    "estabilidade acidentária",
+    "acidente de trabalho",
+    "auxílio-doença acidentário",
+    "garantia no emprego",
+    "12 meses"
+  ],
+  "synonyms": [
+    "voltei do INSS e posso ser dispensado",
+    "estabilidade de um ano depois do acidente",
+    "tenho estabilidade se me acidentei",
+    "garantia provisória de emprego acidente",
+    "doença do trabalho dá estabilidade",
+    "contrato de experiência e acidente de trabalho"
+  ],
+  "quickAnswer": "A Lei 8.213/1991 (art. 118) garante ao segurado que sofreu acidente do trabalho a manutenção do contrato por pelo menos 12 meses, contados da cessação do auxílio-doença acidentário, mesmo que não receba auxílio-acidente. O TST (Súmula 378) diz que os pressupostos são o afastamento por mais de 15 dias e o recebimento do auxílio-doença acidentário, salvo se, depois da dispensa, for reconhecida doença profissional ligada ao contrato. Esse entendimento vale também para contrato por prazo determinado.",
+  "sections": {
+    "explanation": "O art. 118 da Lei 8.213/1991 diz que o segurado que sofreu acidente do trabalho tem garantida, pelo prazo mínimo de 12 meses, a manutenção do seu contrato de trabalho na empresa, após a cessação do auxílio-doença acidentário, independentemente de percepção de auxílio-acidente. A Súmula 378 do TST afirma que esse artigo é constitucional e que são pressupostos da estabilidade o afastamento superior a 15 dias e a consequente percepção do auxílio-doença acidentário, salvo se constatada, depois da despedida, doença profissional que guarde relação de causalidade com a execução do contrato de emprego. O item III da súmula diz que o empregado com contrato por tempo determinado também goza da garantia. Neste assunto não está dito que a estabilidade vale em toda situação: a dispensa por justa causa e outras hipóteses dependem de cada caso. O caminho do afastamento e do benefício está explicado no assunto sobre afastamento por doença ou acidente.",
+    "whenApplies": [
+      "Você sofreu acidente do trabalho, ficou afastado por mais de 15 dias e recebeu o auxílio-doença acidentário.",
+      "O benefício acabou e você voltou ao trabalho.",
+      "Você foi dispensado depois do afastamento e acha que a doença tinha ligação com o trabalho."
+    ],
+    "exceptions": [
+      "Sem afastamento por mais de 15 dias e sem auxílio-doença acidentário, a regra da súmula, em princípio, não se aplica. A exceção é a doença profissional reconhecida depois da dispensa, ligada ao contrato.",
+      "Afastamento por doença comum não gera a estabilidade do art. 118.",
+      "Se for demissão por justa causa, a discussão é outra e depende de provar os fatos.",
+      "Servidor público estatutário segue o estatuto do órgão."
+    ],
+    "steps": [
+      "Guarde a CAT (Comunicação de Acidente de Trabalho), se houver, e os documentos do INSS.",
+      "Anote a data do início e do fim do auxílio-doença acidentário e confira a espécie do benefício na carta do INSS.",
+      "Peça por escrito o retorno ao trabalho e guarde a resposta da empresa.",
+      "Se for dispensado depois da volta, não assine nada sem ler e anote a data da dispensa.",
+      "Procure o sindicato ou assistência jurídica para conferir os prazos."
+    ],
+    "documentsToKeep": [
+      "CAT, se foi emitida",
+      "Atestados e laudos médicos",
+      "Carta de concessão e de cessação do benefício do INSS",
+      "Exame de retorno ao trabalho",
+      "Carteira de trabalho e contrato",
+      "Comunicação da dispensa"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou contestar, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 8.213/1991 — benefícios da Previdência Social",
+      "sphere": "federal",
+      "provisions": [
+        "art. 118"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Súmula nº 378 (estabilidade provisória, acidente do trabalho)",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 378, itens I a III"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-009",
+    "TRA-004",
+    "TRA-040"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: Lei 8.213/1991 art. 118 (texto do acervo, fonte normas.leg.br) e Súmula 378 do TST (acervo do TST). Não foram citados Tema nem acórdãos sobre doença ocupacional sem afastamento.",
+  "status": "published"
+}

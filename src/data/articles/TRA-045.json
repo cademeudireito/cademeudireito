@@ -1,0 +1,108 @@
+{
+  "id": "TRA-045",
+  "slug": "atestado-medico-falta-por-doenca",
+  "title": "Faltei por doença e entreguei atestado: a empresa pode descontar o dia?",
+  "category": "trabalho",
+  "summary": "Falta por doença comprovada com atestado é motivo justificado. Nos 15 primeiros dias, quem paga o salário é a empresa, e o atestado deve seguir a ordem prevista em lei.",
+  "keywords": [
+    "atestado médico",
+    "falta por doença",
+    "desconto de falta",
+    "abono de falta",
+    "justificar falta"
+  ],
+  "synonyms": [
+    "empresa pode recusar atestado",
+    "desconto de dia com atestado médico",
+    "atestado de médico particular vale",
+    "quem paga os 15 primeiros dias de afastamento",
+    "falta justificada por doença",
+    "perdi o descanso semanal por faltar"
+  ],
+  "quickAnswer": "A Lei 605/1949 (art. 6º, § 1º, f) considera motivo justificado a doença do empregado devidamente comprovada, e o § 2º diz que a doença é comprovada por atestado de médico da previdência social e, na falta dele, sucessivamente, de médico do SESC ou SESI, médico da empresa ou por ela designado, médico de serviço público de saúde ou, não existindo estes na localidade, médico de escolha do empregado. A Súmula 282 do TST diz que o serviço médico da empresa, ou mantido por ela por convênio, abona os primeiros 15 dias de ausência. Nos 15 primeiros dias de afastamento por doença, a empresa paga o salário integral (Lei 8.213/1991, art. 60, § 3º).",
+  "sections": {
+    "explanation": "A falta por doença, quando comprovada, é motivo justificado para o repouso semanal remunerado (Lei 605/1949, art. 6º, § 1º, f). O § 2º do mesmo artigo define a ordem de preferência dos atestados, e a Súmula 15 do TST diz que a justificação da ausência por doença, para receber salário-enfermidade e repouso semanal, deve observar essa ordem preferencial. A Súmula 282 do TST determina que ao serviço médico da empresa, ou mantido por ela mediante convênio, compete abonar os primeiros 15 dias de ausência. Quando o afastamento passa de 15 dias, o INSS paga o auxílio-doença a partir do 16º dia (Lei 8.213/1991, art. 60), e nos 15 primeiros dias consecutivos a empresa paga o salário integral (art. 60, § 3º). A CLT (art. 131, III e IV) diz que não é considerada falta, para o cálculo de férias, a ausência por enfermidade atestada pelo INSS e a justificada pela empresa que não tenha descontado o salário. Este assunto não afirma regras de formato do atestado nem de prazo de entrega, que dependem de cada empresa e convenção coletiva. O afastamento longo está explicado no assunto sobre afastamento por doença ou acidente.",
+    "whenApplies": [
+      "Você faltou por motivo de saúde e a empresa descontou o dia, recusou o atestado ou ameaçou punir.",
+      "Você quer saber quem paga os dias de afastamento."
+    ],
+    "exceptions": [
+      "A Lei 605/1949 e a Súmula 15 do TST tratam da ordem dos atestados. O que acontece quando o atestado é de médico particular depende de cada caso e da convenção coletiva.",
+      "Doença sem comprovação, ou atestado fora da ordem prevista, pode ser contestado pela empresa.",
+      "Afastamento acima de 15 dias segue as regras do INSS.",
+      "Servidor público estatutário segue o estatuto do órgão."
+    ],
+    "steps": [
+      "Entregue o atestado à empresa no prazo combinado e peça um comprovante de recebimento.",
+      "Se a empresa recusar, peça a recusa por escrito.",
+      "Confira o contracheque: o dia deve aparecer sem desconto, se o atestado for aceito.",
+      "Se o afastamento passar de 15 dias, procure o INSS (Meu INSS ou 135).",
+      "Procure o sindicato em caso de desconto ou punição."
+    ],
+    "documentsToKeep": [
+      "Atestado médico e receituário",
+      "Comprovante de entrega à empresa",
+      "Contracheque do mês",
+      "Convenção coletiva",
+      "Mensagens com RH"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou contestar, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "Lei nº 605/1949 — repouso semanal remunerado",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º, § 1º, f",
+        "art. 6º, § 2º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1949-01-05;605",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Lei nº 8.213/1991 — benefícios da Previdência Social",
+      "sphere": "federal",
+      "provisions": [
+        "art. 60, caput e § 3º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8213",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 131, III e IV"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "TST — Súmulas 15 e 282",
+      "sphere": "federal",
+      "provisions": [
+        "Súmula 15 (atestado médico)",
+        "Súmula 282 (abono de faltas, serviço médico)"
+      ],
+      "officialUrl": "https://www.tst.jus.br/documents/10157/63003/Livro-Internet.pdf",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-009",
+    "TRA-043",
+    "TRA-001"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: Lei 605/1949 art. 6º; Lei 8.213/1991 art. 60; CLT art. 131; Súmulas 15 e 282 do TST (acervo). Não foram afirmadas regras do CFM, prazo para entregar atestado nem aceitação de atestado eletrônico.",
+  "status": "published"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "TRA-043",
+  "slug": "faltas-justificadas-casamento-luto-doacao-de-sangue",
+  "title": "Posso faltar ao trabalho sem perder o salário em caso de casamento, luto ou doação de sangue?",
+  "category": "trabalho",
+  "summary": "A CLT lista situações em que você pode faltar sem perder o salário, como casamento (até 3 dias), falecimento de familiar (até 2 dias) e doação de sangue (1 dia por ano).",
+  "keywords": [
+    "faltas justificadas",
+    "licença nojo",
+    "licença gala",
+    "doação de sangue",
+    "falecimento de familiar"
+  ],
+  "synonyms": [
+    "quantos dias de folga por falecimento",
+    "dias de folga no casamento",
+    "folga por doação de sangue",
+    "falta justificada sem perder salário",
+    "posso faltar para levar filho ao médico",
+    "dia de folga para exame de câncer"
+  ],
+  "quickAnswer": "O art. 473 da CLT permite faltar sem prejuízo do salário, entre outras hipóteses: até 2 dias consecutivos em caso de falecimento de cônjuge, ascendente, descendente, irmão ou pessoa que viva sob sua dependência econômica declarada na carteira de trabalho; até 3 dias consecutivos por casamento; 1 dia a cada 12 meses de trabalho para doação voluntária de sangue comprovada; 1 dia por ano para acompanhar filho de até 6 anos em consulta médica; até 3 dias a cada 12 meses para exames preventivos de câncer comprovados. Guarde sempre o comprovante.",
+  "sections": {
+    "explanation": "O art. 473 da CLT lista as faltas que não prejudicam o salário. Entre elas: até 2 dias consecutivos por falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que, declarada na carteira de trabalho, viva sob sua dependência econômica (inciso I); até 3 dias consecutivos por casamento (II); 5 dias consecutivos por nascimento de filho, adoção ou guarda compartilhada (III); 1 dia a cada 12 meses de trabalho por doação voluntária de sangue devidamente comprovada (IV); até 2 dias, consecutivos ou não, para se alistar como eleitor (V); o tempo do serviço militar, de provas de vestibular e de comparecimento a juízo (VI, VII e VIII); o tempo necessário para acompanhar esposa ou companheira em até 6 consultas médicas ou exames na gravidez (X); 1 dia por ano para acompanhar filho de até 6 anos em consulta médica (XI); e até 3 dias a cada 12 meses para exames preventivos de câncer devidamente comprovados (XII). Essas ausências não são consideradas falta para o cálculo das férias (CLT, art. 131, I). A licença-paternidade tem assunto próprio.",
+    "whenApplies": [
+      "Você é empregado e precisa faltar por casamento, falecimento na família, doação de sangue ou outra situação do art. 473.",
+      "A empresa descontou o dia ou o chamou de falta injustificada."
+    ],
+    "exceptions": [
+      "O inciso I lista cônjuge, ascendente, descendente, irmão e dependente declarado na carteira. Parentes que não estão na lista (como tios e sogros) não aparecem nele. A convenção coletiva pode prever mais.",
+      "Os prazos são os da lei. A convenção ou acordo coletivo da categoria pode prever mais dias.",
+      "É preciso comprovar: certidão de óbito, de casamento, comprovante da doação, atestado.",
+      "Servidor público estatutário segue o estatuto do órgão."
+    ],
+    "steps": [
+      "Avise a empresa o quanto antes e guarde o comprovante.",
+      "Confira a convenção coletiva da categoria, que pode ter mais dias.",
+      "Se a empresa descontar o dia, peça a correção por escrito e guarde o contracheque.",
+      "Procure o sindicato se houver recusa."
+    ],
+    "documentsToKeep": [
+      "Certidão de casamento ou de óbito",
+      "Comprovante de doação de sangue",
+      "Atestado ou comprovante do exame ou da consulta",
+      "Comunicação à empresa",
+      "Contracheque do mês",
+      "Convenção coletiva"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou contestar, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 473, I a XII",
+        "art. 131, I"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Lei nº 605/1949 — repouso semanal remunerado",
+      "sphere": "federal",
+      "provisions": [
+        "art. 6º, § 1º, a e d"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1949-01-05;605",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-042",
+    "TRA-045",
+    "TRA-002",
+    "TRA-001"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 473 e 131, I e Lei 605/1949 art. 6º, § 1º (acervo, normas.leg.br). Não foram afirmados dias para tios, sogros ou outros parentes fora da lista, nem regras de servidores.",
+  "status": "published"
+}

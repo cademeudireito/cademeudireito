@@ -1,0 +1,75 @@
+{
+  "id": "TRA-044",
+  "slug": "amamentacao-intervalos-no-trabalho",
+  "title": "Estou amamentando: tenho direito a intervalos para amamentar no trabalho?",
+  "category": "trabalho",
+  "summary": "A mulher tem direito a 2 descansos de meia hora durante a jornada para amamentar o filho até os 6 meses, inclusive se adotado. Esse prazo pode ser maior se a saúde do filho exigir.",
+  "keywords": [
+    "amamentação",
+    "intervalo para amamentar",
+    "descanso especial",
+    "filho de até 6 meses",
+    "mãe que amamenta"
+  ],
+  "synonyms": [
+    "posso sair mais cedo para amamentar",
+    "dois intervalos de meia hora",
+    "quanto tempo tenho direito a amamentar",
+    "empresa nega horário de amamentação",
+    "amamentar depois dos 6 meses",
+    "mãe adotiva intervalo"
+  ],
+  "quickAnswer": "A CLT (art. 396) garante à mulher, para amamentar o filho, inclusive se adotado, até os 6 meses de idade, 2 descansos especiais de meia hora cada um durante a jornada. Quando a saúde do filho exigir, o período de 6 meses pode ser dilatado, a critério de autoridade competente. Os horários dos descansos devem ser definidos em acordo individual entre a mulher e o empregador.",
+  "sections": {
+    "explanation": "O art. 396 da CLT, na redação da Lei 13.509/2017, diz que, para amamentar seu filho, inclusive se advindo de adoção, até que este complete 6 meses de idade, a mulher terá direito, durante a jornada de trabalho, a 2 descansos especiais de meia hora cada um. O § 1º permite que esse período seja dilatado, a critério de autoridade competente, quando a saúde do filho exigir. O § 2º diz que os horários dos descansos serão definidos em acordo individual entre a mulher e o empregador. A CLT não diz expressamente como esse tempo entra no cálculo da jornada e do salário, e este texto não afirma regra além do que a lei escreve. Os intervalos de amamentação são diferentes da licença-maternidade, que tem assunto próprio. A lei também proíbe a dispensa discriminatória por motivo de gravidez (CLT, art. 373-A, II).",
+    "whenApplies": [
+      "Você é empregada, o filho tem menos de 6 meses (ou a saúde dele exige mais tempo) e você precisa amamentar durante o expediente."
+    ],
+    "exceptions": [
+      "Depois dos 6 meses, a CLT só prorroga se a saúde do filho exigir, a critério de autoridade competente.",
+      "Convenção ou acordo coletivo da categoria pode prever condições melhores, além da lei.",
+      "O horário dos descansos é combinado em acordo individual. Em caso de discordância, vale conversar com o RH e o sindicato.",
+      "Servidor público estatutário segue o estatuto do órgão."
+    ],
+    "steps": [
+      "Converse com o RH e combine por escrito os horários dos dois descansos.",
+      "Se a saúde do filho exigir mais tempo, procure o atestado do pediatra e a autoridade competente.",
+      "Se a empresa recusar, peça a resposta por escrito e procure o sindicato.",
+      "Guarde a certidão de nascimento ou o termo de guarda."
+    ],
+    "documentsToKeep": [
+      "Certidão de nascimento ou termo de guarda",
+      "Acordo individual dos horários",
+      "Atestado do pediatra, se a saúde do filho exigir",
+      "Comunicações com o RH",
+      "Convenção coletiva"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou contestar, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 396, caput e §§ 1º e 2º",
+        "art. 373-A, II"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-008",
+    "TRA-013",
+    "TRA-003"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT art. 396 e art. 373-A (acervo, normas.leg.br). Não foi afirmado se o intervalo é contado como tempo de serviço nem a quem cabe a 'autoridade competente' do § 1º.",
+  "status": "published"
+}

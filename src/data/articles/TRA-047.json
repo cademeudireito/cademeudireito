@@ -1,0 +1,79 @@
+{
+  "id": "TRA-047",
+  "slug": "acordo-extrajudicial-homologacao-na-justica-do-trabalho",
+  "title": "A empresa me propôs um acordo para encerrar o contrato: como funciona a homologação na Justiça do Trabalho?",
+  "category": "trabalho",
+  "summary": "A CLT permite pedir ao juiz do trabalho a homologação de um acordo entre empregado e empresa, com advogado para cada um. O juiz analisa o acordo, e o prazo da ação fica suspenso sobre o que foi incluído no pedido.",
+  "keywords": [
+    "acordo extrajudicial",
+    "homologação de acordo",
+    "quitação",
+    "juiz do trabalho",
+    "petição conjunta"
+  ],
+  "synonyms": [
+    "empresa quer fazer acordo e me pagar menos",
+    "assinar acordo na Justiça do Trabalho",
+    "preciso de advogado para acordo extrajudicial",
+    "acordo no fim do contrato",
+    "acordo extrajudicial suspende prazo"
+  ],
+  "quickAnswer": "Pelo art. 855-B da CLT, o processo de homologação de acordo extrajudicial começa por petição conjunta e exige advogado para cada parte: as partes não podem ter advogado comum, e o trabalhador pode ser assistido pelo advogado do sindicato. A petição suspende o prazo prescricional dos direitos nela especificados (art. 855-E). O juiz analisa o acordo em 15 dias, pode marcar audiência e profere sentença (art. 855-D). Isso não afasta o prazo para pagar as verbas rescisórias nem a multa por atraso (art. 855-C).",
+  "sections": {
+    "explanation": "A CLT prevê, nos arts. 855-B a 855-E, o processo de homologação de acordo extrajudicial. Ele começa por petição conjunta das partes, com representação obrigatória por advogado (art. 855-B), sem advogado comum (§ 1º); o trabalhador pode ser assistido pelo advogado do sindicato (§ 2º). No prazo de 15 dias a contar da distribuição, o juiz analisa o acordo, designa audiência se entender necessário e profere sentença (art. 855-D). A petição suspende o prazo prescricional da ação sobre os direitos especificados, e o prazo volta a correr no dia útil seguinte ao trânsito em julgado da decisão que negar a homologação (art. 855-E). O processo não prejudica o prazo do art. 477, § 6º, para pagamento das verbas rescisórias nem afasta a multa do art. 477, § 8º (art. 855-C). Este assunto não afirma quando o juiz deve ou não homologar, nem o alcance da quitação, que depende de cada acordo e da decisão do juiz. Para outros tipos de saída da empresa, veja os assuntos sobre demissão e pedido de demissão.",
+    "whenApplies": [
+      "A empresa propôs um acordo para encerrar o contrato ou resolver pendências e você quer saber como proteger seus direitos.",
+      "Você foi chamado para assinar petição conjunta."
+    ],
+    "exceptions": [
+      "O juiz pode não homologar o acordo.",
+      "É obrigatório ter advogado próprio, sem advogado comum com a empresa.",
+      "A homologação na Justiça é diferente do acordo feito dentro de um processo já em andamento.",
+      "Servidor público estatutário segue o estatuto do órgão."
+    ],
+    "steps": [
+      "Não assine nada na hora. Peça a minuta e leve a um advogado ou ao sindicato.",
+      "Confira se o valor cobre tudo o que você acha que tem direito (salário, férias, 13º, FGTS).",
+      "Verifique se a empresa vai pagar as verbas rescisórias no prazo, porque a lei não afasta o prazo nem a multa.",
+      "Combine com seu advogado a petição conjunta. Cada parte tem advogado diferente.",
+      "Guarde a minuta, os comprovantes e a decisão do juiz."
+    ],
+    "documentsToKeep": [
+      "Minuta do acordo",
+      "Contrato e carteira de trabalho",
+      "Contracheques e recibos",
+      "Extrato do FGTS",
+      "Comunicação da empresa",
+      "Decisão do juiz"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou contestar, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 855-B",
+        "art. 855-C",
+        "art. 855-D",
+        "art. 855-E"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-004",
+    "TRA-040",
+    "TRA-031"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT arts. 855-B a 855-E (acervo, normas.leg.br). Não foi afirmado alcance da quitação nem critérios de homologação pelo juiz.",
+  "status": "published"
+}

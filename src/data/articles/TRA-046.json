@@ -1,0 +1,85 @@
+{
+  "id": "TRA-046",
+  "slug": "revista-intima-no-trabalho",
+  "title": "A empresa faz revista íntima nas funcionárias: isso é permitido?",
+  "category": "trabalho",
+  "summary": "Não. A Lei 13.271/2016 proíbe qualquer prática de revista íntima de funcionárias e de clientes do sexo feminino, e a CLT (art. 373-A, VI) também proíbe. A multa é de R$ 20.000 ao empregador.",
+  "keywords": [
+    "revista íntima",
+    "revista em funcionárias",
+    "proibição",
+    "multa",
+    "mulher no trabalho"
+  ],
+  "synonyms": [
+    "pode revistar bolsa da funcionária",
+    "empresa me obrigou a tirar a roupa",
+    "revista íntima gera indenização",
+    "a empresa pode fazer revista nos empregados",
+    "denunciar revista íntima",
+    "revista em bolsa e armário"
+  ],
+  "quickAnswer": "A CLT (art. 373-A, VI) veda ao empregador ou preposto proceder a revistas íntimas nas empregadas ou funcionárias. A Lei 13.271/2016 (art. 1º) proíbe as empresas privadas e os órgãos públicos de adotar qualquer prática de revista íntima de suas funcionárias e de clientes do sexo feminino. Quem descumprir está sujeito a multa de R$ 20.000,00 ao empregador, em dobro se reincidir, sem prejuízo de indenização por danos morais e materiais e de sanções penais (art. 2º).",
+  "sections": {
+    "explanation": "A proibição está em duas leis. O art. 373-A, VI, da CLT, acrescentado pela Lei 9.799/1999, veda proceder a revistas íntimas nas empregadas ou funcionárias. A Lei 13.271/2016 proíbe empresas privadas e órgãos e entidades da administração pública, direta e indireta, de adotar qualquer prática de revista íntima de suas funcionárias e de clientes do sexo feminino. Pelo descumprimento, a multa é de R$ 20.000,00 ao empregador, revertida aos órgãos de proteção dos direitos da mulher, e em dobro em caso de reincidência, independentemente da indenização por danos morais e materiais e das sanções penais (art. 2º). As leis não definem o que é revista íntima nem tratam de revista em bolsas, mochilas ou armários, e este assunto não afirma se elas são permitidas. Se houver humilhação ou ofensa, veja também o assunto sobre assédio moral.",
+    "whenApplies": [
+      "Você é empregada (ou cliente mulher de uma empresa) e foi submetida a revista íntima.",
+      "Você quer saber como reagir e a quem denunciar."
+    ],
+    "exceptions": [
+      "A Lei 13.271/2016 fala de funcionárias e clientes do sexo feminino. A situação de empregados homens não está nessa lei, mas a proteção contra tratamento humilhante e a dignidade no trabalho continuam valendo.",
+      "A revista de bolsas, armários ou pertences não é tratada nessas leis. Cada caso depende de como é feita e de normas coletivas.",
+      "Servidor público estatutário segue o estatuto do órgão."
+    ],
+    "steps": [
+      "Anote data, hora, local, quem fez a revista e quem viu.",
+      "Guarde provas lícitas (mensagens, e-mails, regulamento interno).",
+      "Denuncie à fiscalização do trabalho (Ministério do Trabalho e Emprego) e ao sindicato.",
+      "Procure o Ministério Público do Trabalho.",
+      "Para pedir indenização, procure a Justiça do Trabalho com advogado, sindicato ou outra assistência jurídica."
+    ],
+    "documentsToKeep": [
+      "Regulamento interno",
+      "Mensagens e e-mails sobre as revistas",
+      "Nomes de testemunhas",
+      "Anotações de data, hora e local",
+      "Contrato e contracheques"
+    ],
+    "ifDenied": [
+      "Procure o sindicato da sua categoria.",
+      "Denuncie à fiscalização do trabalho, do Ministério do Trabalho e Emprego, se houver irregularidades.",
+      "Para cobrar valores ou contestar, procure a Justiça do Trabalho com um advogado, o sindicato ou outra assistência jurídica. A Defensoria Pública não atende causas trabalhistas em todas as localidades."
+    ]
+  },
+  "legalReferences": [
+    {
+      "name": "CLT — Consolidação das Leis do Trabalho",
+      "sphere": "federal",
+      "provisions": [
+        "art. 373-A, VI"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "name": "Lei nº 13.271/2016 — proíbe revista íntima de funcionárias",
+      "sphere": "federal",
+      "provisions": [
+        "arts. 1º e 2º"
+      ],
+      "officialUrl": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2016-04-15;13271",
+      "status": "verified",
+      "checkedAt": "2026-11-26"
+    }
+  ],
+  "relatedArticles": [
+    "TRA-011",
+    "TRA-039",
+    "TRA-040"
+  ],
+  "lastReviewed": "2026-11-26",
+  "reviewStatus": "approved",
+  "reviewNotes": "Conferido em 26/11/2026: CLT art. 373-A e Lei 13.271/2016 (acervo, normas.leg.br). Não foi afirmada regra para revista de bolsas ou para empregados homens.",
+  "status": "published"
+}
